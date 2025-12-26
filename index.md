@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Robert W. Slater: Charting Canada’s Environmental Future – From Senior Deputy Minister to Academic Authority
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/robert-w-slater-charting-canadas-environmental-future-from-s.html)
+
+
 - [Sivagyana Munivar: Unveiling the Master Scholar of Saiva Siddhanta](https://yacine-l.github.io/hot-info/2025/12/26/sivagyana-munivar-unveiling-the-master-scholar-of-saiva-sidd.html)
 
 
