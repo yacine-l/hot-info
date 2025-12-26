@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Moon on a Rainy Night: A Deep Dive into Kuzushiro's Atmospheric Manga and Upcoming Anime Adaptation](https://yacine-l.github.io/hot-info/2025/12/26/the-moon-on-a-rainy-night-a-deep-dive-into-kuzushiros-atmosp.html)
+
+
 - [Ryde NSW: The Comprehensive Guide to Living, Working, and Thriving in Sydney's Historic North West](https://yacine-l.github.io/hot-info/2025/12/26/ryde-nsw-the-comprehensive-guide-to-living-working-and-thriv.html)
 
 
