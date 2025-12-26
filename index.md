@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Unearthing the Past: The Institute of History of Nicaragua and Central America (IDH-UCA)](https://yacine-l.github.io/hot-info/2025/12/26/unearthing-the-past-the-institute-of-history-of-nicaragua-an.html)
+
+
 - [The Fascinating World of the Woven Shagreen Snail (*Euchemotrema fraternum*)](https://yacine-l.github.io/hot-info/2025/12/26/the-fascinating-world-of-the-woven-shagreen-snail-euchemotre.html)
 
 
