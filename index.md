@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The $2.25 Billion Vision: Understanding the Impact of the Better Jacksonville Plan](https://yacine-l.github.io/hot-info/2025/12/26/the-225-billion-vision-understanding-the-impact-of-the-bette.html)
+
+
 - [** The Forgotten Map: Unpacking the History of the Brandon Rural District (1894-1935)
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-forgotten-map-unpacking-the-history-of-the-brandon-rural.html)
