@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Boreas River](https://yacine-l.github.io/hot-info/2025/12/26/boreas-river.html)
+
+
 - [Creatures Inc.](https://yacine-l.github.io/hot-info/2025/12/26/creatures-inc.html)
 
 
