@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Edgar Huntly: Exploring the Wilderness Anxiety of Charles Brockden Brown's Gothic Masterpiece](https://yacine-l.github.io/hot-info/2025/12/26/edgar-huntly-exploring-the-wilderness-anxiety-of-charles-bro.html)
+
+
 - [Stubben Station: A Detailed Look at the Essential Railway Hub on the Cuxhaven to Bremen Line](https://yacine-l.github.io/hot-info/2025/12/26/stubben-station-a-detailed-look-at-the-essential-railway-hub.html)
 
 
