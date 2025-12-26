@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Neptunian Desert: Why Hot Neptunes Vanish Near Their Stars
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-neptunian-desert-why-hot-neptunes-vanish-near-their-star.html)
+
+
 - [Unruly Comedy and Political Satire: Rediscovering Ojamanga Yamada-kun by Hisaichi Ishii](https://yacine-l.github.io/hot-info/2025/12/26/unruly-comedy-and-political-satire-rediscovering-ojamanga-ya.html)
 
 
