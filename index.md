@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [John O'Mahony (Mayo politician)](https://yacine-l.github.io/hot-info/2025/12/26/john-omahony-mayo-politician.html)
+
+
 - [Sing Hollies in Reverse: Why the 1995 Tribute Album Is a Niche Power Pop Classic](https://yacine-l.github.io/hot-info/2025/12/26/sing-hollies-in-reverse-why-the-1995-tribute-album-is-a-nich.html)
 
 
