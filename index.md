@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Peter Dervan and the Chemical Key to DNA: Pioneers of Sequence-Specific Recognition
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/peter-dervan-and-the-chemical-key-to-dna-pioneers-of-sequenc.html)
+
+
 - [The Chaturdasa Devata: Unveiling the Ancient Fourteen Gods of Tripura](https://yacine-l.github.io/hot-info/2025/12/26/the-chaturdasa-devata-unveiling-the-ancient-fourteen-gods-of.html)
 
 
