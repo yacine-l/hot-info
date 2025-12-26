@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Ugadi (1997 Film): Revisiting S. V. Krishna Reddy’s Underrated Romantic Directorial Debut
+
+###](https://yacine-l.github.io/hot-info/2025/12/26/ugadi-1997-film-revisiting-s-v-krishna-reddys-underrated-rom.html)
+
+
 - [Harriet Brooks: The Forgotten Pioneer Who Defined Modern Nuclear Physics](https://yacine-l.github.io/hot-info/2025/12/26/harriet-brooks-the-forgotten-pioneer-who-defined-modern-nucl.html)
 
 
