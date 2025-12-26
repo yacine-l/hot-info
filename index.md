@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Historic Fury: Deconstructing the Devastating April 2024 Midwest Tornado Outbreak
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/historic-fury-deconstructing-the-devastating-april-2024-midw.html)
+
+
 - [Supanat Chalermchaichareonkij (Aof AF2): The Enduring Legacy of the Academy Fantasia Season 2 Winner](https://yacine-l.github.io/hot-info/2025/12/26/supanat-chalermchaichareonkij-aof-af2-the-enduring-legacy-of.html)
 
 
