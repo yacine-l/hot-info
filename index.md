@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Marshalls plc: A Deep Dive into the UK’s Hard Landscaping and Construction Materials Giant](https://yacine-l.github.io/hot-info/2025/12/26/marshalls-plc-a-deep-dive-into-the-uks-hard-landscaping-and-.html)
+
+
 - [William Ford Nichols: The Second Bishop of California and Architect of Grace Cathedral](https://yacine-l.github.io/hot-info/2025/12/26/william-ford-nichols-the-second-bishop-of-california-and-arc.html)
 
 
