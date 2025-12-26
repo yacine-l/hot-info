@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Matthew Brickdale MP: A Study of 18th-Century Bristol Politics and the Age of Revolution
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/matthew-brickdale-mp-a-study-of-18th-century-bristol-politic.html)
+
+
 - [John Seery: Unpacking the Dynamic World of Lyrical Abstraction](https://yacine-l.github.io/hot-info/2025/12/26/john-seery-unpacking-the-dynamic-world-of-lyrical-abstractio.html)
 
 
