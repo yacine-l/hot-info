@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Lost Language of the Steppe: Unearthing the Secrets of the Codex Cumanicus](https://yacine-l.github.io/hot-info/2025/12/26/the-lost-language-of-the-steppe-unearthing-the-secrets-of-th.html)
+
+
 - [USA Cycling 101: Your Complete Guide to the National Governing Body of US Bicycle Racing](https://yacine-l.github.io/hot-info/2025/12/26/usa-cycling-101-your-complete-guide-to-the-national-governin.html)
 
 
