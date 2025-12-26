@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Dana Beal: The Yippie Activist Who Fought for Revolutionary Addiction Treatment and Marijuana Legalization](https://yacine-l.github.io/hot-info/2025/12/26/dana-beal-the-yippie-activist-who-fought-for-revolutionary-a.html)
+
+
 - [** Emily Shanks: The English Painter Who Broke Barriers as the First Woman of the Peredvizhniki
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/emily-shanks-the-english-painter-who-broke-barriers-as-the-f.html)
