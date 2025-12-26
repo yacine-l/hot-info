@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Emily Shanks: The English Painter Who Broke Barriers as the First Woman of the Peredvizhniki
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/emily-shanks-the-english-painter-who-broke-barriers-as-the-f.html)
+
+
 - [Alexandre Rodrigues Ferreira: The Pioneer Naturalist Who Mapped the Amazon’s Biodiversity (1783-1792)](https://yacine-l.github.io/hot-info/2025/12/26/alexandre-rodrigues-ferreira-the-pioneer-naturalist-who-mapp.html)
 
 
