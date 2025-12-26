@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Sentinel of Addis Ababa: Inside the African Union Conference Center (AUCC)
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-sentinel-of-addis-ababa-inside-the-african-union-confere.html)
+
+
 - [Neil Larsen](https://yacine-l.github.io/hot-info/2025/12/26/neil-larsen.html)
 
 
