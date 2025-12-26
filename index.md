@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Already Dead: Joe Pitt, Vampire Noir, and the Gritty Birth of Charlie Huston’s Casebooks
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/already-dead-joe-pitt-vampire-noir-and-the-gritty-birth-of-c.html)
+
+
 - [The Charm (Bubba Sparxxx album)](https://yacine-l.github.io/hot-info/2025/12/26/the-charm-bubba-sparxxx-album.html)
 
 
