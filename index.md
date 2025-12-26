@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Lost Bridge: Tracing the History of the Party of the Democratic Left (SDL) in the Czech Post-Communist Era](https://yacine-l.github.io/hot-info/2025/12/26/the-lost-bridge-tracing-the-history-of-the-party-of-the-demo.html)
+
+
 - [** Discovering Qingyuan Manchu Autonomous County: Culture, History, and Natural Wonders in Liaoning
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/discovering-qingyuan-manchu-autonomous-county-culture-histor.html)
