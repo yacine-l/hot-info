@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Driving World Tour](https://yacine-l.github.io/hot-info/2025/12/26/driving-world-tour.html)
+
+
 - [The Rise of Najmat Jeddah FC: Cornerstone of the Saudi Women’s Football Revolution](https://yacine-l.github.io/hot-info/2025/12/26/the-rise-of-najmat-jeddah-fc-cornerstone-of-the-saudi-womens.html)
 
 
