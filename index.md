@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Muhanga District Rwanda: The Strategic Gateway to the Southern Province
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/muhanga-district-rwanda-the-strategic-gateway-to-the-souther.html)
+
+
 - [** Rediscovering *Tahiti Nights* (1944): Jinx Falkenburg and the Charm of Wartime B-Movies
 **](https://yacine-l.github.io/hot-info/2025/12/26/rediscovering-tahiti-nights-1944-jinx-falkenburg-and-the-cha.html)
 
