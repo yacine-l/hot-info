@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Dawid Abrahamowicz: The Conservative Architect of Galician Politics (1863–1918)
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/dawid-abrahamowicz-the-conservative-architect-of-galician-po.html)
+
+
 - [** Discover Barnett’s Wood Local Nature Reserve: A Guide to Southborough’s Best Natural Escape
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/discover-barnetts-wood-local-nature-reserve-a-guide-to-south.html)
