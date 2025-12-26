@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Viktor Lukashenko: Security Advisor, Olympic Chief, and the Enigmatic Heir to Belarus](https://yacine-l.github.io/hot-info/2025/12/26/viktor-lukashenko-security-advisor-olympic-chief-and-the-eni.html)
+
+
 - [The Triumphant Return: Exploring the Tenth Doctor Adventures on Big Finish Audio](https://yacine-l.github.io/hot-info/2025/12/26/the-triumphant-return-exploring-the-tenth-doctor-adventures-.html)
 
 
