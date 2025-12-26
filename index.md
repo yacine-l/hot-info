@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Warta Poznań: The Historic Guard of Polish Football and Their Fight for Promotion](https://yacine-l.github.io/hot-info/2025/12/26/warta-pozna-the-historic-guard-of-polish-football-and-their-.html)
+
+
 - [Anarkali (1953 film)](https://yacine-l.github.io/hot-info/2025/12/26/anarkali-1953-film.html)
 
 
