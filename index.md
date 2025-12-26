@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Configuration Model: Generating Networks with Precise Degree Sequences and Arbitrary Distributions](https://yacine-l.github.io/hot-info/2025/12/26/the-configuration-model-generating-networks-with-precise-deg.html)
+
+
 - [Jacques Teyssier: The Franco-German Activist Who Institutionalized Modern German LGBT Rights](https://yacine-l.github.io/hot-info/2025/12/26/jacques-teyssier-the-franco-german-activist-who-institutiona.html)
 
 
