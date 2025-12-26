@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Harriet Brooks: The Forgotten Pioneer Who Defined Modern Nuclear Physics](https://yacine-l.github.io/hot-info/2025/12/26/harriet-brooks-the-forgotten-pioneer-who-defined-modern-nucl.html)
+
+
 - [** Decoding Louisiana Senate District 31: Louie Bernard, Central Louisiana Politics, and Legislative Priorities
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/decoding-louisiana-senate-district-31-louie-bernard-central-.html)
