@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Donna Summer’s “Work That Magic”: Unearthing the 1991 Dancefloor Gem from *Mistaken Identity*
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/donna-summers-work-that-magic-unearthing-the-1991-dancefloor.html)
+
+
 - [Heriberto Galindo Quiñones: The Architect of Modern Mexican Diplomacy and PRI Strategy](https://yacine-l.github.io/hot-info/2025/12/26/heriberto-galindo-quiones-the-architect-of-modern-mexican-di.html)
 
 
