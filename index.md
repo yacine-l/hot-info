@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Representative Sharon Henderson: Championing Change in Georgia House District 113](https://yacine-l.github.io/hot-info/2025/12/26/representative-sharon-henderson-championing-change-in-georgi.html)
+
+
 - [Tayna: The Unstoppable Rise of Kosovo’s Rap Queen and Her Dominance Over the Albanian Music Scene](https://yacine-l.github.io/hot-info/2025/12/26/tayna-the-unstoppable-rise-of-kosovos-rap-queen-and-her-domi.html)
 
 
