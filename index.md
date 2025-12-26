@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mark Littlewood: The Evolution of a Think Tank Titan and Political Strategist](https://yacine-l.github.io/hot-info/2025/12/26/mark-littlewood-the-evolution-of-a-think-tank-titan-and-poli.html)
+
+
 - [Cyprus (1816 ship)](https://yacine-l.github.io/hot-info/2025/12/26/cyprus-1816-ship.html)
 
 
