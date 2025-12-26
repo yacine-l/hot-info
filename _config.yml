@@ -1,2 +1,4 @@
+title: Hot Info Blog
+baseurl: "/hot-info"
 url: "https://yacine-l.github.io"
-baseurl: "/hot-info" # Leave empty "" if using a custom domain or username.github.io repo
+theme: minima
