@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Jack Milroy: The Enduring Legacy of the Heart of Scottish Comedy
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/jack-milroy-the-enduring-legacy-of-the-heart-of-scottish-com.html)
+
+
 - [Unveiling the Mystery of Tannodia swynnertonii: A Botanical Gem of Tropical Africa](https://yacine-l.github.io/hot-info/2025/12/26/unveiling-the-mystery-of-tannodia-swynnertonii-a-botanical-g.html)
 
 
