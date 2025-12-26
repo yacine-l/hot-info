@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Francis Hugh Fox: The England International Who Founded the Barbarians Football Club](https://yacine-l.github.io/hot-info/2025/12/26/francis-hugh-fox-the-england-international-who-founded-the-b.html)
+
+
 - [The Ectropa Moth Genus: Wallengren’s 1836 Description of the Enigmatic Slug Moths](https://yacine-l.github.io/hot-info/2025/12/26/the-ectropa-moth-genus-wallengrens-1836-description-of-the-e.html)
 
 
