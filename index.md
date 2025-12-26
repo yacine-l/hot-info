@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [San Michele in Isola: Exploring Venice’s Hidden Cemetery Island and Renaissance Church](https://yacine-l.github.io/hot-info/2025/12/26/san-michele-in-isola-exploring-venices-hidden-cemetery-islan.html)
+
+
 - [NGC 132: Unveiling the Enigmatic Spiral Galaxy in Cetus](https://yacine-l.github.io/hot-info/2025/12/26/ngc-132-unveiling-the-enigmatic-spiral-galaxy-in-cetus.html)
 
 
