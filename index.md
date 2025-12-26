@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Brown is a Beautiful Color: Rediscovering the Essential 1969 Children’s Book of Affirmation
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/brown-is-a-beautiful-color-rediscovering-the-essential-1969-.html)
+
+
 - [Saint Wawrzyńca Street Kraków: A Journey Through Kazimierz's Hidden Heart](https://yacine-l.github.io/hot-info/2025/12/26/saint-wawrzyca-street-krakw-a-journey-through-kazimierzs-hid.html)
 
 
