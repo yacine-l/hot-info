@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Ascent of Rachel Merton: Profile of the New Liberal MLC in the NSW Legislative Council](https://yacine-l.github.io/hot-info/2025/12/26/the-ascent-of-rachel-merton-profile-of-the-new-liberal-mlc-i.html)
+
+
 - [** Kiso Village, Nagano: An Essential Guide to the Heart of Japan’s Traditional Kiso Valley
 **](https://yacine-l.github.io/hot-info/2025/12/26/kiso-village-nagano-an-essential-guide-to-the-heart-of-japan.html)
 
