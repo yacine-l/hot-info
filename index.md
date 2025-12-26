@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Amantis nawai Care Guide: Mastering the Miniature Asian Praying Mantis](https://yacine-l.github.io/hot-info/2025/12/26/amantis-nawai-care-guide-mastering-the-miniature-asian-prayi.html)
+
+
 - [** Pintara Genus: Unveiling the Mystery of the Spread-Winged Skippers of the Indomalayan Realm
 **](https://yacine-l.github.io/hot-info/2025/12/26/pintara-genus-unveiling-the-mystery-of-the-spread-winged-ski.html)
 
