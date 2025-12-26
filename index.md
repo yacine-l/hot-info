@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enduring Elegance of the Chhatri: A Cornerstone of Indian and Indo-Islamic Architecture](https://yacine-l.github.io/hot-info/2025/12/26/the-enduring-elegance-of-the-chhatri-a-cornerstone-of-indian.html)
+
+
 - [Paul Cadmus: The Master of Social Satire and Erotic Precision in American Art](https://yacine-l.github.io/hot-info/2025/12/26/paul-cadmus-the-master-of-social-satire-and-erotic-precision.html)
 
 
