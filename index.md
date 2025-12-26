@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Deputy Leader of the New Zealand Labour Party](https://yacine-l.github.io/hot-info/2025/12/26/deputy-leader-of-the-new-zealand-labour-party.html)
+
+
 - [** The Killer’s Legacy: Diving Deep into Jerry Lee Lewis’s *Mean Old Man* Duet Album
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-killers-legacy-diving-deep-into-jerry-lee-lewiss-mean-ol.html)
