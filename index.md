@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Legacy of Arne Rostad: A Deep Dive into the Farmers’ Party and Norwegian Rural Politics](https://yacine-l.github.io/hot-info/2025/12/26/the-legacy-of-arne-rostad-a-deep-dive-into-the-farmers-party.html)
+
+
 - [** Oskar Bider: The Swiss Pioneer Who Conquered the Alps and Defined the Golden Age of Aviation
 **](https://yacine-l.github.io/hot-info/2025/12/26/oskar-bider-the-swiss-pioneer-who-conquered-the-alps-and-def.html)
 
