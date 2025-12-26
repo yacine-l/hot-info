@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Backbone of the Empire: Understanding the Roman Cohors Peditata (Auxiliary Infantry)](https://yacine-l.github.io/hot-info/2025/12/26/the-backbone-of-the-empire-understanding-the-roman-cohors-pe.html)
+
+
 - [Norman Williamson: The Master Jockey Who Conquered Cheltenham in 1995](https://yacine-l.github.io/hot-info/2025/12/26/norman-williamson-the-master-jockey-who-conquered-cheltenham.html)
 
 
