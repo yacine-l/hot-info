@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [William Ford Nichols: The Second Bishop of California and Architect of Grace Cathedral](https://yacine-l.github.io/hot-info/2025/12/26/william-ford-nichols-the-second-bishop-of-california-and-arc.html)
+
+
 - [** The Pivotal Stopover: Revisiting Joe Budden’s Revolutionary Digital Release, *Halfway House*
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-pivotal-stopover-revisiting-joe-buddens-revolutionary-di.html)
