@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Lindsay Roy](https://yacine-l.github.io/hot-info/2025/12/26/lindsay-roy.html)
+
+
 - [St. Mary’s Church, New Ross: Uncovering the Medieval Majesty of a National Monument
 
 ##](https://yacine-l.github.io/hot-info/2025/12/26/st-marys-church-new-ross-uncovering-the-medieval-majesty-of-.html)
