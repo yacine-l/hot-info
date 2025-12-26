@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Hoffellsjökull Guide: Exploring Iceland’s Majestic Outlet Glacier in Vatnajökull National Park](https://yacine-l.github.io/hot-info/2025/12/26/hoffellsjkull-guide-exploring-icelands-majestic-outlet-glaci.html)
+
+
 - [Andrija Popović: From Olympic Pool to Montenegrin Politics – A Dual Career Analysis](https://yacine-l.github.io/hot-info/2025/12/26/andrija-popovi-from-olympic-pool-to-montenegrin-politics-a-d.html)
 
 
