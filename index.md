@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Frank Reynolds: Analyzing the Unhinged Legacy of the IASIP Patriarch](https://yacine-l.github.io/hot-info/2025/12/26/frank-reynolds-analyzing-the-unhinged-legacy-of-the-iasip-pa.html)
+
+
 - [Bolkhov: Exploring the Timeless History of Oryol Oblast’s Provincial Gem](https://yacine-l.github.io/hot-info/2025/12/26/bolkhov-exploring-the-timeless-history-of-oryol-oblasts-prov.html)
 
 
