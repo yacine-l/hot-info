@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Max Alpert: The Soviet Photographer Who Defined the WWII Frontline
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/max-alpert-the-soviet-photographer-who-defined-the-wwii-fron.html)
+
+
 - [The Thrilling Rise: A Deep Dive into the 2001 International Formula 3000 Championship](https://yacine-l.github.io/hot-info/2025/12/26/the-thrilling-rise-a-deep-dive-into-the-2001-international-f.html)
 
 
