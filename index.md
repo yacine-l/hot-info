@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Arctic Shield: The History of the Norrland Anti-Aircraft Battalion (Lv 7) in Luleå and Boden](https://yacine-l.github.io/hot-info/2025/12/26/the-arctic-shield-the-history-of-the-norrland-anti-aircraft-.html)
+
+
 - [The Malaysian Pied Fantail: Unmasking the Mysterious "Crazy Thrush" of Southeast Asia](https://yacine-l.github.io/hot-info/2025/12/26/the-malaysian-pied-fantail-unmasking-the-mysterious-crazy-th.html)
 
 
