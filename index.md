@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Slouch sock](https://yacine-l.github.io/hot-info/2025/12/26/slouch-sock.html)
+
+
 - [Marshalls plc: A Deep Dive into the UK’s Hard Landscaping and Construction Materials Giant](https://yacine-l.github.io/hot-info/2025/12/26/marshalls-plc-a-deep-dive-into-the-uks-hard-landscaping-and-.html)
 
 
