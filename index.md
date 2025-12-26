@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Carl Benda and the Invisible Engine: How Crystal Violet Revealed the Mitochondria](https://yacine-l.github.io/hot-info/2025/12/26/carl-benda-and-the-invisible-engine-how-crystal-violet-revea.html)
+
+
 - [Daniel Eberlin: Unearthing the Life of a Forgotten German Baroque Composer](https://yacine-l.github.io/hot-info/2025/12/26/daniel-eberlin-unearthing-the-life-of-a-forgotten-german-bar.html)
 
 
