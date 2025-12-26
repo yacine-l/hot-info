@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Bengt Johansson: The Swedish Flyweight Wrestler Who Mastered Two Disciplines
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/bengt-johansson-the-swedish-flyweight-wrestler-who-mastered-.html)
+
+
 - [** Utuwankande Sura Saradiel: Bandit, Rebel, and the Unyielding Legend of the Robin Hood of Sri Lanka
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/utuwankande-sura-saradiel-bandit-rebel-and-the-unyielding-le.html)
