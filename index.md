@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Outline of Kosovo](https://yacine-l.github.io/hot-info/2025/12/26/outline-of-kosovo.html)
+
+
 - [** Vespasiano, Minas Gerais: The Strategic Gateway to Belo Horizonte and Confins Airport
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/vespasiano-minas-gerais-the-strategic-gateway-to-belo-horizo.html)
