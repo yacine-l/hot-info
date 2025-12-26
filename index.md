@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Abraham Solomonick: The Israeli Philologist Who Redefined Hebrew-English Lexicography](https://yacine-l.github.io/hot-info/2025/12/26/abraham-solomonick-the-israeli-philologist-who-redefined-heb.html)
+
+
 - [College Street Dublin: Tracing the Curve of History Beside Trinity College](https://yacine-l.github.io/hot-info/2025/12/26/college-street-dublin-tracing-the-curve-of-history-beside-tr.html)
 
 
