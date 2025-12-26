@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Claude Carter Cricketer: The Left-Arm Spinner Who Bridged South African Cricket’s WWI Divide](https://yacine-l.github.io/hot-info/2025/12/26/claude-carter-cricketer-the-left-arm-spinner-who-bridged-sou.html)
+
+
 - [Raimundo Díaz Pacheco: Architect of the Nationalist Cadets and Treasurer General](https://yacine-l.github.io/hot-info/2025/12/26/raimundo-daz-pacheco-architect-of-the-nationalist-cadets-and.html)
 
 
