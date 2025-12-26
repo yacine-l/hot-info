@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Addlove Bakery: The Rise of Sichuan’s Premier Chinese Bakery Chain](https://yacine-l.github.io/hot-info/2025/12/26/addlove-bakery-the-rise-of-sichuans-premier-chinese-bakery-c.html)
+
+
 - [Andrew Poturalski: From AHL MVP to KHL Star Center with Avangard Omsk](https://yacine-l.github.io/hot-info/2025/12/26/andrew-poturalski-from-ahl-mvp-to-khl-star-center-with-avang.html)
 
 
