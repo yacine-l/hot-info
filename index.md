@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Major General Sheikh Mohammad Aman Hasan: Architect of VVIP Security in Bangladesh](https://yacine-l.github.io/hot-info/2025/12/26/major-general-sheikh-mohammad-aman-hasan-architect-of-vvip-s.html)
+
+
 - [Wick R. Miller: The Pioneering Linguist Who Charted Shoshoni, Keresan, and Uto-Aztecan Languages](https://yacine-l.github.io/hot-info/2025/12/26/wick-r-miller-the-pioneering-linguist-who-charted-shoshoni-k.html)
 
 
