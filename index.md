@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [2024–25 Segunda Federación](https://yacine-l.github.io/hot-info/2025/12/26/202425-segunda-federacin.html)
+
+
 - [John O'Mahony (Mayo politician)](https://yacine-l.github.io/hot-info/2025/12/26/john-omahony-mayo-politician.html)
 
 
