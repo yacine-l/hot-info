@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Magsaysay, Davao del Sur: The Peaceful Agricultural Gateway of Southern Mindanao](https://yacine-l.github.io/hot-info/2025/12/26/magsaysay-davao-del-sur-the-peaceful-agricultural-gateway-of.html)
+
+
 - [The Definitive Portrait: Thomas Sully’s 1838 Masterpiece of Young Queen Victoria](https://yacine-l.github.io/hot-info/2025/12/26/the-definitive-portrait-thomas-sullys-1838-masterpiece-of-yo.html)
 
 
