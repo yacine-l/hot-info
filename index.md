@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Offshore Spaceports: How Floating Launch Vehicle Operations Platforms Are Revolutionizing Booster Recovery](https://yacine-l.github.io/hot-info/2025/12/26/offshore-spaceports-how-floating-launch-vehicle-operations-p.html)
+
+
 - [Gerry Birrell: The Lost Promise of Scotland's Racing Star in Formula Two](https://yacine-l.github.io/hot-info/2025/12/26/gerry-birrell-the-lost-promise-of-scotlands-racing-star-in-f.html)
 
 
