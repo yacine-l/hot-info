@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Achilles Heel Album: The Definitive Look at Pedro the Lion's Masterpiece of Cynicism and Doubt (2004)](https://yacine-l.github.io/hot-info/2025/12/26/achilles-heel-album-the-definitive-look-at-pedro-the-lions-m.html)
+
+
 - [Before Mars (novel)](https://yacine-l.github.io/hot-info/2025/12/26/before-mars-novel.html)
 
 
