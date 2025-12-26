@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Pivotal Stopover: Revisiting Joe Budden’s Revolutionary Digital Release, *Halfway House*
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-pivotal-stopover-revisiting-joe-buddens-revolutionary-di.html)
+
+
 - [** El Rito, New Mexico: Exploring Taos County’s Oldest Unincorporated Community
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/el-rito-new-mexico-exploring-taos-countys-oldest-unincorpora.html)
