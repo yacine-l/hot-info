@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Uranoscodon Superciliosus: Exploring the Ecology and Behavior of the Amazon’s Diving Lizard
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/uranoscodon-superciliosus-exploring-the-ecology-and-behavior.html)
+
+
 - [I’m Not Gonna Teach Your Boyfriend How to Dance with You: Revisiting Black Kids’ Perfect Indie Anthem](https://yacine-l.github.io/hot-info/2025/12/26/im-not-gonna-teach-your-boyfriend-how-to-dance-with-you-revi.html)
 
 
