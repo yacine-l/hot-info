@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Gianna Maria Canale: The Forgotten Siren of Italian Cinema's Golden Age](https://yacine-l.github.io/hot-info/2025/12/26/gianna-maria-canale-the-forgotten-siren-of-italian-cinemas-g.html)
+
+
 - [Made in Korea](https://yacine-l.github.io/hot-info/2025/12/26/made-in-korea.html)
 
 
