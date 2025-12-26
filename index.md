@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Cape Cod of the Midwest: Uncovering the Magic of Tawas Point State Park, Michigan
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-cape-cod-of-the-midwest-uncovering-the-magic-of-tawas-po.html)
+
+
 - [** Bilboes: The Brutal History of the Iron Ankle Shackles and the Myth of the Spanish Armada
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/bilboes-the-brutal-history-of-the-iron-ankle-shackles-and-th.html)
