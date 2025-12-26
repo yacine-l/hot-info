@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enduring Legacy: Exploring the History and Faith of the Diocese of Cochin](https://yacine-l.github.io/hot-info/2025/12/26/the-enduring-legacy-exploring-the-history-and-faith-of-the-d.html)
+
+
 - [Hydrofluorocarbon](https://yacine-l.github.io/hot-info/2025/12/26/hydrofluorocarbon.html)
 
 
