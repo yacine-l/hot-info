@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Predejane, Serbia: The Vital Gateway of the Grdelica Gorge and E-75 Route](https://yacine-l.github.io/hot-info/2025/12/26/predejane-serbia-the-vital-gateway-of-the-grdelica-gorge-and.html)
+
+
 - [** François Ignace Schaal: The Enduring Legacy of a French Revolutionary General and Napoleonic Statesman
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/franois-ignace-schaal-the-enduring-legacy-of-a-french-revolu.html)
