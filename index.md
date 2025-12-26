@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [He Stayed for Breakfast (1940): A Deep Dive into the Screwball Comedy Classic](https://yacine-l.github.io/hot-info/2025/12/26/he-stayed-for-breakfast-1940-a-deep-dive-into-the-screwball-.html)
+
+
 - [The Enduring Legacy of Zaman: How Amal Hijazi Defined a Decade of Arabic Pop](https://yacine-l.github.io/hot-info/2025/12/26/the-enduring-legacy-of-zaman-how-amal-hijazi-defined-a-decad.html)
 
 
