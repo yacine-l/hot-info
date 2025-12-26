@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Meeting in Paris (1956): Robert Lamoureux, Betsy Blair, and the Charms of 1950s French Comedy](https://yacine-l.github.io/hot-info/2025/12/26/meeting-in-paris-1956-robert-lamoureux-betsy-blair-and-the-c.html)
+
+
 - [Pioneer of Open Science: The Profound Impact of Dr. Lincoln Stein on Bioinformatics and Cancer Research](https://yacine-l.github.io/hot-info/2025/12/26/pioneer-of-open-science-the-profound-impact-of-dr-lincoln-st.html)
 
 
