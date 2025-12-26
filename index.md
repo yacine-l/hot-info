@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Eternal Captain: Halit Deringör, Fenerbahçe’s Icon of Sportsmanship and Unwavering Passion
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-eternal-captain-halit-deringr-fenerbahes-icon-of-sportsm.html)
+
+
 - [Radical 120 (糸部): Tracing the Threads of History in the Chinese Character for Silk](https://yacine-l.github.io/hot-info/2025/12/26/radical-120-tracing-the-threads-of-history-in-the-chinese-ch.html)
 
 
