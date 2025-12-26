@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Gladrags Manhunt and Megamodel Contest: The Definitive Launchpad for Indian Modeling Superstars
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/gladrags-manhunt-and-megamodel-contest-the-definitive-launch.html)
+
+
 - [Mikołaj Krzysztof Radziwiłł the Orphan](https://yacine-l.github.io/hot-info/2025/12/26/mikoaj-krzysztof-radziwi-the-orphan.html)
 
 
