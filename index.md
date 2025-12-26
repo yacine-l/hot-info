@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Chris Shiflett](https://yacine-l.github.io/hot-info/2025/12/26/chris-shiflett.html)
+
+
 - [Mark Thompson Astronomer: Exploring the Stars with the BBC's Stargazing Live Expert and GMB Scientist**
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/mark-thompson-astronomer-exploring-the-stars-with-the-bbcs-s.html)
