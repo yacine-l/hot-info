@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Enat Bank: Championing Female Economic Inclusion in Ethiopia’s Financial Sector](https://yacine-l.github.io/hot-info/2025/12/26/enat-bank-championing-female-economic-inclusion-in-ethiopias.html)
+
+
 - [Jakalj, Bajina Bašta: Skriveni Biser Zapadne Srbije i Kapija Nacionalnog Parka Tara](https://yacine-l.github.io/hot-info/2025/12/26/jakalj-bajina-bata-skriveni-biser-zapadne-srbije-i-kapija-na.html)
 
 
