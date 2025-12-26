@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Before Mars (novel)](https://yacine-l.github.io/hot-info/2025/12/26/before-mars-novel.html)
+
+
 - [Raw (Moxy album)](https://yacine-l.github.io/hot-info/2025/12/26/raw-moxy-album.html)
 
 
