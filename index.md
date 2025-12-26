@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Amenfi West Constituency: A Deep Dive into the Electoral Powerhouse of Ghana's Western Region](https://yacine-l.github.io/hot-info/2025/12/26/amenfi-west-constituency-a-deep-dive-into-the-electoral-powe.html)
+
+
 - [Acrolepia autumnitella: Unraveling the Secrets of the Autumnal Diamond-Backed Moth](https://yacine-l.github.io/hot-info/2025/12/26/acrolepia-autumnitella-unraveling-the-secrets-of-the-autumna.html)
 
 
