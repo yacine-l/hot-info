@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Charm (Bubba Sparxxx album)](https://yacine-l.github.io/hot-info/2025/12/26/the-charm-bubba-sparxxx-album.html)
+
+
 - [The Sherman Booth House: Frank Lloyd Wright's Largest Prairie Masterpiece in Glencoe's Ravine Bluffs](https://yacine-l.github.io/hot-info/2025/12/26/the-sherman-booth-house-frank-lloyd-wrights-largest-prairie-.html)
 
 
