@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Bilboes: The Brutal History of the Iron Ankle Shackles and the Myth of the Spanish Armada
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/bilboes-the-brutal-history-of-the-iron-ankle-shackles-and-th.html)
+
+
 - [Warta Poznań: The Historic Guard of Polish Football and Their Fight for Promotion](https://yacine-l.github.io/hot-info/2025/12/26/warta-pozna-the-historic-guard-of-polish-football-and-their-.html)
 
 
