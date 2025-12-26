@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Fascinating World of the Woven Shagreen Snail (*Euchemotrema fraternum*)](https://yacine-l.github.io/hot-info/2025/12/26/the-fascinating-world-of-the-woven-shagreen-snail-euchemotre.html)
+
+
 - [Piute Valley](https://yacine-l.github.io/hot-info/2025/12/26/piute-valley.html)
 
 
