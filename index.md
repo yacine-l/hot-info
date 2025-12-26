@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Science of Hyperpalatable Foods: Why Engineered Combinations Make Ultra-Processed Snacks Irresistible
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-science-of-hyperpalatable-foods-why-engineered-combinati.html)
+
+
 - [The Public Service Commission Kenya (PSC): Mandate, Functions, and Role in the Civil Service](https://yacine-l.github.io/hot-info/2025/12/26/the-public-service-commission-kenya-psc-mandate-functions-an.html)
 
 
