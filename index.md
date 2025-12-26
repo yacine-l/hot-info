@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Unlocking Brattleboro’s Past: A Deep Dive into the William Harris House (Built 1768)
+
+##](https://yacine-l.github.io/hot-info/2025/12/26/unlocking-brattleboros-past-a-deep-dive-into-the-william-har.html)
+
+
 - [** Zidona Dufresnii: Unveiling the Majestic Deep-Water Volute of the South Atlantic
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/zidona-dufresnii-unveiling-the-majestic-deep-water-volute-of.html)
