@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Evelyn Waugh’s *A Little Learning*: Unmasking the Man Behind the Satire**
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/evelyn-waughs-a-little-learning-unmasking-the-man-behind-the.html)
+
+
 - [** The Cardinal Who Made a Pope: Ascanio Sforza and the Dawn of the Borgia Era
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-cardinal-who-made-a-pope-ascanio-sforza-and-the-dawn-of-.html)
 
