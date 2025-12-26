@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Wick R. Miller: The Pioneering Linguist Who Charted Shoshoni, Keresan, and Uto-Aztecan Languages](https://yacine-l.github.io/hot-info/2025/12/26/wick-r-miller-the-pioneering-linguist-who-charted-shoshoni-k.html)
+
+
 - [Dicyphus stachydis: Exploring the Palearctic True Bug of the Hedge-Nettle](https://yacine-l.github.io/hot-info/2025/12/26/dicyphus-stachydis-exploring-the-palearctic-true-bug-of-the-.html)
 
 
