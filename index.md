@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Amine Takieddine: The Immortal Poet, Failed Politician, and Architect of Arab Literary Journalism
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/amine-takieddine-the-immortal-poet-failed-politician-and-arc.html)
+
+
 - [** The Essential Guide to the Shad Bake: Decoding Connecticut's Historic Open-Fire Culinary Tradition
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-essential-guide-to-the-shad-bake-decoding-connecticuts-h.html)
