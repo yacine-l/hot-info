@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Sikandra Rao Assembly Constituency: History, Delimitation, and the Evolving Political Dynamics of UP's Seat 80
+**](https://yacine-l.github.io/hot-info/2025/12/26/sikandra-rao-assembly-constituency-history-delimitation-and-.html)
+
+
 - [** The Enigmatic *Aedes lineatopennis*: Distribution, Morphology, and Ecological Significance of the Zoophilic Mosquito
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-enigmatic-aedes-lineatopennis-distribution-morphology-an.html)
