@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Decoding the Magic: Why Maluma’s ‘11:11’ Album Marked a Defining Shift in Latin Pop
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/decoding-the-magic-why-malumas-1111-album-marked-a-defining-.html)
+
+
 - [Hayate the Combat Butler: Why Kenjiro Hata's Gag Comedy Masterpiece Still Breaks the Fourth Wall](https://yacine-l.github.io/hot-info/2025/12/26/hayate-the-combat-butler-why-kenjiro-hatas-gag-comedy-master.html)
 
 
