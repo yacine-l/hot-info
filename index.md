@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Uncovering the Past: A Deep Dive into the Arcadia Historic District, Florida](https://yacine-l.github.io/hot-info/2025/12/26/uncovering-the-past-a-deep-dive-into-the-arcadia-historic-di.html)
+
+
 - [Evelyn Waugh’s *A Little Learning*: Unmasking the Man Behind the Satire**
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/evelyn-waughs-a-little-learning-unmasking-the-man-behind-the.html)
