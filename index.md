@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Tymoteusz Paweł Gorzeński](https://yacine-l.github.io/hot-info/2025/12/26/tymoteusz-pawe-gorzeski.html)
+
+
 - [James Dudley: The Forgotten Pioneer Who Ran the WWWF for Four Generations of the McMahon Family](https://yacine-l.github.io/hot-info/2025/12/26/james-dudley-the-forgotten-pioneer-who-ran-the-wwwf-for-four.html)
 
 
