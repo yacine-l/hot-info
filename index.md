@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Louis Leitz: The Unsung Inventor Who Revolutionized Modern Office Organization](https://yacine-l.github.io/hot-info/2025/12/26/louis-leitz-the-unsung-inventor-who-revolutionized-modern-of.html)
+
+
 - [Stabilin-2 (STAB2): The Master Scavenger Gene Governing Liver Health and Disease](https://yacine-l.github.io/hot-info/2025/12/26/stabilin-2-stab2-the-master-scavenger-gene-governing-liver-h.html)
 
 
