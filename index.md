@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Al-Karma SC: The Rapid Rise of Iraqi Football’s New Powerhouse in the Iraq Stars League](https://yacine-l.github.io/hot-info/2025/12/26/al-karma-sc-the-rapid-rise-of-iraqi-footballs-new-powerhouse.html)
+
+
 - [Discover the Magic of Hammastunturi Wilderness Area: Lapland's Hidden Gem](https://yacine-l.github.io/hot-info/2025/12/26/discover-the-magic-of-hammastunturi-wilderness-area-laplands.html)
 
 
