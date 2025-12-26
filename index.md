@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Enrique Palos](https://yacine-l.github.io/hot-info/2025/12/26/enrique-palos.html)
+
+
 - [** Møgeltønder: Discover the Royal Fairy Tale Village of Southwestern Jutland
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/mgeltnder-discover-the-royal-fairy-tale-village-of-southwest.html)
