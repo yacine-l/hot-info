@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Creatures Inc.](https://yacine-l.github.io/hot-info/2025/12/26/creatures-inc.html)
+
+
 - [Gentile de' Becchi: The Unsung Mastermind Who Taught Lorenzo the Magnificent and Pope Leo X](https://yacine-l.github.io/hot-info/2025/12/26/gentile-de-becchi-the-unsung-mastermind-who-taught-lorenzo-t.html)
 
 
