@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Tom Carr-Smith: The Rise of Bath Rugby’s Dynamic Young Scrum-Half](https://yacine-l.github.io/hot-info/2025/12/26/tom-carr-smith-the-rise-of-bath-rugbys-dynamic-young-scrum-h.html)
+
+
 - [Ken Wharton: The Unsung British Racing Pioneer and Hillclimb King](https://yacine-l.github.io/hot-info/2025/12/26/ken-wharton-the-unsung-british-racing-pioneer-and-hillclimb-.html)
 
 
