@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Beena Paul: The Architect of Rhythm in Malayalam New Wave Cinema](https://yacine-l.github.io/hot-info/2025/12/26/beena-paul-the-architect-of-rhythm-in-malayalam-new-wave-cin.html)
+
+
 - [The Successful Amalgamation Story of Essendon Keilor College (EKC): History, Campuses, and Curriculum](https://yacine-l.github.io/hot-info/2025/12/26/the-successful-amalgamation-story-of-essendon-keilor-college.html)
 
 
