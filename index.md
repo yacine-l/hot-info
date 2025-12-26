@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Yantin-'Ammu of Byblos: The Local Ruler Connecting Hammurabi's World to the Mediterranean](https://yacine-l.github.io/hot-info/2025/12/26/yantin-ammu-of-byblos-the-local-ruler-connecting-hammurabis-.html)
+
+
 - [** *Megaphorus acrus*: Decoding the Secrets of the Stealthy Robber Fly Species
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/megaphorus-acrus-decoding-the-secrets-of-the-stealthy-robber.html)
