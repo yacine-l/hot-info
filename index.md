@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Let's Just Call It Love](https://yacine-l.github.io/hot-info/2025/12/26/lets-just-call-it-love.html)
+
+
 - [** The Mysterious Ground Beetle: Taxonomy and Ecology of the *Peronomerus* Genus
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-mysterious-ground-beetle-taxonomy-and-ecology-of-the-per.html)
 
