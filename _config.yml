@@ -2,3 +2,5 @@ title: Hot Info Blog
 baseurl: "/hot-info"
 url: "https://yacine-l.github.io"
 theme: minima
+header_pages:
+  - index.html
