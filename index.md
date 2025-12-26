@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Georgy Avenarius](https://yacine-l.github.io/hot-info/2025/12/26/georgy-avenarius.html)
+
+
 - [** Amine Takieddine: The Immortal Poet, Failed Politician, and Architect of Arab Literary Journalism
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/amine-takieddine-the-immortal-poet-failed-politician-and-arc.html)
