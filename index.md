@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Unsung All-American: Exploring the Legacy of Navy Gridiron Star Wendell Taylor](https://yacine-l.github.io/hot-info/2025/12/26/the-unsung-all-american-exploring-the-legacy-of-navy-gridiro.html)
+
+
 - [James Rhodes Pianist: From Classical Maverick to International Activist](https://yacine-l.github.io/hot-info/2025/12/26/james-rhodes-pianist-from-classical-maverick-to-internationa.html)
 
 
