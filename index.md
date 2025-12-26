@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Josef Oster MdB: Analyzing the CDU Politician's Influence in German Home Affairs and Rhineland-Palatinate](https://yacine-l.github.io/hot-info/2025/12/26/josef-oster-mdb-analyzing-the-cdu-politicians-influence-in-g.html)
+
+
 - [Discover Arleux-en-Gohelle: History, Heritage, and the Heart of the Pas-de-Calais](https://yacine-l.github.io/hot-info/2025/12/26/discover-arleux-en-gohelle-history-heritage-and-the-heart-of.html)
 
 
