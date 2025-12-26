@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Stay with Me Tonight: Analyzing The Human League's Unexpected Mid-90s Synth-Pop Revival](https://yacine-l.github.io/hot-info/2025/12/26/stay-with-me-tonight-analyzing-the-human-leagues-unexpected-.html)
+
+
 - [Agathia conviridaria: The Emerald Moth of India and Sri Lanka](https://yacine-l.github.io/hot-info/2025/12/26/agathia-conviridaria-the-emerald-moth-of-india-and-sri-lanka.html)
 
 
