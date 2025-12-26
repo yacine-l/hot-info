@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Dino D’Santiago: The Voice of Afro-Portuguese Identity and Global Activism](https://yacine-l.github.io/hot-info/2025/12/26/dino-dsantiago-the-voice-of-afro-portuguese-identity-and-glo.html)
+
+
 - [** Kelty, Fife: Unearthing the Rich History of a Resilient Scottish Coal Mining Village
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/kelty-fife-unearthing-the-rich-history-of-a-resilient-scotti.html)
