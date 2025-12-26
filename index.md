@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Long Island Surf](https://yacine-l.github.io/hot-info/2025/12/26/long-island-surf.html)
+
+
 - [Interstate 70: A Comprehensive Guide to America's Essential East-West Highway](https://yacine-l.github.io/hot-info/2025/12/26/interstate-70-a-comprehensive-guide-to-americas-essential-ea.html)
 
 
