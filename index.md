@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Church of St Thomas the Martyr Monmouth: Unveiling the Norman Jewel by Monnow Bridge
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/church-of-st-thomas-the-martyr-monmouth-unveiling-the-norman.html)
+
+
 - [The Big Lotus: Exploring the Architectural Majesty of the Hangzhou Olympic Sports Center](https://yacine-l.github.io/hot-info/2025/12/26/the-big-lotus-exploring-the-architectural-majesty-of-the-han.html)
 
 
