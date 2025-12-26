@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Aim Rocks Antarctica: How a Line of Stone Guides Safe Passage Through Morton Strait](https://yacine-l.github.io/hot-info/2025/12/26/aim-rocks-antarctica-how-a-line-of-stone-guides-safe-passage.html)
+
+
 - [Telestrations: Rules, Expansions, and Why It's the Ultimate Game of Drawing Miscommunication](https://yacine-l.github.io/hot-info/2025/12/26/telestrations-rules-expansions-and-why-its-the-ultimate-game.html)
 
 
