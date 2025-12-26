@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Juli Lynne Charlot: The Secret History of the Poodle Skirt Creator and Hollywood Star](https://yacine-l.github.io/hot-info/2025/12/26/juli-lynne-charlot-the-secret-history-of-the-poodle-skirt-cr.html)
+
+
 - [The Forgotten Bishop: Galeazzo Gegald and the Diocese of Bagnoregio in the Post-Tridentine Era](https://yacine-l.github.io/hot-info/2025/12/26/the-forgotten-bishop-galeazzo-gegald-and-the-diocese-of-bagn.html)
 
 
