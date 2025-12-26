@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Kyle Whisner: From the ARCA Menards West Series Grid to the Silver Screen](https://yacine-l.github.io/hot-info/2025/12/26/kyle-whisner-from-the-arca-menards-west-series-grid-to-the-s.html)
+
+
 - [Stephen Minot Weld Jr.](https://yacine-l.github.io/hot-info/2025/12/26/stephen-minot-weld-jr.html)
 
 
