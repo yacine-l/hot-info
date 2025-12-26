@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Mille Gejl: The Creative Force Driving Denmark’s Midfield and HB Køge Success
+**](https://yacine-l.github.io/hot-info/2025/12/26/mille-gejl-the-creative-force-driving-denmarks-midfield-and-.html)
+
+
 - [Exploring the Untamed Heart of the West Coast: The San Juan Valley Vancouver Island Guide
 
 ##](https://yacine-l.github.io/hot-info/2025/12/26/exploring-the-untamed-heart-of-the-west-coast-the-san-juan-v.html)
