@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Adora Svitak: From Child Prodigy TED Speaker to Wikimedia Communications Associate](https://yacine-l.github.io/hot-info/2025/12/26/adora-svitak-from-child-prodigy-ted-speaker-to-wikimedia-com.html)
+
+
 - [Carrigaloe Railway Station: Your Essential Guide to History, Services, and Great Island Access](https://yacine-l.github.io/hot-info/2025/12/26/carrigaloe-railway-station-your-essential-guide-to-history-s.html)
 
 
