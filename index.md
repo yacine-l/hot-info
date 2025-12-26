@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Unearthing History in Door County: The Legacy of the Louis Vangindertahlen House, Brussels, WI](https://yacine-l.github.io/hot-info/2025/12/26/unearthing-history-in-door-county-the-legacy-of-the-louis-va.html)
+
+
 - [Discovering Klemtu: Gateway to the Great Bear Rainforest and the Spirit Bear](https://yacine-l.github.io/hot-info/2025/12/26/discovering-klemtu-gateway-to-the-great-bear-rainforest-and-.html)
 
 
