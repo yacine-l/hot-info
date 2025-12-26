@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Labyrinth (2003): Analyzing the Self-Titled Statement of Italian Power Metal](https://yacine-l.github.io/hot-info/2025/12/26/labyrinth-2003-analyzing-the-self-titled-statement-of-italia.html)
+
+
 - [Speedway (1929 Film): William Haines' Last Silent Roar on the Cusp of the Talking Era](https://yacine-l.github.io/hot-info/2025/12/26/speedway-1929-film-william-haines-last-silent-roar-on-the-cu.html)
 
 
