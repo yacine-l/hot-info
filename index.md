@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Clay Aiken: From American Idol Runner-Up to Multi-Platinum Singer and Activist](https://yacine-l.github.io/hot-info/2025/12/26/clay-aiken-from-american-idol-runner-up-to-multi-platinum-si.html)
+
+
 - [Stevie Salas Colorcode: How the 1990 Debut Album Defined a Native American Guitar Legend](https://yacine-l.github.io/hot-info/2025/12/26/stevie-salas-colorcode-how-the-1990-debut-album-defined-a-na.html)
 
 
