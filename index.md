@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Tayna: The Unstoppable Rise of Kosovo’s Rap Queen and Her Dominance Over the Albanian Music Scene](https://yacine-l.github.io/hot-info/2025/12/26/tayna-the-unstoppable-rise-of-kosovos-rap-queen-and-her-domi.html)
+
+
 - [** The Enduring Glow: History, Design, and Modern Appeal of the Edison Filament Light Bulb
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-enduring-glow-history-design-and-modern-appeal-of-the-ed.html)
