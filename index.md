@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Anton Eduard van Arkel: The Dutch Chemist Who Defined Purity and Bonding
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/anton-eduard-van-arkel-the-dutch-chemist-who-defined-purity-.html)
+
+
 - [** Google Chrome Experiments: The Interactive Showroom That Defined the Future of the Web Browser
 **](https://yacine-l.github.io/hot-info/2025/12/26/google-chrome-experiments-the-interactive-showroom-that-defi.html)
 
