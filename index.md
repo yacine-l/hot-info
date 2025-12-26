@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Pontormo's Nativity of Saint John the Baptist: A Mannerist Masterpiece and the Desco Da Parto Tradition](https://yacine-l.github.io/hot-info/2025/12/26/pontormos-nativity-of-saint-john-the-baptist-a-mannerist-mas.html)
+
+
 - [** Sir Robert Elliott-Cooper: The Victorian Engineer Who Standardized Britain and Built the Empire’s Railways
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/sir-robert-elliott-cooper-the-victorian-engineer-who-standar.html)
