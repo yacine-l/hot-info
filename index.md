@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Chase: Hollywood Stunt Driver – The Definitive Look Back at the Xbox's Most Explosive Arcade Racer](https://yacine-l.github.io/hot-info/2025/12/26/chase-hollywood-stunt-driver-the-definitive-look-back-at-the.html)
+
+
 - [Hamilton (1998 Film): Analyzing the Peter Stormare and Mark Hamill Swedish Action Masterpiece**
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/hamilton-1998-film-analyzing-the-peter-stormare-and-mark-ham.html)
