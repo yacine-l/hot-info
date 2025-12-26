@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Lata Pada CM: Pioneering Bharatanatyam in Canada Through Sampradaya Dance](https://yacine-l.github.io/hot-info/2025/12/26/lata-pada-cm-pioneering-bharatanatyam-in-canada-through-samp.html)
+
+
 - [Conquering the 48% Grade: Everything You Need to Know About the Pilatus Railway, the World’s Steepest Cogwheel Line](https://yacine-l.github.io/hot-info/2025/12/26/conquering-the-48-grade-everything-you-need-to-know-about-th.html)
 
 
