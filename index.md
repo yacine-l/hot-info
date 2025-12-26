@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Uncensored History of The Guy Game: Controversy, Trivia, and the Rise of Adult FMV Gaming
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-uncensored-history-of-the-guy-game-controversy-trivia-an.html)
+
+
 - [The Ogilvie Mountains Collared Lemming: Yukon's Tundra Survivor and Arctic Enigma](https://yacine-l.github.io/hot-info/2025/12/26/the-ogilvie-mountains-collared-lemming-yukons-tundra-survivo.html)
 
 
