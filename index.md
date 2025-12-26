@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Gustavus Adolphus Day](https://yacine-l.github.io/hot-info/2025/12/26/gustavus-adolphus-day.html)
+
+
 - [The Fall of Champions: Analyzing the Jackie Robinson West Little League Disqualification Scandal](https://yacine-l.github.io/hot-info/2025/12/26/the-fall-of-champions-analyzing-the-jackie-robinson-west-lit.html)
 
 
