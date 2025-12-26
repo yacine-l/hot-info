@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Unpacking Great Minds with Dan Harmon: Why the History Channel’s Strangest Show Deserves a Rewatch](https://yacine-l.github.io/hot-info/2025/12/26/unpacking-great-minds-with-dan-harmon-why-the-history-channe.html)
+
+
 - [Trapped in Stone: Why Paul Chadwick’s Concrete Remains a Masterpiece of Literary Comics](https://yacine-l.github.io/hot-info/2025/12/26/trapped-in-stone-why-paul-chadwicks-concrete-remains-a-maste.html)
 
 
