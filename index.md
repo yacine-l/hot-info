@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Sant Andreu Barcelona: A Deep Dive into the District of History, Heritage, and Authentic Local Life](https://yacine-l.github.io/hot-info/2025/12/26/sant-andreu-barcelona-a-deep-dive-into-the-district-of-histo.html)
+
+
 - [** Shostakovich’s Swan Song: Unpacking the Power of the Suite on Verses of Michelangelo Buonarroti (Op. 145)
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/shostakovichs-swan-song-unpacking-the-power-of-the-suite-on-.html)
