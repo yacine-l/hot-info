@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Attack of the Killer Tomatoes 1986 Game: The Absurd 8-Bit Movie Tie-In Classic](https://yacine-l.github.io/hot-info/2025/12/26/attack-of-the-killer-tomatoes-1986-game-the-absurd-8-bit-mov.html)
+
+
 - [** Jan Howard’s 1969 Album: The Story Behind "My Son" and the Vietnam War's Most Heartbreaking Ballad
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/jan-howards-1969-album-the-story-behind-my-son-and-the-vietn.html)
