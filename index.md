@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Kafenio: The Heartbeat of Greece and the Soul of Greek Coffee Culture](https://yacine-l.github.io/hot-info/2025/12/26/the-kafenio-the-heartbeat-of-greece-and-the-soul-of-greek-co.html)
+
+
 - [** The Historic Red Lion Hillingdon: Exploring the Grade II Listed Pub on Royal Lane
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-historic-red-lion-hillingdon-exploring-the-grade-ii-list.html)
