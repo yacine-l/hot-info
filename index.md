@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enigmatic World of Trigonopterus ijensis: Unearthing Indonesia's Flightless Weevil Secret](https://yacine-l.github.io/hot-info/2025/12/26/the-enigmatic-world-of-trigonopterus-ijensis-unearthing-indo.html)
+
+
 - [Unpacking the Hidden Cost: Indirect Land Use Change (ILUC) Impacts of Biofuels](https://yacine-l.github.io/hot-info/2025/12/26/unpacking-the-hidden-cost-indirect-land-use-change-iluc-impa.html)
 
 
