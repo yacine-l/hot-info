@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Google Chrome Experiments: The Interactive Showroom That Defined the Future of the Web Browser
+**](https://yacine-l.github.io/hot-info/2025/12/26/google-chrome-experiments-the-interactive-showroom-that-defi.html)
+
+
 - [** Arancha Marty: The Definitive Biography of Spain’s Rhythmic Gymnastics Icon and 21-Time Medalist
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/arancha-marty-the-definitive-biography-of-spains-rhythmic-gy.html)
