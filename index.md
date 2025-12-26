@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Dmitri Shepilov: The Dramatic Rise and Sudden Fall of Khrushchev's Forgotten Foreign Minister](https://yacine-l.github.io/hot-info/2025/12/26/dmitri-shepilov-the-dramatic-rise-and-sudden-fall-of-khrushc.html)
+
+
 - [Jakub Wilk: From Ekstraklasa Star to Lech Poznań U-17 Assistant Coach](https://yacine-l.github.io/hot-info/2025/12/26/jakub-wilk-from-ekstraklasa-star-to-lech-pozna-u-17-assistan.html)
 
 
