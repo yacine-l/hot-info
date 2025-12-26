@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Principles of Psychology: Why William James’s 1890 Masterpiece Still Matters](https://yacine-l.github.io/hot-info/2025/12/26/the-principles-of-psychology-why-william-jamess-1890-masterp.html)
+
+
 - [** Winthrop Beach Guide: Discovering the Charm of Winthrop Shore Drive and the Coastal Resilience of the "Five Sisters"
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/winthrop-beach-guide-discovering-the-charm-of-winthrop-shore.html)
