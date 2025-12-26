@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Urban Games Film 2014: Unpacking the High-Octane Chinese-American Action-Thriller Starring Shawn Dou and Michelle Chen
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/urban-games-film-2014-unpacking-the-high-octane-chinese-amer.html)
+
+
 - [The Cherry Creek Schoolhouse: Preserving the Heart of CCSD History Since 1874](https://yacine-l.github.io/hot-info/2025/12/26/the-cherry-creek-schoolhouse-preserving-the-heart-of-ccsd-hi.html)
 
 
