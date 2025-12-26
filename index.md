@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Negrilești, Bistrița-Năsăud: Exploring the History and Charm of Transylvania’s Youngest Commune
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/negrileti-bistria-nsud-exploring-the-history-and-charm-of-tr.html)
+
+
 - [** T. J. Anjalose: A Profile in Dedication to CPI and Alappuzha Politics
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/t-j-anjalose-a-profile-in-dedication-to-cpi-and-alappuzha-po.html)
