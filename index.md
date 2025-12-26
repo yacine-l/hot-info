@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [I Like Dreamin'](https://yacine-l.github.io/hot-info/2025/12/26/i-like-dreamin.html)
+
+
 - [Karsten Heine](https://yacine-l.github.io/hot-info/2025/12/26/karsten-heine.html)
 
 
