@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Jacques Teyssier: The Franco-German Activist Who Institutionalized Modern German LGBT Rights](https://yacine-l.github.io/hot-info/2025/12/26/jacques-teyssier-the-franco-german-activist-who-institutiona.html)
+
+
 - [** Belhus Essex: Exploring the History, Country Park, and Golf of a Medieval Manor
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/belhus-essex-exploring-the-history-country-park-and-golf-of-.html)
