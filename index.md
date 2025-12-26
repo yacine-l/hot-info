@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mastering Mandibular Movement: An In-Depth Guide to the Dental Articulator](https://yacine-l.github.io/hot-info/2025/12/26/mastering-mandibular-movement-an-in-depth-guide-to-the-denta.html)
+
+
 - [Édouard Lucas](https://yacine-l.github.io/hot-info/2025/12/26/douard-lucas.html)
 
 
