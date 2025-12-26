@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Sheikh Saad Buh: The Moorish Sufi Master Who Defined Senegalo-Mauritanian Colonial History](https://yacine-l.github.io/hot-info/2025/12/26/sheikh-saad-buh-the-moorish-sufi-master-who-defined-senegalo.html)
+
+
 - [** Hiking the Angererkopf: Your Guide to the Hidden Summit of the Bavarian Alps
 **](https://yacine-l.github.io/hot-info/2025/12/26/hiking-the-angererkopf-your-guide-to-the-hidden-summit-of-th.html)
 
