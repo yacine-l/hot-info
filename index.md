@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Sivagyana Munivar: Unveiling the Master Scholar of Saiva Siddhanta](https://yacine-l.github.io/hot-info/2025/12/26/sivagyana-munivar-unveiling-the-master-scholar-of-saiva-sidd.html)
+
+
 - [Álvaro de Figueroa: The Count of Romanones and the Golden Age of Spanish Liberalism](https://yacine-l.github.io/hot-info/2025/12/26/lvaro-de-figueroa-the-count-of-romanones-and-the-golden-age-.html)
 
 
