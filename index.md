@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Silent Sentinels: Understanding Machsom Watch and the Monitoring of Israeli Checkpoints](https://yacine-l.github.io/hot-info/2025/12/26/the-silent-sentinels-understanding-machsom-watch-and-the-mon.html)
+
+
 - [Walker Brook Massachusetts: Your Essential Guide to Camping, Fishing, and History in Chester, MA](https://yacine-l.github.io/hot-info/2025/12/26/walker-brook-massachusetts-your-essential-guide-to-camping-f.html)
 
 
