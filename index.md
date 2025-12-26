@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Arrondissement of Pontivy: Exploring Central Brittany’s Heart, History, and 92 Communes](https://yacine-l.github.io/hot-info/2025/12/26/the-arrondissement-of-pontivy-exploring-central-brittanys-he.html)
+
+
 - [The Strategic Fall of Baghdad (1917): How Britain Captured the Jewel of Mesopotamia in WWI](https://yacine-l.github.io/hot-info/2025/12/26/the-strategic-fall-of-baghdad-1917-how-britain-captured-the-.html)
 
 
