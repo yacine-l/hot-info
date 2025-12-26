@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Patrícia Pereira dos Santos: The Inspiring Journey of Brazil’s Paralympic Swimming Star](https://yacine-l.github.io/hot-info/2025/12/26/patrcia-pereira-dos-santos-the-inspiring-journey-of-brazils-.html)
+
+
 - [** The Hidden Gem of Plön: Exploring the Tranquil Kirchsee in Holstein Switzerland
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-hidden-gem-of-pln-exploring-the-tranquil-kirchsee-in-hol.html)
