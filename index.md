@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [John Foley (major)](https://yacine-l.github.io/hot-info/2025/12/26/john-foley-major.html)
+
+
 - [Bnei Brak–Ramat HaHayal railway station](https://yacine-l.github.io/hot-info/2025/12/26/bnei-brakramat-hahayal-railway-station.html)
 
 
