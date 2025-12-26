@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Jules Jacques Veyrassat: The Barbizon Master Who Painted the Soul of Animals](https://yacine-l.github.io/hot-info/2025/12/26/jules-jacques-veyrassat-the-barbizon-master-who-painted-the-.html)
+
+
 - [The Fatal Journey of the SS Anselm: From Amazon Liner to WWII Troop Transport](https://yacine-l.github.io/hot-info/2025/12/26/the-fatal-journey-of-the-ss-anselm-from-amazon-liner-to-wwii.html)
 
 
