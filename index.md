@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Francine: The Queen of Extreme’s Reign in Wrestling History](https://yacine-l.github.io/hot-info/2025/12/26/francine-the-queen-of-extremes-reign-in-wrestling-history.html)
+
+
 - [Bárbara Olivieri: The Rising Star Connecting Venezuela, Texas A&M, and Tigres Femenil](https://yacine-l.github.io/hot-info/2025/12/26/brbara-olivieri-the-rising-star-connecting-venezuela-texas-a.html)
 
 
