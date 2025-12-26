@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Mall at Stonecrest: A Complete Guide to Shopping and Dining on Atlanta’s I-20 Corridor](https://yacine-l.github.io/hot-info/2025/12/26/the-mall-at-stonecrest-a-complete-guide-to-shopping-and-dini.html)
+
+
 - [Unearthing the Past: The Institute of History of Nicaragua and Central America (IDH-UCA)](https://yacine-l.github.io/hot-info/2025/12/26/unearthing-the-past-the-institute-of-history-of-nicaragua-an.html)
 
 
