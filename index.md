@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Quiet Persistence of Creativity: Analyzing Kelly Reichardt’s ‘Showing Up’ and the Working Artist’s Life](https://yacine-l.github.io/hot-info/2025/12/26/the-quiet-persistence-of-creativity-analyzing-kelly-reichard.html)
+
+
 - [Yuri Vladimirov: The Wild Card Who Defined the Bolshoi Ballet's Dramatic Era](https://yacine-l.github.io/hot-info/2025/12/26/yuri-vladimirov-the-wild-card-who-defined-the-bolshoi-ballet.html)
 
 
