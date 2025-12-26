@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Star Model Z-45: Spain's Reliable Submachine Gun Successor to the MP 40](https://yacine-l.github.io/hot-info/2025/12/26/the-star-model-z-45-spains-reliable-submachine-gun-successor.html)
+
+
 - [The Gingoog–Claveria–Villanueva Road: Misamis Oriental's Strategic Mountain Highway and Scenic Bypass](https://yacine-l.github.io/hot-info/2025/12/26/the-gingoogclaveriavillanueva-road-misamis-orientals-strateg.html)
 
 
