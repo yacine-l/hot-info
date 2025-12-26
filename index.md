@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mysteries of the Musk Beetle: Iridescence, Scent, and Survival of a Longhorn Jewel](https://yacine-l.github.io/hot-info/2025/12/26/mysteries-of-the-musk-beetle-iridescence-scent-and-survival-.html)
+
+
 - [** The Lost Legacy of Gretton Halt: A Modest GWR Station on the Historic Honeybourne Line
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-lost-legacy-of-gretton-halt-a-modest-gwr-station-on-the-.html)
