@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Andrija Popović: From Olympic Pool to Montenegrin Politics – A Dual Career Analysis](https://yacine-l.github.io/hot-info/2025/12/26/andrija-popovi-from-olympic-pool-to-montenegrin-politics-a-d.html)
+
+
 - [Nureddine El-Rifai: The Technocrat Who Bridged Lebanon’s Internal Security Forces and the Premiership](https://yacine-l.github.io/hot-info/2025/12/26/nureddine-el-rifai-the-technocrat-who-bridged-lebanons-inter.html)
 
 
