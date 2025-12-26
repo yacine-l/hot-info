@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [From Batavian Fury to Royal Navy Troopship: The Forgotten History of HMS Wilhelmina](https://yacine-l.github.io/hot-info/2025/12/26/from-batavian-fury-to-royal-navy-troopship-the-forgotten-his.html)
+
+
 - [The Defining Struggle: Analyzing the 2014 Miami Hurricanes Football Season Under Al Golden](https://yacine-l.github.io/hot-info/2025/12/26/the-defining-struggle-analyzing-the-2014-miami-hurricanes-fo.html)
 
 
