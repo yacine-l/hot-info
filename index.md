@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [William G. Doty: Exploring the Enduring Legacy of the Scholar of Myth and Mythology](https://yacine-l.github.io/hot-info/2025/12/26/william-g-doty-exploring-the-enduring-legacy-of-the-scholar-.html)
+
+
 - [The Hidden Sanctuary of the Alps: Discovering the Oratorio di San Lorenzo all'alpe Seccio](https://yacine-l.github.io/hot-info/2025/12/26/the-hidden-sanctuary-of-the-alps-discovering-the-oratorio-di.html)
 
 
