@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Big Lotus: Exploring the Architectural Majesty of the Hangzhou Olympic Sports Center](https://yacine-l.github.io/hot-info/2025/12/26/the-big-lotus-exploring-the-architectural-majesty-of-the-han.html)
+
+
 - [Sleaford Mods: Decoding the Minimalist Fury of Post-Punk’s Angriest Duo
 
 ###](https://yacine-l.github.io/hot-info/2025/12/26/sleaford-mods-decoding-the-minimalist-fury-of-post-punks-ang.html)
