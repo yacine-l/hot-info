@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Saint-Patrice-du-Désert: Uncovering the Quiet Charm of Orne, Normandy](https://yacine-l.github.io/hot-info/2025/12/26/saint-patrice-du-dsert-uncovering-the-quiet-charm-of-orne-no.html)
+
+
 - [The Mall at Stonecrest: A Complete Guide to Shopping and Dining on Atlanta’s I-20 Corridor](https://yacine-l.github.io/hot-info/2025/12/26/the-mall-at-stonecrest-a-complete-guide-to-shopping-and-dini.html)
 
 
