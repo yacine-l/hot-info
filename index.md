@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Forgotten Bishop: Galeazzo Gegald and the Diocese of Bagnoregio in the Post-Tridentine Era](https://yacine-l.github.io/hot-info/2025/12/26/the-forgotten-bishop-galeazzo-gegald-and-the-diocese-of-bagn.html)
+
+
 - [** The Enduring Energy of "Hayate no Gotoku!": Analyzing Kotoko's Iconic Anime Opening and I've Sound Success
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-enduring-energy-of-hayate-no-gotoku-analyzing-kotokos-ic.html)
