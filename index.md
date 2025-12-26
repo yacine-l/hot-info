@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Neshaminy Line: History, Infrastructure, and SEPTA's West Trenton Connection](https://yacine-l.github.io/hot-info/2025/12/26/the-neshaminy-line-history-infrastructure-and-septas-west-tr.html)
+
+
 - [** Wallaroo NSW: The Hidden Rural Gem Just 19km From Canberra – A Guide to Acreage Living on the ACT Fringe
 **](https://yacine-l.github.io/hot-info/2025/12/26/wallaroo-nsw-the-hidden-rural-gem-just-19km-from-canberra-a-.html)
 
