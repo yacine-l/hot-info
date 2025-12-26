@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Gyroscope’s Breed Obsession: Revisiting the Defining Australian Rock Album of 2008](https://yacine-l.github.io/hot-info/2025/12/26/gyroscopes-breed-obsession-revisiting-the-defining-australia.html)
+
+
 - [Schönhage–Strassen algorithm](https://yacine-l.github.io/hot-info/2025/12/26/schnhagestrassen-algorithm.html)
 
 
