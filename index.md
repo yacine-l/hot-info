@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Kasamori-ji: The Spectacular Stage Temple and Hidden Kannon of Chiba's Bandō Pilgrimage](https://yacine-l.github.io/hot-info/2025/12/26/kasamori-ji-the-spectacular-stage-temple-and-hidden-kannon-o.html)
+
+
 - [** Altyn Asyr (TM CELL): The Backbone of Turkmenistan’s State-Owned Mobile Network
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/altyn-asyr-tm-cell-the-backbone-of-turkmenistans-state-owned.html)
