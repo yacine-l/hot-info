@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Seizing the State: The Formation and Impact of Vladimir Lenin's Revolutionary Government](https://yacine-l.github.io/hot-info/2025/12/26/seizing-the-state-the-formation-and-impact-of-vladimir-lenin.html)
+
+
 - [The Spectacle in the Snow: Revisiting the 2016 NHL Stadium Series at TCF Bank Stadium and Coors Field](https://yacine-l.github.io/hot-info/2025/12/26/the-spectacle-in-the-snow-revisiting-the-2016-nhl-stadium-se.html)
 
 
