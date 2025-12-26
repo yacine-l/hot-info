@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Edwin Ávila](https://yacine-l.github.io/hot-info/2025/12/26/edwin-vila.html)
+
+
 - [Meeting in Paris (1956): Robert Lamoureux, Betsy Blair, and the Charms of 1950s French Comedy](https://yacine-l.github.io/hot-info/2025/12/26/meeting-in-paris-1956-robert-lamoureux-betsy-blair-and-the-c.html)
 
 
