@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Hiking the Angererkopf: Your Guide to the Hidden Summit of the Bavarian Alps
+**](https://yacine-l.github.io/hot-info/2025/12/26/hiking-the-angererkopf-your-guide-to-the-hidden-summit-of-th.html)
+
+
 - [** Jerry Vandam: Tracing the Career Trajectory of the Veteran French Right-Back, from Youth Academies to IC Croix
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/jerry-vandam-tracing-the-career-trajectory-of-the-veteran-fr.html)
