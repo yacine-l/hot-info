@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mick Karn’s “Dreams of Reason Produce Monsters” (1987): A Deep Dive into Post-Punk Instrumentalism](https://yacine-l.github.io/hot-info/2025/12/26/mick-karns-dreams-of-reason-produce-monsters-1987-a-deep-div.html)
+
+
 - [From Batavian Fury to Royal Navy Troopship: The Forgotten History of HMS Wilhelmina](https://yacine-l.github.io/hot-info/2025/12/26/from-batavian-fury-to-royal-navy-troopship-the-forgotten-his.html)
 
 
