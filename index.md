@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Siege of Kehl (1796–1797)](https://yacine-l.github.io/hot-info/2025/12/26/siege-of-kehl-17961797.html)
+
+
 - [** Oașa Dam: The Massive Rockfill Giant of the Sebeș River and Gateway to Transalpina
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/oaa-dam-the-massive-rockfill-giant-of-the-sebe-river-and-gat.html)
