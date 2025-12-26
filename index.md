@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Kronan Shipwreck: Tragedy, Treasure, and the Fall of the Swedish Naval Flagship
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-kronan-shipwreck-tragedy-treasure-and-the-fall-of-the-sw.html)
+
+
 - [Homoranthus homoranthoides: The Endemic South Australian Gem of the Myrtaceae Family](https://yacine-l.github.io/hot-info/2025/12/26/homoranthus-homoranthoides-the-endemic-south-australian-gem-.html)
 
 
