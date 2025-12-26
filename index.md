@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Public Service Commission Kenya (PSC): Mandate, Functions, and Role in the Civil Service](https://yacine-l.github.io/hot-info/2025/12/26/the-public-service-commission-kenya-psc-mandate-functions-an.html)
+
+
 - [Let's Just Call It Love](https://yacine-l.github.io/hot-info/2025/12/26/lets-just-call-it-love.html)
 
 
