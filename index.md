@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Unpacking the Hidden Cost: Indirect Land Use Change (ILUC) Impacts of Biofuels](https://yacine-l.github.io/hot-info/2025/12/26/unpacking-the-hidden-cost-indirect-land-use-change-iluc-impa.html)
+
+
 - [The Zastava M21: Serbia's Modern 5.56 NATO Assault Rifle Blending AK Toughness with Western Modularity](https://yacine-l.github.io/hot-info/2025/12/26/the-zastava-m21-serbias-modern-556-nato-assault-rifle-blendi.html)
 
 
