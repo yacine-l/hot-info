@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Heinrich Altherr: The Master of Swiss Mural Painting and Sacred Spaces](https://yacine-l.github.io/hot-info/2025/12/26/heinrich-altherr-the-master-of-swiss-mural-painting-and-sacr.html)
+
+
 - [** The Orchestral Evolution: How Joan Baez's 1967 Album *Joan* Redefined the Folk Queen
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-orchestral-evolution-how-joan-baezs-1967-album-joan-rede.html)
