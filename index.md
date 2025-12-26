@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enigmatic Rise of Proxy Paige: Actress, Model, and Director Shaping the Adult Film Industry](https://yacine-l.github.io/hot-info/2025/12/26/the-enigmatic-rise-of-proxy-paige-actress-model-and-director.html)
+
+
 - [** The Julius Freed House: Unpacking the Complex History and Second Empire Grandeur of Trenton, Tennessee
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-julius-freed-house-unpacking-the-complex-history-and-sec.html)
