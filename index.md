@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The 2010 Slough Borough Council Election: How National Politics Shaped Slough’s Local Future
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-2010-slough-borough-council-election-how-national-politi.html)
+
+
 - [Matilda Lugg: Tracing the Journey of the ACT Meteors Wicket-Keeper in Domestic Cricket](https://yacine-l.github.io/hot-info/2025/12/26/matilda-lugg-tracing-the-journey-of-the-act-meteors-wicket-k.html)
 
 
