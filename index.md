@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Pioneer of Open Science: The Profound Impact of Dr. Lincoln Stein on Bioinformatics and Cancer Research](https://yacine-l.github.io/hot-info/2025/12/26/pioneer-of-open-science-the-profound-impact-of-dr-lincoln-st.html)
+
+
 - [William G. Doty: Exploring the Enduring Legacy of the Scholar of Myth and Mythology](https://yacine-l.github.io/hot-info/2025/12/26/william-g-doty-exploring-the-enduring-legacy-of-the-scholar-.html)
 
 
