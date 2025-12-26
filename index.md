@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Rose Seidler House: Exploring Harry Seidler's Radical Post-War Modernism in Wahroonga](https://yacine-l.github.io/hot-info/2025/12/26/rose-seidler-house-exploring-harry-seidlers-radical-post-war.html)
+
+
 - [** Township Rollers F.C.: Unpacking the Legacy of Popa, Botswana's Most Successful Football Club
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/township-rollers-fc-unpacking-the-legacy-of-popa-botswanas-m.html)
