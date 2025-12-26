@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Trapped in Stone: Why Paul Chadwick’s Concrete Remains a Masterpiece of Literary Comics](https://yacine-l.github.io/hot-info/2025/12/26/trapped-in-stone-why-paul-chadwicks-concrete-remains-a-maste.html)
+
+
 - [Tisleifjorden: Exploring Norway’s High-Mountain Hydroelectric Border Lake](https://yacine-l.github.io/hot-info/2025/12/26/tisleifjorden-exploring-norways-high-mountain-hydroelectric-.html)
 
 
