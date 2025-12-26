@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Ekaterina Semenikhin: The Cultural Diplomat Bridging Moscow and Monaco
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/ekaterina-semenikhin-the-cultural-diplomat-bridging-moscow-a.html)
+
+
 - [** Kiryat Bialik: History, Lifestyle, and the Jewel of the Krayot Region
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/kiryat-bialik-history-lifestyle-and-the-jewel-of-the-krayot-.html)
