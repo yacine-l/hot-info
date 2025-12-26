@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** SK Kladno: The Enduring Legacy of Kladno's Steel City Football Club and the Quest for the Top Tier
+**](https://yacine-l.github.io/hot-info/2025/12/26/sk-kladno-the-enduring-legacy-of-kladnos-steel-city-football.html)
+
+
 - [** The 2010 Slough Borough Council Election: How National Politics Shaped Slough’s Local Future
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-2010-slough-borough-council-election-how-national-politi.html)
