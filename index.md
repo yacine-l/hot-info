@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Yuri Vladimirov: The Wild Card Who Defined the Bolshoi Ballet's Dramatic Era](https://yacine-l.github.io/hot-info/2025/12/26/yuri-vladimirov-the-wild-card-who-defined-the-bolshoi-ballet.html)
+
+
 - [Gwalior Assembly Constituency: A Political History from Madhya Bharat to Modern Madhya Pradesh](https://yacine-l.github.io/hot-info/2025/12/26/gwalior-assembly-constituency-a-political-history-from-madhy.html)
 
 
