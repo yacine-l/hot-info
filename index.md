@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Impact of Black Box 149: Rosemary Johns’ Groundbreaking Australian Verbatim Play](https://yacine-l.github.io/hot-info/2025/12/26/the-impact-of-black-box-149-rosemary-johns-groundbreaking-au.html)
+
+
 - [** Playlist: The Very Best of Bowling for Soup – Decoding the Essential Pop-Punk Hits and the Unauthorized Release Controversy
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/playlist-the-very-best-of-bowling-for-soup-decoding-the-esse.html)
