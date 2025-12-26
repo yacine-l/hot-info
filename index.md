@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Neil Larsen](https://yacine-l.github.io/hot-info/2025/12/26/neil-larsen.html)
+
+
 - [Miriam Hadar Weingarten: From Miss Israel 1958 to Pioneering Israeli-American Lawyer](https://yacine-l.github.io/hot-info/2025/12/26/miriam-hadar-weingarten-from-miss-israel-1958-to-pioneering-.html)
 
 
