@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** We Weren't Given Anything for Free: Annita Malavasi and the Untold Story of the Italian Resistance
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/we-werent-given-anything-for-free-annita-malavasi-and-the-un.html)
+
+
 - [Balakən, Azerbaijan: A Comprehensive Guide to the Caucasus Foothills Gem](https://yacine-l.github.io/hot-info/2025/12/26/balakn-azerbaijan-a-comprehensive-guide-to-the-caucasus-foot.html)
 
 
