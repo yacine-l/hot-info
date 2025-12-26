@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Waverley Council: Governing Sydney’s Iconic Eastern Suburbs Since 1859
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/waverley-council-governing-sydneys-iconic-eastern-suburbs-si.html)
+
+
 - [Yixianornis: An Early Cretaceous Snapshot of Avian Evolution from the Jiufotang Formation](https://yacine-l.github.io/hot-info/2025/12/26/yixianornis-an-early-cretaceous-snapshot-of-avian-evolution-.html)
 
 
