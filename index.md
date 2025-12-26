@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [St. Mary’s Church, New Ross: Uncovering the Medieval Majesty of a National Monument
+
+##](https://yacine-l.github.io/hot-info/2025/12/26/st-marys-church-new-ross-uncovering-the-medieval-majesty-of-.html)
+
+
 - [** Anton Eduard van Arkel: The Dutch Chemist Who Defined Purity and Bonding
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/anton-eduard-van-arkel-the-dutch-chemist-who-defined-purity-.html)
