@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** John F. Murtaugh: The Architect of New York Law and Politics in the Progressive Era
+**](https://yacine-l.github.io/hot-info/2025/12/26/john-f-murtaugh-the-architect-of-new-york-law-and-politics-i.html)
+
+
 - [Portugal at the 2016 Summer Olympics](https://yacine-l.github.io/hot-info/2025/12/26/portugal-at-the-2016-summer-olympics.html)
 
 
