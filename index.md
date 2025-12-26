@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Cardinal Who Made a Pope: Ascanio Sforza and the Dawn of the Borgia Era
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-cardinal-who-made-a-pope-ascanio-sforza-and-the-dawn-of-.html)
+
+
 - [** Barrios Unidos Bogotá: The Comprehensive Guide to Locality 12 – Commerce, Culture, and Middle-Class Life in Northwest Bogotá
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/barrios-unidos-bogot-the-comprehensive-guide-to-locality-12-.html)
