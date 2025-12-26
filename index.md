@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Isabelle Garo](https://yacine-l.github.io/hot-info/2025/12/26/isabelle-garo.html)
+
+
 - [Tersk horse](https://yacine-l.github.io/hot-info/2025/12/26/tersk-horse.html)
 
 
