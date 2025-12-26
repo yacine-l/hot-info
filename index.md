@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Maria Jane Taylor: The Unsung Mother of the China Inland Mission and Pioneer for Missionary Women](https://yacine-l.github.io/hot-info/2025/12/26/maria-jane-taylor-the-unsung-mother-of-the-china-inland-miss.html)
+
+
 - [Křižánky: Exploring the Timeless Beauty of the Czech Republic's Hidden Folk Architecture Gem](https://yacine-l.github.io/hot-info/2025/12/26/kinky-exploring-the-timeless-beauty-of-the-czech-republics-h.html)
 
 
