@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Hubert Cecil Booth: The Forgotten Engineer Who Invented the Modern Powered Vacuum Cleaner
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/hubert-cecil-booth-the-forgotten-engineer-who-invented-the-m.html)
+
+
 - [Bill Dinneen: The Dead Ball Era Pitcher Who Became One of Baseball’s Most Enduring Umpires](https://yacine-l.github.io/hot-info/2025/12/26/bill-dinneen-the-dead-ball-era-pitcher-who-became-one-of-bas.html)
 
 
