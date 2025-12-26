@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Pauline Thomsen: The Pioneering Danish Landscape Painter and Educator Who Shaped 19th-Century Art
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/pauline-thomsen-the-pioneering-danish-landscape-painter-and-.html)
+
+
 - [The Oslo City Museum: A Deep Dive into Oslo’s History at Historic Frogner Manor](https://yacine-l.github.io/hot-info/2025/12/26/the-oslo-city-museum-a-deep-dive-into-oslos-history-at-histo.html)
 
 
