@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Unlocking Cellular Potential: A Deep Dive into Metabolic Flux Analysis (MFA)](https://yacine-l.github.io/hot-info/2025/12/26/unlocking-cellular-potential-a-deep-dive-into-metabolic-flux.html)
+
+
 - [CX 44 La Catorce 10: The Definitive Voice of Uruguayan AM Radio and Montevideo Culture](https://yacine-l.github.io/hot-info/2025/12/26/cx-44-la-catorce-10-the-definitive-voice-of-uruguayan-am-rad.html)
 
 
