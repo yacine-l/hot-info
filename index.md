@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Discovering Paszowa: A Hidden Gem in Lesko County, Subcarpathian Voivodeship](https://yacine-l.github.io/hot-info/2025/12/26/discovering-paszowa-a-hidden-gem-in-lesko-county-subcarpathi.html)
+
+
 - [The Unsung All-American: Exploring the Legacy of Navy Gridiron Star Wendell Taylor](https://yacine-l.github.io/hot-info/2025/12/26/the-unsung-all-american-exploring-the-legacy-of-navy-gridiro.html)
 
 
