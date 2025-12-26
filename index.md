@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Professor Ramesh Narayan: Architect of Black Hole Accretion Theory and the EHT Breakthrough
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/professor-ramesh-narayan-architect-of-black-hole-accretion-t.html)
+
+
 - [The Extended Range Revolution: Everything You Need to Know About the Five-String Violin](https://yacine-l.github.io/hot-info/2025/12/26/the-extended-range-revolution-everything-you-need-to-know-ab.html)
 
 
