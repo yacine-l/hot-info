@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Evolution of Light: How Movie Projectors Shaped Cinema Technology](https://yacine-l.github.io/hot-info/2025/12/26/the-evolution-of-light-how-movie-projectors-shaped-cinema-te.html)
+
+
 - [Predejane, Serbia: The Vital Gateway of the Grdelica Gorge and E-75 Route](https://yacine-l.github.io/hot-info/2025/12/26/predejane-serbia-the-vital-gateway-of-the-grdelica-gorge-and.html)
 
 
