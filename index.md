@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Dick's Picks Volume 12: The Essential 1974 Wall of Sound Archive (Providence & Boston)
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/dicks-picks-volume-12-the-essential-1974-wall-of-sound-archi.html)
+
+
 - [** Catching the Current: Everything You Need to Know About the Missoula PaddleHeads, the Pioneer League Powerhouse
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/catching-the-current-everything-you-need-to-know-about-the-m.html)
