@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enduring Power of the "Love Letter": Deconstructing Nick Cave’s Masterful Ballad](https://yacine-l.github.io/hot-info/2025/12/26/the-enduring-power-of-the-love-letter-deconstructing-nick-ca.html)
+
+
 - [Mario Kart 7 Legacy: Why the Nintendo 3DS Racer Defined a Generation of Portable Racing](https://yacine-l.github.io/hot-info/2025/12/26/mario-kart-7-legacy-why-the-nintendo-3ds-racer-defined-a-gen.html)
 
 
