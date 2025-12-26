@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Nová Ves u Nového Města na Moravě: A Hidden Gem in the Heart of the Vysočina Region](https://yacine-l.github.io/hot-info/2025/12/26/nov-ves-u-novho-msta-na-morav-a-hidden-gem-in-the-heart-of-t.html)
+
+
 - [Siege of Kehl (1796–1797)](https://yacine-l.github.io/hot-info/2025/12/26/siege-of-kehl-17961797.html)
 
 
