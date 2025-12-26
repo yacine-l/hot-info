@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Last Inch (1959): A Deep Dive into the Soviet Survival Masterpiece](https://yacine-l.github.io/hot-info/2025/12/26/the-last-inch-1959-a-deep-dive-into-the-soviet-survival-mast.html)
+
+
 - [** Mille Gejl: The Creative Force Driving Denmark’s Midfield and HB Køge Success
 **](https://yacine-l.github.io/hot-info/2025/12/26/mille-gejl-the-creative-force-driving-denmarks-midfield-and-.html)
 
