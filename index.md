@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Anton Bobyor: The Enduring Legacy of Krylia Sovetov’s Loyal Midfield Maestro](https://yacine-l.github.io/hot-info/2025/12/26/anton-bobyor-the-enduring-legacy-of-krylia-sovetovs-loyal-mi.html)
+
+
 - [** Pranayamanithooval (2002): Exploring the Charm of the Malayalam Romantic Remake Starring Vineeth Kumar and Gopika
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/pranayamanithooval-2002-exploring-the-charm-of-the-malayalam.html)
