@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Todd Young: A Deep Dive into the Career and Influence of Indiana’s Senior Senator
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/todd-young-a-deep-dive-into-the-career-and-influence-of-indi.html)
+
+
 - [The Echo of Sarajevo: Bogdan Žerajić and the 1910 Catalyst for Balkan Revolution](https://yacine-l.github.io/hot-info/2025/12/26/the-echo-of-sarajevo-bogdan-eraji-and-the-1910-catalyst-for-.html)
 
 
