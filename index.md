@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Castle Craig Hospital: A Scottish Sanctuary for Residential Addiction Treatment](https://yacine-l.github.io/hot-info/2025/12/26/castle-craig-hospital-a-scottish-sanctuary-for-residential-a.html)
+
+
 - [Edgar Huntly: Exploring the Wilderness Anxiety of Charles Brockden Brown's Gothic Masterpiece](https://yacine-l.github.io/hot-info/2025/12/26/edgar-huntly-exploring-the-wilderness-anxiety-of-charles-bro.html)
 
 
