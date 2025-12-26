@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Sid Rawle: The Untamed Legacy of the King of the Hippies and Britain's Squatters Movement Leader](https://yacine-l.github.io/hot-info/2025/12/26/sid-rawle-the-untamed-legacy-of-the-king-of-the-hippies-and-.html)
+
+
 - [Hoffellsjökull Guide: Exploring Iceland’s Majestic Outlet Glacier in Vatnajökull National Park](https://yacine-l.github.io/hot-info/2025/12/26/hoffellsjkull-guide-exploring-icelands-majestic-outlet-glaci.html)
 
 
