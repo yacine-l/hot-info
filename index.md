@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Desna Barracks Airstrike: Analysis of a Devastating Attack in Chernihiv Oblast](https://yacine-l.github.io/hot-info/2025/12/26/the-desna-barracks-airstrike-analysis-of-a-devastating-attac.html)
+
+
 - [Mark Littlewood: The Evolution of a Think Tank Titan and Political Strategist](https://yacine-l.github.io/hot-info/2025/12/26/mark-littlewood-the-evolution-of-a-think-tank-titan-and-poli.html)
 
 
