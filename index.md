@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Profundiconus lani: Unveiling the Mysteries of the Deep-Sea Cone Snail and the Profundity of Conidae Research
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/profundiconus-lani-unveiling-the-mysteries-of-the-deep-sea-c.html)
+
+
 - [** John F. Murtaugh: The Architect of New York Law and Politics in the Progressive Era
 **](https://yacine-l.github.io/hot-info/2025/12/26/john-f-murtaugh-the-architect-of-new-york-law-and-politics-i.html)
 
