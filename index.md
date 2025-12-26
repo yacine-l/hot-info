@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** François Ignace Schaal: The Enduring Legacy of a French Revolutionary General and Napoleonic Statesman
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/franois-ignace-schaal-the-enduring-legacy-of-a-french-revolu.html)
+
+
 - [Dana Beal: The Yippie Activist Who Fought for Revolutionary Addiction Treatment and Marijuana Legalization](https://yacine-l.github.io/hot-info/2025/12/26/dana-beal-the-yippie-activist-who-fought-for-revolutionary-a.html)
 
 
