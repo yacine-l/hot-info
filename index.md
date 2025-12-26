@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Rise of Najmat Jeddah FC: Cornerstone of the Saudi Women’s Football Revolution](https://yacine-l.github.io/hot-info/2025/12/26/the-rise-of-najmat-jeddah-fc-cornerstone-of-the-saudi-womens.html)
+
+
 - [San Guillermo Parish Church Bacolor: Exploring Pampanga’s Sunken Architectural Gem](https://yacine-l.github.io/hot-info/2025/12/26/san-guillermo-parish-church-bacolor-exploring-pampangas-sunk.html)
 
 
