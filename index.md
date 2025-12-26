@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [2012 Liga Indonesia Premier Division final](https://yacine-l.github.io/hot-info/2025/12/26/2012-liga-indonesia-premier-division-final.html)
+
+
 - [** SK Kladno: The Enduring Legacy of Kladno's Steel City Football Club and the Quest for the Top Tier
 **](https://yacine-l.github.io/hot-info/2025/12/26/sk-kladno-the-enduring-legacy-of-kladnos-steel-city-football.html)
 
