@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [John Seery: Unpacking the Dynamic World of Lyrical Abstraction](https://yacine-l.github.io/hot-info/2025/12/26/john-seery-unpacking-the-dynamic-world-of-lyrical-abstractio.html)
+
+
 - [Antonio Marras: The Sardinian Storyteller Weaving Fashion and History](https://yacine-l.github.io/hot-info/2025/12/26/antonio-marras-the-sardinian-storyteller-weaving-fashion-and.html)
 
 
