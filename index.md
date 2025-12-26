@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Malaysian Pied Fantail: Unmasking the Mysterious "Crazy Thrush" of Southeast Asia](https://yacine-l.github.io/hot-info/2025/12/26/the-malaysian-pied-fantail-unmasking-the-mysterious-crazy-th.html)
+
+
 - [Patrícia Pereira dos Santos: The Inspiring Journey of Brazil’s Paralympic Swimming Star](https://yacine-l.github.io/hot-info/2025/12/26/patrcia-pereira-dos-santos-the-inspiring-journey-of-brazils-.html)
 
 
