@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [PP-123 Toba Tek Singh-V: A Deep Dive into the Political Dynamics of a Key Punjab Constituency](https://yacine-l.github.io/hot-info/2025/12/26/pp-123-toba-tek-singh-v-a-deep-dive-into-the-political-dynam.html)
+
+
 - [Nadia Matar](https://yacine-l.github.io/hot-info/2025/12/26/nadia-matar.html)
 
 
