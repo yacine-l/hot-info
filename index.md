@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Otnice: Discovering the Quiet Charm of a South Moravian Village in Vyškov District](https://yacine-l.github.io/hot-info/2025/12/26/otnice-discovering-the-quiet-charm-of-a-south-moravian-villa.html)
+
+
 - [Kyle Whisner: From the ARCA Menards West Series Grid to the Silver Screen](https://yacine-l.github.io/hot-info/2025/12/26/kyle-whisner-from-the-arca-menards-west-series-grid-to-the-s.html)
 
 
