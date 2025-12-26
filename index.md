@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Hämeenlinnan Härmä](https://yacine-l.github.io/hot-info/2025/12/26/hmeenlinnan-hrm.html)
+
+
 - [The Taeyangho Armoured Train: Inside North Korea’s Moving Fortress and Air Force One on Rails](https://yacine-l.github.io/hot-info/2025/12/26/the-taeyangho-armoured-train-inside-north-koreas-moving-fort.html)
 
 
