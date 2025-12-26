@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Golden Standard: Why Classical Latin Defined the Western Literary Tradition](https://yacine-l.github.io/hot-info/2025/12/26/the-golden-standard-why-classical-latin-defined-the-western-.html)
+
+
 - [Vergennes, Vermont: Why This Tiny Historic City is Addison County’s Hidden Gem](https://yacine-l.github.io/hot-info/2025/12/26/vergennes-vermont-why-this-tiny-historic-city-is-addison-cou.html)
 
 
