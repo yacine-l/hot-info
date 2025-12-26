@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Unsettling Symphony: Analyzing the M3GAN Soundtrack and Anthony Willis's Masterpiece](https://yacine-l.github.io/hot-info/2025/12/26/the-unsettling-symphony-analyzing-the-m3gan-soundtrack-and-a.html)
+
+
 - [** Rinus Paul: The Dutch Cycling Pioneer Who Conquered Both Track and Road
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/rinus-paul-the-dutch-cycling-pioneer-who-conquered-both-trac.html)
