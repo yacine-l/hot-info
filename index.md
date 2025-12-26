@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Aiello del Friuli Travel Guide: Discovering the Hidden History of Udine's Crossroads
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/aiello-del-friuli-travel-guide-discovering-the-hidden-histor.html)
+
+
 - [Alphons Orie: The Legacy of the Dutch Jurist and ICTY Trial Chamber Judge](https://yacine-l.github.io/hot-info/2025/12/26/alphons-orie-the-legacy-of-the-dutch-jurist-and-icty-trial-c.html)
 
 
