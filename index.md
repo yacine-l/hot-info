@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Task Force Sinai: The Quiet US Commitment to Peace in the Multinational Force and Observers (MFO)](https://yacine-l.github.io/hot-info/2025/12/26/task-force-sinai-the-quiet-us-commitment-to-peace-in-the-mul.html)
+
+
 - [The Original Sins: Unearthing the Lost Gods of Bethlehem PA Garage Rock](https://yacine-l.github.io/hot-info/2025/12/26/the-original-sins-unearthing-the-lost-gods-of-bethlehem-pa-g.html)
 
 
