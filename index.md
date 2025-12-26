@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Landestrost Castle: A Masterpiece of Weser Renaissance and the Urban Fortress of Duke Eric II
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/landestrost-castle-a-masterpiece-of-weser-renaissance-and-th.html)
+
+
 - [The Future of the Indian Navy: From Buyer to Builder – Charting the Course to 2035](https://yacine-l.github.io/hot-info/2025/12/26/the-future-of-the-indian-navy-from-buyer-to-builder-charting.html)
 
 
