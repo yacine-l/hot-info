@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [OGLE-2007-BLG-349Lb: The Microlensing Pioneer Orbiting Two Suns](https://yacine-l.github.io/hot-info/2025/12/26/ogle-2007-blg-349lb-the-microlensing-pioneer-orbiting-two-su.html)
+
+
 - [** Serica feresegregata: Unveiling the Enigmatic Scarab Beetle of Indian Biodiversity
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/serica-feresegregata-unveiling-the-enigmatic-scarab-beetle-o.html)
