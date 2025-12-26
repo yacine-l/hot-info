@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Captain Thomas Webb: The Military Pioneer Who Founded American Methodism](https://yacine-l.github.io/hot-info/2025/12/26/captain-thomas-webb-the-military-pioneer-who-founded-america.html)
+
+
 - [** Owen Sheers: The Welsh Literary Force Bridging Poetry, Conflict, and Rugby
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/owen-sheers-the-welsh-literary-force-bridging-poetry-conflic.html)
