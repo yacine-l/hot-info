@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mikawa-Anjō Station: The Essential Shinkansen Gateway to Aichi's Industrial Heart](https://yacine-l.github.io/hot-info/2025/12/26/mikawa-anj-station-the-essential-shinkansen-gateway-to-aichi.html)
+
+
 - [Bulduri Station Guide: Jūrmala's Coastal Gateway on the Torņakalns – Tukums II Railway](https://yacine-l.github.io/hot-info/2025/12/26/bulduri-station-guide-jrmalas-coastal-gateway-on-the-torakal.html)
 
 
