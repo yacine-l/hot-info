@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [PAAT Protein (C10orf88): The ABC Transporter Link to Ferric Metabolism and Rare Alzheimer's Disease](https://yacine-l.github.io/hot-info/2025/12/26/paat-protein-c10orf88-the-abc-transporter-link-to-ferric-met.html)
+
+
 - [Tymoteusz Paweł Gorzeński](https://yacine-l.github.io/hot-info/2025/12/26/tymoteusz-pawe-gorzeski.html)
 
 
