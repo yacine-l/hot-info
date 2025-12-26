@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mario Kart 7 Legacy: Why the Nintendo 3DS Racer Defined a Generation of Portable Racing](https://yacine-l.github.io/hot-info/2025/12/26/mario-kart-7-legacy-why-the-nintendo-3ds-racer-defined-a-gen.html)
+
+
 - [Pictometry International: Unlocking the Power of 45-Degree High-Resolution Aerial Measurement](https://yacine-l.github.io/hot-info/2025/12/26/pictometry-international-unlocking-the-power-of-45-degree-hi.html)
 
 
