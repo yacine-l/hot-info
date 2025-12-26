@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Hagerty House Marshall Texas: A Gilded Age History of Rail, Exile, and Architecture
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-hagerty-house-marshall-texas-a-gilded-age-history-of-rai.html)
+
+
 - [Rainci Gornji: Discovering the Hidden History and Charm of Kalesija’s Quiet Gem](https://yacine-l.github.io/hot-info/2025/12/26/rainci-gornji-discovering-the-hidden-history-and-charm-of-ka.html)
 
 
