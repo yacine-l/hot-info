@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [In Real Life Worldwide Tour](https://yacine-l.github.io/hot-info/2025/12/26/in-real-life-worldwide-tour.html)
+
+
 - [The Charm of the Other Scotland: A Deep Dive into Scotland, Georgia](https://yacine-l.github.io/hot-info/2025/12/26/the-charm-of-the-other-scotland-a-deep-dive-into-scotland-ge.html)
 
 
