@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Ingenious Engineering of the Fireless Locomotive: How Steam Stored Power Revolutionized Industry](https://yacine-l.github.io/hot-info/2025/12/26/the-ingenious-engineering-of-the-fireless-locomotive-how-ste.html)
+
+
 - [Gopal Chandra Lamichhane: A Pillar of Nepali Cinema and General Secretary of the Nepal Film Directors Guild](https://yacine-l.github.io/hot-info/2025/12/26/gopal-chandra-lamichhane-a-pillar-of-nepali-cinema-and-gener.html)
 
 
