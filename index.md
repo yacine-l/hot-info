@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [SV Schermbeck: A Deep Dive into Schermbeck’s Premier Multi-Sport Club and Football History](https://yacine-l.github.io/hot-info/2025/12/26/sv-schermbeck-a-deep-dive-into-schermbecks-premier-multi-spo.html)
+
+
 - [** The Enduring Legacy of Lubal: Preserving Franklinton’s Industrial History at 373 & 375 West Rich Street
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-enduring-legacy-of-lubal-preserving-franklintons-industr.html)
