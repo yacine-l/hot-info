@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Sean McMahon: The Unstoppable Flanker Dominating the Japanese Top League](https://yacine-l.github.io/hot-info/2025/12/26/sean-mcmahon-the-unstoppable-flanker-dominating-the-japanese.html)
+
+
 - [Lordi: How Finnish Monster Rock Conquered Eurovision and Redefined Shock Metal](https://yacine-l.github.io/hot-info/2025/12/26/lordi-how-finnish-monster-rock-conquered-eurovision-and-rede.html)
 
 
