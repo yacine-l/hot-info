@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Gingoog–Claveria–Villanueva Road: Misamis Oriental's Strategic Mountain Highway and Scenic Bypass](https://yacine-l.github.io/hot-info/2025/12/26/the-gingoogclaveriavillanueva-road-misamis-orientals-strateg.html)
+
+
 - [** We Weren't Given Anything for Free: Annita Malavasi and the Untold Story of the Italian Resistance
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/we-werent-given-anything-for-free-annita-malavasi-and-the-un.html)
