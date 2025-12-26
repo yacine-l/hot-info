@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** General Álvaro de Lacalle Leloup: Navigating Spain's Military Transition as Chief of Staff (1982–1984)
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/general-lvaro-de-lacalle-leloup-navigating-spains-military-t.html)
+
+
 - [Otnice: Discovering the Quiet Charm of a South Moravian Village in Vyškov District](https://yacine-l.github.io/hot-info/2025/12/26/otnice-discovering-the-quiet-charm-of-a-south-moravian-villa.html)
 
 
