@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Urogymnus Unveiled: The Stingray Genus Defined by Absence and Adaptation](https://yacine-l.github.io/hot-info/2025/12/26/urogymnus-unveiled-the-stingray-genus-defined-by-absence-and.html)
+
+
 - [Aim Rocks Antarctica: How a Line of Stone Guides Safe Passage Through Morton Strait](https://yacine-l.github.io/hot-info/2025/12/26/aim-rocks-antarctica-how-a-line-of-stone-guides-safe-passage.html)
 
 
