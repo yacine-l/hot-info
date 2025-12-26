@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Shostakovich’s Swan Song: Unpacking the Power of the Suite on Verses of Michelangelo Buonarroti (Op. 145)
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/shostakovichs-swan-song-unpacking-the-power-of-the-suite-on-.html)
+
+
 - [Adrienne W. Hoard: Pioneering Abstraction and the Globally Influenced Shaped Canvas](https://yacine-l.github.io/hot-info/2025/12/26/adrienne-w-hoard-pioneering-abstraction-and-the-globally-inf.html)
 
 
