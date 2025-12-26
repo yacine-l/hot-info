@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Darkness Returns: Everything We Know About the New Album, Dreams on Toast (2025)](https://yacine-l.github.io/hot-info/2025/12/26/the-darkness-returns-everything-we-know-about-the-new-album-.html)
+
+
 - [The Enduring Elegance of the Chhatri: A Cornerstone of Indian and Indo-Islamic Architecture](https://yacine-l.github.io/hot-info/2025/12/26/the-enduring-elegance-of-the-chhatri-a-cornerstone-of-indian.html)
 
 
