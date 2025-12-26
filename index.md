@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Chaturdasa Devata: Unveiling the Ancient Fourteen Gods of Tripura](https://yacine-l.github.io/hot-info/2025/12/26/the-chaturdasa-devata-unveiling-the-ancient-fourteen-gods-of.html)
+
+
 - [Addlove Bakery: The Rise of Sichuan’s Premier Chinese Bakery Chain](https://yacine-l.github.io/hot-info/2025/12/26/addlove-bakery-the-rise-of-sichuans-premier-chinese-bakery-c.html)
 
 
