@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Duke Wore Jeans (1958): Why Tommy Steele’s Rock ‘n’ Roll Comedy Still Matters](https://yacine-l.github.io/hot-info/2025/12/26/the-duke-wore-jeans-1958-why-tommy-steeles-rock-n-roll-comed.html)
+
+
 - [Candela Serrat: Tracing the Career of the Spanish Actress Who Captivated Audiences in Seis Hermanas](https://yacine-l.github.io/hot-info/2025/12/26/candela-serrat-tracing-the-career-of-the-spanish-actress-who.html)
 
 
