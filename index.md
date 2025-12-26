@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Nureddine El-Rifai: The Technocrat Who Bridged Lebanon’s Internal Security Forces and the Premiership](https://yacine-l.github.io/hot-info/2025/12/26/nureddine-el-rifai-the-technocrat-who-bridged-lebanons-inter.html)
+
+
 - [Song of the Silent Land: Revisiting Constellation Records' Essential 2004 Compilation of Rare Post-Rock Gems](https://yacine-l.github.io/hot-info/2025/12/26/song-of-the-silent-land-revisiting-constellation-records-ess.html)
 
 
