@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Rob Tejeda: The Dominican Fireballer’s Journey Across the MLB](https://yacine-l.github.io/hot-info/2025/12/26/rob-tejeda-the-dominican-fireballers-journey-across-the-mlb.html)
+
+
 - [Villaute, Burgos: Discovering the Tranquil Heart of Castilian Spain](https://yacine-l.github.io/hot-info/2025/12/26/villaute-burgos-discovering-the-tranquil-heart-of-castilian-.html)
 
 
