@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Hanging Tree: Deep Dive into Ben Aaronovitch’s Sixth Peter Grant Novel and the Mysteries of Highgate
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-hanging-tree-deep-dive-into-ben-aaronovitchs-sixth-peter.html)
+
+
 - [** The Kronan Shipwreck: Tragedy, Treasure, and the Fall of the Swedish Naval Flagship
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-kronan-shipwreck-tragedy-treasure-and-the-fall-of-the-sw.html)
