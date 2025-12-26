@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Orocué Colombia: Discovering the Historical Gem of Casanare and the Meta River
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/orocu-colombia-discovering-the-historical-gem-of-casanare-an.html)
+
+
 - [Fyodor Stepun: The Exile Philosopher Who Bridged Russian and German Thought](https://yacine-l.github.io/hot-info/2025/12/26/fyodor-stepun-the-exile-philosopher-who-bridged-russian-and-.html)
 
 
