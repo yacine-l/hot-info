@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Sinn Féin Surge: Detailed Analysis of the 2023 Newry, Mourne and Down District Council Election Results
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-sinn-fin-surge-detailed-analysis-of-the-2023-newry-mourn.html)
+
+
 - [** Sigfred: The Forgotten Danish King Who Ignited 15 Years of Civil War (812–827)
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/sigfred-the-forgotten-danish-king-who-ignited-15-years-of-ci.html)
