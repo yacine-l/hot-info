@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Westmoreland Eastern Constituency: Geography, Politics, and the Rise of Daniel Lawrence MP
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/westmoreland-eastern-constituency-geography-politics-and-the.html)
+
+
 - [Driving World Tour](https://yacine-l.github.io/hot-info/2025/12/26/driving-world-tour.html)
 
 
