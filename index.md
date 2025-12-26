@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Grand Green Osaka: The Definitive Guide to Osaka’s Massive New 24-Hectare Umekita Park (Opened Sept 2024)](https://yacine-l.github.io/hot-info/2025/12/26/grand-green-osaka-the-definitive-guide-to-osakas-massive-new.html)
+
+
 - [Lancaster (UK Parliament constituency)](https://yacine-l.github.io/hot-info/2025/12/26/lancaster-uk-parliament-constituency.html)
 
 
