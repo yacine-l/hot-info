@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Paloalto Rapper: The Undisputed Architect of Korean Hip Hop and Founder of Hi-Lite Records](https://yacine-l.github.io/hot-info/2025/12/26/paloalto-rapper-the-undisputed-architect-of-korean-hip-hop-a.html)
+
+
 - [Jimmie Johnson Dominates the Desert: Revisiting the 2005 UAW-DaimlerChrysler 400 Victory](https://yacine-l.github.io/hot-info/2025/12/26/jimmie-johnson-dominates-the-desert-revisiting-the-2005-uaw-.html)
 
 
