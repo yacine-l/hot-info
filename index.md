@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Ambiorix Burgos: The Hard-Throwing Dominican Pitcher for the Kansas City Royals and New York Mets](https://yacine-l.github.io/hot-info/2025/12/26/ambiorix-burgos-the-hard-throwing-dominican-pitcher-for-the-.html)
+
+
 - [** Professor Ramesh Narayan: Architect of Black Hole Accretion Theory and the EHT Breakthrough
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/professor-ramesh-narayan-architect-of-black-hole-accretion-t.html)
