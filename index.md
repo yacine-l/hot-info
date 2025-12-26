@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Elza Kövesházi-Kalmár: The Hungarian Sculptor Who Bridged Art Nouveau and Art Deco](https://yacine-l.github.io/hot-info/2025/12/26/elza-kveshzi-kalmr-the-hungarian-sculptor-who-bridged-art-no.html)
+
+
 - [** The Last Stand of Luxury: Exploring the Armstrong Siddeley Sapphire (1952–1960)
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-last-stand-of-luxury-exploring-the-armstrong-siddeley-sa.html)
