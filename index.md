@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Township Rollers F.C.: Unpacking the Legacy of Popa, Botswana's Most Successful Football Club
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/township-rollers-fc-unpacking-the-legacy-of-popa-botswanas-m.html)
+
+
 - [** Already Dead: Joe Pitt, Vampire Noir, and the Gritty Birth of Charlie Huston’s Casebooks
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/already-dead-joe-pitt-vampire-noir-and-the-gritty-birth-of-c.html)
