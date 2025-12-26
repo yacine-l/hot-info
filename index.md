@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Decoding Literacy Excellence: Why the Journal of Adolescent & Adult Literacy (JAAL) is Essential Reading
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/decoding-literacy-excellence-why-the-journal-of-adolescent-a.html)
+
+
 - [D.V. Sadananda Gowda: Journey from Karnataka CM to Pivotal Union Cabinet Minister](https://yacine-l.github.io/hot-info/2025/12/26/dv-sadananda-gowda-journey-from-karnataka-cm-to-pivotal-unio.html)
 
 
