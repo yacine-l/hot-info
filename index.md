@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Triumph in the North: Recapping the XX Island Games in Orkney 2025](https://yacine-l.github.io/hot-info/2025/12/26/triumph-in-the-north-recapping-the-xx-island-games-in-orkney.html)
+
+
 - [Jules Jacques Veyrassat: The Barbizon Master Who Painted the Soul of Animals](https://yacine-l.github.io/hot-info/2025/12/26/jules-jacques-veyrassat-the-barbizon-master-who-painted-the-.html)
 
 
