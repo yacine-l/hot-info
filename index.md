@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** La Rioja Spain Travel Guide: Discovering the Best Wine, Tapas, and History in the Least Populated Autonomous Community
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/la-rioja-spain-travel-guide-discovering-the-best-wine-tapas-.html)
+
+
 - [The Configuration Model: Generating Networks with Precise Degree Sequences and Arbitrary Distributions](https://yacine-l.github.io/hot-info/2025/12/26/the-configuration-model-generating-networks-with-precise-deg.html)
 
 
