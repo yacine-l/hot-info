@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Vule Trivunović: The Defensive Rock and Managerial Mind of Bosnian Football
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/vule-trivunovi-the-defensive-rock-and-managerial-mind-of-bos.html)
+
+
 - [** Zhu Guanghu: The Architect of Shenzhen's CSL Glory and China's Pivotal Coach
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/zhu-guanghu-the-architect-of-shenzhens-csl-glory-and-chinas-.html)
