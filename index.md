@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Discovering Alberta, Virginia: Small Town Charm Along the Historic Route 1 Corridor](https://yacine-l.github.io/hot-info/2025/12/26/discovering-alberta-virginia-small-town-charm-along-the-hist.html)
+
+
 - [** Hubert Cecil Booth: The Forgotten Engineer Who Invented the Modern Powered Vacuum Cleaner
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/hubert-cecil-booth-the-forgotten-engineer-who-invented-the-m.html)
