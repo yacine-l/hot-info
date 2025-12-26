@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Elusive Jewel of the Chocó: A Comprehensive Guide to the Chocó Trogon](https://yacine-l.github.io/hot-info/2025/12/26/the-elusive-jewel-of-the-choc-a-comprehensive-guide-to-the-c.html)
+
+
 - [Squanch Games](https://yacine-l.github.io/hot-info/2025/12/26/squanch-games.html)
 
 
