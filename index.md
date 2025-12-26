@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Andrew Poturalski: From AHL MVP to KHL Star Center with Avangard Omsk](https://yacine-l.github.io/hot-info/2025/12/26/andrew-poturalski-from-ahl-mvp-to-khl-star-center-with-avang.html)
+
+
 - [Urogymnus Unveiled: The Stingray Genus Defined by Absence and Adaptation](https://yacine-l.github.io/hot-info/2025/12/26/urogymnus-unveiled-the-stingray-genus-defined-by-absence-and.html)
 
 
