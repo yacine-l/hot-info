@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [One Law for All (1920): Unearthing the Silent Western Legacy of Hoot Gibson and Leo D. Maloney](https://yacine-l.github.io/hot-info/2025/12/26/one-law-for-all-1920-unearthing-the-silent-western-legacy-of.html)
+
+
 - [James Hamilton, 3rd Duke of Abercorn: Architect of Northern Ireland's Governorship](https://yacine-l.github.io/hot-info/2025/12/26/james-hamilton-3rd-duke-of-abercorn-architect-of-northern-ir.html)
 
 
