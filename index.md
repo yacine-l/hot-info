@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Taltala High School: A Legacy of Education Since 1910 in Entally, Kolkata](https://yacine-l.github.io/hot-info/2025/12/26/taltala-high-school-a-legacy-of-education-since-1910-in-enta.html)
+
+
 - [The Ultimate Guide to 1Password: Securing Your Digital Life with an Encrypted Vault](https://yacine-l.github.io/hot-info/2025/12/26/the-ultimate-guide-to-1password-securing-your-digital-life-w.html)
 
 
