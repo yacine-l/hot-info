@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Musical Revolution: A Deep Dive into The Hunger Games: Catching Fire Soundtrack and Its Impact](https://yacine-l.github.io/hot-info/2025/12/26/the-musical-revolution-a-deep-dive-into-the-hunger-games-cat.html)
+
+
 - [Matthew Butler](https://yacine-l.github.io/hot-info/2025/12/26/matthew-butler.html)
 
 
