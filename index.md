@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Sleaford Mods: Decoding the Minimalist Fury of Post-Punk’s Angriest Duo
+
+###](https://yacine-l.github.io/hot-info/2025/12/26/sleaford-mods-decoding-the-minimalist-fury-of-post-punks-ang.html)
+
+
 - [** Decoding Literacy Excellence: Why the Journal of Adolescent & Adult Literacy (JAAL) is Essential Reading
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/decoding-literacy-excellence-why-the-journal-of-adolescent-a.html)
