@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Missy Elliott's "One Minute Man": Analyzing the Timbaland Beat and Revolutionary Lyrics of a 2001 Hip-Hop Classic
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/missy-elliotts-one-minute-man-analyzing-the-timbaland-beat-a.html)
+
+
 - [** Landestrost Castle: A Masterpiece of Weser Renaissance and the Urban Fortress of Duke Eric II
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/landestrost-castle-a-masterpiece-of-weser-renaissance-and-th.html)
