@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Unmasking F8A1: The Dual-Function Gene Linking Hemophilia A and Huntington’s Disease](https://yacine-l.github.io/hot-info/2025/12/26/unmasking-f8a1-the-dual-function-gene-linking-hemophilia-a-a.html)
+
+
 - [** The Ultimate Guide to the Mall of America Station: Your Gateway to Minnesota’s Busiest Transit Hub
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-ultimate-guide-to-the-mall-of-america-station-your-gatew.html)
