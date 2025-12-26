@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Charm of the Other Scotland: A Deep Dive into Scotland, Georgia](https://yacine-l.github.io/hot-info/2025/12/26/the-charm-of-the-other-scotland-a-deep-dive-into-scotland-ge.html)
+
+
 - [Claude Carter Cricketer: The Left-Arm Spinner Who Bridged South African Cricket’s WWI Divide](https://yacine-l.github.io/hot-info/2025/12/26/claude-carter-cricketer-the-left-arm-spinner-who-bridged-sou.html)
 
 
