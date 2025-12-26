@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Spectacle in the Snow: Revisiting the 2016 NHL Stadium Series at TCF Bank Stadium and Coors Field](https://yacine-l.github.io/hot-info/2025/12/26/the-spectacle-in-the-snow-revisiting-the-2016-nhl-stadium-se.html)
+
+
 - [** The Definitive Guide to Southend University Hospital: Services, Management, and Community Care
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-definitive-guide-to-southend-university-hospital-service.html)
