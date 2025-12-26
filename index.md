@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Peter Toms RA: The 18th-Century Master of Drapery, Royal Academician, and Royal Herald](https://yacine-l.github.io/hot-info/2025/12/26/peter-toms-ra-the-18th-century-master-of-drapery-royal-acade.html)
+
+
 - [** Church of St Thomas the Martyr Monmouth: Unveiling the Norman Jewel by Monnow Bridge
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/church-of-st-thomas-the-martyr-monmouth-unveiling-the-norman.html)
