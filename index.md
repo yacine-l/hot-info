@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Squanch Games](https://yacine-l.github.io/hot-info/2025/12/26/squanch-games.html)
+
+
 - [** The Beat That Broke Them: Revisiting "Baby," Pnau’s Essential 2008 Electro-House Anthem
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-beat-that-broke-them-revisiting-baby-pnaus-essential-200.html)
 
