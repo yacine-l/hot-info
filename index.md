@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Jan Howard’s 1969 Album: The Story Behind "My Son" and the Vietnam War's Most Heartbreaking Ballad
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/jan-howards-1969-album-the-story-behind-my-son-and-the-vietn.html)
+
+
 - [Sheikh Saad Buh: The Moorish Sufi Master Who Defined Senegalo-Mauritanian Colonial History](https://yacine-l.github.io/hot-info/2025/12/26/sheikh-saad-buh-the-moorish-sufi-master-who-defined-senegalo.html)
 
 
