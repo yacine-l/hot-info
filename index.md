@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Jagadeka Veerudu Athiloka Sundari: How Chiranjeevi and Sridevi Created the Ultimate 1990s Telugu Fantasy Blockbuster
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/jagadeka-veerudu-athiloka-sundari-how-chiranjeevi-and-sridev.html)
+
+
 - [Kasamori-ji: The Spectacular Stage Temple and Hidden Kannon of Chiba's Bandō Pilgrimage](https://yacine-l.github.io/hot-info/2025/12/26/kasamori-ji-the-spectacular-stage-temple-and-hidden-kannon-o.html)
 
 
