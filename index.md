@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Rainci Gornji: Discovering the Hidden History and Charm of Kalesija’s Quiet Gem](https://yacine-l.github.io/hot-info/2025/12/26/rainci-gornji-discovering-the-hidden-history-and-charm-of-ka.html)
+
+
 - [Gerson Gu-Konu: The Activist, Parliamentarian, and Unsung Hero of Togolese Human Rights](https://yacine-l.github.io/hot-info/2025/12/26/gerson-gu-konu-the-activist-parliamentarian-and-unsung-hero-.html)
 
 
