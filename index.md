@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Sigfred: The Forgotten Danish King Who Ignited 15 Years of Civil War (812–827)
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/sigfred-the-forgotten-danish-king-who-ignited-15-years-of-ci.html)
+
+
 - [The Price of Obsession: Unmasking the Twisted Plot Behind the Joey Fischer Murder](https://yacine-l.github.io/hot-info/2025/12/26/the-price-of-obsession-unmasking-the-twisted-plot-behind-the.html)
 
 
