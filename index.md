@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Owen Sheers: The Welsh Literary Force Bridging Poetry, Conflict, and Rugby
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/owen-sheers-the-welsh-literary-force-bridging-poetry-conflic.html)
+
+
 - [Michael Dunkley: From Dairy Mogul to Premier of Bermuda – A Political and Business Legacy](https://yacine-l.github.io/hot-info/2025/12/26/michael-dunkley-from-dairy-mogul-to-premier-of-bermuda-a-pol.html)
 
 
