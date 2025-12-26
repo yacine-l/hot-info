@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Night the Palace Burned: Unpacking the Great Mexico City Riot of 1692
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-night-the-palace-burned-unpacking-the-great-mexico-city-.html)
+
+
 - [Hämeenlinnan Härmä](https://yacine-l.github.io/hot-info/2025/12/26/hmeenlinnan-hrm.html)
 
 
