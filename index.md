@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Jerry Vandam: Tracing the Career Trajectory of the Veteran French Right-Back, from Youth Academies to IC Croix
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/jerry-vandam-tracing-the-career-trajectory-of-the-veteran-fr.html)
+
+
 - [** Historic Elegance in Rush County: Unpacking the Bungalow Beauty of the Maurice W. Manche Farmstead
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/historic-elegance-in-rush-county-unpacking-the-bungalow-beau.html)
