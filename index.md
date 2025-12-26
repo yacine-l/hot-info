@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mastering the Urn Problem: The Simple Model That Explains All of Probability
+
+###](https://yacine-l.github.io/hot-info/2025/12/26/mastering-the-urn-problem-the-simple-model-that-explains-all.html)
+
+
 - [Fujifilm X-H2S Review: Why the Speed Flagship Is the Ultimate Professional APS-C Camera](https://yacine-l.github.io/hot-info/2025/12/26/fujifilm-x-h2s-review-why-the-speed-flagship-is-the-ultimate.html)
 
 
