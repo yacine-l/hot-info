@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Altyn Asyr (TM CELL): The Backbone of Turkmenistan’s State-Owned Mobile Network
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/altyn-asyr-tm-cell-the-backbone-of-turkmenistans-state-owned.html)
+
+
 - [Levellers Band: How Folk-Rock Rebels Went from Squats to Glastonbury Headliners**
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/levellers-band-how-folk-rock-rebels-went-from-squats-to-glas.html)
