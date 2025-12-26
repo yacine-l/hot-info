@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** San Lorenzo Tenochtitlán: Unearthing the 1,000-Year Mystery of the Olmec’s First Capital
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/san-lorenzo-tenochtitln-unearthing-the-1000-year-mystery-of-.html)
+
+
 - [Mysteries of the Musk Beetle: Iridescence, Scent, and Survival of a Longhorn Jewel](https://yacine-l.github.io/hot-info/2025/12/26/mysteries-of-the-musk-beetle-iridescence-scent-and-survival-.html)
 
 
