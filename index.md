@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Thirty-Year Genocide: Rethinking Turkey's Destruction of Christian Minorities (1894–1924)](https://yacine-l.github.io/hot-info/2025/12/26/the-thirty-year-genocide-rethinking-turkeys-destruction-of-c.html)
+
+
 - [Kelsea Ballerini’s Third EP, ‘Mount Pleasant’: Release Date, Single Analysis, and What It Means for Country Music in 2025](https://yacine-l.github.io/hot-info/2025/12/26/kelsea-ballerinis-third-ep-mount-pleasant-release-date-singl.html)
 
 
