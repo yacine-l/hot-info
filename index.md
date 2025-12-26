@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Al Batinah Region: The Historical Jewel of Oman’s Coastline Before and After the Split](https://yacine-l.github.io/hot-info/2025/12/26/al-batinah-region-the-historical-jewel-of-omans-coastline-be.html)
+
+
 - [The Altmark Incident: How a WWII Naval Clash in Neutral Waters Saved 300 Prisoners](https://yacine-l.github.io/hot-info/2025/12/26/the-altmark-incident-how-a-wwii-naval-clash-in-neutral-water.html)
 
 
