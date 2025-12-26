@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Paul Cadmus: The Master of Social Satire and Erotic Precision in American Art](https://yacine-l.github.io/hot-info/2025/12/26/paul-cadmus-the-master-of-social-satire-and-erotic-precision.html)
+
+
 - [Pimitespib: A Novel Hsp90 Inhibitor Revolutionizing GIST Treatment](https://yacine-l.github.io/hot-info/2025/12/26/pimitespib-a-novel-hsp90-inhibitor-revolutionizing-gist-trea.html)
 
 
