@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Lisanne Gräwe: Tracing the Rise of Eintracht Frankfurt’s Midfield Engine and German Football Future](https://yacine-l.github.io/hot-info/2025/12/26/lisanne-grwe-tracing-the-rise-of-eintracht-frankfurts-midfie.html)
+
+
 - [** The Hardwood Crossroads: Remembering the 2008–09 UMKC Kangaroos Basketball Season in The Summit League
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-hardwood-crossroads-remembering-the-200809-umkc-kangaroo.html)
