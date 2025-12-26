@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Linda Emond: A Masterclass in Character Acting from Broadway to *Succession*
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/linda-emond-a-masterclass-in-character-acting-from-broadway-.html)
+
+
 - [Unearthing the Magic: A Deep Dive into the Goat Farm Arts Center Atlanta's Industrial Creative Hub](https://yacine-l.github.io/hot-info/2025/12/26/unearthing-the-magic-a-deep-dive-into-the-goat-farm-arts-cen.html)
 
 
