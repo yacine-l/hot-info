@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Day the Earth Shook: Remembering the Port Neal Fertilizer Plant Explosion of 1994](https://yacine-l.github.io/hot-info/2025/12/26/the-day-the-earth-shook-remembering-the-port-neal-fertilizer.html)
+
+
 - [Unlocking Brattleboro’s Past: A Deep Dive into the William Harris House (Built 1768)
 
 ##](https://yacine-l.github.io/hot-info/2025/12/26/unlocking-brattleboros-past-a-deep-dive-into-the-william-har.html)
