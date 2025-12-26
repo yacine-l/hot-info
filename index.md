@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mark Thompson Astronomer: Exploring the Stars with the BBC's Stargazing Live Expert and GMB Scientist**
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/mark-thompson-astronomer-exploring-the-stars-with-the-bbcs-s.html)
+
+
 - [The Quiet Persistence of Creativity: Analyzing Kelly Reichardt’s ‘Showing Up’ and the Working Artist’s Life](https://yacine-l.github.io/hot-info/2025/12/26/the-quiet-persistence-of-creativity-analyzing-kelly-reichard.html)
 
 
