@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Hunter King: How Scott Lee Landed the Home and Away Role Despite Thinking He Failed the Audition
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/hunter-king-how-scott-lee-landed-the-home-and-away-role-desp.html)
+
+
 - [** Luis Torres Díaz: The Chemist, The Poet, and the Father of Puerto Rican Pharmacy History
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/luis-torres-daz-the-chemist-the-poet-and-the-father-of-puert.html)
