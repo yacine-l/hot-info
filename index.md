@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Interurbano Line Costa Rica: Your Essential Guide to Commuter Rail in the GAM](https://yacine-l.github.io/hot-info/2025/12/26/the-interurbano-line-costa-rica-your-essential-guide-to-comm.html)
+
+
 - [The Enduring History of Ellinge Castle: Scania's Architectural Gem](https://yacine-l.github.io/hot-info/2025/12/26/the-enduring-history-of-ellinge-castle-scanias-architectural.html)
 
 
