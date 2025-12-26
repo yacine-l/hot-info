@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Vespasiano, Minas Gerais: The Strategic Gateway to Belo Horizonte and Confins Airport
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/vespasiano-minas-gerais-the-strategic-gateway-to-belo-horizo.html)
+
+
 - [Shape (Go)](https://yacine-l.github.io/hot-info/2025/12/26/shape-go.html)
 
 
