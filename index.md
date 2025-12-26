@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Kiso Village, Nagano: An Essential Guide to the Heart of Japan’s Traditional Kiso Valley
+**](https://yacine-l.github.io/hot-info/2025/12/26/kiso-village-nagano-an-essential-guide-to-the-heart-of-japan.html)
+
+
 - [Thenailles: Discovering the Quiet Charm of a Historic Aisne Commune in Hauts-de-France](https://yacine-l.github.io/hot-info/2025/12/26/thenailles-discovering-the-quiet-charm-of-a-historic-aisne-c.html)
 
 
