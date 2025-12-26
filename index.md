@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Jakhongir Vakhidov](https://yacine-l.github.io/hot-info/2025/12/26/jakhongir-vakhidov.html)
+
+
 - [Karl Svoboda (politician)](https://yacine-l.github.io/hot-info/2025/12/26/karl-svoboda-politician.html)
 
 
