@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Georges Cloetens: The Forgotten Belgian Genius Who Invented the Orphéal and Luthéal](https://yacine-l.github.io/hot-info/2025/12/26/georges-cloetens-the-forgotten-belgian-genius-who-invented-t.html)
+
+
 - [Mel Parsons’ Glass Heart: Why This Award-Winning Album Still Resonates Five Years Later](https://yacine-l.github.io/hot-info/2025/12/26/mel-parsons-glass-heart-why-this-award-winning-album-still-r.html)
 
 
