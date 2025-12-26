@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Charles Gascoigne](https://yacine-l.github.io/hot-info/2025/12/26/charles-gascoigne.html)
+
+
 - [Sean McMahon: The Unstoppable Flanker Dominating the Japanese Top League](https://yacine-l.github.io/hot-info/2025/12/26/sean-mcmahon-the-unstoppable-flanker-dominating-the-japanese.html)
 
 
