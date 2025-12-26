@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Śmiergust: Unmasking the Wild Water Ritual of Wilamowice’s Patchwork Men](https://yacine-l.github.io/hot-info/2025/12/26/miergust-unmasking-the-wild-water-ritual-of-wilamowices-patc.html)
+
+
 - [The Unstoppable Reign of Folu Storms: From Radio Waves to Nollywood Screens](https://yacine-l.github.io/hot-info/2025/12/26/the-unstoppable-reign-of-folu-storms-from-radio-waves-to-nol.html)
 
 
