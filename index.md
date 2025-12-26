@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [James Hamilton, 3rd Duke of Abercorn: Architect of Northern Ireland's Governorship](https://yacine-l.github.io/hot-info/2025/12/26/james-hamilton-3rd-duke-of-abercorn-architect-of-northern-ir.html)
+
+
 - [Wilfred Flowers: The Unsung All-Rounder Who Defined Nottinghamshire Cricket in the Victorian Era](https://yacine-l.github.io/hot-info/2025/12/26/wilfred-flowers-the-unsung-all-rounder-who-defined-nottingha.html)
 
 
