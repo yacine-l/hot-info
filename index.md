@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Unforgettable 2020 Arab Club Champions Cup Final: Raja CA Triumphs in a 4-4 Thriller Against Al-Ittihad Jeddah](https://yacine-l.github.io/hot-info/2025/12/26/the-unforgettable-2020-arab-club-champions-cup-final-raja-ca.html)
+
+
 - [** The Timeless Stone: Exploring the History and Architecture of the Fulton County Courthouse, Indiana
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-timeless-stone-exploring-the-history-and-architecture-of.html)
