@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Langey Legacy: Martin du Bellay and the Definitive Chronicle of the Italian Wars
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-langey-legacy-martin-du-bellay-and-the-definitive-chroni.html)
+
+
 - [** Gladrags Manhunt and Megamodel Contest: The Definitive Launchpad for Indian Modeling Superstars
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/gladrags-manhunt-and-megamodel-contest-the-definitive-launch.html)
