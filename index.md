@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Toxic Titan of Niagara: Unearthing the History of Lake Ontario Ordnance Works (LOOW)](https://yacine-l.github.io/hot-info/2025/12/26/the-toxic-titan-of-niagara-unearthing-the-history-of-lake-on.html)
+
+
 - [The Unforgettable European Adventure: Reviewing the 2021–22 West Ham United Season](https://yacine-l.github.io/hot-info/2025/12/26/the-unforgettable-european-adventure-reviewing-the-202122-we.html)
 
 
