@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Posies' Failure: How a Cassette-Only Debut Defined 80s Power Pop and Launched a Legendary Career
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-posies-failure-how-a-cassette-only-debut-defined-80s-pow.html)
+
+
 - [Castle Craig Hospital: A Scottish Sanctuary for Residential Addiction Treatment](https://yacine-l.github.io/hot-info/2025/12/26/castle-craig-hospital-a-scottish-sanctuary-for-residential-a.html)
 
 
