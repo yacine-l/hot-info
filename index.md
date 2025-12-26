@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Dual Life of U2's "Sweetest Thing": From B-Side Apology to Global Hit](https://yacine-l.github.io/hot-info/2025/12/26/the-dual-life-of-u2s-sweetest-thing-from-b-side-apology-to-g.html)
+
+
 - [** Aleksandr Khazanov: The Mathematical Prodigy Who Vanished
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/aleksandr-khazanov-the-mathematical-prodigy-who-vanished.html)
