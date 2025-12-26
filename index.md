@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Navigating NY Senate District 46: Geography, Politics, and the Role of Patricia Fahy](https://yacine-l.github.io/hot-info/2025/12/26/navigating-ny-senate-district-46-geography-politics-and-the-.html)
+
+
 - [** Donna Summer’s “Work That Magic”: Unearthing the 1991 Dancefloor Gem from *Mistaken Identity*
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/donna-summers-work-that-magic-unearthing-the-1991-dancefloor.html)
