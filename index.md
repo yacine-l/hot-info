@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Ultimate Guide to Japan National Route 327: Hyūga to Aso Scenic Drive](https://yacine-l.github.io/hot-info/2025/12/26/the-ultimate-guide-to-japan-national-route-327-hyga-to-aso-s.html)
+
+
 - [Gianna Maria Canale: The Forgotten Siren of Italian Cinema's Golden Age](https://yacine-l.github.io/hot-info/2025/12/26/gianna-maria-canale-the-forgotten-siren-of-italian-cinemas-g.html)
 
 
