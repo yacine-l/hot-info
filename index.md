@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Essential Guide to the Shad Bake: Decoding Connecticut's Historic Open-Fire Culinary Tradition
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-essential-guide-to-the-shad-bake-decoding-connecticuts-h.html)
+
+
 - [Runoff (2014 Film): Kimberly Levin’s Powerful Drama of Family, Foreclosure, and the Cost of Survival**
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/runoff-2014-film-kimberly-levins-powerful-drama-of-family-fo.html)
