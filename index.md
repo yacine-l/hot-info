@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Mysterious Oenomaus Butterfly Genus: Jewels of the Neotropical Realm](https://yacine-l.github.io/hot-info/2025/12/26/the-mysterious-oenomaus-butterfly-genus-jewels-of-the-neotro.html)
+
+
 - [** Night Life (1982): Unearthing Kōei’s Scandalous Start in the Erotic Simulation Genre
 **](https://yacine-l.github.io/hot-info/2025/12/26/night-life-1982-unearthing-keis-scandalous-start-in-the-erot.html)
 
