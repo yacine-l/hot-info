@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Acrolepia autumnitella: Unraveling the Secrets of the Autumnal Diamond-Backed Moth](https://yacine-l.github.io/hot-info/2025/12/26/acrolepia-autumnitella-unraveling-the-secrets-of-the-autumna.html)
+
+
 - [Escape the Rush: A Deep Dive into the Rustic Charm of Leiper’s Fork, Tennessee](https://yacine-l.github.io/hot-info/2025/12/26/escape-the-rush-a-deep-dive-into-the-rustic-charm-of-leipers.html)
 
 
