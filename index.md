@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Ascent of Charlotte Deborsu: From Namur Échevine to Federal Representative (1,200 Words)](https://yacine-l.github.io/hot-info/2025/12/26/the-ascent-of-charlotte-deborsu-from-namur-chevine-to-federa.html)
+
+
 - [The Ascent of Rachel Merton: Profile of the New Liberal MLC in the NSW Legislative Council](https://yacine-l.github.io/hot-info/2025/12/26/the-ascent-of-rachel-merton-profile-of-the-new-liberal-mlc-i.html)
 
 
