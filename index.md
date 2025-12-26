@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Western Blotched Leopard: Exploring the Fascinating World of Lachnoptera anticlia](https://yacine-l.github.io/hot-info/2025/12/26/the-western-blotched-leopard-exploring-the-fascinating-world.html)
+
+
 - [** San Lorenzo Tenochtitlán: Unearthing the 1,000-Year Mystery of the Olmec’s First Capital
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/san-lorenzo-tenochtitln-unearthing-the-1000-year-mystery-of-.html)
