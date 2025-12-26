@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Rediscovering *Tahiti Nights* (1944): Jinx Falkenburg and the Charm of Wartime B-Movies
+**](https://yacine-l.github.io/hot-info/2025/12/26/rediscovering-tahiti-nights-1944-jinx-falkenburg-and-the-cha.html)
+
+
 - [Walmore Common Nature Reserve: Exploring the Unique Ecology of the River Severn Flood-Plain SSSI](https://yacine-l.github.io/hot-info/2025/12/26/walmore-common-nature-reserve-exploring-the-unique-ecology-o.html)
 
 
