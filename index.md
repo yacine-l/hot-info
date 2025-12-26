@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Shirazi Era: Decoding the Mythic Persian Origins of the Swahili Coast
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-shirazi-era-decoding-the-mythic-persian-origins-of-the-s.html)
+
+
 - [Offshore Spaceports: How Floating Launch Vehicle Operations Platforms Are Revolutionizing Booster Recovery](https://yacine-l.github.io/hot-info/2025/12/26/offshore-spaceports-how-floating-launch-vehicle-operations-p.html)
 
 
