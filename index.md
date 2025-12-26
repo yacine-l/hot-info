@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mionandra fischeri](https://yacine-l.github.io/hot-info/2025/12/26/mionandra-fischeri.html)
+
+
 - [** Vule Trivunović: The Defensive Rock and Managerial Mind of Bosnian Football
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/vule-trivunovi-the-defensive-rock-and-managerial-mind-of-bos.html)
