@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Aleksandr Khazanov: The Mathematical Prodigy Who Vanished
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/aleksandr-khazanov-the-mathematical-prodigy-who-vanished.html)
+
+
 - [Dropkick Murphys Singles Collection Volume 2: The Definitive Guide to DKM’s Rarest Tracks
 
 ##](https://yacine-l.github.io/hot-info/2025/12/26/dropkick-murphys-singles-collection-volume-2-the-definitive-.html)
