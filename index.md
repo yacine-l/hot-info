@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Luis Torres Díaz: The Chemist, The Poet, and the Father of Puerto Rican Pharmacy History
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/luis-torres-daz-the-chemist-the-poet-and-the-father-of-puert.html)
+
+
 - [DJ AniMe: The Unstoppable Queen of Italian Hardcore Dominating the Global Stage](https://yacine-l.github.io/hot-info/2025/12/26/dj-anime-the-unstoppable-queen-of-italian-hardcore-dominatin.html)
 
 
