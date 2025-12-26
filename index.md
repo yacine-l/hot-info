@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Fall of Champions: Analyzing the Jackie Robinson West Little League Disqualification Scandal](https://yacine-l.github.io/hot-info/2025/12/26/the-fall-of-champions-analyzing-the-jackie-robinson-west-lit.html)
+
+
 - [Attack of the Killer Tomatoes 1986 Game: The Absurd 8-Bit Movie Tie-In Classic](https://yacine-l.github.io/hot-info/2025/12/26/attack-of-the-killer-tomatoes-1986-game-the-absurd-8-bit-mov.html)
 
 
