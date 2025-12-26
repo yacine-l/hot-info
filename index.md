@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enduring Legacy of Zaman: How Amal Hijazi Defined a Decade of Arabic Pop](https://yacine-l.github.io/hot-info/2025/12/26/the-enduring-legacy-of-zaman-how-amal-hijazi-defined-a-decad.html)
+
+
 - [Peter Toms RA: The 18th-Century Master of Drapery, Royal Academician, and Royal Herald](https://yacine-l.github.io/hot-info/2025/12/26/peter-toms-ra-the-18th-century-master-of-drapery-royal-acade.html)
 
 
