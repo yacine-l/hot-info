@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Understanding Venous Thrombosis: A Comprehensive Guide to DVT, PE, and VTE](https://yacine-l.github.io/hot-info/2025/12/26/understanding-venous-thrombosis-a-comprehensive-guide-to-dvt.html)
+
+
 - [What We Ain't Got](https://yacine-l.github.io/hot-info/2025/12/26/what-we-aint-got.html)
 
 
