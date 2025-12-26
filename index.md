@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Kano State House of Assembly](https://yacine-l.github.io/hot-info/2025/12/26/kano-state-house-of-assembly.html)
+
+
 - [The Modern Jazz Quartet's Jazz Dialogue: An Essential 1965 Big Band Experiment](https://yacine-l.github.io/hot-info/2025/12/26/the-modern-jazz-quartets-jazz-dialogue-an-essential-1965-big.html)
 
 
