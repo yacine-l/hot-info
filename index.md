@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Hayate the Combat Butler: Why Kenjiro Hata's Gag Comedy Masterpiece Still Breaks the Fourth Wall](https://yacine-l.github.io/hot-info/2025/12/26/hayate-the-combat-butler-why-kenjiro-hatas-gag-comedy-master.html)
+
+
 - [Broken Flesh Album (2015): The Definitive Deep Dive into the Band's Brutal Swan Song](https://yacine-l.github.io/hot-info/2025/12/26/broken-flesh-album-2015-the-definitive-deep-dive-into-the-ba.html)
 
 
