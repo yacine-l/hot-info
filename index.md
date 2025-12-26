@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Epepeotes schlegelii: Unraveling the Mystery of Sumatra’s Rare Longhorn Beetle, Discovered in 1884
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/epepeotes-schlegelii-unraveling-the-mystery-of-sumatras-rare.html)
+
+
 - [Unearthing the Lost Chapter: How the Family Dog Denver Changed the Course of 1960s Rock History](https://yacine-l.github.io/hot-info/2025/12/26/unearthing-the-lost-chapter-how-the-family-dog-denver-change.html)
 
 
