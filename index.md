@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Escape to Eel Lake: Your Comprehensive Guide to William M. Tugman State Park](https://yacine-l.github.io/hot-info/2025/12/26/escape-to-eel-lake-your-comprehensive-guide-to-william-m-tug.html)
+
+
 - [Lisanne Gräwe: Tracing the Rise of Eintracht Frankfurt’s Midfield Engine and German Football Future](https://yacine-l.github.io/hot-info/2025/12/26/lisanne-grwe-tracing-the-rise-of-eintracht-frankfurts-midfie.html)
 
 
