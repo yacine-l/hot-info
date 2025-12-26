@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [DJ AniMe: The Unstoppable Queen of Italian Hardcore Dominating the Global Stage](https://yacine-l.github.io/hot-info/2025/12/26/dj-anime-the-unstoppable-queen-of-italian-hardcore-dominatin.html)
+
+
 - [The Legacy of Pitschgau: History, Merger, and Identity in Styria’s Deutschlandsberg District](https://yacine-l.github.io/hot-info/2025/12/26/the-legacy-of-pitschgau-history-merger-and-identity-in-styri.html)
 
 
