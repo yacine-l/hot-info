@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Decoding Southern Peninsular Malaysian Hokkien: The Linguistic Bridge Between KL and Singapore](https://yacine-l.github.io/hot-info/2025/12/26/decoding-southern-peninsular-malaysian-hokkien-the-linguisti.html)
+
+
 - [The Star Model Z-45: Spain's Reliable Submachine Gun Successor to the MP 40](https://yacine-l.github.io/hot-info/2025/12/26/the-star-model-z-45-spains-reliable-submachine-gun-successor.html)
 
 
