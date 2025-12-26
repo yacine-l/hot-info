@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Mighty Amphibious Transport: A Deep Dive into the USS Green Bay (LPD-20)](https://yacine-l.github.io/hot-info/2025/12/26/the-mighty-amphibious-transport-a-deep-dive-into-the-uss-gre.html)
+
+
 - [Nassarius foveolatus: Decoding the Channelled Nassa, California’s Essential Mud Snail](https://yacine-l.github.io/hot-info/2025/12/26/nassarius-foveolatus-decoding-the-channelled-nassa-californi.html)
 
 
