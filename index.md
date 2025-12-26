@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mel Parsons’ Glass Heart: Why This Award-Winning Album Still Resonates Five Years Later](https://yacine-l.github.io/hot-info/2025/12/26/mel-parsons-glass-heart-why-this-award-winning-album-still-r.html)
+
+
 - [The Enigmatic Rise of Proxy Paige: Actress, Model, and Director Shaping the Adult Film Industry](https://yacine-l.github.io/hot-info/2025/12/26/the-enigmatic-rise-of-proxy-paige-actress-model-and-director.html)
 
 
