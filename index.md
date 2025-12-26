@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Phil Moore: The Hidden Genius of Jazz, Hollywood Arranging, and the Sophisticated Trio](https://yacine-l.github.io/hot-info/2025/12/26/phil-moore-the-hidden-genius-of-jazz-hollywood-arranging-and.html)
+
+
 - [** Cecilia of the Pink Roses: The Lost 1918 Silent Drama That Launched Marion Davies as a Producer
 **](https://yacine-l.github.io/hot-info/2025/12/26/cecilia-of-the-pink-roses-the-lost-1918-silent-drama-that-la.html)
 
