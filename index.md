@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Future of the Indian Navy: From Buyer to Builder – Charting the Course to 2035](https://yacine-l.github.io/hot-info/2025/12/26/the-future-of-the-indian-navy-from-buyer-to-builder-charting.html)
+
+
 - [** Alopia Livida: Unraveling the Secrets of the Carpathian Door-Snail (Clausiliidae)
 **](https://yacine-l.github.io/hot-info/2025/12/26/alopia-livida-unraveling-the-secrets-of-the-carpathian-door-.html)
 
