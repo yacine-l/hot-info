@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mien Ruys: The Mother of Modern Dutch Garden Design and the New Perennial Movement](https://yacine-l.github.io/hot-info/2025/12/26/mien-ruys-the-mother-of-modern-dutch-garden-design-and-the-n.html)
+
+
 - [Clay Aiken: From American Idol Runner-Up to Multi-Platinum Singer and Activist](https://yacine-l.github.io/hot-info/2025/12/26/clay-aiken-from-american-idol-runner-up-to-multi-platinum-si.html)
 
 
