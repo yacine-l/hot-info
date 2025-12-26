@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Supanat Chalermchaichareonkij (Aof AF2): The Enduring Legacy of the Academy Fantasia Season 2 Winner](https://yacine-l.github.io/hot-info/2025/12/26/supanat-chalermchaichareonkij-aof-af2-the-enduring-legacy-of.html)
+
+
 - [Saint-Patrice-du-Désert: Uncovering the Quiet Charm of Orne, Normandy](https://yacine-l.github.io/hot-info/2025/12/26/saint-patrice-du-dsert-uncovering-the-quiet-charm-of-orne-no.html)
 
 
