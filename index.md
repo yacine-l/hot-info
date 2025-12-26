@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Minmi’s “Hologram”: Decoding the Pivotal Shift from Reggae Queen to EDM Producer](https://yacine-l.github.io/hot-info/2025/12/26/minmis-hologram-decoding-the-pivotal-shift-from-reggae-queen.html)
+
+
 - [Pontormo's Nativity of Saint John the Baptist: A Mannerist Masterpiece and the Desco Da Parto Tradition](https://yacine-l.github.io/hot-info/2025/12/26/pontormos-nativity-of-saint-john-the-baptist-a-mannerist-mas.html)
 
 
