@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Enigmatic Scarab: Unraveling the Mystery of Serica scutellaris, a Rare Jewel of Myanmar's Biodiversity
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-enigmatic-scarab-unraveling-the-mystery-of-serica-scutel.html)
+
+
 - [Princess Leopoldine of Baden: The Strategic Royal Bridge Between Germany’s Dynasties](https://yacine-l.github.io/hot-info/2025/12/26/princess-leopoldine-of-baden-the-strategic-royal-bridge-betw.html)
 
 
