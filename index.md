@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Gerson Gu-Konu: The Activist, Parliamentarian, and Unsung Hero of Togolese Human Rights](https://yacine-l.github.io/hot-info/2025/12/26/gerson-gu-konu-the-activist-parliamentarian-and-unsung-hero-.html)
+
+
 - [Discover Dubnice: The Historic Heart of the Česká Lípa District | Authentic Bohemian Travel Guide](https://yacine-l.github.io/hot-info/2025/12/26/discover-dubnice-the-historic-heart-of-the-esk-lpa-district-.html)
 
 
