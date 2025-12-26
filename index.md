@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Villaute, Burgos: Discovering the Tranquil Heart of Castilian Spain](https://yacine-l.github.io/hot-info/2025/12/26/villaute-burgos-discovering-the-tranquil-heart-of-castilian-.html)
+
+
 - [The Lost Legacy of Jafarabad State: A Princely Enclave on the Gujarat Coast](https://yacine-l.github.io/hot-info/2025/12/26/the-lost-legacy-of-jafarabad-state-a-princely-enclave-on-the.html)
 
 
