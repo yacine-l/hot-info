@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Altmark Incident: How a WWII Naval Clash in Neutral Waters Saved 300 Prisoners](https://yacine-l.github.io/hot-info/2025/12/26/the-altmark-incident-how-a-wwii-naval-clash-in-neutral-water.html)
+
+
 - [María Luisa Artecona de Thompson: The Matriarch of Paraguayan Children's Literature](https://yacine-l.github.io/hot-info/2025/12/26/mara-luisa-artecona-de-thompson-the-matriarch-of-paraguayan-.html)
 
 
