@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Typhoon Damrey (2017): Tracking the Destructive Path of Severe Tropical Storm Ramil](https://yacine-l.github.io/hot-info/2025/12/26/typhoon-damrey-2017-tracking-the-destructive-path-of-severe-.html)
+
+
 - [Yantin-'Ammu of Byblos: The Local Ruler Connecting Hammurabi's World to the Mediterranean](https://yacine-l.github.io/hot-info/2025/12/26/yantin-ammu-of-byblos-the-local-ruler-connecting-hammurabis-.html)
 
 
