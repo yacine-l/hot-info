@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Humble Passionist: Lorenzo Maria of Saint Francis Xavier and the Devotion to the Holy Child Jesus](https://yacine-l.github.io/hot-info/2025/12/26/the-humble-passionist-lorenzo-maria-of-saint-francis-xavier-.html)
+
+
 - [Representative Sharon Henderson: Championing Change in Georgia House District 113](https://yacine-l.github.io/hot-info/2025/12/26/representative-sharon-henderson-championing-change-in-georgi.html)
 
 
