@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Rinus Paul: The Dutch Cycling Pioneer Who Conquered Both Track and Road
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/rinus-paul-the-dutch-cycling-pioneer-who-conquered-both-trac.html)
+
+
 - [Rob Tejeda: The Dominican Fireballer’s Journey Across the MLB](https://yacine-l.github.io/hot-info/2025/12/26/rob-tejeda-the-dominican-fireballers-journey-across-the-mlb.html)
 
 
