@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Wei Ho Mathematician: Pioneer in Number Theory and Algebraic Geometry
+**](https://yacine-l.github.io/hot-info/2025/12/26/wei-ho-mathematician-pioneer-in-number-theory-and-algebraic-.html)
+
+
 - [Paloalto Rapper: The Undisputed Architect of Korean Hip Hop and Founder of Hi-Lite Records](https://yacine-l.github.io/hot-info/2025/12/26/paloalto-rapper-the-undisputed-architect-of-korean-hip-hop-a.html)
 
 
