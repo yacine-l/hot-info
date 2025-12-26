@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Night Life (1982): Unearthing Kōei’s Scandalous Start in the Erotic Simulation Genre
+**](https://yacine-l.github.io/hot-info/2025/12/26/night-life-1982-unearthing-keis-scandalous-start-in-the-erot.html)
+
+
 - [** Aneilema biflorum: The Essential Guide to Australia’s Delicate Stream Bank Creeper
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/aneilema-biflorum-the-essential-guide-to-australias-delicate.html)
