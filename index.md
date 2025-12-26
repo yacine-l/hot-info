@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Pintara Genus: Unveiling the Mystery of the Spread-Winged Skippers of the Indomalayan Realm
+**](https://yacine-l.github.io/hot-info/2025/12/26/pintara-genus-unveiling-the-mystery-of-the-spread-winged-ski.html)
+
+
 - [Yakov Springer: Honoring the Life and Legacy of a Munich Massacre Victim**
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/yakov-springer-honoring-the-life-and-legacy-of-a-munich-mass.html)
