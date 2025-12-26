@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Zastava M21: Serbia's Modern 5.56 NATO Assault Rifle Blending AK Toughness with Western Modularity](https://yacine-l.github.io/hot-info/2025/12/26/the-zastava-m21-serbias-modern-556-nato-assault-rifle-blendi.html)
+
+
 - [** The Architect of Philippine Law: Jorge Bocobo and the Enduring Legacy of the Civil Code
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-architect-of-philippine-law-jorge-bocobo-and-the-endurin.html)
