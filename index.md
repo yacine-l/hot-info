@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Doran, Minnesota](https://yacine-l.github.io/hot-info/2025/12/26/doran-minnesota.html)
+
+
 - [Sant Andreu Barcelona: A Deep Dive into the District of History, Heritage, and Authentic Local Life](https://yacine-l.github.io/hot-info/2025/12/26/sant-andreu-barcelona-a-deep-dive-into-the-district-of-histo.html)
 
 
