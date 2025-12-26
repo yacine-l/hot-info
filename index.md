@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Urethra Chronicles II: Harder, Faster, Funnier – The Definitive Blink-182 DVD Time Capsule](https://yacine-l.github.io/hot-info/2025/12/26/urethra-chronicles-ii-harder-faster-funnier-the-definitive-b.html)
+
+
 - [The Lost Language of the Steppe: Unearthing the Secrets of the Codex Cumanicus](https://yacine-l.github.io/hot-info/2025/12/26/the-lost-language-of-the-steppe-unearthing-the-secrets-of-th.html)
 
 
