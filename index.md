@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Mystery of the Floating Rock: Understanding the Enigmatic Lava Balloon](https://yacine-l.github.io/hot-info/2025/12/26/the-mystery-of-the-floating-rock-understanding-the-enigmatic.html)
+
+
 - [Aclis simillima: Unveiling the Enigma of the Deep-Sea Eulimidae Mollusk](https://yacine-l.github.io/hot-info/2025/12/26/aclis-simillima-unveiling-the-enigma-of-the-deep-sea-eulimid.html)
 
 
