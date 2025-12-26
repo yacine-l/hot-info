@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mie Scattering Explained: The Definitive Guide to Light Interaction with Spherical Particles](https://yacine-l.github.io/hot-info/2025/12/26/mie-scattering-explained-the-definitive-guide-to-light-inter.html)
+
+
 - [** Nadine O’Connor: The World Record Athlete Proving Age is Just a Number in Masters Track and Field
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/nadine-oconnor-the-world-record-athlete-proving-age-is-just-.html)
