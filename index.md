@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Unreliable Truth: Decoding Elliot Perlman's Masterpiece, Seven Types of Ambiguity](https://yacine-l.github.io/hot-info/2025/12/26/the-unreliable-truth-decoding-elliot-perlmans-masterpiece-se.html)
+
+
 - [** Jim Gerlach: An In-Depth Look at the Former U.S. Representative’s Six Terms in Congress (2003–2015)
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/jim-gerlach-an-in-depth-look-at-the-former-us-representative.html)
