@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Mystery of the Blue Flash: How Pavel Jungwirth Solved the Explosive Secret of Alkali Metals and Water
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-mystery-of-the-blue-flash-how-pavel-jungwirth-solved-the.html)
+
+
 - [Hintze Ribeiro Bridge collapse](https://yacine-l.github.io/hot-info/2025/12/26/hintze-ribeiro-bridge-collapse.html)
 
 
