@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Serica feresegregata: Unveiling the Enigmatic Scarab Beetle of Indian Biodiversity
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/serica-feresegregata-unveiling-the-enigmatic-scarab-beetle-o.html)
+
+
 - [Thomas James Serle: Dramatist, Actor, and the Radical Pen of the Weekly Dispatch](https://yacine-l.github.io/hot-info/2025/12/26/thomas-james-serle-dramatist-actor-and-the-radical-pen-of-th.html)
 
 
