@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Raimundo Díaz Pacheco: Architect of the Nationalist Cadets and Treasurer General](https://yacine-l.github.io/hot-info/2025/12/26/raimundo-daz-pacheco-architect-of-the-nationalist-cadets-and.html)
+
+
 - [Decoding the Gourmand Fragrance Trend: Why Olfactory Desserts Rule the Perfume Counter
 
 ###](https://yacine-l.github.io/hot-info/2025/12/26/decoding-the-gourmand-fragrance-trend-why-olfactory-desserts.html)
