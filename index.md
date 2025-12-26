@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Predicting Transfusion Safety: Understanding the Monocyte Monolayer Assay (MMA)
+
+###](https://yacine-l.github.io/hot-info/2025/12/26/predicting-transfusion-safety-understanding-the-monocyte-mon.html)
+
+
 - [Paul III Anton, Prince Esterházy](https://yacine-l.github.io/hot-info/2025/12/26/paul-iii-anton-prince-esterhzy.html)
 
 
