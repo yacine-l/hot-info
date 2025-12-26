@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Karsten Heine](https://yacine-l.github.io/hot-info/2025/12/26/karsten-heine.html)
+
+
 - [Maria Perekusikhina: The Unofficial Confidante Who Shaped Catherine the Great](https://yacine-l.github.io/hot-info/2025/12/26/maria-perekusikhina-the-unofficial-confidante-who-shaped-cat.html)
 
 
