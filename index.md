@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Price of Obsession: Unmasking the Twisted Plot Behind the Joey Fischer Murder](https://yacine-l.github.io/hot-info/2025/12/26/the-price-of-obsession-unmasking-the-twisted-plot-behind-the.html)
+
+
 - [The Rise and Spectacular Fall of Khalifa Airways: Algeria’s Short-Lived Luxury Carrier](https://yacine-l.github.io/hot-info/2025/12/26/the-rise-and-spectacular-fall-of-khalifa-airways-algerias-sh.html)
 
 
