@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Hardwood Crossroads: Remembering the 2008–09 UMKC Kangaroos Basketball Season in The Summit League
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-hardwood-crossroads-remembering-the-200809-umkc-kangaroo.html)
+
+
 - [The Ghostly Glow: Understanding Monotropa hypopitys, the Non-Photosynthetic Pinesap](https://yacine-l.github.io/hot-info/2025/12/26/the-ghostly-glow-understanding-monotropa-hypopitys-the-non-p.html)
 
 
