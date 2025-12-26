@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Adrienne W. Hoard: Pioneering Abstraction and the Globally Influenced Shaped Canvas](https://yacine-l.github.io/hot-info/2025/12/26/adrienne-w-hoard-pioneering-abstraction-and-the-globally-inf.html)
+
+
 - [Albert King & Stevie Ray Vaughan: The Definitive Story Behind the 'In Session' Album](https://yacine-l.github.io/hot-info/2025/12/26/albert-king-stevie-ray-vaughan-the-definitive-story-behind-t.html)
 
 
