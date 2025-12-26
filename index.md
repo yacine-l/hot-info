@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Tim Kleindienst: The Indispensable Captain of Borussia Mönchengladbach and Germany’s Tactical Forward
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/tim-kleindienst-the-indispensable-captain-of-borussia-mnchen.html)
+
+
 - [Maurice Glasman, Baron Glasman](https://yacine-l.github.io/hot-info/2025/12/26/maurice-glasman-baron-glasman.html)
 
 
