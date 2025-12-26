@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Gilded Age Horror: The Unsolved 1870 Murder of Benjamin Nathan
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-gilded-age-horror-the-unsolved-1870-murder-of-benjamin-n.html)
+
+
 - [The Enduring Legacy: Exploring the History and Faith of the Diocese of Cochin](https://yacine-l.github.io/hot-info/2025/12/26/the-enduring-legacy-exploring-the-history-and-faith-of-the-d.html)
 
 
