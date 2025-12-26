@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Luna Daily: How Katy Cottam Revolutionized Intimate Wellness and Vulva-Safe Skincare](https://yacine-l.github.io/hot-info/2025/12/26/luna-daily-how-katy-cottam-revolutionized-intimate-wellness-.html)
+
+
 - [The Mystery of the Floating Rock: Understanding the Enigmatic Lava Balloon](https://yacine-l.github.io/hot-info/2025/12/26/the-mystery-of-the-floating-rock-understanding-the-enigmatic.html)
 
 
