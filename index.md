@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Barreirense FC: The Unrelegated Pillar of Maio Island Football History](https://yacine-l.github.io/hot-info/2025/12/26/barreirense-fc-the-unrelegated-pillar-of-maio-island-footbal.html)
+
+
 - [The Elisha Kirk House: A Masterpiece of Federal Architecture in Cecil County, Maryland](https://yacine-l.github.io/hot-info/2025/12/26/the-elisha-kirk-house-a-masterpiece-of-federal-architecture-.html)
 
 
