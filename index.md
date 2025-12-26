@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Shumombetsu Station: Tracing the Silent History of a Lost Stop on the Rumoi Main Line
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/shumombetsu-station-tracing-the-silent-history-of-a-lost-sto.html)
+
+
 - [** The Final Revolution: Analyzing *The Hunger Games: Mockingjay – Part 2* and the End of Panem
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-final-revolution-analyzing-the-hunger-games-mockingjay-p.html)
 
