@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Hidden Sanctuary of the Alps: Discovering the Oratorio di San Lorenzo all'alpe Seccio](https://yacine-l.github.io/hot-info/2025/12/26/the-hidden-sanctuary-of-the-alps-discovering-the-oratorio-di.html)
+
+
 - [The Enduring Legacy of Fayetteville State University: An HBCU Powerhouse in the UNC System](https://yacine-l.github.io/hot-info/2025/12/26/the-enduring-legacy-of-fayetteville-state-university-an-hbcu.html)
 
 
