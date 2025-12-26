@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [A Prophet (Un Prophète): Analyzing Jacques Audiard’s Masterpiece of Prison, Power, and Prophecy](https://yacine-l.github.io/hot-info/2025/12/26/a-prophet-un-prophte-analyzing-jacques-audiards-masterpiece-.html)
+
+
 - [Warzone’s Immortal Declaration: Why ‘Don’t Forget the Struggle, Don’t Forget the Streets’ Defined NYHC](https://yacine-l.github.io/hot-info/2025/12/26/warzones-immortal-declaration-why-dont-forget-the-struggle-d.html)
 
 
