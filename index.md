@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Decoding the Gourmand Fragrance Trend: Why Olfactory Desserts Rule the Perfume Counter
+
+###](https://yacine-l.github.io/hot-info/2025/12/26/decoding-the-gourmand-fragrance-trend-why-olfactory-desserts.html)
+
+
 - [Aman: The Ultimate Guide to Dafina Zeqiri, Ledri Vula, and Lumi B's Blockbuster Hit](https://yacine-l.github.io/hot-info/2025/12/26/aman-the-ultimate-guide-to-dafina-zeqiri-ledri-vula-and-lumi.html)
 
 
