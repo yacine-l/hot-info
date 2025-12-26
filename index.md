@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Debut That Defined Post-Bop: Rediscovering Walt Dickerson’s ‘This Is Walt Dickerson!’](https://yacine-l.github.io/hot-info/2025/12/26/the-debut-that-defined-post-bop-rediscovering-walt-dickerson.html)
+
+
 - [The Enigmatic Pyrausta nigrata: A Guide to Scopoli’s 1763 European Crambid Moth](https://yacine-l.github.io/hot-info/2025/12/26/the-enigmatic-pyrausta-nigrata-a-guide-to-scopolis-1763-euro.html)
 
 
