@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Křižánky: Exploring the Timeless Beauty of the Czech Republic's Hidden Folk Architecture Gem](https://yacine-l.github.io/hot-info/2025/12/26/kinky-exploring-the-timeless-beauty-of-the-czech-republics-h.html)
+
+
 - [** Daniel Barlaser: Career Analysis, Style of Play, and Why the Hibernian Loan Was Crucial for the Middlesbrough Midfielder
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/daniel-barlaser-career-analysis-style-of-play-and-why-the-hi.html)
