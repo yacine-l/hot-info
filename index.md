@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Kelsea Ballerini’s Third EP, ‘Mount Pleasant’: Release Date, Single Analysis, and What It Means for Country Music in 2025](https://yacine-l.github.io/hot-info/2025/12/26/kelsea-ballerinis-third-ep-mount-pleasant-release-date-singl.html)
+
+
 - [** The Complete Guide to Spearmint: Origin, Uses, Oil, and Culinary Applications
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-complete-guide-to-spearmint-origin-uses-oil-and-culinary.html)
