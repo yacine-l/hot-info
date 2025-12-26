@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Oașa Dam: The Massive Rockfill Giant of the Sebeș River and Gateway to Transalpina
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/oaa-dam-the-massive-rockfill-giant-of-the-sebe-river-and-gat.html)
+
+
 - [Jeff Manto](https://yacine-l.github.io/hot-info/2025/12/26/jeff-manto.html)
 
 
