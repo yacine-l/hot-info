@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Fatal Journey of the SS Anselm: From Amazon Liner to WWII Troop Transport](https://yacine-l.github.io/hot-info/2025/12/26/the-fatal-journey-of-the-ss-anselm-from-amazon-liner-to-wwii.html)
+
+
 - [Frank Reynolds: Analyzing the Unhinged Legacy of the IASIP Patriarch](https://yacine-l.github.io/hot-info/2025/12/26/frank-reynolds-analyzing-the-unhinged-legacy-of-the-iasip-pa.html)
 
 
