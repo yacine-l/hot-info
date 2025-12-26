@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [How to Stop a Cough: Causes, Remedies, and Understanding the Protective Reflex](https://yacine-l.github.io/hot-info/2025/12/26/how-to-stop-a-cough-causes-remedies-and-understanding-the-pr.html)
+
+
 - [** KC-135 and the High Road: The History of the 116th Air Refueling Squadron at Fairchild AFB
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/kc-135-and-the-high-road-the-history-of-the-116th-air-refuel.html)
