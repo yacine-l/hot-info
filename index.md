@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Julius Freed House: Unpacking the Complex History and Second Empire Grandeur of Trenton, Tennessee
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-julius-freed-house-unpacking-the-complex-history-and-sec.html)
+
+
 - [Uncovering the Past: A Deep Dive into the Arcadia Historic District, Florida](https://yacine-l.github.io/hot-info/2025/12/26/uncovering-the-past-a-deep-dive-into-the-arcadia-historic-di.html)
 
 
