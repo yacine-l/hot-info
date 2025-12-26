@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Stephen Minot Weld Jr.](https://yacine-l.github.io/hot-info/2025/12/26/stephen-minot-weld-jr.html)
+
+
 - [** Aim I: Alexander Liberman's Monumental Aluminum Sculpture in the San Diego Museum of Art Garden
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/aim-i-alexander-libermans-monumental-aluminum-sculpture-in-t.html)
