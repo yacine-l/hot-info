@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Winthrop Beach Guide: Discovering the Charm of Winthrop Shore Drive and the Coastal Resilience of the "Five Sisters"
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/winthrop-beach-guide-discovering-the-charm-of-winthrop-shore.html)
+
+
 - [The Edge of Literary History: Unpacking the 1962 Pulitzer Prize Winners](https://yacine-l.github.io/hot-info/2025/12/26/the-edge-of-literary-history-unpacking-the-1962-pulitzer-pri.html)
 
 
