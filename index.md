@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Fascinating Geometry of the Nephroid Curve: Definition, Equations, and Real-World Impact](https://yacine-l.github.io/hot-info/2025/12/26/the-fascinating-geometry-of-the-nephroid-curve-definition-eq.html)
+
+
 - [Railroad Earth: The Definitive Guide to the Americana Jam Band Sound](https://yacine-l.github.io/hot-info/2025/12/26/railroad-earth-the-definitive-guide-to-the-americana-jam-ban.html)
 
 
