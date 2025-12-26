@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [D.V. Sadananda Gowda: Journey from Karnataka CM to Pivotal Union Cabinet Minister](https://yacine-l.github.io/hot-info/2025/12/26/dv-sadananda-gowda-journey-from-karnataka-cm-to-pivotal-unio.html)
+
+
 - [** The Mystery of the Blue Flash: How Pavel Jungwirth Solved the Explosive Secret of Alkali Metals and Water
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-mystery-of-the-blue-flash-how-pavel-jungwirth-solved-the.html)
