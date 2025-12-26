@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Unruly Comedy and Political Satire: Rediscovering Ojamanga Yamada-kun by Hisaichi Ishii](https://yacine-l.github.io/hot-info/2025/12/26/unruly-comedy-and-political-satire-rediscovering-ojamanga-ya.html)
+
+
 - [** Orocué Colombia: Discovering the Historical Gem of Casanare and the Meta River
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/orocu-colombia-discovering-the-historical-gem-of-casanare-an.html)
