@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Shape (Go)](https://yacine-l.github.io/hot-info/2025/12/26/shape-go.html)
+
+
 - [Labyrinth (2003): Analyzing the Self-Titled Statement of Italian Power Metal](https://yacine-l.github.io/hot-info/2025/12/26/labyrinth-2003-analyzing-the-self-titled-statement-of-italia.html)
 
 
