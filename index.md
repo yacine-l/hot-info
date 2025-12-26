@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [William A. Little: Unpacking the Legacy of a Georgia Supreme Court Justice (1897–1903)](https://yacine-l.github.io/hot-info/2025/12/26/william-a-little-unpacking-the-legacy-of-a-georgia-supreme-c.html)
+
+
 - [** Max Alpert: The Soviet Photographer Who Defined the WWII Frontline
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/max-alpert-the-soviet-photographer-who-defined-the-wwii-fron.html)
