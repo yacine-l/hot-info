@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Robert Abi Nader: The Architect of Lebanese Opulence in Global Haute Couture](https://yacine-l.github.io/hot-info/2025/12/26/robert-abi-nader-the-architect-of-lebanese-opulence-in-globa.html)
+
+
 - [** Lucas Patrick: The Unbreakable Interior Lineman and Veteran Guard of the Cincinnati Bengals
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/lucas-patrick-the-unbreakable-interior-lineman-and-veteran-g.html)
