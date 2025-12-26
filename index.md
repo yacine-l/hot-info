@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The White Angel of the Pacific: The WWII Legacy of the USS Hope (AH-7)
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-white-angel-of-the-pacific-the-wwii-legacy-of-the-uss-ho.html)
+
+
 - [Althengstett: Your Comprehensive Guide to History, Nature, and Life in the Calw District](https://yacine-l.github.io/hot-info/2025/12/26/althengstett-your-comprehensive-guide-to-history-nature-and-.html)
 
 
