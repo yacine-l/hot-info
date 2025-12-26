@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Legacy of Pitschgau: History, Merger, and Identity in Styria’s Deutschlandsberg District](https://yacine-l.github.io/hot-info/2025/12/26/the-legacy-of-pitschgau-history-merger-and-identity-in-styri.html)
+
+
 - [Achilles Heel Album: The Definitive Look at Pedro the Lion's Masterpiece of Cynicism and Doubt (2004)](https://yacine-l.github.io/hot-info/2025/12/26/achilles-heel-album-the-definitive-look-at-pedro-the-lions-m.html)
 
 
