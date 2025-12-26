@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Complete Guide to the Government of Sri Lanka: Structure, Function, and Constitutional Dynamics](https://yacine-l.github.io/hot-info/2025/12/26/the-complete-guide-to-the-government-of-sri-lanka-structure-.html)
+
+
 - [** Jack Milroy: The Enduring Legacy of the Heart of Scottish Comedy
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/jack-milroy-the-enduring-legacy-of-the-heart-of-scottish-com.html)
