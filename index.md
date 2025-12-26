@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Pedro Dellacha: The Dual Legend of Argentine Football, From 'Don Pedro del Area' to Copa Libertadores Conqueror
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/pedro-dellacha-the-dual-legend-of-argentine-football-from-do.html)
+
+
 - [Bach's BWV 56: Decoding the Depth of the 'Kreuzstab Cantata' and the Solo Journey](https://yacine-l.github.io/hot-info/2025/12/26/bachs-bwv-56-decoding-the-depth-of-the-kreuzstab-cantata-and.html)
 
 
