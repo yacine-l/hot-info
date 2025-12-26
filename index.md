@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Pippi Goes on Board Film Review: Unpacking the Complex History of the 1969 Compilation Movie](https://yacine-l.github.io/hot-info/2025/12/26/pippi-goes-on-board-film-review-unpacking-the-complex-histor.html)
+
+
 - [** Peter Dervan and the Chemical Key to DNA: Pioneers of Sequence-Specific Recognition
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/peter-dervan-and-the-chemical-key-to-dna-pioneers-of-sequenc.html)
