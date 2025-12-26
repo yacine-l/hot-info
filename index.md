@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Anarkali (1953 film)](https://yacine-l.github.io/hot-info/2025/12/26/anarkali-1953-film.html)
+
+
 - [Śmiergust: Unmasking the Wild Water Ritual of Wilamowice’s Patchwork Men](https://yacine-l.github.io/hot-info/2025/12/26/miergust-unmasking-the-wild-water-ritual-of-wilamowices-patc.html)
 
 
