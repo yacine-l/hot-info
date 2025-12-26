@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Princess Leopoldine of Baden: The Strategic Royal Bridge Between Germany’s Dynasties](https://yacine-l.github.io/hot-info/2025/12/26/princess-leopoldine-of-baden-the-strategic-royal-bridge-betw.html)
+
+
 - [Fuenlabrada Central Metro: Your Essential Guide to Line 12, Cercanías, and Madrid's MetroSur](https://yacine-l.github.io/hot-info/2025/12/26/fuenlabrada-central-metro-your-essential-guide-to-line-12-ce.html)
 
 
