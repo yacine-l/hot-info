@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Speedway (1929 Film): William Haines' Last Silent Roar on the Cusp of the Talking Era](https://yacine-l.github.io/hot-info/2025/12/26/speedway-1929-film-william-haines-last-silent-roar-on-the-cu.html)
+
+
 - [Nu Herculis: Exploring the Faintly Visible Binary Star System in Hercules</p>
     <p style="display:none;">](https://yacine-l.github.io/hot-info/2025/12/26/nu-herculis-exploring-the-faintly-visible-binary-star-system.html)
 
