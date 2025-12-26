@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Sune Karlsson: The Swedish International Speedway Rider Who Defined the Post-War Era](https://yacine-l.github.io/hot-info/2025/12/26/sune-karlsson-the-swedish-international-speedway-rider-who-d.html)
+
+
 - [Maria Jane Taylor: The Unsung Mother of the China Inland Mission and Pioneer for Missionary Women](https://yacine-l.github.io/hot-info/2025/12/26/maria-jane-taylor-the-unsung-mother-of-the-china-inland-miss.html)
 
 
