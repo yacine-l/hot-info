@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Jakub Wilk: From Ekstraklasa Star to Lech Poznań U-17 Assistant Coach](https://yacine-l.github.io/hot-info/2025/12/26/jakub-wilk-from-ekstraklasa-star-to-lech-pozna-u-17-assistan.html)
+
+
 - [Long Island Surf](https://yacine-l.github.io/hot-info/2025/12/26/long-island-surf.html)
 
 
