@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Don Oakes: The Forgotten Left Half Legend of Manchester City's Post-War Era
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/don-oakes-the-forgotten-left-half-legend-of-manchester-citys.html)
+
+
 - [Charles Gascoigne](https://yacine-l.github.io/hot-info/2025/12/26/charles-gascoigne.html)
 
 
