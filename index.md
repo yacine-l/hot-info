@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Enduring Glow: History, Design, and Modern Appeal of the Edison Filament Light Bulb
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-enduring-glow-history-design-and-modern-appeal-of-the-ed.html)
+
+
 - [Lindsay Roy](https://yacine-l.github.io/hot-info/2025/12/26/lindsay-roy.html)
 
 
