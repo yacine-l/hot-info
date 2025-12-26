@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Father Bom (1949): The Classic Swedish Comedy That Cemented Nils Poppe’s Legacy](https://yacine-l.github.io/hot-info/2025/12/26/father-bom-1949-the-classic-swedish-comedy-that-cemented-nil.html)
+
+
 - [Sune Karlsson: The Swedish International Speedway Rider Who Defined the Post-War Era](https://yacine-l.github.io/hot-info/2025/12/26/sune-karlsson-the-swedish-international-speedway-rider-who-d.html)
 
 
