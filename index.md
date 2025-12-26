@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Ectropa Moth Genus: Wallengren’s 1836 Description of the Enigmatic Slug Moths](https://yacine-l.github.io/hot-info/2025/12/26/the-ectropa-moth-genus-wallengrens-1836-description-of-the-e.html)
+
+
 - [** Bengt Johansson: The Swedish Flyweight Wrestler Who Mastered Two Disciplines
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/bengt-johansson-the-swedish-flyweight-wrestler-who-mastered-.html)
