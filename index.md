@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Architect of Philippine Law: Jorge Bocobo and the Enduring Legacy of the Civil Code
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-architect-of-philippine-law-jorge-bocobo-and-the-endurin.html)
+
+
 - [Royal Danish Academy of Sciences and Letters](https://yacine-l.github.io/hot-info/2025/12/26/royal-danish-academy-of-sciences-and-letters.html)
 
 
