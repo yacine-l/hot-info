@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Executive Behind the Console Wars: Phil Harrison’s Journey from PlayStation to Stadia](https://yacine-l.github.io/hot-info/2025/12/26/the-executive-behind-the-console-wars-phil-harrisons-journey.html)
+
+
 - [The Invisible Giant: Exploring the History of Telsen Electric Company Ltd and the British Wireless Boom (1924-1939)](https://yacine-l.github.io/hot-info/2025/12/26/the-invisible-giant-exploring-the-history-of-telsen-electric.html)
 
 
