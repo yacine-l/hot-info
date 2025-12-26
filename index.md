@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Front Street Philadelphia History: Tracing the Footsteps of William Penn and the King's Highway](https://yacine-l.github.io/hot-info/2025/12/26/front-street-philadelphia-history-tracing-the-footsteps-of-w.html)
+
+
 - [The Thirty-Year Genocide: Rethinking Turkey's Destruction of Christian Minorities (1894–1924)](https://yacine-l.github.io/hot-info/2025/12/26/the-thirty-year-genocide-rethinking-turkeys-destruction-of-c.html)
 
 
