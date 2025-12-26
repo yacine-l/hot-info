@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [October 1987 Burma Airways Fokker F27 crash](https://yacine-l.github.io/hot-info/2025/12/26/october-1987-burma-airways-fokker-f27-crash.html)
+
+
 - [Bijiang District, Tongren: The Administrative Heart and Cultural Gateway of Guizhou](https://yacine-l.github.io/hot-info/2025/12/26/bijiang-district-tongren-the-administrative-heart-and-cultur.html)
 
 
