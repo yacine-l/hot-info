@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Reliving the Eurovision Song Contest 2017: Salvador Sobral's Triumph in Kyiv](https://yacine-l.github.io/hot-info/2025/12/26/reliving-the-eurovision-song-contest-2017-salvador-sobrals-t.html)
+
+
 - [Melaleuca Urceolaris: The Rare West Australian Shrub with Flowers That Blush](https://yacine-l.github.io/hot-info/2025/12/26/melaleuca-urceolaris-the-rare-west-australian-shrub-with-flo.html)
 
 
