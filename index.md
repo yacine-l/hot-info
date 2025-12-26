@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Yixianornis: An Early Cretaceous Snapshot of Avian Evolution from the Jiufotang Formation](https://yacine-l.github.io/hot-info/2025/12/26/yixianornis-an-early-cretaceous-snapshot-of-avian-evolution-.html)
+
+
 - [** The Cape Cod of the Midwest: Uncovering the Magic of Tawas Point State Park, Michigan
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-cape-cod-of-the-midwest-uncovering-the-magic-of-tawas-po.html)
