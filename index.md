@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Linda Dallmann: The Dynamic Dynamo Driving Bayern Munich and the Germany National Team](https://yacine-l.github.io/hot-info/2025/12/26/linda-dallmann-the-dynamic-dynamo-driving-bayern-munich-and-.html)
+
+
 - [** The High-Stakes World of Airplane Repo: Separating Reality TV Drama from Real Aircraft Repossession
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-high-stakes-world-of-airplane-repo-separating-reality-tv.html)
