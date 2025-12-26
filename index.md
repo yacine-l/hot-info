@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Jing Ulrich: The Global Finance Icon Shaping JPMorgan Chase's China Strategy
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/jing-ulrich-the-global-finance-icon-shaping-jpmorgan-chases-.html)
+
+
 - [** Epepeotes schlegelii: Unraveling the Mystery of Sumatra’s Rare Longhorn Beetle, Discovered in 1884
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/epepeotes-schlegelii-unraveling-the-mystery-of-sumatras-rare.html)
