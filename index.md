@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Selenidad: How Selena Quintanilla’s Legacy Defined a Generation of U.S. Latina Identity**
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/selenidad-how-selena-quintanillas-legacy-defined-a-generatio.html)
+
+
 - [A Prophet (Un Prophète): Analyzing Jacques Audiard’s Masterpiece of Prison, Power, and Prophecy](https://yacine-l.github.io/hot-info/2025/12/26/a-prophet-un-prophte-analyzing-jacques-audiards-masterpiece-.html)
 
 
