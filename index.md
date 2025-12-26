@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enigmatic Axius Genus: Exploring the World of Burrowing Mud Lobsters](https://yacine-l.github.io/hot-info/2025/12/26/the-enigmatic-axius-genus-exploring-the-world-of-burrowing-m.html)
+
+
 - [** The Gilded Age Horror: The Unsolved 1870 Murder of Benjamin Nathan
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-gilded-age-horror-the-unsolved-1870-murder-of-benjamin-n.html)
