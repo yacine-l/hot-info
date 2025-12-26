@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Gerrit Y. Lansing: The New York Congressman Who Navigated the Tumultuous Jacksonian Era
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/gerrit-y-lansing-the-new-york-congressman-who-navigated-the-.html)
+
+
 - [Qutb](https://yacine-l.github.io/hot-info/2025/12/26/qutb.html)
 
 
