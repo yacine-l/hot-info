@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** | The Belgian Para-Commando Brigade: History, Structure, and the Transformation into the Special Operations Regiment |
+| :--- | :--- |
+| **](https://yacine-l.github.io/hot-info/2025/12/26/the-belgian-para-commando-brigade-history-structure-and-the-.html)
+
+
 - [** Status Quo Live Alive Quo: Reliving the Monumental 1992 Party in the Park Broadcast
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/status-quo-live-alive-quo-reliving-the-monumental-1992-party.html)
