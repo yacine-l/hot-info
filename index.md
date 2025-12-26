@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Unsung Pioneer: How Kato Mikeladze Championed Women's Suffrage in Georgia](https://yacine-l.github.io/hot-info/2025/12/26/the-unsung-pioneer-how-kato-mikeladze-championed-womens-suff.html)
+
+
 - [** Around the World with The Chipmunks (1960): Analyzing the Album That Defined the Cartoon Era
 **](https://yacine-l.github.io/hot-info/2025/12/26/around-the-world-with-the-chipmunks-1960-analyzing-the-album.html)
 
