@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** MV Leinster 1937: From Irish Luxury Liner to Wartime Prince of the Sea
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/mv-leinster-1937-from-irish-luxury-liner-to-wartime-prince-o.html)
+
+
 - [The Last Bow: Revisiting *An Evening with Harry Belafonte and Friends* (1997 PBS Special and Final Album)](https://yacine-l.github.io/hot-info/2025/12/26/the-last-bow-revisiting-an-evening-with-harry-belafonte-and-.html)
 
 
