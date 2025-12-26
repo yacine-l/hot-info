@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Hanna Antonieva](https://yacine-l.github.io/hot-info/2025/12/26/hanna-antonieva.html)
+
+
 - [** General Álvaro de Lacalle Leloup: Navigating Spain's Military Transition as Chief of Staff (1982–1984)
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/general-lvaro-de-lacalle-leloup-navigating-spains-military-t.html)
