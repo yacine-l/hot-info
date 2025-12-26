@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Piute Valley](https://yacine-l.github.io/hot-info/2025/12/26/piute-valley.html)
+
+
 - [Mastering the Urn Problem: The Simple Model That Explains All of Probability
 
 ###](https://yacine-l.github.io/hot-info/2025/12/26/mastering-the-urn-problem-the-simple-model-that-explains-all.html)
