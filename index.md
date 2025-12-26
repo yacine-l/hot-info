@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** George Nurse VC: The Irish Artilleryman Who Defied Death at Thiepval Ridge
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/george-nurse-vc-the-irish-artilleryman-who-defied-death-at-t.html)
+
+
 - [The Iswä: Unearthing the Rich History of the Catawba Indian Nation](https://yacine-l.github.io/hot-info/2025/12/26/the-isw-unearthing-the-rich-history-of-the-catawba-indian-na.html)
 
 
