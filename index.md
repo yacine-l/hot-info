@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Understanding Ashton-in-Makerfield South: Ward Boundaries, Governance, and Community Life in Wigan](https://yacine-l.github.io/hot-info/2025/12/26/understanding-ashton-in-makerfield-south-ward-boundaries-gov.html)
+
+
 - [Adora Svitak: From Child Prodigy TED Speaker to Wikimedia Communications Associate](https://yacine-l.github.io/hot-info/2025/12/26/adora-svitak-from-child-prodigy-ted-speaker-to-wikimedia-com.html)
 
 
