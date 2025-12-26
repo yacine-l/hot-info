@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Zhu Guanghu: The Architect of Shenzhen's CSL Glory and China's Pivotal Coach
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/zhu-guanghu-the-architect-of-shenzhens-csl-glory-and-chinas-.html)
+
+
 - [Georgy Avenarius](https://yacine-l.github.io/hot-info/2025/12/26/georgy-avenarius.html)
 
 
