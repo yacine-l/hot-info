@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Testo Junkie: How Paul B. Preciado’s Autotheory Decoded Pharmaceutical Capitalism and Gender Performance
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/testo-junkie-how-paul-b-preciados-autotheory-decoded-pharmac.html)
+
+
 - [The Debut That Defined Post-Bop: Rediscovering Walt Dickerson’s ‘This Is Walt Dickerson!’](https://yacine-l.github.io/hot-info/2025/12/26/the-debut-that-defined-post-bop-rediscovering-walt-dickerson.html)
 
 
