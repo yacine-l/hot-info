@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The October 2032 Total Lunar Eclipse: Date, Magnitude, and How to See the Next Blood Moon](https://yacine-l.github.io/hot-info/2025/12/26/the-october-2032-total-lunar-eclipse-date-magnitude-and-how-.html)
+
+
 - [** The Neptunian Desert: Why Hot Neptunes Vanish Near Their Stars
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-neptunian-desert-why-hot-neptunes-vanish-near-their-star.html)
