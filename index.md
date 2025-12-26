@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Discovering Klemtu: Gateway to the Great Bear Rainforest and the Spirit Bear](https://yacine-l.github.io/hot-info/2025/12/26/discovering-klemtu-gateway-to-the-great-bear-rainforest-and-.html)
+
+
 - [** Matthew Brickdale MP: A Study of 18th-Century Bristol Politics and the Age of Revolution
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/matthew-brickdale-mp-a-study-of-18th-century-bristol-politic.html)
