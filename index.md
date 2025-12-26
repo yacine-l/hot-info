@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Portugal at the 2016 Summer Olympics](https://yacine-l.github.io/hot-info/2025/12/26/portugal-at-the-2016-summer-olympics.html)
+
+
 - [Discovering Alberta, Virginia: Small Town Charm Along the Historic Route 1 Corridor](https://yacine-l.github.io/hot-info/2025/12/26/discovering-alberta-virginia-small-town-charm-along-the-hist.html)
 
 
