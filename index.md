@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Forgotten Christmas Eve Partial Solar Eclipse of December 24, 1927](https://yacine-l.github.io/hot-info/2025/12/26/the-forgotten-christmas-eve-partial-solar-eclipse-of-decembe.html)
+
+
 - [Tom Carr-Smith: The Rise of Bath Rugby’s Dynamic Young Scrum-Half](https://yacine-l.github.io/hot-info/2025/12/26/tom-carr-smith-the-rise-of-bath-rugbys-dynamic-young-scrum-h.html)
 
 
