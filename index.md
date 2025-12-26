@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Damascus 2008: Unpacking the Year Syria Became the Arab Capital of Culture](https://yacine-l.github.io/hot-info/2025/12/26/damascus-2008-unpacking-the-year-syria-became-the-arab-capit.html)
+
+
 - [Understanding Venous Thrombosis: A Comprehensive Guide to DVT, PE, and VTE](https://yacine-l.github.io/hot-info/2025/12/26/understanding-venous-thrombosis-a-comprehensive-guide-to-dvt.html)
 
 
