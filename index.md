@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Kelty, Fife: Unearthing the Rich History of a Resilient Scottish Coal Mining Village
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/kelty-fife-unearthing-the-rich-history-of-a-resilient-scotti.html)
+
+
 - [** Franz Karl von Kaunitz: Tracing the Short But Significant Episcopate of the Bishop of Ljubljana
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/franz-karl-von-kaunitz-tracing-the-short-but-significant-epi.html)
