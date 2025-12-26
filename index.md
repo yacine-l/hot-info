@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Gregor Schoeler: The Arabist Who Revolutionized the Historical Study of Muhammad’s Biography (Sīrah)](https://yacine-l.github.io/hot-info/2025/12/26/gregor-schoeler-the-arabist-who-revolutionized-the-historica.html)
+
+
 - [2024–25 Segunda Federación](https://yacine-l.github.io/hot-info/2025/12/26/202425-segunda-federacin.html)
 
 
