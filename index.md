@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [NGC 132: Unveiling the Enigmatic Spiral Galaxy in Cetus](https://yacine-l.github.io/hot-info/2025/12/26/ngc-132-unveiling-the-enigmatic-spiral-galaxy-in-cetus.html)
+
+
 - [The Truth About Nephrogenic Adenoma: Causes, Symptoms, and Treatment Options](https://yacine-l.github.io/hot-info/2025/12/26/the-truth-about-nephrogenic-adenoma-causes-symptoms-and-trea.html)
 
 
