@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Tisleifjorden: Exploring Norway’s High-Mountain Hydroelectric Border Lake](https://yacine-l.github.io/hot-info/2025/12/26/tisleifjorden-exploring-norways-high-mountain-hydroelectric-.html)
+
+
 - [Heinrich Altherr: The Master of Swiss Mural Painting and Sacred Spaces](https://yacine-l.github.io/hot-info/2025/12/26/heinrich-altherr-the-master-of-swiss-mural-painting-and-sacr.html)
 
 
