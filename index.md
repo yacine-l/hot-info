@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [San Guillermo Parish Church Bacolor: Exploring Pampanga’s Sunken Architectural Gem](https://yacine-l.github.io/hot-info/2025/12/26/san-guillermo-parish-church-bacolor-exploring-pampangas-sunk.html)
+
+
 - [Discovering Duncliffe Wood: Your Guide to North Dorset’s Largest Ancient Woodland](https://yacine-l.github.io/hot-info/2025/12/26/discovering-duncliffe-wood-your-guide-to-north-dorsets-large.html)
 
 
