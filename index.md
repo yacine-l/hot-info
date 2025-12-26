@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Foster Provost: Pioneering Data Science, AI, and Entrepreneurship at NYU Stern](https://yacine-l.github.io/hot-info/2025/12/26/foster-provost-pioneering-data-science-ai-and-entrepreneursh.html)
+
+
 - [** The Definitive Guide to the ATP Tour: History, Structure, and the Race to World No. 1
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-definitive-guide-to-the-atp-tour-history-structure-and-t.html)
