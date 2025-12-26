@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [I’m Not Gonna Teach Your Boyfriend How to Dance with You: Revisiting Black Kids’ Perfect Indie Anthem](https://yacine-l.github.io/hot-info/2025/12/26/im-not-gonna-teach-your-boyfriend-how-to-dance-with-you-revi.html)
+
+
 - [** Jing Ulrich: The Global Finance Icon Shaping JPMorgan Chase's China Strategy
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/jing-ulrich-the-global-finance-icon-shaping-jpmorgan-chases-.html)
