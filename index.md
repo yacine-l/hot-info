@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Sittuyin: Unraveling the History, Rules, and Unique Strategy of Burmese Chess
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/sittuyin-unraveling-the-history-rules-and-unique-strategy-of.html)
+
+
 - [Selenidad: How Selena Quintanilla’s Legacy Defined a Generation of U.S. Latina Identity**
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/selenidad-how-selena-quintanillas-legacy-defined-a-generatio.html)
