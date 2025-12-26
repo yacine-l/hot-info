@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Decoding Louisiana Senate District 31: Louie Bernard, Central Louisiana Politics, and Legislative Priorities
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/decoding-louisiana-senate-district-31-louie-bernard-central-.html)
+
+
 - [Magsaysay, Davao del Sur: The Peaceful Agricultural Gateway of Southern Mindanao](https://yacine-l.github.io/hot-info/2025/12/26/magsaysay-davao-del-sur-the-peaceful-agricultural-gateway-of.html)
 
 
