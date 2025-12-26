@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Elisha Kirk House: A Masterpiece of Federal Architecture in Cecil County, Maryland](https://yacine-l.github.io/hot-info/2025/12/26/the-elisha-kirk-house-a-masterpiece-of-federal-architecture-.html)
+
+
 - [Mie Scattering Explained: The Definitive Guide to Light Interaction with Spherical Particles](https://yacine-l.github.io/hot-info/2025/12/26/mie-scattering-explained-the-definitive-guide-to-light-inter.html)
 
 
