@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Franz Karl von Kaunitz: Tracing the Short But Significant Episcopate of the Bishop of Ljubljana
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/franz-karl-von-kaunitz-tracing-the-short-but-significant-epi.html)
+
+
 - [** The Enigmatic Scarab: Unraveling the Mystery of Serica scutellaris, a Rare Jewel of Myanmar's Biodiversity
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-enigmatic-scarab-unraveling-the-mystery-of-serica-scutel.html)
