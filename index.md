@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Yakov Springer: Honoring the Life and Legacy of a Munich Massacre Victim**
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/yakov-springer-honoring-the-life-and-legacy-of-a-munich-mass.html)
+
+
 - [Tim Pears’s *In the Place of Fallen Leaves*: The Award-Winning Debut That Defined a Generation of Pastoral Fiction
 
 ###](https://yacine-l.github.io/hot-info/2025/12/26/tim-pearss-in-the-place-of-fallen-leaves-the-award-winning-d.html)
