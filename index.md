@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** T. J. Anjalose: A Profile in Dedication to CPI and Alappuzha Politics
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/t-j-anjalose-a-profile-in-dedication-to-cpi-and-alappuzha-po.html)
+
+
 - [Gustavus Adolphus Day](https://yacine-l.github.io/hot-info/2025/12/26/gustavus-adolphus-day.html)
 
 
