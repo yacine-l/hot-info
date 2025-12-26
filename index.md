@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Unearthing History at the Plaster Mill Stanhope NJ: A Legacy of Industrial Innovation
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/unearthing-history-at-the-plaster-mill-stanhope-nj-a-legacy-.html)
+
+
 - [The Year of Conquest and Chaos: Exploring the Defining Moments of 1798](https://yacine-l.github.io/hot-info/2025/12/26/the-year-of-conquest-and-chaos-exploring-the-defining-moment.html)
 
 
