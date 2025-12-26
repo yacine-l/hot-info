@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Freddi Poole: Unpacking the R&B Career of the Former Ladies of the Supremes and Three Degrees Vocalist
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/freddi-poole-unpacking-the-rb-career-of-the-former-ladies-of.html)
+
+
 - [** Discover Russell, Massachusetts: The Hidden Gem of Western MA’s River Valley
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/discover-russell-massachusetts-the-hidden-gem-of-western-mas.html)
