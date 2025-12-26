@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Albutt v Centre for the Study of Violence: Victims’ Rights and Presidential Pardons in Post-Apartheid South Africa](https://yacine-l.github.io/hot-info/2025/12/26/albutt-v-centre-for-the-study-of-violence-victims-rights-and.html)
+
+
 - [** Chincha Alta Peru: Discovering the Vibrant Heart of Afro-Peruvian Culture and Legacy
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/chincha-alta-peru-discovering-the-vibrant-heart-of-afro-peru.html)
