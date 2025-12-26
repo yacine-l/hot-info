@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Lost Legacy of Jafarabad State: A Princely Enclave on the Gujarat Coast](https://yacine-l.github.io/hot-info/2025/12/26/the-lost-legacy-of-jafarabad-state-a-princely-enclave-on-the.html)
+
+
 - [** Tim Kleindienst: The Indispensable Captain of Borussia Mönchengladbach and Germany’s Tactical Forward
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/tim-kleindienst-the-indispensable-captain-of-borussia-mnchen.html)
