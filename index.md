@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Defining Struggle: Analyzing the 2014 Miami Hurricanes Football Season Under Al Golden](https://yacine-l.github.io/hot-info/2025/12/26/the-defining-struggle-analyzing-the-2014-miami-hurricanes-fo.html)
+
+
 - [Decoding the Ice Age: The 1904–05 FAHL Season and the Rise of Professional Hockey](https://yacine-l.github.io/hot-info/2025/12/26/decoding-the-ice-age-the-190405-fahl-season-and-the-rise-of-.html)
 
 
