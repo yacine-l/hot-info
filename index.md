@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Strategic Fall of Baghdad (1917): How Britain Captured the Jewel of Mesopotamia in WWI](https://yacine-l.github.io/hot-info/2025/12/26/the-strategic-fall-of-baghdad-1917-how-britain-captured-the-.html)
+
+
 - [The Enigmatic Depths: Exploring the Genus Meganthias, the Deep-Water Anthiadids](https://yacine-l.github.io/hot-info/2025/12/26/the-enigmatic-depths-exploring-the-genus-meganthias-the-deep.html)
 
 
