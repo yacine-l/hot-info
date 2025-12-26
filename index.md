@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Jinsoul's Emotional Solo: Deconstructing "As Time Goes" from the Welcome K-Drama OST](https://yacine-l.github.io/hot-info/2025/12/26/jinsouls-emotional-solo-deconstructing-as-time-goes-from-the.html)
+
+
 - [** Vrysochori: Unveiling the Timeless Aromanian Gem of Greece’s Zagori Region
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/vrysochori-unveiling-the-timeless-aromanian-gem-of-greeces-z.html)
