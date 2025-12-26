@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Jeff Manto](https://yacine-l.github.io/hot-info/2025/12/26/jeff-manto.html)
+
+
 - [Linda Dallmann: The Dynamic Dynamo Driving Bayern Munich and the Germany National Team](https://yacine-l.github.io/hot-info/2025/12/26/linda-dallmann-the-dynamic-dynamo-driving-bayern-munich-and-.html)
 
 
