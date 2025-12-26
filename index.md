@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enduring Charm of Soviet Satire: Why 'An Easy Life' (1964) Still Matters](https://yacine-l.github.io/hot-info/2025/12/26/the-enduring-charm-of-soviet-satire-why-an-easy-life-1964-st.html)
+
+
 - [Aloha Milkyway: Decoding Eraserheads’ Iconic 1998 Compilation Album](https://yacine-l.github.io/hot-info/2025/12/26/aloha-milkyway-decoding-eraserheads-iconic-1998-compilation-.html)
 
 
