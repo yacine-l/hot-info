@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Discovering Cazalis Landes: The Tranquil Heart of Nouvelle-Aquitaine](https://yacine-l.github.io/hot-info/2025/12/26/discovering-cazalis-landes-the-tranquil-heart-of-nouvelle-aq.html)
+
+
 - [Ugadi (1997 Film): Revisiting S. V. Krishna Reddy’s Underrated Romantic Directorial Debut
 
 ###](https://yacine-l.github.io/hot-info/2025/12/26/ugadi-1997-film-revisiting-s-v-krishna-reddys-underrated-rom.html)
