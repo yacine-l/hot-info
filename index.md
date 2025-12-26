@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Song of the Silent Land: Revisiting Constellation Records' Essential 2004 Compilation of Rare Post-Rock Gems](https://yacine-l.github.io/hot-info/2025/12/26/song-of-the-silent-land-revisiting-constellation-records-ess.html)
+
+
 - [** The Night the Palace Burned: Unpacking the Great Mexico City Riot of 1692
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-night-the-palace-burned-unpacking-the-great-mexico-city-.html)
