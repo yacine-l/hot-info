@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Pictometry International: Unlocking the Power of 45-Degree High-Resolution Aerial Measurement](https://yacine-l.github.io/hot-info/2025/12/26/pictometry-international-unlocking-the-power-of-45-degree-hi.html)
+
+
 - [Ana Rosa Tornero: The Unforgettable Pioneer Who Launched Bolivia’s First Feminist Magazine](https://yacine-l.github.io/hot-info/2025/12/26/ana-rosa-tornero-the-unforgettable-pioneer-who-launched-boli.html)
 
 
