@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Thomas James Serle: Dramatist, Actor, and the Radical Pen of the Weekly Dispatch](https://yacine-l.github.io/hot-info/2025/12/26/thomas-james-serle-dramatist-actor-and-the-radical-pen-of-th.html)
+
+
 - [Conus harlandi: Deep Dive into the Rare and Enigmatic Cone Snail Species](https://yacine-l.github.io/hot-info/2025/12/26/conus-harlandi-deep-dive-into-the-rare-and-enigmatic-cone-sn.html)
 
 
