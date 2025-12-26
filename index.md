@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** David Kipiani: The Georgian Maestro Who Defined Soviet Football's Golden Age
+**](https://yacine-l.github.io/hot-info/2025/12/26/david-kipiani-the-georgian-maestro-who-defined-soviet-footba.html)
+
+
 - [The Kafenio: The Heartbeat of Greece and the Soul of Greek Coffee Culture](https://yacine-l.github.io/hot-info/2025/12/26/the-kafenio-the-heartbeat-of-greece-and-the-soul-of-greek-co.html)
 
 
