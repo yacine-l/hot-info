@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Édouard Lucas](https://yacine-l.github.io/hot-info/2025/12/26/douard-lucas.html)
+
+
 - [The October 2032 Total Lunar Eclipse: Date, Magnitude, and How to See the Next Blood Moon](https://yacine-l.github.io/hot-info/2025/12/26/the-october-2032-total-lunar-eclipse-date-magnitude-and-how-.html)
 
 
