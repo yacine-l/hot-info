@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Discover Arleux-en-Gohelle: History, Heritage, and the Heart of the Pas-de-Calais](https://yacine-l.github.io/hot-info/2025/12/26/discover-arleux-en-gohelle-history-heritage-and-the-heart-of.html)
+
+
 - [The Ascent of Charlotte Deborsu: From Namur Échevine to Federal Representative (1,200 Words)](https://yacine-l.github.io/hot-info/2025/12/26/the-ascent-of-charlotte-deborsu-from-namur-chevine-to-federa.html)
 
 
