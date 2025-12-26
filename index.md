@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Extended Range Revolution: Everything You Need to Know About the Five-String Violin](https://yacine-l.github.io/hot-info/2025/12/26/the-extended-range-revolution-everything-you-need-to-know-ab.html)
+
+
 - [** The Sinn Féin Surge: Detailed Analysis of the 2023 Newry, Mourne and Down District Council Election Results
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-sinn-fin-surge-detailed-analysis-of-the-2023-newry-mourn.html)
