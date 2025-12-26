@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Forgotten Habsburg: Life and Legacy of Archduke Maximilian Ernest of Austria
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-forgotten-habsburg-life-and-legacy-of-archduke-maximilia.html)
+
+
 - [Thai Town Los Angeles: A Deep Dive into America's Only Officially Recognized Thai Cultural Neighborhood
 
 ###](https://yacine-l.github.io/hot-info/2025/12/26/thai-town-los-angeles-a-deep-dive-into-americas-only-officia.html)
