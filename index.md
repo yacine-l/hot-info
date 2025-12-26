@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The High-Stakes World of Airplane Repo: Separating Reality TV Drama from Real Aircraft Repossession
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-high-stakes-world-of-airplane-repo-separating-reality-tv.html)
+
+
 - [The Moon on a Rainy Night: A Deep Dive into Kuzushiro's Atmospheric Manga and Upcoming Anime Adaptation](https://yacine-l.github.io/hot-info/2025/12/26/the-moon-on-a-rainy-night-a-deep-dive-into-kuzushiros-atmosp.html)
 
 
