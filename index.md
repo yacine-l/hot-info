@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enduring History of Ellinge Castle: Scania's Architectural Gem](https://yacine-l.github.io/hot-info/2025/12/26/the-enduring-history-of-ellinge-castle-scanias-architectural.html)
+
+
 - [** The Shirazi Era: Decoding the Mythic Persian Origins of the Swahili Coast
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-shirazi-era-decoding-the-mythic-persian-origins-of-the-s.html)
