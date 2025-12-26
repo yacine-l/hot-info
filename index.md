@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Damned in Black: Immortal’s Pivotal Blackened Thrash Transition and the End of the Osmose Era
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/damned-in-black-immortals-pivotal-blackened-thrash-transitio.html)
+
+
 - [Dmitri Shepilov: The Dramatic Rise and Sudden Fall of Khrushchev's Forgotten Foreign Minister](https://yacine-l.github.io/hot-info/2025/12/26/dmitri-shepilov-the-dramatic-rise-and-sudden-fall-of-khrushc.html)
 
 
