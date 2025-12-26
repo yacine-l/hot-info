@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Sir Robert Elliott-Cooper: The Victorian Engineer Who Standardized Britain and Built the Empire’s Railways
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/sir-robert-elliott-cooper-the-victorian-engineer-who-standar.html)
+
+
 - [** Unearthing History at the Plaster Mill Stanhope NJ: A Legacy of Industrial Innovation
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/unearthing-history-at-the-plaster-mill-stanhope-nj-a-legacy-.html)
