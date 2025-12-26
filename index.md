@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Successful Amalgamation Story of Essendon Keilor College (EKC): History, Campuses, and Curriculum](https://yacine-l.github.io/hot-info/2025/12/26/the-successful-amalgamation-story-of-essendon-keilor-college.html)
+
+
 - [** Freddi Poole: Unpacking the R&B Career of the Former Ladies of the Supremes and Three Degrees Vocalist
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/freddi-poole-unpacking-the-rb-career-of-the-former-ladies-of.html)
