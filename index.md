@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Weasel Fire Montana 2017: A Deep Dive into Kootenai National Forest's Defining Blaze](https://yacine-l.github.io/hot-info/2025/12/26/the-weasel-fire-montana-2017-a-deep-dive-into-kootenai-natio.html)
+
+
 - [The Evolution of Light: How Movie Projectors Shaped Cinema Technology](https://yacine-l.github.io/hot-info/2025/12/26/the-evolution-of-light-how-movie-projectors-shaped-cinema-te.html)
 
 
