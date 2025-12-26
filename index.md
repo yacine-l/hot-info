@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** USCGC Cayuga to HMS Totland: The Lake-Class Cutter That Served Three Names in Two Navies
+**](https://yacine-l.github.io/hot-info/2025/12/26/uscgc-cayuga-to-hms-totland-the-lake-class-cutter-that-serve.html)
+
+
 - [** | The Belgian Para-Commando Brigade: History, Structure, and the Transformation into the Special Operations Regiment |
 | :--- | :--- |
 | **](https://yacine-l.github.io/hot-info/2025/12/26/the-belgian-para-commando-brigade-history-structure-and-the-.html)
