@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Balakən, Azerbaijan: A Comprehensive Guide to the Caucasus Foothills Gem](https://yacine-l.github.io/hot-info/2025/12/26/balakn-azerbaijan-a-comprehensive-guide-to-the-caucasus-foot.html)
+
+
 - [Albutt v Centre for the Study of Violence: Victims’ Rights and Presidential Pardons in Post-Apartheid South Africa](https://yacine-l.github.io/hot-info/2025/12/26/albutt-v-centre-for-the-study-of-violence-victims-rights-and.html)
 
 
