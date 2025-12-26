@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Unlocking the Secrets of the Cross-banded Egg-guarding Frog: The World of *Hyperolius hypsiphonus*
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/unlocking-the-secrets-of-the-cross-banded-egg-guarding-frog-.html)
+
+
 - [Kano State House of Assembly](https://yacine-l.github.io/hot-info/2025/12/26/kano-state-house-of-assembly.html)
 
 
