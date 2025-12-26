@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Tim Pears’s *In the Place of Fallen Leaves*: The Award-Winning Debut That Defined a Generation of Pastoral Fiction
+
+###](https://yacine-l.github.io/hot-info/2025/12/26/tim-pearss-in-the-place-of-fallen-leaves-the-award-winning-d.html)
+
+
 - [** Westmoreland Eastern Constituency: Geography, Politics, and the Rise of Daniel Lawrence MP
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/westmoreland-eastern-constituency-geography-politics-and-the.html)
