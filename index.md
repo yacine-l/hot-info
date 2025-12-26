@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** *Megaphorus acrus*: Decoding the Secrets of the Stealthy Robber Fly Species
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/megaphorus-acrus-decoding-the-secrets-of-the-stealthy-robber.html)
+
+
 - [Neocompsa Alacris: Exploring the History and Ecology of Bates’ 1885 Longhorn Beetle](https://yacine-l.github.io/hot-info/2025/12/26/neocompsa-alacris-exploring-the-history-and-ecology-of-bates.html)
 
 
