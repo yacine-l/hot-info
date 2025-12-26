@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Napoleon Sarony: The Gilded Age Photographer Who Defined Celebrity Portraiture](https://yacine-l.github.io/hot-info/2025/12/26/napoleon-sarony-the-gilded-age-photographer-who-defined-cele.html)
+
+
 - [La Cuarta: Decoding the Plebeian Style of Chile's Most Iconic Tabloid](https://yacine-l.github.io/hot-info/2025/12/26/la-cuarta-decoding-the-plebeian-style-of-chiles-most-iconic-.html)
 
 
