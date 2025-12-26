@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Candela Serrat: Tracing the Career of the Spanish Actress Who Captivated Audiences in Seis Hermanas](https://yacine-l.github.io/hot-info/2025/12/26/candela-serrat-tracing-the-career-of-the-spanish-actress-who.html)
+
+
 - [The Last Inch (1959): A Deep Dive into the Soviet Survival Masterpiece](https://yacine-l.github.io/hot-info/2025/12/26/the-last-inch-1959-a-deep-dive-into-the-soviet-survival-mast.html)
 
 
