@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Jimmie Johnson Dominates the Desert: Revisiting the 2005 UAW-DaimlerChrysler 400 Victory](https://yacine-l.github.io/hot-info/2025/12/26/jimmie-johnson-dominates-the-desert-revisiting-the-2005-uaw-.html)
+
+
 - [** The Langey Legacy: Martin du Bellay and the Definitive Chronicle of the Italian Wars
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-langey-legacy-martin-du-bellay-and-the-definitive-chroni.html)
