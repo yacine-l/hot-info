@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Forgotten Map: Unpacking the History of the Brandon Rural District (1894-1935)
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-forgotten-map-unpacking-the-history-of-the-brandon-rural.html)
+
+
 - [Lata Pada CM: Pioneering Bharatanatyam in Canada Through Sampradaya Dance](https://yacine-l.github.io/hot-info/2025/12/26/lata-pada-cm-pioneering-bharatanatyam-in-canada-through-samp.html)
 
 
