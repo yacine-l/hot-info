@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enigmatic Pyrausta nigrata: A Guide to Scopoli’s 1763 European Crambid Moth](https://yacine-l.github.io/hot-info/2025/12/26/the-enigmatic-pyrausta-nigrata-a-guide-to-scopolis-1763-euro.html)
+
+
 - [** Steve Tuckwell: The Rise of Uxbridge MP, Boris Johnson's Successor, and the ULEZ Factor
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/steve-tuckwell-the-rise-of-uxbridge-mp-boris-johnsons-succes.html)
