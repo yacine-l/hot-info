@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [María Luisa Artecona de Thompson: The Matriarch of Paraguayan Children's Literature](https://yacine-l.github.io/hot-info/2025/12/26/mara-luisa-artecona-de-thompson-the-matriarch-of-paraguayan-.html)
+
+
 - [Pippi Goes on Board Film Review: Unpacking the Complex History of the 1969 Compilation Movie](https://yacine-l.github.io/hot-info/2025/12/26/pippi-goes-on-board-film-review-unpacking-the-complex-histor.html)
 
 
