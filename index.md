@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Existential Bullet: Why Jean-Patrick Manchette’s *The Prone Gunman* Redefined the Modern Thriller
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-existential-bullet-why-jean-patrick-manchettes-the-prone.html)
+
+
 - [W. W. Herenton](https://yacine-l.github.io/hot-info/2025/12/26/w-w-herenton.html)
 
 
