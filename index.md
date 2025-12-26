@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Year of Conquest and Chaos: Exploring the Defining Moments of 1798](https://yacine-l.github.io/hot-info/2025/12/26/the-year-of-conquest-and-chaos-exploring-the-defining-moment.html)
+
+
 - [Beena Paul: The Architect of Rhythm in Malayalam New Wave Cinema](https://yacine-l.github.io/hot-info/2025/12/26/beena-paul-the-architect-of-rhythm-in-malayalam-new-wave-cin.html)
 
 
