@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Unveiling History: A Deep Dive into Nizhyn Gogol State University, One of Ukraine’s Oldest Academic Institutions](https://yacine-l.github.io/hot-info/2025/12/26/unveiling-history-a-deep-dive-into-nizhyn-gogol-state-univer.html)
+
+
 - [Josef Oster MdB: Analyzing the CDU Politician's Influence in German Home Affairs and Rhineland-Palatinate](https://yacine-l.github.io/hot-info/2025/12/26/josef-oster-mdb-analyzing-the-cdu-politicians-influence-in-g.html)
 
 
