@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Houghton on the Hill, Norfolk](https://yacine-l.github.io/hot-info/2025/12/26/houghton-on-the-hill-norfolk.html)
+
+
 - [Gregor Schoeler: The Arabist Who Revolutionized the Historical Study of Muhammad’s Biography (Sīrah)](https://yacine-l.github.io/hot-info/2025/12/26/gregor-schoeler-the-arabist-who-revolutionized-the-historica.html)
 
 
