@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Kabissa: The Digital Bridge that Empowered African Civil Society (1999–2018)](https://yacine-l.github.io/hot-info/2025/12/26/kabissa-the-digital-bridge-that-empowered-african-civil-soci.html)
+
+
 - [** MV Leinster 1937: From Irish Luxury Liner to Wartime Prince of the Sea
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/mv-leinster-1937-from-irish-luxury-liner-to-wartime-prince-o.html)
