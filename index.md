@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Definitive Portrait: Thomas Sully’s 1838 Masterpiece of Young Queen Victoria](https://yacine-l.github.io/hot-info/2025/12/26/the-definitive-portrait-thomas-sullys-1838-masterpiece-of-yo.html)
+
+
 - [The Unreliable Truth: Decoding Elliot Perlman's Masterpiece, Seven Types of Ambiguity](https://yacine-l.github.io/hot-info/2025/12/26/the-unreliable-truth-decoding-elliot-perlmans-masterpiece-se.html)
 
 
