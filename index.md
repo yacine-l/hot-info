@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Decoding the Ice Age: The 1904–05 FAHL Season and the Rise of Professional Hockey](https://yacine-l.github.io/hot-info/2025/12/26/decoding-the-ice-age-the-190405-fahl-season-and-the-rise-of-.html)
+
+
 - [** Stingray Point Virginia: Uncovering the Quiet Charm at the End of Route 33 on the Chesapeake Bay
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/stingray-point-virginia-uncovering-the-quiet-charm-at-the-en.html)
