@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Thrilling Rise: A Deep Dive into the 2001 International Formula 3000 Championship](https://yacine-l.github.io/hot-info/2025/12/26/the-thrilling-rise-a-deep-dive-into-the-2001-international-f.html)
+
+
 - [Protea Speciosa: The Definitive Guide to the Majestic Brown-Beard Sugarbush](https://yacine-l.github.io/hot-info/2025/12/26/protea-speciosa-the-definitive-guide-to-the-majestic-brown-b.html)
 
 
