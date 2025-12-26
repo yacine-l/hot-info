@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Stabilin-2 (STAB2): The Master Scavenger Gene Governing Liver Health and Disease](https://yacine-l.github.io/hot-info/2025/12/26/stabilin-2-stab2-the-master-scavenger-gene-governing-liver-h.html)
+
+
 - [** Jagadeka Veerudu Athiloka Sundari: How Chiranjeevi and Sridevi Created the Ultimate 1990s Telugu Fantasy Blockbuster
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/jagadeka-veerudu-athiloka-sundari-how-chiranjeevi-and-sridev.html)
