@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [James Rhodes Pianist: From Classical Maverick to International Activist](https://yacine-l.github.io/hot-info/2025/12/26/james-rhodes-pianist-from-classical-maverick-to-internationa.html)
+
+
 - [Walter Meeuws: The Defensive General Who Defined Belgian Football](https://yacine-l.github.io/hot-info/2025/12/26/walter-meeuws-the-defensive-general-who-defined-belgian-foot.html)
 
 
