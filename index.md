@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Unforgettable European Adventure: Reviewing the 2021–22 West Ham United Season](https://yacine-l.github.io/hot-info/2025/12/26/the-unforgettable-european-adventure-reviewing-the-202122-we.html)
+
+
 - [** Robert W. Slater: Charting Canada’s Environmental Future – From Senior Deputy Minister to Academic Authority
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/robert-w-slater-charting-canadas-environmental-future-from-s.html)
