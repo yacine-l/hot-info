@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Yuko Kitano: Analyzing the Rise of Sanseitō's New Representative in the House of Representatives
+**](https://yacine-l.github.io/hot-info/2025/12/26/yuko-kitano-analyzing-the-rise-of-sanseits-new-representativ.html)
+
+
 - [** KHKN Little Rock: The Voice of Central Arkansas – Studios, Signal, and Strategic Locations
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/khkn-little-rock-the-voice-of-central-arkansas-studios-signa.html)
