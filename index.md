@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Life and Influence of Syed Faizul Karim: Shaikh-e-Charmonai and the Face of Islami Andolan Bangladesh](https://yacine-l.github.io/hot-info/2025/12/26/the-life-and-influence-of-syed-faizul-karim-shaikh-e-charmon.html)
+
+
 - [Last of the Ghetto Astronauts: The Low-Budget Masterpiece That Defined the Matthew Good Band](https://yacine-l.github.io/hot-info/2025/12/26/last-of-the-ghetto-astronauts-the-low-budget-masterpiece-tha.html)
 
 
