@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Around the World with The Chipmunks (1960): Analyzing the Album That Defined the Cartoon Era
+**](https://yacine-l.github.io/hot-info/2025/12/26/around-the-world-with-the-chipmunks-1960-analyzing-the-album.html)
+
+
 - [Elza Kövesházi-Kalmár: The Hungarian Sculptor Who Bridged Art Nouveau and Art Deco](https://yacine-l.github.io/hot-info/2025/12/26/elza-kveshzi-kalmr-the-hungarian-sculptor-who-bridged-art-no.html)
 
 
