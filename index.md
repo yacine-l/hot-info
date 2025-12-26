@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enigmatic Depths: Exploring the Genus Meganthias, the Deep-Water Anthiadids](https://yacine-l.github.io/hot-info/2025/12/26/the-enigmatic-depths-exploring-the-genus-meganthias-the-deep.html)
+
+
 - [The Mighty Amphibious Transport: A Deep Dive into the USS Green Bay (LPD-20)](https://yacine-l.github.io/hot-info/2025/12/26/the-mighty-amphibious-transport-a-deep-dive-into-the-uss-gre.html)
 
 
