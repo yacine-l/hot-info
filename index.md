@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Lordi: How Finnish Monster Rock Conquered Eurovision and Redefined Shock Metal](https://yacine-l.github.io/hot-info/2025/12/26/lordi-how-finnish-monster-rock-conquered-eurovision-and-rede.html)
+
+
 - [** The Hanging Tree: Deep Dive into Ben Aaronovitch’s Sixth Peter Grant Novel and the Mysteries of Highgate
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/the-hanging-tree-deep-dive-into-ben-aaronovitchs-sixth-peter.html)
