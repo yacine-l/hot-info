@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Gwalior Assembly Constituency: A Political History from Madhya Bharat to Modern Madhya Pradesh](https://yacine-l.github.io/hot-info/2025/12/26/gwalior-assembly-constituency-a-political-history-from-madhy.html)
+
+
 - [** Wei Ho Mathematician: Pioneer in Number Theory and Algebraic Geometry
 **](https://yacine-l.github.io/hot-info/2025/12/26/wei-ho-mathematician-pioneer-in-number-theory-and-algebraic-.html)
 
