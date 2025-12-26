@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Agathia conviridaria: The Emerald Moth of India and Sri Lanka](https://yacine-l.github.io/hot-info/2025/12/26/agathia-conviridaria-the-emerald-moth-of-india-and-sri-lanka.html)
+
+
 - [** Testo Junkie: How Paul B. Preciado’s Autotheory Decoded Pharmaceutical Capitalism and Gender Performance
 
 **](https://yacine-l.github.io/hot-info/2025/12/26/testo-junkie-how-paul-b-preciados-autotheory-decoded-pharmac.html)
