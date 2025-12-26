@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Alexandre Rodrigues Ferreira: The Pioneer Naturalist Who Mapped the Amazon’s Biodiversity (1783-1792)](https://yacine-l.github.io/hot-info/2025/12/26/alexandre-rodrigues-ferreira-the-pioneer-naturalist-who-mapp.html)
+
+
 - [Gyroscope’s Breed Obsession: Revisiting the Defining Australian Rock Album of 2008](https://yacine-l.github.io/hot-info/2025/12/26/gyroscopes-breed-obsession-revisiting-the-defining-australia.html)
 
 
