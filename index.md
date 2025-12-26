@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Ultimate Guide to the Microsoft Arc Mouse: Why This Folding Design Dominates Portability
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-ultimate-guide-to-the-microsoft-arc-mouse-why-this-foldi.html)
+
+
 - [Unearthing History in Door County: The Legacy of the Louis Vangindertahlen House, Brussels, WI](https://yacine-l.github.io/hot-info/2025/12/26/unearthing-history-in-door-county-the-legacy-of-the-louis-va.html)
 
 
