@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Heart of the Upper East: A Comprehensive Guide to Nabdam District, Ghana
+
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-heart-of-the-upper-east-a-comprehensive-guide-to-nabdam-.html)
+
+
 - [The First Baptist Church of Moffat: A Historic Landmark at 401 Lincoln Avenue](https://yacine-l.github.io/hot-info/2025/12/26/the-first-baptist-church-of-moffat-a-historic-landmark-at-40.html)
 
 
