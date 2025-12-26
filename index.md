@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Enduring Legacy of the QBM Mount: A Deep Dive into Rollei’s Quick Bayonet System
+**](https://yacine-l.github.io/hot-info/2025/12/26/the-enduring-legacy-of-the-qbm-mount-a-deep-dive-into-rollei.html)
+
+
 - [Hanna Antonieva](https://yacine-l.github.io/hot-info/2025/12/26/hanna-antonieva.html)
 
 
