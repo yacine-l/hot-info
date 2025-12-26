@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Cecilia of the Pink Roses: The Lost 1918 Silent Drama That Launched Marion Davies as a Producer
+**](https://yacine-l.github.io/hot-info/2025/12/26/cecilia-of-the-pink-roses-the-lost-1918-silent-drama-that-la.html)
+
+
 - [Company of Thieves (band)](https://yacine-l.github.io/hot-info/2025/12/26/company-of-thieves-band.html)
 
 
