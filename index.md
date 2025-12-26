@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Gopal Chandra Lamichhane: A Pillar of Nepali Cinema and General Secretary of the Nepal Film Directors Guild](https://yacine-l.github.io/hot-info/2025/12/26/gopal-chandra-lamichhane-a-pillar-of-nepali-cinema-and-gener.html)
+
+
 - [Zöe Lucker: From Tanya Turner to Soap Royalty – An Icon’s Career Defined](https://yacine-l.github.io/hot-info/2025/12/26/ze-lucker-from-tanya-turner-to-soap-royalty-an-icons-career-.html)
 
 
