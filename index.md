@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Majestic Frontal Cordillera: Argentina's High Andes Gateway](https://yacine-l.github.io/hot-info/2025/12/27/the-majestic-frontal-cordillera-argentinas-high-andes-gatewa.html)
+
+
 - [St. Gerard Majella: The Miraculous Lay Brother and Patron Saint of Expectant Mothers](https://yacine-l.github.io/hot-info/2025/12/27/st-gerard-majella-the-miraculous-lay-brother-and-patron-sain.html)
 
 
