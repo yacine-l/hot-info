@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [František Kupka: The Czech Pioneer Who Gave Color and Music to Abstract Art](https://yacine-l.github.io/hot-info/2025/12/27/frantiek-kupka-the-czech-pioneer-who-gave-color-and-music-to.html)
+
+
 - [Masterpiece of Soviet Modernity: Analyzing Alexander Semionov’s Malaya Sadovaya Street (1979)](https://yacine-l.github.io/hot-info/2025/12/27/masterpiece-of-soviet-modernity-analyzing-alexander-semionov.html)
 
 
