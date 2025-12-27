@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Definitive Guide to the STRING Database: Unlocking Protein-Protein Interaction Networks](https://yacine-l.github.io/hot-info/2025/12/27/the-definitive-guide-to-the-string-database-unlocking-protei.html)
+
+
 - [Discovering Place, New Hampshire: A Deep Dive into Farmington's Unincorporated Gem on NH Route 11](https://yacine-l.github.io/hot-info/2025/12/27/discovering-place-new-hampshire-a-deep-dive-into-farmingtons.html)
 
 
