@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [James Jamieson FRSE FDSE: A Detailed Look at the Scottish Dental Luminary and Author](https://yacine-l.github.io/hot-info/2025/12/27/james-jamieson-frse-fdse-a-detailed-look-at-the-scottish-den.html)
+
+
 - [Leilani Dowding: From Beauty Queen to Conservative Voice – A Comprehensive Career Retrospective
 
 ###](https://yacine-l.github.io/hot-info/2025/12/27/leilani-dowding-from-beauty-queen-to-conservative-voice-a-co.html)
