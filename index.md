@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Stadion Kranjčevićeva: The Historic Heart of Zagreb Football in Trešnjevka](https://yacine-l.github.io/hot-info/2025/12/27/stadion-kranjevieva-the-historic-heart-of-zagreb-football-in.html)
+
+
 - [Franchinus Gaffurius: The Master Theorist Who Defined Renaissance Music](https://yacine-l.github.io/hot-info/2025/12/27/franchinus-gaffurius-the-master-theorist-who-defined-renaiss.html)
 
 
