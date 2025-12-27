@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enigmatic Deep-Sea Jewels: Unveiling the World of Odontanthias Fish](https://yacine-l.github.io/hot-info/2025/12/27/the-enigmatic-deep-sea-jewels-unveiling-the-world-of-odontan.html)
+
+
 - [Acteon scrobiculatus: Unearthing the Secrets of an Extinct Eocene Sea Snail](https://yacine-l.github.io/hot-info/2025/12/27/acteon-scrobiculatus-unearthing-the-secrets-of-an-extinct-eo.html)
 
 
