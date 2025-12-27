@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Endurance Test: Remembering the Thrilling 1977 World 600 at Charlotte Motor Speedway
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-endurance-test-remembering-the-thrilling-1977-world-600-.html)
+
+
 - [Harry Stuhldreher: Quarterback of the Legendary Four Horsemen and Coaching Pioneer](https://yacine-l.github.io/hot-info/2025/12/27/harry-stuhldreher-quarterback-of-the-legendary-four-horsemen.html)
 
 
