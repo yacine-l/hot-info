@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Ilford, Manitoba: Unveiling the Remote Heart of the War Lake First Nation](https://yacine-l.github.io/hot-info/2025/12/27/ilford-manitoba-unveiling-the-remote-heart-of-the-war-lake-f.html)
+
+
 - [** Nicholas Guest: From Headmaster Patrick Elliot in *USA High* to the Underrated King of Voice Acting
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/nicholas-guest-from-headmaster-patrick-elliot-in-usa-high-to.html)
