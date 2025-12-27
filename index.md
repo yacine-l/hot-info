@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Zhou Xuexi: The Industrial Giant Who Funded China’s Tumultuous Republic
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/zhou-xuexi-the-industrial-giant-who-funded-chinas-tumultuous.html)
+
+
 - [Mabrouka Mbarek: The Academic Who Shaped Tunisia’s Post-Revolutionary Constitution](https://yacine-l.github.io/hot-info/2025/12/27/mabrouka-mbarek-the-academic-who-shaped-tunisias-post-revolu.html)
 
 
