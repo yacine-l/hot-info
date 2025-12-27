@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Kęstutis Bulota: The Lithuanian Renaissance Athlete Who Mastered the Pitch, the Ice, and the Track
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/kstutis-bulota-the-lithuanian-renaissance-athlete-who-master.html)
+
+
 - [Savage Garden’s “Hold Me”: Analyzing the Emotional Core of the Affirmation Era](https://yacine-l.github.io/hot-info/2025/12/27/savage-gardens-hold-me-analyzing-the-emotional-core-of-the-a.html)
 
 
