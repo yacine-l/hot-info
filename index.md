@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Meredith Whitney: The ‘Oracle of Wall Street’ Who Successfully Predicted the 2008 Financial Crisis](https://yacine-l.github.io/hot-info/2025/12/27/meredith-whitney-the-oracle-of-wall-street-who-successfully-.html)
+
+
 - [** Castellar-Oliveral: A Comprehensive Guide to Valencia’s Best-Connected Village Gem
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/castellar-oliveral-a-comprehensive-guide-to-valencias-best-c.html)
