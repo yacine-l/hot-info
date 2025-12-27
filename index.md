@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Sant’Agostino Lucca: Exploring the Gothic Grandeur of a Tuscan Hidden Gem
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/santagostino-lucca-exploring-the-gothic-grandeur-of-a-tuscan.html)
+
+
 - [Edward Pococke: Pioneer of Arabic Studies and Oxford's First Laudian Professor](https://yacine-l.github.io/hot-info/2025/12/27/edward-pococke-pioneer-of-arabic-studies-and-oxfords-first-l.html)
 
 
