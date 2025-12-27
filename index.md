@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Henri Bellivier: Examining the French Cyclist at the 1920 Antwerp Summer Olympics
+**](https://yacine-l.github.io/hot-info/2025/12/27/henri-bellivier-examining-the-french-cyclist-at-the-1920-ant.html)
+
+
 - [The Unsung Workhorse: Detailing the Brief but Vital Service of the USS Alexander H. Erickson (SP-2298)](https://yacine-l.github.io/hot-info/2025/12/27/the-unsung-workhorse-detailing-the-brief-but-vital-service-o.html)
 
 
