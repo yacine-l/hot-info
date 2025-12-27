@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Aaruthra (2018): A Deep Dive into Pa. Vijay's Social Drama and Multi-Faceted Vision](https://yacine-l.github.io/hot-info/2025/12/27/aaruthra-2018-a-deep-dive-into-pa-vijays-social-drama-and-mu.html)
+
+
 - [** Young Stribling: The Southern Tornado Who Fought From Featherweight to Heavyweight History
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/young-stribling-the-southern-tornado-who-fought-from-feather.html)
