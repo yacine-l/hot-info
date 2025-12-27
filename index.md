@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Why *Crime Scene Cleaner* (*Der Tatortreiniger*) is the Hidden Gem of German Dark Comedy You Need to Binge
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/why-crime-scene-cleaner-der-tatortreiniger-is-the-hidden-gem.html)
+
+
 - [Uttaradit Railway Station: Gateway to Northern Thailand and a Class 1 Operational Hub](https://yacine-l.github.io/hot-info/2025/12/27/uttaradit-railway-station-gateway-to-northern-thailand-and-a.html)
 
 
