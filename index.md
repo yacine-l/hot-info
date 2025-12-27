@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** T. J. Perkins (TJP): The Definitive History of the Pioneer Cruiserweight Champion
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/t-j-perkins-tjp-the-definitive-history-of-the-pioneer-cruise.html)
+
+
 - [** Powick Village Worcestershire: A Complete Guide to History, Battles, and Local Life
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/powick-village-worcestershire-a-complete-guide-to-history-ba.html)
