@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Forgotten Giant: Revisiting Magnum Opus Con (MOC), 1986–2001 and the Rise of Southern Fandom](https://yacine-l.github.io/hot-info/2025/12/27/the-forgotten-giant-revisiting-magnum-opus-con-moc-19862001-.html)
+
+
 - [The December Dynasty: Revisiting the 1996 NCAA Men's Water Polo Championship](https://yacine-l.github.io/hot-info/2025/12/27/the-december-dynasty-revisiting-the-1996-ncaa-mens-water-pol.html)
 
 
