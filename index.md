@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mongolia's Breakthrough in Tehran: A Deep Dive into the 1974 Asian Games Success](https://yacine-l.github.io/hot-info/2025/12/27/mongolias-breakthrough-in-tehran-a-deep-dive-into-the-1974-a.html)
+
+
 - [Amaraugha](https://yacine-l.github.io/hot-info/2025/12/27/amaraugha.html)
 
 
