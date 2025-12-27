@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** John Bardeen: The Only Person to Win the Nobel Prize in Physics Twice – A Legacy of Modern Technology
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/john-bardeen-the-only-person-to-win-the-nobel-prize-in-physi.html)
+
+
 - [The Majestic Queensland Walnut (Endiandra palmerstonii): Timber, History, and Rainforest Treasure](https://yacine-l.github.io/hot-info/2025/12/27/the-majestic-queensland-walnut-endiandra-palmerstonii-timber.html)
 
 
