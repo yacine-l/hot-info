@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Andrew Hill's Lost Masterpiece: The Epic Story of the Album Change and Its Decades-Long Delay](https://yacine-l.github.io/hot-info/2025/12/27/andrew-hills-lost-masterpiece-the-epic-story-of-the-album-ch.html)
+
+
 - [Feng Yuanzheng: The Unyielding Master of Chinese Dramatic Arts and Screen Performance](https://yacine-l.github.io/hot-info/2025/12/27/feng-yuanzheng-the-unyielding-master-of-chinese-dramatic-art.html)
 
 
