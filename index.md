@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Salvia palifolia: The Decumbent Andean Sage of High-Altitude Colombia and Venezuela
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/salvia-palifolia-the-decumbent-andean-sage-of-high-altitude-.html)
+
+
 - [Shot Callin](https://yacine-l.github.io/hot-info/2025/12/27/shot-callin.html)
 
 
