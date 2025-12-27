@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Logic's "Perfect": Breaking Down the High-Energy Core of the *No Pressure* Album
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/logics-perfect-breaking-down-the-high-energy-core-of-the-no-.html)
+
+
 - [British Commonwealth Forces Korea](https://yacine-l.github.io/hot-info/2025/12/27/british-commonwealth-forces-korea.html)
 
 
