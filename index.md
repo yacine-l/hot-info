@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [G2G Racing: Unpacking the Glory 2 God Era in the NASCAR Craftsman Truck Series](https://yacine-l.github.io/hot-info/2025/12/27/g2g-racing-unpacking-the-glory-2-god-era-in-the-nascar-craft.html)
+
+
 - [Adapa: The Mesopotamian Sage Who Unknowingly Refused Immortality](https://yacine-l.github.io/hot-info/2025/12/27/adapa-the-mesopotamian-sage-who-unknowingly-refused-immortal.html)
 
 
