@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Scott, Louisiana: Exploring the Heart of Acadiana’s “Sausage Capital of the World”](https://yacine-l.github.io/hot-info/2025/12/27/scott-louisiana-exploring-the-heart-of-acadianas-sausage-cap.html)
+
+
 - [Sunnylven Church: A Historical Landmark on the Stunning Sunnylvsfjorden, Hellesylt](https://yacine-l.github.io/hot-info/2025/12/27/sunnylven-church-a-historical-landmark-on-the-stunning-sunny.html)
 
 
