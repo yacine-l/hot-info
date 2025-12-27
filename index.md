@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enigmatic Lake Victoria Cichlid: A Deep Dive into *Haplochromis bicolor*](https://yacine-l.github.io/hot-info/2025/12/27/the-enigmatic-lake-victoria-cichlid-a-deep-dive-into-haploch.html)
+
+
 - [Discovering Mozet, Belgium: A Hidden Gem in the Gesves Municipality](https://yacine-l.github.io/hot-info/2025/12/27/discovering-mozet-belgium-a-hidden-gem-in-the-gesves-municip.html)
 
 
