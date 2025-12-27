@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Our Choice (Russia)](https://yacine-l.github.io/hot-info/2025/12/27/our-choice-russia.html)
+
+
 - [** Wickmere Norfolk: Discovering the Charm and History of a Hidden North Norfolk Village
 **](https://yacine-l.github.io/hot-info/2025/12/27/wickmere-norfolk-discovering-the-charm-and-history-of-a-hidd.html)
 
