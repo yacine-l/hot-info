@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Oliver Burr Jennings: The Forgotten Fortune and the Birth of Standard Oil](https://yacine-l.github.io/hot-info/2025/12/27/oliver-burr-jennings-the-forgotten-fortune-and-the-birth-of-.html)
+
+
 - [Poco Rides Again: The Triumphant Reunion Behind the *Running Horse* Album](https://yacine-l.github.io/hot-info/2025/12/27/poco-rides-again-the-triumphant-reunion-behind-the-running-h.html)
 
 
