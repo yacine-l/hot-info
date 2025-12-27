@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Kyrgyzstan’s Golden Triumphs: Analyzing the 2018 Asian Games Performance in Jakarta-Palembang](https://yacine-l.github.io/hot-info/2025/12/27/kyrgyzstans-golden-triumphs-analyzing-the-2018-asian-games-p.html)
+
+
 - [A Literary Farewell: Revisiting The Best American Short Stories 1977, Martha Foley’s Final Volume](https://yacine-l.github.io/hot-info/2025/12/27/a-literary-farewell-revisiting-the-best-american-short-stori.html)
 
 
