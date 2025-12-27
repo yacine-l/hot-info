@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Cold War Sentinel: The Enduring Legacy of USS Macdonough (DDG-39)
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-cold-war-sentinel-the-enduring-legacy-of-uss-macdonough-.html)
+
+
 - [** KTNN Radio: The Unofficial Cultural Capital of the Navajo Nation | Window Rock Broadcasting
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/ktnn-radio-the-unofficial-cultural-capital-of-the-navajo-nat.html)
