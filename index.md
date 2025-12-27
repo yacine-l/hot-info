@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Operation Priboi](https://yacine-l.github.io/hot-info/2025/12/27/operation-priboi.html)
+
+
 - [** Qadi Iyad: The Maliki Master, Polymath, and Author of *Ash-Shifa*
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/qadi-iyad-the-maliki-master-polymath-and-author-of-ash-shifa.html)
