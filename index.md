@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Jessica Favre: Diving into the Depths of the 2019 World Aquatics Championships](https://yacine-l.github.io/hot-info/2025/12/27/jessica-favre-diving-into-the-depths-of-the-2019-world-aquat.html)
+
+
 - [Rwanda’s Triumph: Three Bronze Medals at the 2019 African Games in Rabat](https://yacine-l.github.io/hot-info/2025/12/27/rwandas-triumph-three-bronze-medals-at-the-2019-african-game.html)
 
 
