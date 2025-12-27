@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Mysterious Strawberry Bug: A Deep Dive into *Euander lacertosus* of Australia
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-mysterious-strawberry-bug-a-deep-dive-into-euander-lacer.html)
+
+
 - [Frogs for Snakes: Unpacking Amos Poe’s Underappreciated 1998 Neo-Noir Gem](https://yacine-l.github.io/hot-info/2025/12/27/frogs-for-snakes-unpacking-amos-poes-underappreciated-1998-n.html)
 
 
