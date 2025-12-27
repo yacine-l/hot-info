@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Discovering the Heart of Calvados: A Deep Dive into the Canton of Caen-5 and its 2015 Reorganization](https://yacine-l.github.io/hot-info/2025/12/27/discovering-the-heart-of-calvados-a-deep-dive-into-the-canto.html)
+
+
 - [** Antelope Valley Transit Authority: Leading the Charge with the First All-Electric Fleet in the US
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/antelope-valley-transit-authority-leading-the-charge-with-th.html)
