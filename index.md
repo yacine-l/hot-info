@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Art Whitney: The Iron Man of 19th Century Baseball and MLB Pioneer](https://yacine-l.github.io/hot-info/2025/12/27/art-whitney-the-iron-man-of-19th-century-baseball-and-mlb-pi.html)
+
+
 - [Noël Coward's Apprenticeship: Unpacking 'The Young Idea' (1923 Savoy Theatre Run)](https://yacine-l.github.io/hot-info/2025/12/27/nol-cowards-apprenticeship-unpacking-the-young-idea-1923-sav.html)
 
 
