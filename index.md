@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Alçıtepe (Krithia): A Journey to the Unconquered Heights of the Gallipoli Peninsula
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/altepe-krithia-a-journey-to-the-unconquered-heights-of-the-g.html)
+
+
 - [** Sông Luộc: Unveiling the Secrets of Vietnam's Vital Red River Tributary—The History of Sông Phú Nông and Canal des Bambous
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/sng-luc-unveiling-the-secrets-of-vietnams-vital-red-river-tr.html)
