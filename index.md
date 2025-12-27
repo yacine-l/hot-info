@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Marian Massonius: The Architect of Polish Positivism and Educational Reform
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/marian-massonius-the-architect-of-polish-positivism-and-educ.html)
+
+
 - [Niels Heithuis: Investigating Truth and Curating Harmony Across NPO Radio 1 and 4](https://yacine-l.github.io/hot-info/2025/12/27/niels-heithuis-investigating-truth-and-curating-harmony-acro.html)
 
 
