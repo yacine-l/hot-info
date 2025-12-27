@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Children of the Sea: Jozef Israëls' Masterpiece of 19th-Century Dutch Realism and the Hague School
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/children-of-the-sea-jozef-israls-masterpiece-of-19th-century.html)
+
+
 - [** Count Nikolay Ignatyev: The Architect of Russian Expansionism from Beijing to the Balkans
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/count-nikolay-ignatyev-the-architect-of-russian-expansionism.html)
