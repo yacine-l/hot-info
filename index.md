@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Isolation Booth: Inside the Scandalous Rise and Fall of the Twenty-One Game Show](https://yacine-l.github.io/hot-info/2025/12/27/the-isolation-booth-inside-the-scandalous-rise-and-fall-of-t.html)
+
+
 - [The Danae-Class Cruiser: Workhorses of Two World Wars and the Royal Navy's Interwar Fleet](https://yacine-l.github.io/hot-info/2025/12/27/the-danae-class-cruiser-workhorses-of-two-world-wars-and-the.html)
 
 
