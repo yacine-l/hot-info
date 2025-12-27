@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** 3C 324: Journey to a Nine Billion Light-Year Radio Galaxy
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/3c-324-journey-to-a-nine-billion-light-year-radio-galaxy.html)
+
+
 - [Artaxata: Exploring the Lost Capital of Ancient Armenia, Where History Met Legend](https://yacine-l.github.io/hot-info/2025/12/27/artaxata-exploring-the-lost-capital-of-ancient-armenia-where.html)
 
 
