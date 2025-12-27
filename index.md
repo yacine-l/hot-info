@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Osgoode Hall Legal & Literary Society: Governing Canadian Law Student Life Since 1876
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-osgoode-hall-legal-literary-society-governing-canadian-l.html)
+
+
 - [Stefan Romaniw: Tracing the Influence of a Key Ukrainian Diaspora Leader**
 
 ### **](https://yacine-l.github.io/hot-info/2025/12/27/stefan-romaniw-tracing-the-influence-of-a-key-ukrainian-dias.html)
