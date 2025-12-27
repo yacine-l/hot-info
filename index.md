@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Ten Commandments: The Musical](https://yacine-l.github.io/hot-info/2025/12/27/the-ten-commandments-the-musical.html)
+
+
 - [** Jarnac, France: Exploring the Hidden Heart of the Cognac Region and Presidential History
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/jarnac-france-exploring-the-hidden-heart-of-the-cognac-regio.html)
