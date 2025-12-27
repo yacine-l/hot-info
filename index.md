@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Kenelm Foss](https://yacine-l.github.io/hot-info/2025/12/27/kenelm-foss.html)
+
+
 - [Aroga trialbamaculella: Unraveling the Mystery of the Red-Striped Fireworm Moth](https://yacine-l.github.io/hot-info/2025/12/27/aroga-trialbamaculella-unraveling-the-mystery-of-the-red-str.html)
 
 
