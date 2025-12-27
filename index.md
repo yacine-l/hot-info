@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Lammermuir Party: How 22 People Changed the History of Missions in 19th Century China](https://yacine-l.github.io/hot-info/2025/12/27/the-lammermuir-party-how-22-people-changed-the-history-of-mi.html)
+
+
 - [Cladium Mariscus: Unveiling the Great Fen-sedge and the Danger of Saw-grass](https://yacine-l.github.io/hot-info/2025/12/27/cladium-mariscus-unveiling-the-great-fen-sedge-and-the-dange.html)
 
 
