@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Schwimmhalle Finckensteinallee: Berlin’s Historic Pool and Architectural Time Capsule](https://yacine-l.github.io/hot-info/2025/12/27/schwimmhalle-finckensteinallee-berlins-historic-pool-and-arc.html)
+
+
 - [** The Panda Cup: Chengdu's Premier International Youth Football Tournament and the Future of Global Soccer
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-panda-cup-chengdus-premier-international-youth-football-.html)
