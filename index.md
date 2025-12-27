@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Chenghai, Shantou: Unveiling the History, Culture, and Global Role of China's Toy Capital
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/chenghai-shantou-unveiling-the-history-culture-and-global-ro.html)
+
+
 - [** Dominating the Decade: The Unforgettable 1947 New Hampshire Wildcats Football Team
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/dominating-the-decade-the-unforgettable-1947-new-hampshire-w.html)
