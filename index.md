@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Edward Baber (1532–1578): The Elizabethan Barrister, Judge, and MP Who Mastered Somerset](https://yacine-l.github.io/hot-info/2025/12/27/edward-baber-15321578-the-elizabethan-barrister-judge-and-mp.html)
+
+
 - [Our Choice (Russia)](https://yacine-l.github.io/hot-info/2025/12/27/our-choice-russia.html)
 
 
