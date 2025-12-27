@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [César Navas: The Unsung Spanish Defender Who Conquered Russia](https://yacine-l.github.io/hot-info/2025/12/27/csar-navas-the-unsung-spanish-defender-who-conquered-russia.html)
+
+
 - [Phil Moore: The Hidden Genius of Jazz, Hollywood Arranging, and the Sophisticated Trio](https://yacine-l.github.io/hot-info/2025/12/26/phil-moore-the-hidden-genius-of-jazz-hollywood-arranging-and.html)
 
 
