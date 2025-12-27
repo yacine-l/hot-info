@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Noyant-d'Allier: Uncovering the Unique History of France’s First Official Vietnamese Settlement
+**](https://yacine-l.github.io/hot-info/2025/12/27/noyant-dallier-uncovering-the-unique-history-of-frances-firs.html)
+
+
 - [** The Tribe Osmiini: Masters of Masonry and Vital Pollinators
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-tribe-osmiini-masters-of-masonry-and-vital-pollinators.html)
