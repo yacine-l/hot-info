@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Ivo Visković: The Polymath Shaping Serbian Foreign Policy and Academia**
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/ivo-viskovi-the-polymath-shaping-serbian-foreign-policy-and-.html)
+
+
 - [** Olga Terho: A Pioneer of Post-War Finnish Politics and the Rise of the SKDL (1945-1948)
 **](https://yacine-l.github.io/hot-info/2025/12/27/olga-terho-a-pioneer-of-post-war-finnish-politics-and-the-ri.html)
 
