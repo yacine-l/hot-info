@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Simon's Sircus: The Royal Navy's Brief, Brilliant Era of Sea Vixen Aerobatics](https://yacine-l.github.io/hot-info/2025/12/27/simons-sircus-the-royal-navys-brief-brilliant-era-of-sea-vix.html)
+
+
 - [The Unveiling of Emelie Rosenqvist: A Deep Dive into Sweden’s Most Essential Actress](https://yacine-l.github.io/hot-info/2025/12/27/the-unveiling-of-emelie-rosenqvist-a-deep-dive-into-swedens-.html)
 
 
