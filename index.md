@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Unpacking Excellence: A Deep Dive into Lakewood High School, St. Petersburg’s Hub for Advanced Technologies](https://yacine-l.github.io/hot-info/2025/12/27/unpacking-excellence-a-deep-dive-into-lakewood-high-school-s.html)
+
+
 - [** The Secret Life of a Stand-Up: Reviewing Neil Hamburger’s *Great Moments at Di Presa’s Pizza House*
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-secret-life-of-a-stand-up-reviewing-neil-hamburgers-grea.html)
