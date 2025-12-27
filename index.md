@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Beatbox Revelation: How *Joel Turner and the Modern Day Poets* Defined Platinum Australian Hip Hop History
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-beatbox-revelation-how-joel-turner-and-the-modern-day-po.html)
+
+
 - [** Alfonso Tort: The Compelling Artistry of Uruguay’s Leading Man
 **](https://yacine-l.github.io/hot-info/2025/12/27/alfonso-tort-the-compelling-artistry-of-uruguays-leading-man.html)
 
