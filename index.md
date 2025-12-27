@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [PtaRNA1: Unlocking the Secrets of a Conserved Bacterial Antisense Non-Coding RNA](https://yacine-l.github.io/hot-info/2025/12/27/ptarna1-unlocking-the-secrets-of-a-conserved-bacterial-antis.html)
+
+
 - [** The Pioneer Building: Rediscovering Albuquerque’s Solar Building, the World’s First Commercial Solar-Heated Office
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-pioneer-building-rediscovering-albuquerques-solar-buildi.html)
