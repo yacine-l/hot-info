@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Jewel of the Plains: Exploring the History and Architecture of the Cheyenne County Courthouse, Colorado](https://yacine-l.github.io/hot-info/2025/12/27/jewel-of-the-plains-exploring-the-history-and-architecture-o.html)
+
+
 - [Passion (2012 film)](https://yacine-l.github.io/hot-info/2025/12/27/passion-2012-film.html)
 
 
