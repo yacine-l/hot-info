@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Nicholas Guest: From Headmaster Patrick Elliot in *USA High* to the Underrated King of Voice Acting
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/nicholas-guest-from-headmaster-patrick-elliot-in-usa-high-to.html)
+
+
 - [The Enduring Legacy of Young Street Terraces Sydney: History, Heritage, and Architecture](https://yacine-l.github.io/hot-info/2025/12/27/the-enduring-legacy-of-young-street-terraces-sydney-history-.html)
 
 
