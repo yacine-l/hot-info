@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Tswapong North Constituency: Geography, Politics, and the Role of Prince Maele
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/tswapong-north-constituency-geography-politics-and-the-role-.html)
+
+
 - [Øyfjell: Discovering the Tranquil Heart of Vinje Municipality, Telemark](https://yacine-l.github.io/hot-info/2025/12/27/yfjell-discovering-the-tranquil-heart-of-vinje-municipality-.html)
 
 
