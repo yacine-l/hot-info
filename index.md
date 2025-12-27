@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Knockin’ Da Boots: How H-Town’s Sultry 1993 Anthem Defined 90s R&B and Launched a Million-Selling Sensation
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/knockin-da-boots-how-h-towns-sultry-1993-anthem-defined-90s-.html)
+
+
 - [** F# Programming Language: The Functional-First Powerhouse for .NET Development
 **](https://yacine-l.github.io/hot-info/2025/12/27/f-programming-language-the-functional-first-powerhouse-for-n.html)
 
