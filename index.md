@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Lonely Heart (Kofuku, 1981): Kon Ichikawa’s Gritty Adaptation of Ed McBain's 87th Precinct](https://yacine-l.github.io/hot-info/2025/12/27/lonely-heart-kofuku-1981-kon-ichikawas-gritty-adaptation-of-.html)
+
+
 - [** Max Ehmer: The German Defender Who Became a Gillingham Legend and Ebbsfleet Anchor
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/max-ehmer-the-german-defender-who-became-a-gillingham-legend.html)
