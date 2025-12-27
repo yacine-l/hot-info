@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Moïse Brou Apanga: The Definitive Profile of Gabon's Ivorian-Born Defensive Stalwart](https://yacine-l.github.io/hot-info/2025/12/27/mose-brou-apanga-the-definitive-profile-of-gabons-ivorian-bo.html)
+
+
 - [Kyrgyzstan’s Golden Triumphs: Analyzing the 2018 Asian Games Performance in Jakarta-Palembang](https://yacine-l.github.io/hot-info/2025/12/27/kyrgyzstans-golden-triumphs-analyzing-the-2018-asian-games-p.html)
 
 
