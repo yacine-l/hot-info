@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Muncher C64 & ZX Spectrum: Digging into the 1988 Retro Classic Where the Chewits Monster Attacks Japan](https://yacine-l.github.io/hot-info/2025/12/27/the-muncher-c64-zx-spectrum-digging-into-the-1988-retro-clas.html)
+
+
 - [Dorado Constellation: Unveiling the Secrets of the Golden Fish in the Southern Sky](https://yacine-l.github.io/hot-info/2025/12/27/dorado-constellation-unveiling-the-secrets-of-the-golden-fis.html)
 
 
