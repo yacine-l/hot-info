@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Rafael Escalona: The Troubadour Who Wrote the Soundtrack of Colombia – A 1,200 Word Tribute
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/rafael-escalona-the-troubadour-who-wrote-the-soundtrack-of-c.html)
+
+
 - [** La Paz, Agusan del Sur: Exploring the Hidden Giant of Mindanao's Untouched Wilderness
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/la-paz-agusan-del-sur-exploring-the-hidden-giant-of-mindanao.html)
