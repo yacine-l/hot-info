@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [John Verhoeven: From MLB Pitcher to Collegiate Coaching Icon – A 40-Year Career in Baseball](https://yacine-l.github.io/hot-info/2025/12/27/john-verhoeven-from-mlb-pitcher-to-collegiate-coaching-icon-.html)
+
+
 - [Al Bataeh Sharjah: The Ultimate Guide to Sharjah’s Tranquil Desert Conservation Hub](https://yacine-l.github.io/hot-info/2025/12/27/al-bataeh-sharjah-the-ultimate-guide-to-sharjahs-tranquil-de.html)
 
 
