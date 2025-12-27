@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Compressed Jewel: An In-Depth Guide to Epidendrum compressum Care and Ecology](https://yacine-l.github.io/hot-info/2025/12/27/the-compressed-jewel-an-in-depth-guide-to-epidendrum-compres.html)
+
+
 - [Getafe Central Madrid Metro: The Essential Guide to Line 12, MetroSur, and Seamless Cercanías Connectivity](https://yacine-l.github.io/hot-info/2025/12/27/getafe-central-madrid-metro-the-essential-guide-to-line-12-m.html)
 
 
