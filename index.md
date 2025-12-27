@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Talkin' Loud: How Gilles Peterson’s Legendary Label Defined the Sound of 90s UK Music](https://yacine-l.github.io/hot-info/2025/12/27/talkin-loud-how-gilles-petersons-legendary-label-defined-the.html)
+
+
 - [** Emperor Shijō: The Child Ruler Who Navigated the Kamakura Shogunate and Secured the Imperial Lineage
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/emperor-shij-the-child-ruler-who-navigated-the-kamakura-shog.html)
