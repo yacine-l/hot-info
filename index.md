@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Curt Kaufman: Recounting the 40-Game MLB Career of the Yankees and Angels Reliever](https://yacine-l.github.io/hot-info/2025/12/27/curt-kaufman-recounting-the-40-game-mlb-career-of-the-yankee.html)
+
+
 - [Mastering the Joint Probability Distribution: The Key to Multivariate Analysis](https://yacine-l.github.io/hot-info/2025/12/27/mastering-the-joint-probability-distribution-the-key-to-mult.html)
 
 
