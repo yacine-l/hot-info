@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The National Resistance Movement: 38 Years Shaping Uganda's Destiny Since 1986](https://yacine-l.github.io/hot-info/2025/12/27/the-national-resistance-movement-38-years-shaping-ugandas-de.html)
+
+
 - [John Verhoeven: From MLB Pitcher to Collegiate Coaching Icon – A 40-Year Career in Baseball](https://yacine-l.github.io/hot-info/2025/12/27/john-verhoeven-from-mlb-pitcher-to-collegiate-coaching-icon-.html)
 
 
