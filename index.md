@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Ors, France: Exploring the Historical Charm of the Nord Department
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/ors-france-exploring-the-historical-charm-of-the-nord-depart.html)
+
+
 - [Georg Ferdinand Howaldt: The Master Sculptor Who Revolutionized German Bronze Casting](https://yacine-l.github.io/hot-info/2025/12/27/georg-ferdinand-howaldt-the-master-sculptor-who-revolutioniz.html)
 
 
