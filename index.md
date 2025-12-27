@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Sweden's Global Compass: Understanding the Committee on Foreign Affairs (Utrikesutskottet)](https://yacine-l.github.io/hot-info/2025/12/27/swedens-global-compass-understanding-the-committee-on-foreig.html)
+
+
 - [Ode to Joy (The Deadly Snakes album)](https://yacine-l.github.io/hot-info/2025/12/27/ode-to-joy-the-deadly-snakes-album.html)
 
 
