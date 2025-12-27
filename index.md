@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Julian Cope’s Act of Defiance: Unpacking The Jehovahcoat Demos (1993-2011)](https://yacine-l.github.io/hot-info/2025/12/27/julian-copes-act-of-defiance-unpacking-the-jehovahcoat-demos.html)
+
+
 - [The Enduring Legacy of Jorge Prado Rus: A Retrospective on the Spanish Defender](https://yacine-l.github.io/hot-info/2025/12/27/the-enduring-legacy-of-jorge-prado-rus-a-retrospective-on-th.html)
 
 
