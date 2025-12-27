@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Lipník (Mladá Boleslav District): Discovering Central Bohemia's 400-Inhabitant Gem](https://yacine-l.github.io/hot-info/2025/12/27/lipnk-mlad-boleslav-district-discovering-central-bohemias-40.html)
+
+
 - [Royal Jordanian Airlines: Your Definitive Guide to Jordan’s Flag Carrier and the Oneworld Network](https://yacine-l.github.io/hot-info/2025/12/27/royal-jordanian-airlines-your-definitive-guide-to-jordans-fl.html)
 
 
