@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Tears of the Oracle: Analyzing MC Solaar's Iconic Global Lament, "Solaar pleure"](https://yacine-l.github.io/hot-info/2025/12/27/the-tears-of-the-oracle-analyzing-mc-solaars-iconic-global-l.html)
+
+
 - [Weyprecht Fjord: Exploring the Remote Edge of Peary Land, Greenland's Geographic Marvel](https://yacine-l.github.io/hot-info/2025/12/27/weyprecht-fjord-exploring-the-remote-edge-of-peary-land-gree.html)
 
 
