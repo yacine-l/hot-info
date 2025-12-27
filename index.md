@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [MITECO Spain: Navigating the Future of Spain’s Ecological Transition and Demographic Challenge](https://yacine-l.github.io/hot-info/2025/12/27/miteco-spain-navigating-the-future-of-spains-ecological-tran.html)
+
+
 - [** Ángela Camacho: The First Colombian Woman to Achieve a PhD in Physics and a Leader in Condensed Matter Research
 **](https://yacine-l.github.io/hot-info/2025/12/27/ngela-camacho-the-first-colombian-woman-to-achieve-a-phd-in-.html)
 
