@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Richard Blass: The Bloody Reign of "Le Chat" in Montreal's Underworld
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/richard-blass-the-bloody-reign-of-le-chat-in-montreals-under.html)
+
+
 - [Canas Province Peru: Discovering the Authentic Heart of the Southern Cusco Highlands](https://yacine-l.github.io/hot-info/2025/12/27/canas-province-peru-discovering-the-authentic-heart-of-the-s.html)
 
 
