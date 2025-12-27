@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Heaven 17's "This Is Mine": Unpacking the Sophisticated Synth-Pop Masterpiece of 1984](https://yacine-l.github.io/hot-info/2025/12/27/heaven-17s-this-is-mine-unpacking-the-sophisticated-synth-po.html)
+
+
 - [Edulis Restaurant Toronto: Why This Michelin-Starred Gem Defines Canadian Fine Dining](https://yacine-l.github.io/hot-info/2025/12/27/edulis-restaurant-toronto-why-this-michelin-starred-gem-defi.html)
 
 
