@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Renée Geyer's *Renéessance*: Revisiting the Soulful Classics of an Australian Legend
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/rene-geyers-renessance-revisiting-the-soulful-classics-of-an.html)
+
+
 - [** Charles Chvala: The Rise and Fall of Wisconsin's Powerful Democratic Senate Leader
 
 ### **](https://yacine-l.github.io/hot-info/2025/12/27/charles-chvala-the-rise-and-fall-of-wisconsins-powerful-demo.html)
