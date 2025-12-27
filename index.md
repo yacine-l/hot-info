@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Lieutenant General Harald Hægermark: Leading the Defense of Cold War Sweden and the Pivotal II Military District
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/lieutenant-general-harald-hgermark-leading-the-defense-of-co.html)
+
+
 - [San Bartolomé CF: The Pulse of Football in Lanzarote’s Tercera Federación](https://yacine-l.github.io/hot-info/2025/12/27/san-bartolom-cf-the-pulse-of-football-in-lanzarotes-tercera-.html)
 
 
