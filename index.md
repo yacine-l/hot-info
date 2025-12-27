@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Schöttelkarspitze](https://yacine-l.github.io/hot-info/2025/12/27/schttelkarspitze.html)
+
+
 - [** The Ultimate Guide to Hiking Mount Ōno (Ōnoyama): Yamakita's Hidden Gem in Kanagawa
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-ultimate-guide-to-hiking-mount-no-noyama-yamakitas-hidde.html)
