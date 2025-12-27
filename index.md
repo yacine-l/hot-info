@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Emma Lazarus: The Enduring Legacy of "The New Colossus" and the Voice of American Immigration
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/emma-lazarus-the-enduring-legacy-of-the-new-colossus-and-the.html)
+
+
 - [Karl Alexander, 5th Prince of Thurn and Taxis: The Postmaster Who Saved an Empire's Legacy (1805–1827)](https://yacine-l.github.io/hot-info/2025/12/27/karl-alexander-5th-prince-of-thurn-and-taxis-the-postmaster-.html)
 
 
