@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Alex Garbowski: The WWII Veteran Who Earned His 'Cup of Coffee' with the 1952 Detroit Tigers](https://yacine-l.github.io/hot-info/2025/12/27/alex-garbowski-the-wwii-veteran-who-earned-his-cup-of-coffee.html)
+
+
 - [Allison Krause and the Kent State Tragedy: Remembering the Four Fallen Students of May 4, 1970](https://yacine-l.github.io/hot-info/2025/12/27/allison-krause-and-the-kent-state-tragedy-remembering-the-fo.html)
 
 
