@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Jacob Marcaria and the Tridentine Press: A Chapter in 16th Century Jewish Printing History](https://yacine-l.github.io/hot-info/2025/12/27/jacob-marcaria-and-the-tridentine-press-a-chapter-in-16th-ce.html)
+
+
 - [Height of Buildings Act of 1899](https://yacine-l.github.io/hot-info/2025/12/27/height-of-buildings-act-of-1899.html)
 
 
