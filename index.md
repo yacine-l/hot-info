@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Future of the Tennessee Tech Golden Eagles: A Deep Dive into the SoCon Era and D-I Athletics](https://yacine-l.github.io/hot-info/2025/12/27/the-future-of-the-tennessee-tech-golden-eagles-a-deep-dive-i.html)
+
+
 - [** Alexander Lake Alaska: A Comprehensive Guide to Southcentral Alaska’s Remote Wilderness Jewel
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/alexander-lake-alaska-a-comprehensive-guide-to-southcentral-.html)
