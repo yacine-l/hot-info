@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Maddalena Corvina: Unveiling the Master of 17th-Century Roman Miniature Painting
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/maddalena-corvina-unveiling-the-master-of-17th-century-roman.html)
+
+
 - [** David Ungerer III: The Journey of the Argonauts’ Grey Cup Champion Wide Receiver
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/david-ungerer-iii-the-journey-of-the-argonauts-grey-cup-cham.html)
