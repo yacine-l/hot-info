@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Empa Cyprus: The Ultimate Guide to Paphos' Largest and Most Strategic Village](https://yacine-l.github.io/hot-info/2025/12/27/empa-cyprus-the-ultimate-guide-to-paphos-largest-and-most-st.html)
+
+
 - [Bruce Laird: The Hard-Hitting Safety and Special Teams Dynamo of the Baltimore Colts](https://yacine-l.github.io/hot-info/2025/12/27/bruce-laird-the-hard-hitting-safety-and-special-teams-dynamo.html)
 
 
