@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Samuel Hunter Christie: The Unsung Pioneer Behind the Wheatstone Bridge](https://yacine-l.github.io/hot-info/2025/12/27/samuel-hunter-christie-the-unsung-pioneer-behind-the-wheatst.html)
+
+
 - [Inter-American Magnet School: Unlocking Bilingual Excellence in Chicago’s Oldest Dual-Language Program](https://yacine-l.github.io/hot-info/2025/12/27/inter-american-magnet-school-unlocking-bilingual-excellence-.html)
 
 
