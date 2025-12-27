@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Red Tide of '78: Analyzing the Pivotal Cambridge City Council Election](https://yacine-l.github.io/hot-info/2025/12/27/the-red-tide-of-78-analyzing-the-pivotal-cambridge-city-coun.html)
+
+
 - [** The Legacy of Fox Sports Tennessee: Tracking the Evolution of Grizzlies and Predators Broadcasts
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-legacy-of-fox-sports-tennessee-tracking-the-evolution-of.html)
