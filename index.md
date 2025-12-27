@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Ensign College: A Deep Dive into Utah's Historic LDS Educational Institution](https://yacine-l.github.io/hot-info/2025/12/27/ensign-college-a-deep-dive-into-utahs-historic-lds-education.html)
+
+
 - [The Rare Delight of You](https://yacine-l.github.io/hot-info/2025/12/27/the-rare-delight-of-you.html)
 
 
