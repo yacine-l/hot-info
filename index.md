@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Thomas J. O'Connor](https://yacine-l.github.io/hot-info/2025/12/27/thomas-j-oconnor.html)
+
+
 - [Castell y Gwynt: The 3000ft Welsh Summit That Isn't a Welsh 3000](https://yacine-l.github.io/hot-info/2025/12/27/castell-y-gwynt-the-3000ft-welsh-summit-that-isnt-a-welsh-30.html)
 
 
