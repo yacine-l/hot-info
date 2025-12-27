@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Sturgeons House Writtle: Exploring the History of an Early Essex Model Farm](https://yacine-l.github.io/hot-info/2025/12/27/sturgeons-house-writtle-exploring-the-history-of-an-early-es.html)
+
+
 - [** Da Vinci Magazine: Unveiling the History and Influence of Japan’s Premier Monthly Book Guide
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/da-vinci-magazine-unveiling-the-history-and-influence-of-jap.html)
