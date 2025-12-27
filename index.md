@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Chris Collins: From Duke Dynasty to Northwestern Success – Building a Big Ten Program](https://yacine-l.github.io/hot-info/2025/12/27/chris-collins-from-duke-dynasty-to-northwestern-success-buil.html)
+
+
 - [** Yatsugi Station: Your Essential Guide to the Rural Rail Charm of Miyoshi, Hiroshima
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/yatsugi-station-your-essential-guide-to-the-rural-rail-charm.html)
