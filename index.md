@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Journal of the Canadian Society of Forensic Science](https://yacine-l.github.io/hot-info/2025/12/27/journal-of-the-canadian-society-of-forensic-science.html)
+
+
 - [Fred David: The Austrian Jew Who Designed Australia's WWII Airpower and Worked for Both Sides](https://yacine-l.github.io/hot-info/2025/12/27/fred-david-the-austrian-jew-who-designed-australias-wwii-air.html)
 
 
