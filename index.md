@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** 1 Lacertae: Unveiling the Luminous Solitary Giant in the Northern Sky
+**](https://yacine-l.github.io/hot-info/2025/12/27/1-lacertae-unveiling-the-luminous-solitary-giant-in-the-nort.html)
+
+
 - [** Maddalena Corvina: Unveiling the Master of 17th-Century Roman Miniature Painting
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/maddalena-corvina-unveiling-the-master-of-17th-century-roman.html)
