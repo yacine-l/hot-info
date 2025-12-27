@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enigmatic Lestoidea lewisiana: Unveiling Australia's Rarest Mount Lewis Bluestreak Damselfly](https://yacine-l.github.io/hot-info/2025/12/27/the-enigmatic-lestoidea-lewisiana-unveiling-australias-rares.html)
+
+
 - [** Noyant-d'Allier: Uncovering the Unique History of France’s First Official Vietnamese Settlement
 **](https://yacine-l.github.io/hot-info/2025/12/27/noyant-dallier-uncovering-the-unique-history-of-frances-firs.html)
 
