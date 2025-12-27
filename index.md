@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mitchell County High School (MCHS): A Deep Dive into Academics, Athletics, and Community in Camilla, GA](https://yacine-l.github.io/hot-info/2025/12/27/mitchell-county-high-school-mchs-a-deep-dive-into-academics-.html)
+
+
 - [Todd Wiseman Jr.: Decoding the Career of a Modern Filmmaker and Production Pioneer](https://yacine-l.github.io/hot-info/2025/12/27/todd-wiseman-jr-decoding-the-career-of-a-modern-filmmaker-an.html)
 
 
