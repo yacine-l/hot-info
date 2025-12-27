@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Lemyra Obliquivitta: Exploring the Taxonomy and Range of the Oblique-Striped Asian Moth](https://yacine-l.github.io/hot-info/2025/12/27/lemyra-obliquivitta-exploring-the-taxonomy-and-range-of-the-.html)
+
+
 - [Daulatpur, Firozabad: A Deep Dive into Rural Life in the Glass City's Shadow](https://yacine-l.github.io/hot-info/2025/12/27/daulatpur-firozabad-a-deep-dive-into-rural-life-in-the-glass.html)
 
 
