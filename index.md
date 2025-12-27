@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Chersotis oreina: The Elusive Noctuidae Moth of the High Western Alps](https://yacine-l.github.io/hot-info/2025/12/27/chersotis-oreina-the-elusive-noctuidae-moth-of-the-high-west.html)
+
+
 - [** Dzerzhinsky District Novosibirsk: A Comprehensive Look at Siberia’s Industrial and Residential Hub
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/dzerzhinsky-district-novosibirsk-a-comprehensive-look-at-sib.html)
