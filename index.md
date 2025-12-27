@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Danny Dichio: From Premier League Target Man to Detroit City FC Manager](https://yacine-l.github.io/hot-info/2025/12/27/danny-dichio-from-premier-league-target-man-to-detroit-city-.html)
+
+
 - [Dragoș Vodă Călărași: Exploring History, Geography, and Life in a Muntenian Commune](https://yacine-l.github.io/hot-info/2025/12/27/drago-vod-clrai-exploring-history-geography-and-life-in-a-mu.html)
 
 
