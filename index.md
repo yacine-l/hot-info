@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Clive Ballard: A World Leader in Dementia Research and the Future of Age-Related Care
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/clive-ballard-a-world-leader-in-dementia-research-and-the-fu.html)
+
+
 - [Okęcie: The Dynamic Warsaw Neighbourhood Defined by Chopin Airport (WAW)](https://yacine-l.github.io/hot-info/2025/12/27/okcie-the-dynamic-warsaw-neighbourhood-defined-by-chopin-air.html)
 
 
