@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Sir Robert Witt: The Visionary Art Historian Who Founded the Courtauld Institute](https://yacine-l.github.io/hot-info/2025/12/27/sir-robert-witt-the-visionary-art-historian-who-founded-the-.html)
+
+
 - [The Horde (AD&D FRC2): Unearthing the Epic Scale of Advanced Dungeons & Dragons 2nd Edition](https://yacine-l.github.io/hot-info/2025/12/27/the-horde-add-frc2-unearthing-the-epic-scale-of-advanced-dun.html)
 
 
