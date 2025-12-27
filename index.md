@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Unveiling *Carinapex mooreorum*: The Deep-Sea Snail Hidden in Hawaiian Waters
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/unveiling-carinapex-mooreorum-the-deep-sea-snail-hidden-in-h.html)
+
+
 - [** Chapel-en-le-Frith Railway Station: Your Essential Guide to the Buxton Line and the High Peak
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/chapel-en-le-frith-railway-station-your-essential-guide-to-t.html)
