@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [H. L. Davis: Exploring the Life and Legacy of Oregon’s Sole Pulitzer Prize Laureate](https://yacine-l.github.io/hot-info/2025/12/27/h-l-davis-exploring-the-life-and-legacy-of-oregons-sole-puli.html)
+
+
 - [** The Enduring Legacy of the Maihar Gharana: Exploring the Senia Lineage of Instrumental Maestros
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-enduring-legacy-of-the-maihar-gharana-exploring-the-seni.html)
