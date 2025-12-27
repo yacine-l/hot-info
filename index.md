@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Heather Podesta: Architect of Invariant, Power Broker, and Visionary Art Collector](https://yacine-l.github.io/hot-info/2025/12/27/heather-podesta-architect-of-invariant-power-broker-and-visi.html)
+
+
 - [End of the World: The Psychedelic Debut That Launched Aphrodite's Child and Vangelis](https://yacine-l.github.io/hot-info/2025/12/27/end-of-the-world-the-psychedelic-debut-that-launched-aphrodi.html)
 
 
