@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Lanestosa: Discovering the Smallest, Westernmost Gem of Basque Country](https://yacine-l.github.io/hot-info/2025/12/27/lanestosa-discovering-the-smallest-westernmost-gem-of-basque.html)
+
+
 - [** Breton Woods NJ: Exploring Brick Township’s Coziest Bungalow Community
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/breton-woods-nj-exploring-brick-townships-coziest-bungalow-c.html)
