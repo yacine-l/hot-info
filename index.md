@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Hyles robertsi: Unraveling the Mystery of the Central Asian Spurge Hawkmoth](https://yacine-l.github.io/hot-info/2025/12/27/hyles-robertsi-unraveling-the-mystery-of-the-central-asian-s.html)
+
+
 - [Land of the Damned: Revisiting Diamond Rexx's Sole Major Label Masterpiece](https://yacine-l.github.io/hot-info/2025/12/27/land-of-the-damned-revisiting-diamond-rexxs-sole-major-label.html)
 
 
