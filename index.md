@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Romat Pharmaceutical Company: The Legacy of Kazakhstan’s Leading Drug Manufacturer](https://yacine-l.github.io/hot-info/2025/12/27/romat-pharmaceutical-company-the-legacy-of-kazakhstans-leadi.html)
+
+
 - [Southwest Air Lines Flight 611: The Zero-Fatality Disaster That Rewrote Safety Protocols](https://yacine-l.github.io/hot-info/2025/12/27/southwest-air-lines-flight-611-the-zero-fatality-disaster-th.html)
 
 
