@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Discovering Red Bud, Illinois: Small-Town Charm Near the Metro East](https://yacine-l.github.io/hot-info/2025/12/27/discovering-red-bud-illinois-small-town-charm-near-the-metro.html)
+
+
 - [Louisa Hanoune: The Iron Lady of Algerian Politics and Pioneering Presidential Candidate](https://yacine-l.github.io/hot-info/2025/12/27/louisa-hanoune-the-iron-lady-of-algerian-politics-and-pionee.html)
 
 
