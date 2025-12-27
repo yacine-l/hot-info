@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Max Ehmer: The German Defender Who Became a Gillingham Legend and Ebbsfleet Anchor
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/max-ehmer-the-german-defender-who-became-a-gillingham-legend.html)
+
+
 - [** The Final Conquest: How the Herat Campaign of 1862–1863 Completed the Unification of Modern Afghanistan
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-final-conquest-how-the-herat-campaign-of-18621863-comple.html)
 
