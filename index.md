@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Criminal Law Act 1967: Abolishing Felony and Defining Modern UK Justice](https://yacine-l.github.io/hot-info/2025/12/27/the-criminal-law-act-1967-abolishing-felony-and-defining-mod.html)
+
+
 - [Julio Frenk: A Deep Dive into the Visionary New UCLA Chancellor and Global Health Pioneer](https://yacine-l.github.io/hot-info/2025/12/27/julio-frenk-a-deep-dive-into-the-visionary-new-ucla-chancell.html)
 
 
