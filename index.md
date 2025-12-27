@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** F# Programming Language: The Functional-First Powerhouse for .NET Development
+**](https://yacine-l.github.io/hot-info/2025/12/27/f-programming-language-the-functional-first-powerhouse-for-n.html)
+
+
 - [** Kamuzu Stadium: Blantyre’s Iconic Home of Malawian Football and the Famous Derby
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/kamuzu-stadium-blantyres-iconic-home-of-malawian-football-an.html)
