@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Ode to Joy (The Deadly Snakes album)](https://yacine-l.github.io/hot-info/2025/12/27/ode-to-joy-the-deadly-snakes-album.html)
+
+
 - [HMS Revenge Battleship (06): The WWI Workhorse That Fought at Jutland](https://yacine-l.github.io/hot-info/2025/12/27/hms-revenge-battleship-06-the-wwi-workhorse-that-fought-at-j.html)
 
 
