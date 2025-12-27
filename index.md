@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Ahmedabad Defenders: Guardians of Gujarat Volleyball in the Prime Volleyball League
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-ahmedabad-defenders-guardians-of-gujarat-volleyball-in-t.html)
+
+
 - [** Ithaka’s Masterpiece: Rediscovering “Flowers and the Color of Paint” – The 1995 Downtempo Spoken Word Classic
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/ithakas-masterpiece-rediscovering-flowers-and-the-color-of-p.html)
