@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Industrial Heart of Empire: Exploring the Historic Royal Navy Dockyards](https://yacine-l.github.io/hot-info/2025/12/27/the-industrial-heart-of-empire-exploring-the-historic-royal-.html)
+
+
 - [** Guafo Island: Unlocking the Secrets of Chile’s Newly Preserved Biodiversity Hotspot in the Southern Pacific
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/guafo-island-unlocking-the-secrets-of-chiles-newly-preserved.html)
