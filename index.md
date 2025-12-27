@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mikko Innanen: From Veikkausliiga Midfielder to the Tactical Architect of Ilves-Kissat](https://yacine-l.github.io/hot-info/2025/12/27/mikko-innanen-from-veikkausliiga-midfielder-to-the-tactical-.html)
+
+
 - [Mitchell County High School (MCHS): A Deep Dive into Academics, Athletics, and Community in Camilla, GA](https://yacine-l.github.io/hot-info/2025/12/27/mitchell-county-high-school-mchs-a-deep-dive-into-academics-.html)
 
 
