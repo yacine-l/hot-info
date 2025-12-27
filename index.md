@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Rise and Fall of the Mansfield Woodhouse Urban District (1894–1974): A History of Local Governance in Nottinghamshire
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-rise-and-fall-of-the-mansfield-woodhouse-urban-district-.html)
+
+
 - [Diane Birch’s Speak a Little Louder: How Grief Transformed Her Fleetwood Mac-Inspired Masterpiece](https://yacine-l.github.io/hot-info/2025/12/27/diane-birchs-speak-a-little-louder-how-grief-transformed-her.html)
 
 
