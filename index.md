@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Rear Admiral Edward T. Nichols: A Life of Service in the U.S. Navy](https://yacine-l.github.io/hot-info/2025/12/27/rear-admiral-edward-t-nichols-a-life-of-service-in-the-us-na.html)
+
+
 - [** The Siege of Sidney Street 1911: How Winston Churchill Sent the Army to Fight Anarchists in London
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-siege-of-sidney-street-1911-how-winston-churchill-sent-t.html)
