@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Unpacking the Beat: Ismael Sankara, Gabonese Hip-Hop, and the Revolutionary Film "The Rhythm of My Life"](https://yacine-l.github.io/hot-info/2025/12/27/unpacking-the-beat-ismael-sankara-gabonese-hip-hop-and-the-r.html)
+
+
 - [Schöttelkarspitze](https://yacine-l.github.io/hot-info/2025/12/27/schttelkarspitze.html)
 
 
