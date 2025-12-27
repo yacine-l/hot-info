@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Antelope Valley Transit Authority: Leading the Charge with the First All-Electric Fleet in the US
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/antelope-valley-transit-authority-leading-the-charge-with-th.html)
+
+
 - [Oliver Burr Jennings: The Forgotten Fortune and the Birth of Standard Oil](https://yacine-l.github.io/hot-info/2025/12/27/oliver-burr-jennings-the-forgotten-fortune-and-the-birth-of-.html)
 
 
