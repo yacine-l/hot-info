@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [USS Mack (DE-358): The History and Legacy of a John C. Butler-Class Destroyer Escort](https://yacine-l.github.io/hot-info/2025/12/27/uss-mack-de-358-the-history-and-legacy-of-a-john-c-butler-cl.html)
+
+
 - [Aurélien Pradié: The Rise of a Conservative Force in French Politics](https://yacine-l.github.io/hot-info/2025/12/27/aurlien-pradi-the-rise-of-a-conservative-force-in-french-pol.html)
 
 
