@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Miniature Mainline: Unearthing the History of the Crewe Works Railway
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-miniature-mainline-unearthing-the-history-of-the-crewe-w.html)
+
+
 - [Endless, Nameless Nirvana: Decoding the Chaotic Hidden Track on Nevermind](https://yacine-l.github.io/hot-info/2025/12/27/endless-nameless-nirvana-decoding-the-chaotic-hidden-track-o.html)
 
 
