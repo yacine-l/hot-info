@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Vicar of Bray Song Meaning: A Masterpiece of English Political and Ecclesiastical Satire](https://yacine-l.github.io/hot-info/2025/12/27/the-vicar-of-bray-song-meaning-a-masterpiece-of-english-poli.html)
+
+
 - [UGC 6697: Exploring the Starburst Fury of a Barred Spiral Galaxy in Leo](https://yacine-l.github.io/hot-info/2025/12/27/ugc-6697-exploring-the-starburst-fury-of-a-barred-spiral-gal.html)
 
 
