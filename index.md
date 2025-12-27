@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Hellmuth Straka: Bridging Continents and Epochs – The Legacy of an Austrian-Venezuelan Archaeologist](https://yacine-l.github.io/hot-info/2025/12/27/hellmuth-straka-bridging-continents-and-epochs-the-legacy-of.html)
+
+
 - [9 Month Stretch (Neuf mois ferme): Why This French Comedy is a César-Winning Must-Watch](https://yacine-l.github.io/hot-info/2025/12/27/9-month-stretch-neuf-mois-ferme-why-this-french-comedy-is-a-.html)
 
 
