@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Sheridan Circle DC: History, Diplomacy, and the Heart of Embassy Row](https://yacine-l.github.io/hot-info/2025/12/27/sheridan-circle-dc-history-diplomacy-and-the-heart-of-embass.html)
+
+
 - [** Exploring McPhillips: History, Boundaries, and Political Landscape of the Manitoba Electoral District
 **](https://yacine-l.github.io/hot-info/2025/12/27/exploring-mcphillips-history-boundaries-and-political-landsc.html)
 
