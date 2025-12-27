@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Abraham J. Multer](https://yacine-l.github.io/hot-info/2025/12/27/abraham-j-multer.html)
+
+
 - [Frøken Norge 2008: A Deep Dive into the Beauty Pageant That Defined a Generation of Norwegian Queens](https://yacine-l.github.io/hot-info/2025/12/27/frken-norge-2008-a-deep-dive-into-the-beauty-pageant-that-de.html)
 
 
