@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Indispensable Workhorse: A History of the Victorian Railways Y Class 0-6-0 Steam Locomotive
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-indispensable-workhorse-a-history-of-the-victorian-railw.html)
+
+
 - [Salisbury Zoo](https://yacine-l.github.io/hot-info/2025/12/27/salisbury-zoo.html)
 
 
