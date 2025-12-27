@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Berric, Morbihan: Discovering the Timeless Charm of a Quiet Breton Commune](https://yacine-l.github.io/hot-info/2025/12/27/berric-morbihan-discovering-the-timeless-charm-of-a-quiet-br.html)
+
+
 - [** Farshid Esmaeili: Analyzing the Midfield Maestro’s Journey in Iranian Football
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/farshid-esmaeili-analyzing-the-midfield-maestros-journey-in-.html)
