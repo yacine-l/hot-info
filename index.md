@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Bromofluoroiodomethane: Unveiling the Chiral Complexity of a Unique Trihalomethane](https://yacine-l.github.io/hot-info/2025/12/27/bromofluoroiodomethane-unveiling-the-chiral-complexity-of-a-.html)
+
+
 - [The Fiery Jewel of the Andes: An In-Depth Guide to the Flame-rumped Tanager (Ramphocelus flammigerus)](https://yacine-l.github.io/hot-info/2025/12/27/the-fiery-jewel-of-the-andes-an-in-depth-guide-to-the-flame-.html)
 
 
