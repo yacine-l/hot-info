@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Discover Saint-Julien-en-Saint-Alban: A Timeless Commune in the Heart of Ardèche](https://yacine-l.github.io/hot-info/2025/12/27/discover-saint-julien-en-saint-alban-a-timeless-commune-in-t.html)
+
+
 - [** Catholic Memorial High School Waukesha: IB Excellence, Faith-Based Learning, and College Readiness
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/catholic-memorial-high-school-waukesha-ib-excellence-faith-b.html)
