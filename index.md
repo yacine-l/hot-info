@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [USS Carina AK-74: The Crater-Class Cargo Ship That Fueled the Pacific War](https://yacine-l.github.io/hot-info/2025/12/27/uss-carina-ak-74-the-crater-class-cargo-ship-that-fueled-the.html)
+
+
 - [Eisengarn: The Secret History of the Waxed Fabric That Defined Bauhaus Furniture](https://yacine-l.github.io/hot-info/2025/12/27/eisengarn-the-secret-history-of-the-waxed-fabric-that-define.html)
 
 
