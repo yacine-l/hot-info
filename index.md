@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Apache NuttX RTOS: Why This Scalable, POSIX-Compliant OS is Leading the Embedded Revolution](https://yacine-l.github.io/hot-info/2025/12/27/apache-nuttx-rtos-why-this-scalable-posix-compliant-os-is-le.html)
+
+
 - [Sarah Close: The Independent Journey from YouTube Covers to The Kodiak Club](https://yacine-l.github.io/hot-info/2025/12/27/sarah-close-the-independent-journey-from-youtube-covers-to-t.html)
 
 
