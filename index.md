@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Companies Act 1929: The Unsung Foundation of Modern UK Corporate Law and the Road to the CA 2006](https://yacine-l.github.io/hot-info/2025/12/27/the-companies-act-1929-the-unsung-foundation-of-modern-uk-co.html)
+
+
 - [Romat Pharmaceutical Company: The Legacy of Kazakhstan’s Leading Drug Manufacturer](https://yacine-l.github.io/hot-info/2025/12/27/romat-pharmaceutical-company-the-legacy-of-kazakhstans-leadi.html)
 
 
