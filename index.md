@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Qadi Iyad: The Maliki Master, Polymath, and Author of *Ash-Shifa*
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/qadi-iyad-the-maliki-master-polymath-and-author-of-ash-shifa.html)
+
+
 - [Mikko Innanen: From Veikkausliiga Midfielder to the Tactical Architect of Ilves-Kissat](https://yacine-l.github.io/hot-info/2025/12/27/mikko-innanen-from-veikkausliiga-midfielder-to-the-tactical-.html)
 
 
