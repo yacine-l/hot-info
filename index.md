@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Guilty as Charged: An In-Depth Analysis of the Gym Class Heroes’ Confessional Single from The Quilt](https://yacine-l.github.io/hot-info/2025/12/27/guilty-as-charged-an-in-depth-analysis-of-the-gym-class-hero.html)
+
+
 - [Menadarva, Cornwall: Unearthing the Lost History of a Camborne Tin Stream Hamlet](https://yacine-l.github.io/hot-info/2025/12/27/menadarva-cornwall-unearthing-the-lost-history-of-a-camborne.html)
 
 
