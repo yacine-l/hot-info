@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Legacy of the Skipjack Elsworth: Preserving the Last Commercial Sailing Fleet of the Chesapeake Bay](https://yacine-l.github.io/hot-info/2025/12/27/the-legacy-of-the-skipjack-elsworth-preserving-the-last-comm.html)
+
+
 - [The Architect of Modern Sacramento Law: The Enduring Legacy of Judge Elijah Carson Hart (E.C. Hart)](https://yacine-l.github.io/hot-info/2025/12/27/the-architect-of-modern-sacramento-law-the-enduring-legacy-o.html)
 
 
