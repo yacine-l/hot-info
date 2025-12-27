@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Meyer Era Begins: Revisiting the 2005 Florida Gators Football Season and the Birth of a Dynasty
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-meyer-era-begins-revisiting-the-2005-florida-gators-foot.html)
+
+
 - [Unveiling Murichorda Jacobsoni: The Fascinating World of Deep-Sea Murex Snails](https://yacine-l.github.io/hot-info/2025/12/27/unveiling-murichorda-jacobsoni-the-fascinating-world-of-deep.html)
 
 
