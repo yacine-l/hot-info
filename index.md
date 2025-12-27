@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Fernando Vallejo](https://yacine-l.github.io/hot-info/2025/12/27/fernando-vallejo.html)
+
+
 - [Stephan Vujčić](https://yacine-l.github.io/hot-info/2025/12/27/stephan-vuji.html)
 
 
