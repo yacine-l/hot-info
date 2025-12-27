@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Julio Frenk: A Deep Dive into the Visionary New UCLA Chancellor and Global Health Pioneer](https://yacine-l.github.io/hot-info/2025/12/27/julio-frenk-a-deep-dive-into-the-visionary-new-ucla-chancell.html)
+
+
 - [Donnie Edwards: The Underrated NFL Linebacker Who Dominated for the Chiefs and Chargers](https://yacine-l.github.io/hot-info/2025/12/27/donnie-edwards-the-underrated-nfl-linebacker-who-dominated-f.html)
 
 
