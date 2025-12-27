@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Bishwanath Ghosh: Profile of the Unyielding Defender for Bashundhara Kings and Bangladesh](https://yacine-l.github.io/hot-info/2025/12/27/bishwanath-ghosh-profile-of-the-unyielding-defender-for-bash.html)
+
+
 - [Tiridates II of Armenia: The Arsacid King Who Defied the Rise of the Sasanian Empire**
 **](https://yacine-l.github.io/hot-info/2025/12/27/tiridates-ii-of-armenia-the-arsacid-king-who-defied-the-rise.html)
 
