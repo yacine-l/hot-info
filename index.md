@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Louisa Hanoune: The Iron Lady of Algerian Politics and Pioneering Presidential Candidate](https://yacine-l.github.io/hot-info/2025/12/27/louisa-hanoune-the-iron-lady-of-algerian-politics-and-pionee.html)
+
+
 - [Chris Collins: From Duke Dynasty to Northwestern Success – Building a Big Ten Program](https://yacine-l.github.io/hot-info/2025/12/27/chris-collins-from-duke-dynasty-to-northwestern-success-buil.html)
 
 
