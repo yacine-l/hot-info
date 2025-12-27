@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Indomitable Defender: Sir William Oliphant and the Epic Siege of Stirling Castle
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-indomitable-defender-sir-william-oliphant-and-the-epic-s.html)
+
+
 - [Emma Beckett Footballer: Unpacking the Career of Ireland’s Midfield Engine at Watford](https://yacine-l.github.io/hot-info/2025/12/27/emma-beckett-footballer-unpacking-the-career-of-irelands-mid.html)
 
 
