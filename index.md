@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Shaji Prabhakaran: The Architect Shaping Indian Football Governance, From FIFA to AIFF](https://yacine-l.github.io/hot-info/2025/12/27/shaji-prabhakaran-the-architect-shaping-indian-football-gove.html)
+
+
 - [The Lost Lineage: Investigating the Short-Lived Oldfield Baronetcy of Spalding](https://yacine-l.github.io/hot-info/2025/12/27/the-lost-lineage-investigating-the-short-lived-oldfield-baro.html)
 
 
