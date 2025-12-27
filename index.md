@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Constitution of 1852: How Louis-Napoléon Engineered the Second French Empire](https://yacine-l.github.io/hot-info/2025/12/27/the-constitution-of-1852-how-louis-napolon-engineered-the-se.html)
+
+
 - [Boyz II Men "Please Don't Go": Chart Success and the Defining Ballad of Cooleyhighharmony](https://yacine-l.github.io/hot-info/2025/12/27/boyz-ii-men-please-dont-go-chart-success-and-the-defining-ba.html)
 
 
