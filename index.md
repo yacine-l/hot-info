@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Victoria II: Why This 2010 Grand Strategy Game Remains Paradox's Most Complex Simulation](https://yacine-l.github.io/hot-info/2025/12/27/victoria-ii-why-this-2010-grand-strategy-game-remains-parado.html)
+
+
 - [The Compressed Jewel: An In-Depth Guide to Epidendrum compressum Care and Ecology](https://yacine-l.github.io/hot-info/2025/12/27/the-compressed-jewel-an-in-depth-guide-to-epidendrum-compres.html)
 
 
