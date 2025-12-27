@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Saint Everilda of Everingham: Unearthing the Mystery of Yorkshire’s 7th-Century Foundress](https://yacine-l.github.io/hot-info/2025/12/27/saint-everilda-of-everingham-unearthing-the-mystery-of-yorks.html)
+
+
 - [Great Officers of State (United Kingdom)](https://yacine-l.github.io/hot-info/2025/12/27/great-officers-of-state-united-kingdom.html)
 
 
