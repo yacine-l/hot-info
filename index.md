@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Fernando Ceballos: The Unsung Defender Who Defined Racing de Santander’s Toughest Era](https://yacine-l.github.io/hot-info/2025/12/27/fernando-ceballos-the-unsung-defender-who-defined-racing-de-.html)
+
+
 - [Unraveling *Double Alibi*: The Taut 1940 Universal Crime Thriller and the Golden Age of B-Movies](https://yacine-l.github.io/hot-info/2025/12/27/unraveling-double-alibi-the-taut-1940-universal-crime-thrill.html)
 
 
