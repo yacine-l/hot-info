@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Daniele Mazzone: The Dominant Middle Blocker Defining Italian Volleyball](https://yacine-l.github.io/hot-info/2025/12/27/daniele-mazzone-the-dominant-middle-blocker-defining-italian.html)
+
+
 - [Driss El Himer: The Journey of a Moroccan-French Long-Distance Running Champion](https://yacine-l.github.io/hot-info/2025/12/27/driss-el-himer-the-journey-of-a-moroccan-french-long-distanc.html)
 
 
