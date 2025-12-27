@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Utah Education Network (UEN): The Digital Backbone of Education in the Beehive State
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-utah-education-network-uen-the-digital-backbone-of-educa.html)
+
+
 - [Ivo Visković: The Polymath Shaping Serbian Foreign Policy and Academia**
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/ivo-viskovi-the-polymath-shaping-serbian-foreign-policy-and-.html)
