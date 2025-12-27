@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Final Conquest: How the Herat Campaign of 1862–1863 Completed the Unification of Modern Afghanistan
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-final-conquest-how-the-herat-campaign-of-18621863-comple.html)
+
+
 - [** Take Care of Us, Captain: Why This 2012 Aviation K-Drama Still Soars High
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/take-care-of-us-captain-why-this-2012-aviation-k-drama-still.html)
