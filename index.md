@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Glycin Photographic Developer: Understanding N-(4-Hydroxyphenyl)glycine in Classic Black-and-White Chemistry
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/glycin-photographic-developer-understanding-n-4-hydroxypheny.html)
+
+
 - [Edna Best: The British Stage Legend Who Defined 20th-Century Acting, from the West End to Hitchcock](https://yacine-l.github.io/hot-info/2025/12/27/edna-best-the-british-stage-legend-who-defined-20th-century-.html)
 
 
