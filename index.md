@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mel Cummin: The Forgotten Renaissance Man of Early American Comics and Exploration](https://yacine-l.github.io/hot-info/2025/12/27/mel-cummin-the-forgotten-renaissance-man-of-early-american-c.html)
+
+
 - [7-Deoxyloganic Acid: Unveiling the Pivotal Intermediate in Iridoid Monoterpene Biosynthesis](https://yacine-l.github.io/hot-info/2025/12/27/7-deoxyloganic-acid-unveiling-the-pivotal-intermediate-in-ir.html)
 
 
