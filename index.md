@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Georg Friedrich Wilhelm Rümker: The German Astronomer Who Moved the Stars (and the Hamburg Observatory)](https://yacine-l.github.io/hot-info/2025/12/27/georg-friedrich-wilhelm-rmker-the-german-astronomer-who-move.html)
+
+
 - [Adam Loewen](https://yacine-l.github.io/hot-info/2025/12/27/adam-loewen.html)
 
 
