@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Helsinki Thunder: The Explosive Three-Year Run of Finland’s Most Daring Street Circuit](https://yacine-l.github.io/hot-info/2025/12/27/helsinki-thunder-the-explosive-three-year-run-of-finlands-mo.html)
+
+
 - [** Redman’s Explosive Debut: How "Blow Your Mind" Defined the Funk-Laced Sound of 90s Hip Hop
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/redmans-explosive-debut-how-blow-your-mind-defined-the-funk-.html)
