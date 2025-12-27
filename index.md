@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Future of Film Development: How Neill Blomkamp’s Oats Studios Rewrote the Rules of Independent Sci-Fi](https://yacine-l.github.io/hot-info/2025/12/27/the-future-of-film-development-how-neill-blomkamps-oats-stud.html)
+
+
 - [Unpacking Excellence: A Deep Dive into Lakewood High School, St. Petersburg’s Hub for Advanced Technologies](https://yacine-l.github.io/hot-info/2025/12/27/unpacking-excellence-a-deep-dive-into-lakewood-high-school-s.html)
 
 
