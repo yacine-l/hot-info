@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Tragic Case of Nicola Furlong: Remembering the Irish Exchange Student Murdered in Shinjuku](https://yacine-l.github.io/hot-info/2025/12/27/the-tragic-case-of-nicola-furlong-remembering-the-irish-exch.html)
+
+
 - [Nečtiny: Discovering the Timeless Charm and Hidden History of Plzeň-North](https://yacine-l.github.io/hot-info/2025/12/27/netiny-discovering-the-timeless-charm-and-hidden-history-of-.html)
 
 
