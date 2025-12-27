@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Discovering Geldrop Castle: History, Gardens, and the Jewel of North-Brabant](https://yacine-l.github.io/hot-info/2025/12/27/discovering-geldrop-castle-history-gardens-and-the-jewel-of-.html)
+
+
 - [** The Osgoode Hall Legal & Literary Society: Governing Canadian Law Student Life Since 1876
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-osgoode-hall-legal-literary-society-governing-canadian-l.html)
