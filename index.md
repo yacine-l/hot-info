@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Mejlis of the Crimean Tatar People: Guardians of Indigenous Self-Governance and European Memory](https://yacine-l.github.io/hot-info/2025/12/27/the-mejlis-of-the-crimean-tatar-people-guardians-of-indigeno.html)
+
+
 - [The Almirante Juan de Borbón (F-102): Spain's Aegis-Powered Air Defence Guardian](https://yacine-l.github.io/hot-info/2025/12/27/the-almirante-juan-de-borbn-f-102-spains-aegis-powered-air-d.html)
 
 
