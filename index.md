@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Alber Saber Ayad: The Egyptian Blogger Arrested for Atheism and Sharing the Innocence of Muslims Trailer](https://yacine-l.github.io/hot-info/2025/12/27/alber-saber-ayad-the-egyptian-blogger-arrested-for-atheism-a.html)
+
+
 - [The Valiant Legacy of the USS Richard E. Kraus (DD-849): From Cold War Destroyer to Fleet Test Ship](https://yacine-l.github.io/hot-info/2025/12/27/the-valiant-legacy-of-the-uss-richard-e-kraus-dd-849-from-co.html)
 
 
