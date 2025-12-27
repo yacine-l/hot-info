@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Valiant Legacy of the USS Richard E. Kraus (DD-849): From Cold War Destroyer to Fleet Test Ship](https://yacine-l.github.io/hot-info/2025/12/27/the-valiant-legacy-of-the-uss-richard-e-kraus-dd-849-from-co.html)
+
+
 - [The Majestic Symbolism of the Sabah Flag: History, Design, and Mount Kinabalu](https://yacine-l.github.io/hot-info/2025/12/27/the-majestic-symbolism-of-the-sabah-flag-history-design-and-.html)
 
 
