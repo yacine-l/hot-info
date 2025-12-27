@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Andy Pilgrim: The Enduring Legacy of an American Racing Icon](https://yacine-l.github.io/hot-info/2025/12/27/andy-pilgrim-the-enduring-legacy-of-an-american-racing-icon.html)
+
+
 - [Gottmik](https://yacine-l.github.io/hot-info/2025/12/27/gottmik.html)
 
 
