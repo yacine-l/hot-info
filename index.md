@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Shadows of Confinement: Exploring Olof Molander’s Gripping 1943 Swedish Drama, *Imprisoned Women*](https://yacine-l.github.io/hot-info/2025/12/27/the-shadows-of-confinement-exploring-olof-molanders-gripping.html)
+
+
 - [** Sisters of the Gion: Why Kenji Mizoguchi’s 1936 Geisha Drama Remains a Masterpiece of Pre-War Japanese Cinema
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/sisters-of-the-gion-why-kenji-mizoguchis-1936-geisha-drama-r.html)
