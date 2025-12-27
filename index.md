@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Shōwa Financial Crisis of 1927: How a Banking Panic Reshaped Modern Japan
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-shwa-financial-crisis-of-1927-how-a-banking-panic-reshap.html)
+
+
 - [Iqbal Quadir: The Visionary Who Connected the Bottom of the Pyramid with Grameenphone and MIT](https://yacine-l.github.io/hot-info/2025/12/27/iqbal-quadir-the-visionary-who-connected-the-bottom-of-the-p.html)
 
 
