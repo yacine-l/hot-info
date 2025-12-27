@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Đorđe Zagla: The Top Buljubaša of Smederevo in the First Serbian Uprising](https://yacine-l.github.io/hot-info/2025/12/27/ore-zagla-the-top-buljubaa-of-smederevo-in-the-first-serbian.html)
+
+
 - [The Bloody Siege of Iwamura Castle: How Takeda Shingen Outmaneuvered Oda Nobunaga in 1572](https://yacine-l.github.io/hot-info/2025/12/27/the-bloody-siege-of-iwamura-castle-how-takeda-shingen-outman.html)
 
 
