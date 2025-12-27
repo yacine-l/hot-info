@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Sarah Close: The Independent Journey from YouTube Covers to The Kodiak Club](https://yacine-l.github.io/hot-info/2025/12/27/sarah-close-the-independent-journey-from-youtube-covers-to-t.html)
+
+
 - [The Newfoundland Black Bear: Canada’s Unique Island Giant and Hibernation King](https://yacine-l.github.io/hot-info/2025/12/27/the-newfoundland-black-bear-canadas-unique-island-giant-and-.html)
 
 
