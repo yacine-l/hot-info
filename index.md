@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Anam Ramanarayana Reddy: Tracing the Illustrious Career of the Atmakur MLA and Andhra Pradesh Cabinet Minister](https://yacine-l.github.io/hot-info/2025/12/27/anam-ramanarayana-reddy-tracing-the-illustrious-career-of-th.html)
+
+
 - [Jacob A. Cantor](https://yacine-l.github.io/hot-info/2025/12/27/jacob-a-cantor.html)
 
 
