@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [UNSC Resolution 505: The Desperate Diplomatic Plea to Halt the Falklands War](https://yacine-l.github.io/hot-info/2025/12/27/unsc-resolution-505-the-desperate-diplomatic-plea-to-halt-th.html)
+
+
 - [** The Royal Kangaroos Wrestling: How Jonathan Boyd & Charles III Mastered Brutal Brawling
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-royal-kangaroos-wrestling-how-jonathan-boyd-charles-iii-.html)
