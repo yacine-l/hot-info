@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Last Stand: Analyzing the 1992 Angus District Council Election and the End of an Era](https://yacine-l.github.io/hot-info/2025/12/27/the-last-stand-analyzing-the-1992-angus-district-council-ele.html)
+
+
 - [** Sathanur Dam: History, Hydrology, and Hidden Gardens of Tamil Nadu's Third Largest Reservoir
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/sathanur-dam-history-hydrology-and-hidden-gardens-of-tamil-n.html)
