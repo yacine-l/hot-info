@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Simhasanam (2012): Analyzing the Shaji Kailas Action Drama Starring Prithviraj Sukumaran](https://yacine-l.github.io/hot-info/2025/12/27/simhasanam-2012-analyzing-the-shaji-kailas-action-drama-star.html)
+
+
 - [Set Your Goals' *Mutiny!* (2006): The Hardcore Debut That Rewrote the Melodic Rulebook](https://yacine-l.github.io/hot-info/2025/12/27/set-your-goals-mutiny-2006-the-hardcore-debut-that-rewrote-t.html)
 
 
