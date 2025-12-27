@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Johan Henrik Deuntzer: The Professor Who Ushered in Danish Parliamentary Democracy
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/johan-henrik-deuntzer-the-professor-who-ushered-in-danish-pa.html)
+
+
 - [Stadion Kranjčevićeva: The Historic Heart of Zagreb Football in Trešnjevka](https://yacine-l.github.io/hot-info/2025/12/27/stadion-kranjevieva-the-historic-heart-of-zagreb-football-in.html)
 
 
