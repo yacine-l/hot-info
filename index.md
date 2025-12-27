@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Brooklyn Decker](https://yacine-l.github.io/hot-info/2025/12/27/brooklyn-decker.html)
+
+
 - [Harvey Rosenfield: The Architect of Modern Consumer Advocacy and Founder of Consumer Watchdog](https://yacine-l.github.io/hot-info/2025/12/27/harvey-rosenfield-the-architect-of-modern-consumer-advocacy-.html)
 
 
