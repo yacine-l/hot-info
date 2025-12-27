@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Aster bellidiastrum: The Definitive Guide to the False Daisy Aster](https://yacine-l.github.io/hot-info/2025/12/27/aster-bellidiastrum-the-definitive-guide-to-the-false-daisy-.html)
+
+
 - [Chloramine-T: The Multifunctional Reagent Driving Modern Heterocyclic Synthesis](https://yacine-l.github.io/hot-info/2025/12/27/chloramine-t-the-multifunctional-reagent-driving-modern-hete.html)
 
 
