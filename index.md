@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Abelardo Ávila Villarreal: Master of Mexican Costumbrista Engraving and the Legacy of the SMG](https://yacine-l.github.io/hot-info/2025/12/27/abelardo-vila-villarreal-master-of-mexican-costumbrista-engr.html)
+
+
 - [Discovering La Grigonnais: Unveiling the Authentic Heart of Loire-Atlantique](https://yacine-l.github.io/hot-info/2025/12/27/discovering-la-grigonnais-unveiling-the-authentic-heart-of-l.html)
 
 
