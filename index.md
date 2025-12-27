@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Arslanbek Açilow: The Olympic Journey and Legacy of Turkmenistan's Middleweight Boxer](https://yacine-l.github.io/hot-info/2025/12/27/arslanbek-ailow-the-olympic-journey-and-legacy-of-turkmenist.html)
+
+
 - [The Endless Maze: Exploring Toby Litt's Surreal Novel Hospital (A Dream-Vision)](https://yacine-l.github.io/hot-info/2025/12/27/the-endless-maze-exploring-toby-litts-surreal-novel-hospital.html)
 
 
