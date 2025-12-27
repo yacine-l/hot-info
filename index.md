@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Hydrothermal Vents: The Deep-Sea Oases Powered by Earth's Fire
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/hydrothermal-vents-the-deep-sea-oases-powered-by-earths-fire.html)
+
+
 - [** Grand Duke Vladimir Alexandrovich: The Iron Duke Who Shaped Imperial Russian Culture
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/grand-duke-vladimir-alexandrovich-the-iron-duke-who-shaped-i.html)
