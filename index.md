@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Georg Ferdinand Howaldt: The Master Sculptor Who Revolutionized German Bronze Casting](https://yacine-l.github.io/hot-info/2025/12/27/georg-ferdinand-howaldt-the-master-sculptor-who-revolutioniz.html)
+
+
 - [Scott, Louisiana: Exploring the Heart of Acadiana’s “Sausage Capital of the World”](https://yacine-l.github.io/hot-info/2025/12/27/scott-louisiana-exploring-the-heart-of-acadianas-sausage-cap.html)
 
 
