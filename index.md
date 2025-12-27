@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Newfoundland Black Bear: Canada’s Unique Island Giant and Hibernation King](https://yacine-l.github.io/hot-info/2025/12/27/the-newfoundland-black-bear-canadas-unique-island-giant-and-.html)
+
+
 - [Discovering Brodnica County: History, Lakeland Beauty, and Poland's Hidden Gem](https://yacine-l.github.io/hot-info/2025/12/27/discovering-brodnica-county-history-lakeland-beauty-and-pola.html)
 
 
