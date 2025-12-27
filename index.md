@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Adapa: The Mesopotamian Sage Who Unknowingly Refused Immortality](https://yacine-l.github.io/hot-info/2025/12/27/adapa-the-mesopotamian-sage-who-unknowingly-refused-immortal.html)
+
+
 - [Mitin: Ekti Khunir Sandhaney](https://yacine-l.github.io/hot-info/2025/12/27/mitin-ekti-khunir-sandhaney.html)
 
 
