@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Conservative Victory](https://yacine-l.github.io/hot-info/2025/12/27/conservative-victory.html)
+
+
 - [Popești, Iași: Discovering the Enduring Heart of Western Moldavia](https://yacine-l.github.io/hot-info/2025/12/27/popeti-iai-discovering-the-enduring-heart-of-western-moldavi.html)
 
 
