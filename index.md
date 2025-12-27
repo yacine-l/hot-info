@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Judith Kaplan Eisenstein: How the First Bat Mitzvah in America Changed Jewish History
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/judith-kaplan-eisenstein-how-the-first-bat-mitzvah-in-americ.html)
+
+
 - [** Tan Si Lie: The Singaporean Archer Who Took Aim at the 2015 SEA Games and Inspired a Nation
 **](https://yacine-l.github.io/hot-info/2025/12/27/tan-si-lie-the-singaporean-archer-who-took-aim-at-the-2015-s.html)
 
