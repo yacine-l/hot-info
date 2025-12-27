@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Andrejs Žagars: The Visionary Director Who Transformed the Latvian National Opera
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/andrejs-agars-the-visionary-director-who-transformed-the-lat.html)
+
+
 - [Manolis Stefanoudakis: The Journey of Greece’s F54 Javelin Paralympic Gold Medalist](https://yacine-l.github.io/hot-info/2025/12/27/manolis-stefanoudakis-the-journey-of-greeces-f54-javelin-par.html)
 
 
