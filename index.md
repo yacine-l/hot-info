@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Anandrao Vithoba Adsul: The Veteran Shiv Sena MP Who Mastered Maharashtra’s Lok Sabha Seats](https://yacine-l.github.io/hot-info/2025/12/27/anandrao-vithoba-adsul-the-veteran-shiv-sena-mp-who-mastered.html)
+
+
 - [This Is Football 2004](https://yacine-l.github.io/hot-info/2025/12/27/this-is-football-2004.html)
 
 
