@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Flight of the Intruder: The Unsung Vietnam War Flight Simulator That Defined a Generation](https://yacine-l.github.io/hot-info/2025/12/27/flight-of-the-intruder-the-unsung-vietnam-war-flight-simulat.html)
+
+
 - [The Lammermuir Party: How 22 People Changed the History of Missions in 19th Century China](https://yacine-l.github.io/hot-info/2025/12/27/the-lammermuir-party-how-22-people-changed-the-history-of-mi.html)
 
 
