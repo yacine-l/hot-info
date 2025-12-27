@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Anna Maria von Baden-Durlach: The Margrave’s Daughter Who Became a Baroque Poet and Painter
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/anna-maria-von-baden-durlach-the-margraves-daughter-who-beca.html)
+
+
 - [Ventricular Fibrillation: Understanding the Deadliest Heart Rhythm and the Response to Sudden Cardiac Arrest](https://yacine-l.github.io/hot-info/2025/12/27/ventricular-fibrillation-understanding-the-deadliest-heart-r.html)
 
 
