@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Comandante Armando Tola International Airport (FTE): Your Definitive Gateway to Patagonia and El Calafate](https://yacine-l.github.io/hot-info/2025/12/27/comandante-armando-tola-international-airport-fte-your-defin.html)
+
+
 - [The Definitive Guide to Bhatiapara Ghat Railway Station: History, Connectivity, and Importance in Gopalganj](https://yacine-l.github.io/hot-info/2025/12/27/the-definitive-guide-to-bhatiapara-ghat-railway-station-hist.html)
 
 
