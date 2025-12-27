@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Yura Movsisyan: The Definitive Career Retrospective of the Armenian Striker](https://yacine-l.github.io/hot-info/2025/12/27/yura-movsisyan-the-definitive-career-retrospective-of-the-ar.html)
+
+
 - [Goczałków: Unveiling the Hidden Charms of a Lower Silesian Village](https://yacine-l.github.io/hot-info/2025/12/27/goczakw-unveiling-the-hidden-charms-of-a-lower-silesian-vill.html)
 
 
