@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Underrated Groove: Why "Walk Right Now" Was The Jacksons' Final Triumph of the 80s](https://yacine-l.github.io/hot-info/2025/12/27/the-underrated-groove-why-walk-right-now-was-the-jacksons-fi.html)
+
+
 - [** COCONUTS-2b: The Exoplanet Juggernaut Orbiting 7,500 AU Away
 **](https://yacine-l.github.io/hot-info/2025/12/27/coconuts-2b-the-exoplanet-juggernaut-orbiting-7500-au-away.html)
 
