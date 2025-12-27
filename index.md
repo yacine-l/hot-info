@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Complete Guide to Lithops schwantesii: Care, Cultivation, and Why This Living Stone Won an Award
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-complete-guide-to-lithops-schwantesii-care-cultivation-a.html)
+
+
 - [Ensign College: A Deep Dive into Utah's Historic LDS Educational Institution](https://yacine-l.github.io/hot-info/2025/12/27/ensign-college-a-deep-dive-into-utahs-historic-lds-education.html)
 
 
