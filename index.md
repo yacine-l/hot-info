@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [New Pokémon Snap: A Deep Dive Into the Long-Awaited Nintendo Switch Photography Adventure](https://yacine-l.github.io/hot-info/2025/12/27/new-pokmon-snap-a-deep-dive-into-the-long-awaited-nintendo-s.html)
+
+
 - [** The Third Lyons Ministry (1934–1937): Forging the Coalition and Securing Australia’s Economic Recovery
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-third-lyons-ministry-19341937-forging-the-coalition-and-.html)
 
