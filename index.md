@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** East Bengal Club: History, The Kolkata Derby, and Navigating the Indian Super League Era
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/east-bengal-club-history-the-kolkata-derby-and-navigating-th.html)
+
+
 - [Constantijn Huygens Jr.](https://yacine-l.github.io/hot-info/2025/12/27/constantijn-huygens-jr.html)
 
 
