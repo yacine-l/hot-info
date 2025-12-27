@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Cotahuasi Canyon: Exploring the World’s Deepest Gorge in the Peruvian Andes
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/cotahuasi-canyon-exploring-the-worlds-deepest-gorge-in-the-p.html)
+
+
 - [** Newport Technical Institute: Uncovering the History of Newport’s Grade II Listed Architectural Gem
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/newport-technical-institute-uncovering-the-history-of-newpor.html)
