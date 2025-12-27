@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Heks Castle Belgium: A Hidden 18th-Century Gem and Horticultural Masterpiece in Limburg](https://yacine-l.github.io/hot-info/2025/12/27/heks-castle-belgium-a-hidden-18th-century-gem-and-horticultu.html)
+
+
 - [Centreport Aqueduct: A Monument to the Improved Erie Canal in Weedsport, NY
 
 ###](https://yacine-l.github.io/hot-info/2025/12/27/centreport-aqueduct-a-monument-to-the-improved-erie-canal-in.html)
