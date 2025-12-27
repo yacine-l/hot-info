@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Kangyidaunt Township: Gateway to the Eastern Pathein District and the Ayeyarwady Delta](https://yacine-l.github.io/hot-info/2025/12/27/kangyidaunt-township-gateway-to-the-eastern-pathein-district.html)
+
+
 - [The End of Time: Exploring Julian Barbour’s Radical Proof That Time is an Illusion](https://yacine-l.github.io/hot-info/2025/12/27/the-end-of-time-exploring-julian-barbours-radical-proof-that.html)
 
 
