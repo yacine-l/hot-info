@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The 1st Parachute Hussar Regiment: Airborne Cavalry and 300 Years of Elite Service](https://yacine-l.github.io/hot-info/2025/12/27/the-1st-parachute-hussar-regiment-airborne-cavalry-and-300-y.html)
+
+
 - [The Divine Warrior with the Third Eye: Who is Erlang Shen, the Chinese God of Justice and War?](https://yacine-l.github.io/hot-info/2025/12/27/the-divine-warrior-with-the-third-eye-who-is-erlang-shen-the.html)
 
 
