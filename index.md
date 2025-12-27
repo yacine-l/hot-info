@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Journal of Urban History](https://yacine-l.github.io/hot-info/2025/12/27/journal-of-urban-history.html)
+
+
 - [** The Shōwa Financial Crisis of 1927: How a Banking Panic Reshaped Modern Japan
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-shwa-financial-crisis-of-1927-how-a-banking-panic-reshap.html)
