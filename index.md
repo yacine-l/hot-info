@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Year 1061: A Moment of Transition—Setting the Stage for Medieval Europe’s Transformation](https://yacine-l.github.io/hot-info/2025/12/27/the-year-1061-a-moment-of-transitionsetting-the-stage-for-me.html)
+
+
 - [** Ashurst Australia: A Comprehensive Guide to One of Australia’s Top Tier Commercial Law Firms
 **](https://yacine-l.github.io/hot-info/2025/12/27/ashurst-australia-a-comprehensive-guide-to-one-of-australias.html)
 
