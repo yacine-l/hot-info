@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Yevgeni Yatchenko](https://yacine-l.github.io/hot-info/2025/12/27/yevgeni-yatchenko.html)
+
+
 - [** Eve Jobs: From Champion Equestrian to High Fashion Model—Carving Her Own Legacy
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/eve-jobs-from-champion-equestrian-to-high-fashion-modelcarvi.html)
