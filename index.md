@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Unearthing Gold: The Complete Guide to the Panagyurishte Treasure and Thracian Artistry
+**](https://yacine-l.github.io/hot-info/2025/12/27/unearthing-gold-the-complete-guide-to-the-panagyurishte-trea.html)
+
+
 - [Uncovering the History of the Woodland Hotel: An Owen, Wisconsin Treasure on the National Register](https://yacine-l.github.io/hot-info/2025/12/27/uncovering-the-history-of-the-woodland-hotel-an-owen-wiscons.html)
 
 
