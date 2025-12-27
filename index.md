@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Paramoltkia doerfleri: Unveiling the Enigmatic Balkan Endemic of the Boraginaceae Family](https://yacine-l.github.io/hot-info/2025/12/27/paramoltkia-doerfleri-unveiling-the-enigmatic-balkan-endemic.html)
+
+
 - [Sewell Jones: The Enigmatic Coach Who Led ACU to an Undefeated 1920 Season](https://yacine-l.github.io/hot-info/2025/12/27/sewell-jones-the-enigmatic-coach-who-led-acu-to-an-undefeate.html)
 
 
