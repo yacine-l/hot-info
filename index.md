@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Unearthing History: Lot 53 Prince Edward Island and the Proprietors of 1767
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/unearthing-history-lot-53-prince-edward-island-and-the-propr.html)
+
+
 - [** The Rise and Fall of the Mansfield Woodhouse Urban District (1894–1974): A History of Local Governance in Nottinghamshire
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-rise-and-fall-of-the-mansfield-woodhouse-urban-district-.html)
