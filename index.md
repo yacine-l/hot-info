@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Beyond the Ballroom: Exploring Georgette Heyer’s Masterpiece of Espionage, The Great Roxhythe (1668–1685)](https://yacine-l.github.io/hot-info/2025/12/27/beyond-the-ballroom-exploring-georgette-heyers-masterpiece-o.html)
+
+
 - [Spiridon Gopčević: The Serbian-Austrian Nobleman Who Mastered Both Stars and Controversial History](https://yacine-l.github.io/hot-info/2025/12/27/spiridon-gopevi-the-serbian-austrian-nobleman-who-mastered-b.html)
 
 
