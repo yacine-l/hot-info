@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Grand Duke Vladimir Alexandrovich: The Iron Duke Who Shaped Imperial Russian Culture
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/grand-duke-vladimir-alexandrovich-the-iron-duke-who-shaped-i.html)
+
+
 - [** NY 199: The Ultimate Guide to New York State Route 199 and the Kingston–Rhinecliff Bridge
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/ny-199-the-ultimate-guide-to-new-york-state-route-199-and-th.html)
