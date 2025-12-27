@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Frumka Płotnicka: The Unsung Heroine Who Organized Resistance from Warsaw to the Dąbrowa Basin](https://yacine-l.github.io/hot-info/2025/12/27/frumka-potnicka-the-unsung-heroine-who-organized-resistance-.html)
+
+
 - [Aaruthra (2018): A Deep Dive into Pa. Vijay's Social Drama and Multi-Faceted Vision](https://yacine-l.github.io/hot-info/2025/12/27/aaruthra-2018-a-deep-dive-into-pa-vijays-social-drama-and-mu.html)
 
 
