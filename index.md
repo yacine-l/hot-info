@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Phil Hopkins](https://yacine-l.github.io/hot-info/2025/12/27/phil-hopkins.html)
+
+
 - [Yura Movsisyan: The Definitive Career Retrospective of the Armenian Striker](https://yacine-l.github.io/hot-info/2025/12/27/yura-movsisyan-the-definitive-career-retrospective-of-the-ar.html)
 
 
