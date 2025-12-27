@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Maxi Yacht: Defining the Giants of High-Performance Ocean Racing](https://yacine-l.github.io/hot-info/2025/12/27/maxi-yacht-defining-the-giants-of-high-performance-ocean-rac.html)
+
+
 - [Discover Saint-Julien-en-Saint-Alban: A Timeless Commune in the Heart of Ardèche](https://yacine-l.github.io/hot-info/2025/12/27/discover-saint-julien-en-saint-alban-a-timeless-commune-in-t.html)
 
 
