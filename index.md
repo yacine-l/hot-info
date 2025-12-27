@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Best of Guided By Voices: Unpacking 'Human Amusements at Hourly Rates'
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-best-of-guided-by-voices-unpacking-human-amusements-at-h.html)
+
+
 - [** The Essential Guide to Fuel Containers: Safety, Compliance, and Choosing the Right Can
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-essential-guide-to-fuel-containers-safety-compliance-and.html)
