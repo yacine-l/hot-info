@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Height of Buildings Act of 1899](https://yacine-l.github.io/hot-info/2025/12/27/height-of-buildings-act-of-1899.html)
+
+
 - [Darryl Kile: The Enduring Legacy of the MLB Pitcher Known for the 'Kile Curve'](https://yacine-l.github.io/hot-info/2025/12/27/darryl-kile-the-enduring-legacy-of-the-mlb-pitcher-known-for.html)
 
 
