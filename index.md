@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Sidi Moussa Lhamri: Unveiling the Enduring Heart of Rural Taroudant Province
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/sidi-moussa-lhamri-unveiling-the-enduring-heart-of-rural-tar.html)
+
+
 - [Yevgeni Yatchenko](https://yacine-l.github.io/hot-info/2025/12/27/yevgeni-yatchenko.html)
 
 
