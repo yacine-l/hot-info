@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mahmoud al-Mashhadani: The New Speaker Steering Iraq’s Council of Representatives](https://yacine-l.github.io/hot-info/2025/12/27/mahmoud-al-mashhadani-the-new-speaker-steering-iraqs-council.html)
+
+
 - [Diploderma Lizards: Unveiling the Enigmatic Mountain Dragons of Asia](https://yacine-l.github.io/hot-info/2025/12/27/diploderma-lizards-unveiling-the-enigmatic-mountain-dragons-.html)
 
 
