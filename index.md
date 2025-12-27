@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Legacy of Fox Sports Tennessee: Tracking the Evolution of Grizzlies and Predators Broadcasts
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-legacy-of-fox-sports-tennessee-tracking-the-evolution-of.html)
+
+
 - [Lonely Heart (Kofuku, 1981): Kon Ichikawa’s Gritty Adaptation of Ed McBain's 87th Precinct](https://yacine-l.github.io/hot-info/2025/12/27/lonely-heart-kofuku-1981-kon-ichikawas-gritty-adaptation-of-.html)
 
 
