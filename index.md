@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [William Harper Pease: The Overlooked American Malacologist Who Mapped the Pacific Shells](https://yacine-l.github.io/hot-info/2025/12/27/william-harper-pease-the-overlooked-american-malacologist-wh.html)
+
+
 - [The National Indoor BMX Arena: Britain's £24 Million Cradle of Olympic Champions](https://yacine-l.github.io/hot-info/2025/12/27/the-national-indoor-bmx-arena-britains-24-million-cradle-of-.html)
 
 
