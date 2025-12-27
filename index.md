@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Konstantin Senchikhin: The Visionary Architect Who Built the Modern Baku Skyline](https://yacine-l.github.io/hot-info/2025/12/27/konstantin-senchikhin-the-visionary-architect-who-built-the-.html)
+
+
 - [Fernando Vallejo](https://yacine-l.github.io/hot-info/2025/12/27/fernando-vallejo.html)
 
 
