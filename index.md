@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Dragoș Vodă Călărași: Exploring History, Geography, and Life in a Muntenian Commune](https://yacine-l.github.io/hot-info/2025/12/27/drago-vod-clrai-exploring-history-geography-and-life-in-a-mu.html)
+
+
 - [Heroldrebe: The Robust German Red Wine Grape Named After Its Creator](https://yacine-l.github.io/hot-info/2025/12/27/heroldrebe-the-robust-german-red-wine-grape-named-after-its-.html)
 
 
