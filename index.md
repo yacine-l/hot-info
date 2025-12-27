@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Chagan (lake, Kulunda Steppe)](https://yacine-l.github.io/hot-info/2025/12/27/chagan-lake-kulunda-steppe.html)
+
+
 - [The Legacy of the Skipjack Elsworth: Preserving the Last Commercial Sailing Fleet of the Chesapeake Bay](https://yacine-l.github.io/hot-info/2025/12/27/the-legacy-of-the-skipjack-elsworth-preserving-the-last-comm.html)
 
 
