@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Unearthing the Kizilveng Culture: The Magnificent Bronze Age of Nakhchivan](https://yacine-l.github.io/hot-info/2025/12/27/unearthing-the-kizilveng-culture-the-magnificent-bronze-age-.html)
+
+
 - [Samuel Hunter Christie: The Unsung Pioneer Behind the Wheatstone Bridge](https://yacine-l.github.io/hot-info/2025/12/27/samuel-hunter-christie-the-unsung-pioneer-behind-the-wheatst.html)
 
 
