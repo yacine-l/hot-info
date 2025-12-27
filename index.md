@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Darmawan Mangunkusumo: Minister of Welfare and the Economic Architect of the Indonesian Revolution (1945-1946)](https://yacine-l.github.io/hot-info/2025/12/27/darmawan-mangunkusumo-minister-of-welfare-and-the-economic-a.html)
+
+
 - [** The Machine Girl: Why Noboru Iguchi’s Splatterpunk Revenge Epic is a Cult Classic
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-machine-girl-why-noboru-iguchis-splatterpunk-revenge-epi.html)
 
