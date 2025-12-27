@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Catholicos of All Armenians](https://yacine-l.github.io/hot-info/2025/12/27/catholicos-of-all-armenians.html)
+
+
 - [Lemyra Obliquivitta: Exploring the Taxonomy and Range of the Oblique-Striped Asian Moth](https://yacine-l.github.io/hot-info/2025/12/27/lemyra-obliquivitta-exploring-the-taxonomy-and-range-of-the-.html)
 
 
