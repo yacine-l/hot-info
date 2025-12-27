@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Datu Cabaylo-Class: BFAR’s Next Generation Multi-Mission Offshore Vessels Protecting Philippine Seas.](https://yacine-l.github.io/hot-info/2025/12/27/the-datu-cabaylo-class-bfars-next-generation-multi-mission-o.html)
+
+
 - [** Decoding Lolabelle: An Intimate Look at Laurie Anderson's 'Heart of a Dog' and the Philosophy of Loss
 **](https://yacine-l.github.io/hot-info/2025/12/27/decoding-lolabelle-an-intimate-look-at-laurie-andersons-hear.html)
 
