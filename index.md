@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Unyielding Journey of Mark Hutchings: From WAFL Star to West Coast Eagle Utility](https://yacine-l.github.io/hot-info/2025/12/27/the-unyielding-journey-of-mark-hutchings-from-wafl-star-to-w.html)
+
+
 - [Bareveld: The Unique Dutch Village Divided by Provinces (Groningen & Drenthe)](https://yacine-l.github.io/hot-info/2025/12/27/bareveld-the-unique-dutch-village-divided-by-provinces-groni.html)
 
 
