@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Galactic Derelict: Andre Norton's Definitive Forerunner Mystery and the Thrilling Continuation of the Time Traders](https://yacine-l.github.io/hot-info/2025/12/27/galactic-derelict-andre-nortons-definitive-forerunner-myster.html)
+
+
 - [Hovrätt: Understanding the Courts of Appeal in Sweden and Finland](https://yacine-l.github.io/hot-info/2025/12/27/hovrtt-understanding-the-courts-of-appeal-in-sweden-and-finl.html)
 
 
