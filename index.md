@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The AN/APG-81: Unlocking the F-35’s Dominance with Advanced AESA Radar Technology](https://yacine-l.github.io/hot-info/2025/12/27/the-anapg-81-unlocking-the-f-35s-dominance-with-advanced-aes.html)
+
+
 - [The Silent Sentinel: A 37-Year Retrospective on the USS Chicago (SSN-721)](https://yacine-l.github.io/hot-info/2025/12/27/the-silent-sentinel-a-37-year-retrospective-on-the-uss-chica.html)
 
 
