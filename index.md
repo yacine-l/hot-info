@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Tadeusz Błotnicki: The Master Sculptor Who Defined Kraków’s Public Art Landscape](https://yacine-l.github.io/hot-info/2025/12/27/tadeusz-botnicki-the-master-sculptor-who-defined-krakws-publ.html)
+
+
 - [** The Ultimate Guide to Pantanal Matogrossense National Park: Brazil’s Untamed Wildlife Paradise
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-ultimate-guide-to-pantanal-matogrossense-national-park-b.html)
