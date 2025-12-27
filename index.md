@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Saturn Return Film 2024: How the Los Planetas Musical Drama Captures the Soul of 90s Granada](https://yacine-l.github.io/hot-info/2025/12/27/saturn-return-film-2024-how-the-los-planetas-musical-drama-c.html)
+
+
 - [The Grasshopper Chekhov Analysis: A Study of Artistic Pretense and Tragic Reality](https://yacine-l.github.io/hot-info/2025/12/27/the-grasshopper-chekhov-analysis-a-study-of-artistic-pretens.html)
 
 
