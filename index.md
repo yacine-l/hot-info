@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Jack Elrod: The Dedicated Cartoonist Who Defined Mark Trail for a Generation](https://yacine-l.github.io/hot-info/2025/12/27/jack-elrod-the-dedicated-cartoonist-who-defined-mark-trail-f.html)
+
+
 - [The Underrated Groove: Why "Walk Right Now" Was The Jacksons' Final Triumph of the 80s](https://yacine-l.github.io/hot-info/2025/12/27/the-underrated-groove-why-walk-right-now-was-the-jacksons-fi.html)
 
 
