@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [M-153 Ford Road: A Deep Dive into the Historic Heart of Metro Detroit's Commuter Corridor](https://yacine-l.github.io/hot-info/2025/12/27/m-153-ford-road-a-deep-dive-into-the-historic-heart-of-metro.html)
+
+
 - [Norske Talenter: The Definitive History of Norway’s Premier Got Talent Showcase](https://yacine-l.github.io/hot-info/2025/12/27/norske-talenter-the-definitive-history-of-norways-premier-go.html)
 
 
