@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Todd Wiseman Jr.: Decoding the Career of a Modern Filmmaker and Production Pioneer](https://yacine-l.github.io/hot-info/2025/12/27/todd-wiseman-jr-decoding-the-career-of-a-modern-filmmaker-an.html)
+
+
 - [** Quindocqua United Methodist Church: A Deep Dive into Somerset County’s 1913 Architectural Gem
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/quindocqua-united-methodist-church-a-deep-dive-into-somerset.html)
