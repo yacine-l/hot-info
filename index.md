@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The National Citizen Will Party (PNVC): A Deep Dive into Dominican Christian-Conservative Politics](https://yacine-l.github.io/hot-info/2025/12/27/the-national-citizen-will-party-pnvc-a-deep-dive-into-domini.html)
+
+
 - [Saturn Return Film 2024: How the Los Planetas Musical Drama Captures the Soul of 90s Granada](https://yacine-l.github.io/hot-info/2025/12/27/saturn-return-film-2024-how-the-los-planetas-musical-drama-c.html)
 
 
