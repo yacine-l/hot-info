@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [9 Month Stretch (Neuf mois ferme): Why This French Comedy is a César-Winning Must-Watch](https://yacine-l.github.io/hot-info/2025/12/27/9-month-stretch-neuf-mois-ferme-why-this-french-comedy-is-a-.html)
+
+
 - [** Summiting Kings Peak Vancouver Island: The Ultimate Guide to BC's Iconic Strathcona Challenge
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/summiting-kings-peak-vancouver-island-the-ultimate-guide-to-.html)
