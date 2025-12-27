@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Beautiful Boy (Darling Boy): John Lennon’s Timeless Lullaby and the Poignancy of Fatherhood](https://yacine-l.github.io/hot-info/2025/12/27/beautiful-boy-darling-boy-john-lennons-timeless-lullaby-and-.html)
+
+
 - [** Emma Lazarus: The Enduring Legacy of "The New Colossus" and the Voice of American Immigration
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/emma-lazarus-the-enduring-legacy-of-the-new-colossus-and-the.html)
