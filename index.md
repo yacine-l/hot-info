@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enduring Grit of Grete Nordrå: A Portrait of Norway's Premier Character Actress**
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-enduring-grit-of-grete-nordr-a-portrait-of-norways-premi.html)
+
+
 - [The Magnificent Choco Toucan: Jewel of the Neotropical Rainforests](https://yacine-l.github.io/hot-info/2025/12/27/the-magnificent-choco-toucan-jewel-of-the-neotropical-rainfo.html)
 
 
