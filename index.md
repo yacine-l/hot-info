@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Summiting Kings Peak Vancouver Island: The Ultimate Guide to BC's Iconic Strathcona Challenge
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/summiting-kings-peak-vancouver-island-the-ultimate-guide-to-.html)
+
+
 - [Unearthing the Kizilveng Culture: The Magnificent Bronze Age of Nakhchivan](https://yacine-l.github.io/hot-info/2025/12/27/unearthing-the-kizilveng-culture-the-magnificent-bronze-age-.html)
 
 
