@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Robert Karnes: The Unsung Master of the Supporting Role | A Legacy in Film, Stage, and TV](https://yacine-l.github.io/hot-info/2025/12/27/robert-karnes-the-unsung-master-of-the-supporting-role-a-leg.html)
+
+
 - [** Assault Suits Valken (Cybernator): The SNES Mecha Masterpiece That Defined 16-Bit Action
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/assault-suits-valken-cybernator-the-snes-mecha-masterpiece-t.html)
