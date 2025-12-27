@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Legendary EP: Unpacking The Roots' Crucial 1999 Interstitial Release](https://yacine-l.github.io/hot-info/2025/12/27/the-legendary-ep-unpacking-the-roots-crucial-1999-interstiti.html)
+
+
 - [The Grand Metropole Hotel Blackpool: A History of the Shoreline’s Oldest Landmark](https://yacine-l.github.io/hot-info/2025/12/27/the-grand-metropole-hotel-blackpool-a-history-of-the-shoreli.html)
 
 
