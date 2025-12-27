@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [UGC 6697: Exploring the Starburst Fury of a Barred Spiral Galaxy in Leo](https://yacine-l.github.io/hot-info/2025/12/27/ugc-6697-exploring-the-starburst-fury-of-a-barred-spiral-gal.html)
+
+
 - [** Escape Cliffs NT: The History of Stokes' Perilous Encounter and Australia's Forgotten North Coast Outpost
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/escape-cliffs-nt-the-history-of-stokes-perilous-encounter-an.html)
