@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Darryl Kile: The Enduring Legacy of the MLB Pitcher Known for the 'Kile Curve'](https://yacine-l.github.io/hot-info/2025/12/27/darryl-kile-the-enduring-legacy-of-the-mlb-pitcher-known-for.html)
+
+
 - [2021 BWF World Championships: Loh Kean Yew’s Historic Upset in Huelva, Spain](https://yacine-l.github.io/hot-info/2025/12/27/2021-bwf-world-championships-loh-kean-yews-historic-upset-in.html)
 
 
