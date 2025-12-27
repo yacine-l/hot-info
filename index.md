@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Soulful History of 'That's The Way God Planned It': Billy Preston’s Masterpiece on Apple Records
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-soulful-history-of-thats-the-way-god-planned-it-billy-pr.html)
+
+
 - [** Ear Cropping in Dogs: History, Ethical Debate, and the Global Legal Landscape
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/ear-cropping-in-dogs-history-ethical-debate-and-the-global-l.html)
