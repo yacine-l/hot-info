@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Sims 2 Seasons: Weather, PlantSims, and the Expansion That Changed Everything](https://yacine-l.github.io/hot-info/2025/12/27/the-sims-2-seasons-weather-plantsims-and-the-expansion-that-.html)
+
+
 - [Káptalanfa: Discovering a Tranquil Village in Veszprém County, Hungary](https://yacine-l.github.io/hot-info/2025/12/27/kptalanfa-discovering-a-tranquil-village-in-veszprm-county-h.html)
 
 
