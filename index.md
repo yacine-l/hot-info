@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Myograph Explained: How We Measure the Force and Velocity of Muscular Contraction](https://yacine-l.github.io/hot-info/2025/12/27/the-myograph-explained-how-we-measure-the-force-and-velocity.html)
+
+
 - [Harlesden London: Your Comprehensive Guide to North West London's Vibrant Cultural Hub](https://yacine-l.github.io/hot-info/2025/12/27/harlesden-london-your-comprehensive-guide-to-north-west-lond.html)
 
 
