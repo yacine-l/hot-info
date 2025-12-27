@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Fiery Jewel of the Andes: An In-Depth Guide to the Flame-rumped Tanager (Ramphocelus flammigerus)](https://yacine-l.github.io/hot-info/2025/12/27/the-fiery-jewel-of-the-andes-an-in-depth-guide-to-the-flame-.html)
+
+
 - [Shaji Prabhakaran: The Architect Shaping Indian Football Governance, From FIFA to AIFF](https://yacine-l.github.io/hot-info/2025/12/27/shaji-prabhakaran-the-architect-shaping-indian-football-gove.html)
 
 
