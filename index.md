@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Oligotricha striata: Exploring the Streaked Slender Moth of Northern Europe](https://yacine-l.github.io/hot-info/2025/12/27/oligotricha-striata-exploring-the-streaked-slender-moth-of-n.html)
+
+
 - [The Mystery of the Thistle: Unraveling the Ambiguous History of the Lord Somerville Peerage](https://yacine-l.github.io/hot-info/2025/12/27/the-mystery-of-the-thistle-unraveling-the-ambiguous-history-.html)
 
 
