@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Curtain Falls Forever: Unpacking the Shocking History of Performers Who Died Onstage](https://yacine-l.github.io/hot-info/2025/12/27/the-curtain-falls-forever-unpacking-the-shocking-history-of-.html)
+
+
 - [** Barbara Mandrell’s ‘Get to the Heart’: Rebirth, Resilience, and the Defining Sound of 1985 Country Music
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/barbara-mandrells-get-to-the-heart-rebirth-resilience-and-th.html)
