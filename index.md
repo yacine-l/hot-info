@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Giuseppe Palumbo: The Admiral Who Navigated the Risorgimento to the Ministry of the Navy](https://yacine-l.github.io/hot-info/2025/12/27/giuseppe-palumbo-the-admiral-who-navigated-the-risorgimento-.html)
+
+
 - [Sir Robert Witt: The Visionary Art Historian Who Founded the Courtauld Institute](https://yacine-l.github.io/hot-info/2025/12/27/sir-robert-witt-the-visionary-art-historian-who-founded-the-.html)
 
 
