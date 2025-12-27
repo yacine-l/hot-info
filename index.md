@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Giri's Geckoella: Unveiling the Enigmatic Bent-Toed Gecko Endemic to India
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/giris-geckoella-unveiling-the-enigmatic-bent-toed-gecko-ende.html)
+
+
 - [The Renaissance Polymath You Should Know: Claude Duret, Judge, Botanist, and Master of History](https://yacine-l.github.io/hot-info/2025/12/27/the-renaissance-polymath-you-should-know-claude-duret-judge-.html)
 
 
