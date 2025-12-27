@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Amputechture: Dissecting The Mars Volta's 2006 Progressive Rock Behemoth
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/amputechture-dissecting-the-mars-voltas-2006-progressive-roc.html)
+
+
 - [Arslanbek Açilow: The Olympic Journey and Legacy of Turkmenistan's Middleweight Boxer](https://yacine-l.github.io/hot-info/2025/12/27/arslanbek-ailow-the-olympic-journey-and-legacy-of-turkmenist.html)
 
 
