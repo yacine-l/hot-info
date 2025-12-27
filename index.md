@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Mesopotamian Underwing: Exploring *Catocala mesopotamica* in the Heart of Turkey
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-mesopotamian-underwing-exploring-catocala-mesopotamica-i.html)
+
+
 - [** The State Museum of Zoology Dresden: Unlocking 6 Million Specimens of Natural History
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-state-museum-of-zoology-dresden-unlocking-6-million-spec.html)
