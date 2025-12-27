@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Scotty McCreery's 'Cab in a Solo': Deconstructing the Blockbuster Lead Single from 'Rise & Fall'](https://yacine-l.github.io/hot-info/2025/12/27/scotty-mccreerys-cab-in-a-solo-deconstructing-the-blockbuste.html)
+
+
 - [The Isolation Booth: Inside the Scandalous Rise and Fall of the Twenty-One Game Show](https://yacine-l.github.io/hot-info/2025/12/27/the-isolation-booth-inside-the-scandalous-rise-and-fall-of-t.html)
 
 
