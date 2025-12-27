@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Meyzieu: A Deep Dive into Lyon's Dynamic Eastern Gateway and its Isère Roots](https://yacine-l.github.io/hot-info/2025/12/27/meyzieu-a-deep-dive-into-lyons-dynamic-eastern-gateway-and-i.html)
+
+
 - [The Enigmatic Lestoidea lewisiana: Unveiling Australia's Rarest Mount Lewis Bluestreak Damselfly](https://yacine-l.github.io/hot-info/2025/12/27/the-enigmatic-lestoidea-lewisiana-unveiling-australias-rares.html)
 
 
