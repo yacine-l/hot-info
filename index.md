@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Highways & Heartaches (Wade Hayes album)](https://yacine-l.github.io/hot-info/2025/12/27/highways-heartaches-wade-hayes-album.html)
+
+
 - [The Institute for the Future (IFTF): Mastering Strategic Foresight and Futures Studies](https://yacine-l.github.io/hot-info/2025/12/27/the-institute-for-the-future-iftf-mastering-strategic-foresi.html)
 
 
