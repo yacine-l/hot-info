@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Hervé-Edgar Brunelle](https://yacine-l.github.io/hot-info/2025/12/27/herv-edgar-brunelle.html)
+
+
 - [** Robert M. La Follette Jr.: The Last Progressive Senator, His Legacy, and the 1946 Showdown with Joseph McCarthy
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/robert-m-la-follette-jr-the-last-progressive-senator-his-leg.html)
