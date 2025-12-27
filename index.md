@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Florence Kawa: Rediscovering the Modernist American Artist of the WPA Era](https://yacine-l.github.io/hot-info/2025/12/27/florence-kawa-rediscovering-the-modernist-american-artist-of.html)
+
+
 - [Andy Pilgrim: The Enduring Legacy of an American Racing Icon](https://yacine-l.github.io/hot-info/2025/12/27/andy-pilgrim-the-enduring-legacy-of-an-american-racing-icon.html)
 
 
