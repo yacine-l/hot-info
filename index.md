@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Orešje, Šmarješke Toplice: Exploring a Historic Settlement in Slovenia’s Lower Carniola](https://yacine-l.github.io/hot-info/2025/12/27/oreje-marjeke-toplice-exploring-a-historic-settlement-in-slo.html)
+
+
 - [** Johann von Salis-Seewis: The Rise of a Croatian General in the Austro-Hungarian Empire
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/johann-von-salis-seewis-the-rise-of-a-croatian-general-in-th.html)
