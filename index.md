@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Thomas Clifford, 1st Baron Clifford of Chudleigh](https://yacine-l.github.io/hot-info/2025/12/27/thomas-clifford-1st-baron-clifford-of-chudleigh.html)
+
+
 - [** Discover Kersoe: The Peaceful Hamlet Nestled at the Foot of Worcestershire’s Bredon Hill
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/discover-kersoe-the-peaceful-hamlet-nestled-at-the-foot-of-w.html)
