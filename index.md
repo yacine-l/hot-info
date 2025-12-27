@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Ral Grad](https://yacine-l.github.io/hot-info/2025/12/27/ral-grad.html)
+
+
 - [Killer Bitch](https://yacine-l.github.io/hot-info/2025/12/27/killer-bitch.html)
 
 
