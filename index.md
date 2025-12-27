@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mustafa Atici: The Journey from Turkish Immigrant to Executive Council Member of Basel-Stadt](https://yacine-l.github.io/hot-info/2025/12/27/mustafa-atici-the-journey-from-turkish-immigrant-to-executiv.html)
+
+
 - [The Family Man](https://yacine-l.github.io/hot-info/2025/12/27/the-family-man.html)
 
 
