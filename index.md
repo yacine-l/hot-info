@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Legacy of Movement: An In-Depth Look at the English National Ballet School](https://yacine-l.github.io/hot-info/2025/12/27/the-legacy-of-movement-an-in-depth-look-at-the-english-natio.html)
+
+
 - [Anam Ramanarayana Reddy: Tracing the Illustrious Career of the Atmakur MLA and Andhra Pradesh Cabinet Minister](https://yacine-l.github.io/hot-info/2025/12/27/anam-ramanarayana-reddy-tracing-the-illustrious-career-of-th.html)
 
 
