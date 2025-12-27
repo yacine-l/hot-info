@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [WDG-6G Angad Locomotive: Unlocking 6,000 HP on Indian Railways Freight Corridors](https://yacine-l.github.io/hot-info/2025/12/27/wdg-6g-angad-locomotive-unlocking-6000-hp-on-indian-railways.html)
+
+
 - [Fernando Ceballos: The Unsung Defender Who Defined Racing de Santander’s Toughest Era](https://yacine-l.github.io/hot-info/2025/12/27/fernando-ceballos-the-unsung-defender-who-defined-racing-de-.html)
 
 
