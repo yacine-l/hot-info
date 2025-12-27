@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Hendrick Coning: Unveiling the Golden Age Legacy of a Haarlem Schutterij Member
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/hendrick-coning-unveiling-the-golden-age-legacy-of-a-haarlem.html)
+
+
 - [** The Lost 1904 Controversy: *Tracked by Bloodhounds; or, A Lynching at Cripple Creek*
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-lost-1904-controversy-tracked-by-bloodhounds-or-a-lynchi.html)
