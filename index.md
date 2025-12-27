@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Five Ways to Say Goodbye](https://yacine-l.github.io/hot-info/2025/12/27/five-ways-to-say-goodbye.html)
+
+
 - [Lipník (Mladá Boleslav District): Discovering Central Bohemia's 400-Inhabitant Gem](https://yacine-l.github.io/hot-info/2025/12/27/lipnk-mlad-boleslav-district-discovering-central-bohemias-40.html)
 
 
