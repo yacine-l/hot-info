@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Newport Technical Institute: Uncovering the History of Newport’s Grade II Listed Architectural Gem
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/newport-technical-institute-uncovering-the-history-of-newpor.html)
+
+
 - [** The Florida Bar: Regulation, Discipline, and Governance of Florida’s Legal Profession
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-florida-bar-regulation-discipline-and-governance-of-flor.html)
