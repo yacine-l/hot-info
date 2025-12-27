@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enduring Legacy of Jorge Prado Rus: A Retrospective on the Spanish Defender](https://yacine-l.github.io/hot-info/2025/12/27/the-enduring-legacy-of-jorge-prado-rus-a-retrospective-on-th.html)
+
+
 - [Discovering Decorsea: The Enigmatic Genus Spanning East Africa to Madagascar](https://yacine-l.github.io/hot-info/2025/12/27/discovering-decorsea-the-enigmatic-genus-spanning-east-afric.html)
 
 
