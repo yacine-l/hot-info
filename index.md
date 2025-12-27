@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Eitan Kramer](https://yacine-l.github.io/hot-info/2025/12/27/eitan-kramer.html)
+
+
 - [** The Unwavering Watch: An In-Depth Look at the Mongolian State Honor Guard
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-unwavering-watch-an-in-depth-look-at-the-mongolian-state.html)
