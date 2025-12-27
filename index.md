@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Queralt Castellet and the Silver Standard: Spain’s Performance at the Beijing 2022 Winter Olympics](https://yacine-l.github.io/hot-info/2025/12/27/queralt-castellet-and-the-silver-standard-spains-performance.html)
+
+
 - [Masoud Shojaei: The Versatile Legend Who Defined Iranian Football](https://yacine-l.github.io/hot-info/2025/12/27/masoud-shojaei-the-versatile-legend-who-defined-iranian-foot.html)
 
 
