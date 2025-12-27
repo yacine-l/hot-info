@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Endless Maze: Exploring Toby Litt's Surreal Novel Hospital (A Dream-Vision)](https://yacine-l.github.io/hot-info/2025/12/27/the-endless-maze-exploring-toby-litts-surreal-novel-hospital.html)
+
+
 - [The Federal Triangle D.C.: History, Architecture, and The Greatest Building Project Ever Undertaken](https://yacine-l.github.io/hot-info/2025/12/27/the-federal-triangle-dc-history-architecture-and-the-greates.html)
 
 
