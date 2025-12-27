@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Aroga trialbamaculella: Unraveling the Mystery of the Red-Striped Fireworm Moth](https://yacine-l.github.io/hot-info/2025/12/27/aroga-trialbamaculella-unraveling-the-mystery-of-the-red-str.html)
+
+
 - [** Usada Pekora: The Rabbit VTuber Star Who Conquered the Streaming World | Hololive Production’s Top Talent
 **](https://yacine-l.github.io/hot-info/2025/12/27/usada-pekora-the-rabbit-vtuber-star-who-conquered-the-stream.html)
 
