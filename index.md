@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Basket-Handle Arch: Depressed Geometry, Construction, and Architectural Legacy
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-basket-handle-arch-depressed-geometry-construction-and-a.html)
+
+
 - [Dudzele: Exploring the Historic Polder Sub-Municipality of Bruges](https://yacine-l.github.io/hot-info/2025/12/27/dudzele-exploring-the-historic-polder-sub-municipality-of-br.html)
 
 
