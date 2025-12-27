@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Lost 1904 Controversy: *Tracked by Bloodhounds; or, A Lynching at Cripple Creek*
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-lost-1904-controversy-tracked-by-bloodhounds-or-a-lynchi.html)
+
+
 - [Discovering Worlaby: History, Geography, and Life in North Lincolnshire’s Low Village](https://yacine-l.github.io/hot-info/2025/12/27/discovering-worlaby-history-geography-and-life-in-north-linc.html)
 
 
