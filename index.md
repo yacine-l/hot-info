@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Camino del Cid: A 1,400 km Journey Following Spain’s Greatest Medieval Hero](https://yacine-l.github.io/hot-info/2025/12/27/the-camino-del-cid-a-1400-km-journey-following-spains-greate.html)
+
+
 - [Flavio Cobolli: The Italian Star’s Explosive Rise to World No. 17 and ATP Glory](https://yacine-l.github.io/hot-info/2025/12/27/flavio-cobolli-the-italian-stars-explosive-rise-to-world-no-.html)
 
 
