@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Ear Cropping in Dogs: History, Ethical Debate, and the Global Legal Landscape
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/ear-cropping-in-dogs-history-ethical-debate-and-the-global-l.html)
+
+
 - [The Tragic Fate of Hesya Helfman: Jewish Revolutionary and the Assassination of Tsar Alexander II](https://yacine-l.github.io/hot-info/2025/12/27/the-tragic-fate-of-hesya-helfman-jewish-revolutionary-and-th.html)
 
 
