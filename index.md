@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Veil of Maya’s *Mother*: A Deep Dive into the 2023 Metalcore Evolution
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/veil-of-mayas-mother-a-deep-dive-into-the-2023-metalcore-evo.html)
+
+
 - [The Legendary EP: Unpacking The Roots' Crucial 1999 Interstitial Release](https://yacine-l.github.io/hot-info/2025/12/27/the-legendary-ep-unpacking-the-roots-crucial-1999-interstiti.html)
 
 
