@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Tell Laura I Love Her: The Tragic Story Behind the 1960 Hit That Shocked a Generation](https://yacine-l.github.io/hot-info/2025/12/27/tell-laura-i-love-her-the-tragic-story-behind-the-1960-hit-t.html)
+
+
 - [** Sir Ian Chapman FRS: From Fusion Power Leader at UKAEA to CEO of UK Research and Innovation (UKRI)
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/sir-ian-chapman-frs-from-fusion-power-leader-at-ukaea-to-ceo.html)
