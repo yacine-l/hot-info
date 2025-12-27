@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Caraula River: A Hydrological Link Between Ukraine and Romania in Bukovina](https://yacine-l.github.io/hot-info/2025/12/27/the-caraula-river-a-hydrological-link-between-ukraine-and-ro.html)
+
+
 - [** Keron Grant: Analyzing the Dynamic Artistry of Marvel’s Jamaican-American Penciller
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/keron-grant-analyzing-the-dynamic-artistry-of-marvels-jamaic.html)
