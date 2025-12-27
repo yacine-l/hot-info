@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Renqiu, Hebei: Gateway to the North China Oil Field and Historical Crossroads](https://yacine-l.github.io/hot-info/2025/12/27/renqiu-hebei-gateway-to-the-north-china-oil-field-and-histor.html)
+
+
 - [** Sant’Agostino Lucca: Exploring the Gothic Grandeur of a Tuscan Hidden Gem
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/santagostino-lucca-exploring-the-gothic-grandeur-of-a-tuscan.html)
