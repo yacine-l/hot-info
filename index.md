@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Farrukh Zokirov](https://yacine-l.github.io/hot-info/2025/12/27/farrukh-zokirov.html)
+
+
 - [The Legacy of Movement: An In-Depth Look at the English National Ballet School](https://yacine-l.github.io/hot-info/2025/12/27/the-legacy-of-movement-an-in-depth-look-at-the-english-natio.html)
 
 
