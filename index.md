@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Global Influence of the Pacific Asia Travel Association (PATA): Driving Responsible Tourism in the Asia Pacific
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-global-influence-of-the-pacific-asia-travel-association-.html)
+
+
 - [Sons of Italy Hall](https://yacine-l.github.io/hot-info/2025/12/27/sons-of-italy-hall.html)
 
 
