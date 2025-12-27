@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Resilient Hunter: An In-Depth Guide to the Small Indian Civet (Viverricula indica)](https://yacine-l.github.io/hot-info/2025/12/27/the-resilient-hunter-an-in-depth-guide-to-the-small-indian-c.html)
+
+
 - [** Chamber Street Tower Hamlets: Unpacking the History and Modernity of East London’s Hidden Thoroughfare
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/chamber-street-tower-hamlets-unpacking-the-history-and-moder.html)
