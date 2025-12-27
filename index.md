@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Grosse Pointe Public Library: Your Ultimate Guide to Branches, Digital Resources, and Community Connection
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/grosse-pointe-public-library-your-ultimate-guide-to-branches.html)
+
+
 - [** Richard Blass: The Bloody Reign of "Le Chat" in Montreal's Underworld
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/richard-blass-the-bloody-reign-of-le-chat-in-montreals-under.html)
