@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Diplomat of Satire: Unpacking the Wit and Legacy of Światopełk Karpiński](https://yacine-l.github.io/hot-info/2025/12/27/the-diplomat-of-satire-unpacking-the-wit-and-legacy-of-wiato.html)
+
+
 - [The Stephen Harris Taft House: Limestone Legacy of Humboldt, Iowa’s Founding Father](https://yacine-l.github.io/hot-info/2025/12/27/the-stephen-harris-taft-house-limestone-legacy-of-humboldt-i.html)
 
 
