@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Junichi Masuda: The Architect of Pokémon’s Sound and Success](https://yacine-l.github.io/hot-info/2025/12/27/junichi-masuda-the-architect-of-pokmons-sound-and-success.html)
+
+
 - [Discovering Wayne Township, Belmont County, Ohio: A Glimpse into Rural Americana](https://yacine-l.github.io/hot-info/2025/12/27/discovering-wayne-township-belmont-county-ohio-a-glimpse-int.html)
 
 
