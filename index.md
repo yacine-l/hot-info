@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [A Literary Farewell: Revisiting The Best American Short Stories 1977, Martha Foley’s Final Volume](https://yacine-l.github.io/hot-info/2025/12/27/a-literary-farewell-revisiting-the-best-american-short-stori.html)
+
+
 - [Archduchess Maria Theresa of Austria (1862–1933)](https://yacine-l.github.io/hot-info/2025/12/27/archduchess-maria-theresa-of-austria-18621933.html)
 
 
