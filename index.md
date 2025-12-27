@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Tadap (2021 film)](https://yacine-l.github.io/hot-info/2025/12/27/tadap-2021-film.html)
+
+
 - [Étant donnés](https://yacine-l.github.io/hot-info/2025/12/27/tant-donns.html)
 
 
