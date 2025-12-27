@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Discovering Wayne Township, Belmont County, Ohio: A Glimpse into Rural Americana](https://yacine-l.github.io/hot-info/2025/12/27/discovering-wayne-township-belmont-county-ohio-a-glimpse-int.html)
+
+
 - [Theresa Bailey: The Advocate Who Changed Hockey Culture for Canadian Hockey Moms](https://yacine-l.github.io/hot-info/2025/12/27/theresa-bailey-the-advocate-who-changed-hockey-culture-for-c.html)
 
 
