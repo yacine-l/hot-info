@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Federal Triangle D.C.: History, Architecture, and The Greatest Building Project Ever Undertaken](https://yacine-l.github.io/hot-info/2025/12/27/the-federal-triangle-dc-history-architecture-and-the-greates.html)
+
+
 - [The Gloaming 2: Exploring the Mastery of the Contemporary Irish Supergroup's Second Album](https://yacine-l.github.io/hot-info/2025/12/27/the-gloaming-2-exploring-the-mastery-of-the-contemporary-iri.html)
 
 
