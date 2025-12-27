@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Fremont University: Career-Focused Education for Working Adults in Cerritos, CA](https://yacine-l.github.io/hot-info/2025/12/27/fremont-university-career-focused-education-for-working-adul.html)
+
+
 - [George Addo Jr.: The Ghanaian Sports Journalist Who Mastered Global Coverage](https://yacine-l.github.io/hot-info/2025/12/27/george-addo-jr-the-ghanaian-sports-journalist-who-mastered-g.html)
 
 
