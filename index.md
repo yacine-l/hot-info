@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Avgust Demšar: The Intellectual Architect of Slovenian Detective Fiction](https://yacine-l.github.io/hot-info/2025/12/27/avgust-demar-the-intellectual-architect-of-slovenian-detecti.html)
+
+
 - [** Sidi Moussa Lhamri: Unveiling the Enduring Heart of Rural Taroudant Province
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/sidi-moussa-lhamri-unveiling-the-enduring-heart-of-rural-tar.html)
