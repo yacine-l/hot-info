@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Starchaser: The Legend of Orin | The Forgotten 1985 Pioneer of 3D and CGI Animation](https://yacine-l.github.io/hot-info/2025/12/27/starchaser-the-legend-of-orin-the-forgotten-1985-pioneer-of-.html)
+
+
 - [The Year 1061: A Moment of Transition—Setting the Stage for Medieval Europe’s Transformation](https://yacine-l.github.io/hot-info/2025/12/27/the-year-1061-a-moment-of-transitionsetting-the-stage-for-me.html)
 
 
