@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Idaho Botanical Garden: Exploring Biodiversity in Boise's Historic Heart](https://yacine-l.github.io/hot-info/2025/12/27/the-idaho-botanical-garden-exploring-biodiversity-in-boises-.html)
+
+
 - [** Faust Magazine: Analyzing Kodansha's 'Fighting Illustrated Novels Magazine' and the Rise of Light Novel Literary Influence
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/faust-magazine-analyzing-kodanshas-fighting-illustrated-nove.html)
