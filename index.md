@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Rana Gorgani](https://yacine-l.github.io/hot-info/2025/12/27/rana-gorgani.html)
+
+
 - [Darmawan Mangunkusumo: Minister of Welfare and the Economic Architect of the Indonesian Revolution (1945-1946)](https://yacine-l.github.io/hot-info/2025/12/27/darmawan-mangunkusumo-minister-of-welfare-and-the-economic-a.html)
 
 
