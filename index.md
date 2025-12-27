@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Richard Thompson's *13 Rivers*: A Deep Dive into His Rawest Solo Work
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/richard-thompsons-13-rivers-a-deep-dive-into-his-rawest-solo.html)
+
+
 - [Phil Hopkins](https://yacine-l.github.io/hot-info/2025/12/27/phil-hopkins.html)
 
 
