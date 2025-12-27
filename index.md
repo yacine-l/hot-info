@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Ted Musgrave: The Hard-Nosed Legend Who Mastered the NASCAR Craftsman Truck Series](https://yacine-l.github.io/hot-info/2025/12/27/ted-musgrave-the-hard-nosed-legend-who-mastered-the-nascar-c.html)
+
+
 - [The Mysterious Balkan Emperor Moth: Exploring Lemonia balcanica](https://yacine-l.github.io/hot-info/2025/12/27/the-mysterious-balkan-emperor-moth-exploring-lemonia-balcani.html)
 
 
