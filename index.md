@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [William Wordsworth: The Father of English Romanticism and the Legacy of Lyrical Ballads](https://yacine-l.github.io/hot-info/2025/12/27/william-wordsworth-the-father-of-english-romanticism-and-the.html)
+
+
 - [Red Scare Podcast: Unpacking the Cultural Phenomenon Hosted by Dasha Nekrasova and Anna Khachiyan
 
 ###](https://yacine-l.github.io/hot-info/2025/12/27/red-scare-podcast-unpacking-the-cultural-phenomenon-hosted-b.html)
