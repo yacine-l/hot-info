@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Frederick Leeds Edridge](https://yacine-l.github.io/hot-info/2025/12/27/frederick-leeds-edridge.html)
+
+
 - [USS Bebas (DE-10): The Forgotten Evarts-Class Destroyer Escort of WWII](https://yacine-l.github.io/hot-info/2025/12/27/uss-bebas-de-10-the-forgotten-evarts-class-destroyer-escort-.html)
 
 
