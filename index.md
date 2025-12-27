@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Xestoquinone: Unlocking the Therapeutic Power of the Deep Sea Sponge *Xestospongia*
+**](https://yacine-l.github.io/hot-info/2025/12/27/xestoquinone-unlocking-the-therapeutic-power-of-the-deep-sea.html)
+
+
 - [The Coachwhip Snake (*Masticophis flagellum*): Speed, Identification, and Subspecies Guide](https://yacine-l.github.io/hot-info/2025/12/27/the-coachwhip-snake-masticophis-flagellum-speed-identificati.html)
 
 
