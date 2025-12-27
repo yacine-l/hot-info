@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Manolis Stefanoudakis: The Journey of Greece’s F54 Javelin Paralympic Gold Medalist](https://yacine-l.github.io/hot-info/2025/12/27/manolis-stefanoudakis-the-journey-of-greeces-f54-javelin-par.html)
+
+
 - [The Pioneers of the Superfortress: History of the 769th Bombardment Squadron](https://yacine-l.github.io/hot-info/2025/12/27/the-pioneers-of-the-superfortress-history-of-the-769th-bomba.html)
 
 
