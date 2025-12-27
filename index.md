@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Richard Acland (1679–1729): MP, Lord of Fremington Manor, and the Politics of Queen Anne’s Devon
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/richard-acland-16791729-mp-lord-of-fremington-manor-and-the-.html)
+
+
 - [The Mythology of DCI Gene Hunt: Why The Governor is British TV's Greatest Anti-Hero](https://yacine-l.github.io/hot-info/2025/12/27/the-mythology-of-dci-gene-hunt-why-the-governor-is-british-t.html)
 
 
