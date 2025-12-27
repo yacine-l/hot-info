@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Millet Beer: The Definitive Guide to Opaque Beer, Bantu Beer, and African Traditional Brewing
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/millet-beer-the-definitive-guide-to-opaque-beer-bantu-beer-a.html)
+
+
 - [The Sims 2 Seasons: Weather, PlantSims, and the Expansion That Changed Everything](https://yacine-l.github.io/hot-info/2025/12/27/the-sims-2-seasons-weather-plantsims-and-the-expansion-that-.html)
 
 
