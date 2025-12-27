@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Amarillo College: History, Programs, and the Six Campuses Defining Texas Education
+**](https://yacine-l.github.io/hot-info/2025/12/27/amarillo-college-history-programs-and-the-six-campuses-defin.html)
+
+
 - [** Olcott Park, Virginia MN: The Historical Heart and Recreational Hub of the Iron Range
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/olcott-park-virginia-mn-the-historical-heart-and-recreationa.html)
