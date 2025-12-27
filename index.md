@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Jan Jones Georgia: The Political Legacy of the Speaker Pro Tempore and District 47 Representative](https://yacine-l.github.io/hot-info/2025/12/27/jan-jones-georgia-the-political-legacy-of-the-speaker-pro-te.html)
+
+
 - [Lanestosa: Discovering the Smallest, Westernmost Gem of Basque Country](https://yacine-l.github.io/hot-info/2025/12/27/lanestosa-discovering-the-smallest-westernmost-gem-of-basque.html)
 
 
