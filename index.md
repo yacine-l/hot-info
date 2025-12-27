@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Unveiling the Wisdom of the Archipelago: A Deep Dive into Classical Malay Literature
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/unveiling-the-wisdom-of-the-archipelago-a-deep-dive-into-cla.html)
+
+
 - [The Royal Captive Who Became a Priest: The Dramatic Life of Baldassare Diego Loyola](https://yacine-l.github.io/hot-info/2025/12/27/the-royal-captive-who-became-a-priest-the-dramatic-life-of-b.html)
 
 
