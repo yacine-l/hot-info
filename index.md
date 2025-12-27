@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Scalpel and the Breakthrough: How Bohdan Pomahač Redefined Reconstructive Surgery](https://yacine-l.github.io/hot-info/2025/12/27/the-scalpel-and-the-breakthrough-how-bohdan-pomaha-redefined.html)
+
+
 - [Lyra, Queensland](https://yacine-l.github.io/hot-info/2025/12/27/lyra-queensland.html)
 
 
