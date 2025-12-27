@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Discovering La Grigonnais: Unveiling the Authentic Heart of Loire-Atlantique](https://yacine-l.github.io/hot-info/2025/12/27/discovering-la-grigonnais-unveiling-the-authentic-heart-of-l.html)
+
+
 - [Danny Dichio: From Premier League Target Man to Detroit City FC Manager](https://yacine-l.github.io/hot-info/2025/12/27/danny-dichio-from-premier-league-target-man-to-detroit-city-.html)
 
 
