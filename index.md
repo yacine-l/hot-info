@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Horde (AD&D FRC2): Unearthing the Epic Scale of Advanced Dungeons & Dragons 2nd Edition](https://yacine-l.github.io/hot-info/2025/12/27/the-horde-add-frc2-unearthing-the-epic-scale-of-advanced-dun.html)
+
+
 - [G2G Racing: Unpacking the Glory 2 God Era in the NASCAR Craftsman Truck Series](https://yacine-l.github.io/hot-info/2025/12/27/g2g-racing-unpacking-the-glory-2-god-era-in-the-nascar-craft.html)
 
 
