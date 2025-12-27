@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Shinjirō Koizumi: The Rising Star of Japanese Politics, Defense Minister, and Legacy of Change](https://yacine-l.github.io/hot-info/2025/12/27/shinjir-koizumi-the-rising-star-of-japanese-politics-defense.html)
+
+
 - [** Fire Twister (2015): Reviewing the Low-Budget Sci-Fi Disaster Film Directed by George Erschbamer
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/fire-twister-2015-reviewing-the-low-budget-sci-fi-disaster-f.html)
