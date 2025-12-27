@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Lusikkahaarukka (LuHa): Why the Finnish Army Spoon-Fork is the Ultimate Camping Cutlery](https://yacine-l.github.io/hot-info/2025/12/27/lusikkahaarukka-luha-why-the-finnish-army-spoon-fork-is-the-.html)
+
+
 - [Reuben T. Wood: Missouri’s New Deal Congressman and the Great Depression**
 **](https://yacine-l.github.io/hot-info/2025/12/27/reuben-t-wood-missouris-new-deal-congressman-and-the-great-d.html)
 
