@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Jennifer Rush's "You're My One and Only": The Untold Story of the *Passion* Album's Lead Single](https://yacine-l.github.io/hot-info/2025/12/27/jennifer-rushs-youre-my-one-and-only-the-untold-story-of-the.html)
+
+
 - [R. Stan Baker: Chief Judge of the US District Court for the Southern District of Georgia](https://yacine-l.github.io/hot-info/2025/12/27/r-stan-baker-chief-judge-of-the-us-district-court-for-the-so.html)
 
 
