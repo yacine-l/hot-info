@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Trematocara Unimaculatum: The Enigmatic Deepwater Cichlid of Lake Tanganyika](https://yacine-l.github.io/hot-info/2025/12/27/trematocara-unimaculatum-the-enigmatic-deepwater-cichlid-of-.html)
+
+
 - [** Kęstutis Bulota: The Lithuanian Renaissance Athlete Who Mastered the Pitch, the Ice, and the Track
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/kstutis-bulota-the-lithuanian-renaissance-athlete-who-master.html)
