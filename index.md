@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Ultimate Guide to the Washing Mitt: Transforming Your Shower into a Spa Experience](https://yacine-l.github.io/hot-info/2025/12/27/the-ultimate-guide-to-the-washing-mitt-transforming-your-sho.html)
+
+
 - [** The Indispensable Workhorse: A History of the Victorian Railways Y Class 0-6-0 Steam Locomotive
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-indispensable-workhorse-a-history-of-the-victorian-railw.html)
