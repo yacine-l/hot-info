@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Science of Sound: How Acoustic Levitation Is Revolutionizing Contactless Manipulation](https://yacine-l.github.io/hot-info/2025/12/27/the-science-of-sound-how-acoustic-levitation-is-revolutioniz.html)
+
+
 - [František Kupka: The Czech Pioneer Who Gave Color and Music to Abstract Art](https://yacine-l.github.io/hot-info/2025/12/27/frantiek-kupka-the-czech-pioneer-who-gave-color-and-music-to.html)
 
 
