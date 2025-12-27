@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Dominating the Decade: The Unforgettable 1947 New Hampshire Wildcats Football Team
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/dominating-the-decade-the-unforgettable-1947-new-hampshire-w.html)
+
+
 - [Linka Miniseries: Inside the Tense World of the Czech Emergency Dispatch Center Drama](https://yacine-l.github.io/hot-info/2025/12/27/linka-miniseries-inside-the-tense-world-of-the-czech-emergen.html)
 
 
