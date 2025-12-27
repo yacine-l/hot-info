@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Ultimate Thrill Ride: Why Rail Chase 2 Defined the 90s Sega Rail Shooter Era](https://yacine-l.github.io/hot-info/2025/12/27/the-ultimate-thrill-ride-why-rail-chase-2-defined-the-90s-se.html)
+
+
 - [The Companies Act 1929: The Unsung Foundation of Modern UK Corporate Law and the Road to the CA 2006](https://yacine-l.github.io/hot-info/2025/12/27/the-companies-act-1929-the-unsung-foundation-of-modern-uk-co.html)
 
 
