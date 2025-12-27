@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Cindy Scott: The Global Voice of Contemporary Jazz—Vocalist, Composer, and International Educator](https://yacine-l.github.io/hot-info/2025/12/27/cindy-scott-the-global-voice-of-contemporary-jazzvocalist-co.html)
+
+
 - [** *Géographe*: The Turbulent Birth and Epic Scientific Voyage of the French Corvette
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/gographe-the-turbulent-birth-and-epic-scientific-voyage-of-t.html)
