@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Institute for the Future (IFTF): Mastering Strategic Foresight and Futures Studies](https://yacine-l.github.io/hot-info/2025/12/27/the-institute-for-the-future-iftf-mastering-strategic-foresi.html)
+
+
 - [Lizzie Grubman: Public Relations Powerhouse, Hamptons Tragedy, and the Price of Privilege](https://yacine-l.github.io/hot-info/2025/12/27/lizzie-grubman-public-relations-powerhouse-hamptons-tragedy-.html)
 
 
