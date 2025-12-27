@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Tom Stone Texas Tech Soccer Coach: The Architect of Red Raider Success, From Duke Alumnus to NCAA Leader
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/tom-stone-texas-tech-soccer-coach-the-architect-of-red-raide.html)
+
+
 - [** Freiwirtschaft Explained: The Revolutionary Economic Model of Silvio Gesell and Stamped Money
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/freiwirtschaft-explained-the-revolutionary-economic-model-of.html)
