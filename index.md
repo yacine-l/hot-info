@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Unpacking the Borough of Bedford: Governance, History, and Life in Bedfordshire’s County Town
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/unpacking-the-borough-of-bedford-governance-history-and-life.html)
+
+
 - [Highways & Heartaches (Wade Hayes album)](https://yacine-l.github.io/hot-info/2025/12/27/highways-heartaches-wade-hayes-album.html)
 
 
