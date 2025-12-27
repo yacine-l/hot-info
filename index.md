@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Narashige Koide](https://yacine-l.github.io/hot-info/2025/12/27/narashige-koide.html)
+
+
 - [The Ultimate Guide to the Seogwipo Rural Five-Day Market: Authentic Jeju Culture, Food, and the O-iljang Tradition](https://yacine-l.github.io/hot-info/2025/12/27/the-ultimate-guide-to-the-seogwipo-rural-five-day-market-aut.html)
 
 
