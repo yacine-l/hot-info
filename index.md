@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Bushra Elfadil: The Visionary Sudanese Writer Who Redefined Modern Arabic Fiction
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/bushra-elfadil-the-visionary-sudanese-writer-who-redefined-m.html)
+
+
 - [The Pride of Baton Rouge: A Deep Dive into Southern Jaguars Football History and SWAC Dominance](https://yacine-l.github.io/hot-info/2025/12/27/the-pride-of-baton-rouge-a-deep-dive-into-southern-jaguars-f.html)
 
 
