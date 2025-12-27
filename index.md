@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Shot Callin](https://yacine-l.github.io/hot-info/2025/12/27/shot-callin.html)
+
+
 - [** We Are Golden Mika: How the Joyous Anthem Defined a New Era of Pop Spectacle
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/we-are-golden-mika-how-the-joyous-anthem-defined-a-new-era-o.html)
