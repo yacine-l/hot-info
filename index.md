@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Super Furry Animals’ "Play It Cool": Analyzing the Essential Third Single from the *Radiator* Album](https://yacine-l.github.io/hot-info/2025/12/27/super-furry-animals-play-it-cool-analyzing-the-essential-thi.html)
+
+
 - [** Reuf Duraković: Profile of the FC Nenzing Goalkeeper and Bosnia-Herzegovina U-19 International
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/reuf-durakovi-profile-of-the-fc-nenzing-goalkeeper-and-bosni.html)
