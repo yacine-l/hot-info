@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Daulatpur, Firozabad: A Deep Dive into Rural Life in the Glass City's Shadow](https://yacine-l.github.io/hot-info/2025/12/27/daulatpur-firozabad-a-deep-dive-into-rural-life-in-the-glass.html)
+
+
 - [Bromofluoroiodomethane: Unveiling the Chiral Complexity of a Unique Trihalomethane](https://yacine-l.github.io/hot-info/2025/12/27/bromofluoroiodomethane-unveiling-the-chiral-complexity-of-a-.html)
 
 
