@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Land of the Damned: Revisiting Diamond Rexx's Sole Major Label Masterpiece](https://yacine-l.github.io/hot-info/2025/12/27/land-of-the-damned-revisiting-diamond-rexxs-sole-major-label.html)
+
+
 - [Sudervė: The Ancient Gateway Village Just 8 Kilometers West of Vilnius](https://yacine-l.github.io/hot-info/2025/12/27/suderv-the-ancient-gateway-village-just-8-kilometers-west-of.html)
 
 
