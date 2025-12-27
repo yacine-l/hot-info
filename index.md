@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Vredesbyrd Decoded: Why Dimmu Borgir’s Second Single From Death Cult Armageddon Defined a Genre](https://yacine-l.github.io/hot-info/2025/12/27/vredesbyrd-decoded-why-dimmu-borgirs-second-single-from-deat.html)
+
+
 - [** Argentinosaurus: Unveiling the Colossal Titan—The Largest Land Animal Ever Discovered?
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/argentinosaurus-unveiling-the-colossal-titanthe-largest-land.html)
