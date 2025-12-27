@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Discovering Roussy-le-Village: History, Tranquility, and the Authentic Heart of Moselle
+**](https://yacine-l.github.io/hot-info/2025/12/27/discovering-roussy-le-village-history-tranquility-and-the-au.html)
+
+
 - [** The Soulful History of 'That's The Way God Planned It': Billy Preston’s Masterpiece on Apple Records
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-soulful-history-of-thats-the-way-god-planned-it-billy-pr.html)
