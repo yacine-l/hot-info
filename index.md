@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Unwavering Watch: An In-Depth Look at the Mongolian State Honor Guard
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-unwavering-watch-an-in-depth-look-at-the-mongolian-state.html)
+
+
 - [The Rebirth of the Joe: Analyzing the 2017 Alabama Crimson Tide Baseball Season and the Sewell–Thomas Renovation](https://yacine-l.github.io/hot-info/2025/12/27/the-rebirth-of-the-joe-analyzing-the-2017-alabama-crimson-ti.html)
 
 
