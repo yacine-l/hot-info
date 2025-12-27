@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Driss El Himer: The Journey of a Moroccan-French Long-Distance Running Champion](https://yacine-l.github.io/hot-info/2025/12/27/driss-el-himer-the-journey-of-a-moroccan-french-long-distanc.html)
+
+
 - [** The 72nd Psychological and Information Warfare Center: Ukraine’s Shield in the Global Information War
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-72nd-psychological-and-information-warfare-center-ukrain.html)
 
