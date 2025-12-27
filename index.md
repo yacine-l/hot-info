@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Family Man](https://yacine-l.github.io/hot-info/2025/12/27/the-family-man.html)
+
+
 - [** Amarillo College: History, Programs, and the Six Campuses Defining Texas Education
 **](https://yacine-l.github.io/hot-info/2025/12/27/amarillo-college-history-programs-and-the-six-campuses-defin.html)
 
