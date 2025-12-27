@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Strachy Na Lachy: The Essential Guide to Poland's Poetic Rock Band and Their Enduring Legacy](https://yacine-l.github.io/hot-info/2025/12/27/strachy-na-lachy-the-essential-guide-to-polands-poetic-rock-.html)
+
+
 - [Exploring the Shadows of Rockwood Asylum: The Haunting History of Upper Canada’s First Criminal Asylum
 
 ###](https://yacine-l.github.io/hot-info/2025/12/27/exploring-the-shadows-of-rockwood-asylum-the-haunting-histor.html)
