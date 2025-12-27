@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Pioneer Building: Rediscovering Albuquerque’s Solar Building, the World’s First Commercial Solar-Heated Office
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-pioneer-building-rediscovering-albuquerques-solar-buildi.html)
+
+
 - [Blackburn Firebrand: The Troubled History of the Royal Navy’s Last Piston-Engine Strike Fighter
 
 ###](https://yacine-l.github.io/hot-info/2025/12/27/blackburn-firebrand-the-troubled-history-of-the-royal-navys-.html)
