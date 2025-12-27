@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [18th Division (United States)](https://yacine-l.github.io/hot-info/2025/12/27/18th-division-united-states.html)
+
+
 - [** The Enduring Meaning of "Anything Like Me": Analyzing Brad Paisley’s Heartfelt Hit About Fatherhood
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-enduring-meaning-of-anything-like-me-analyzing-brad-pais.html)
