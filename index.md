@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [VIC Cipher Explained: The Soviet Spy Code Used by KGB Agent VICTOR](https://yacine-l.github.io/hot-info/2025/12/27/vic-cipher-explained-the-soviet-spy-code-used-by-kgb-agent-v.html)
+
+
 - [** Tswapong North Constituency: Geography, Politics, and the Role of Prince Maele
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/tswapong-north-constituency-geography-politics-and-the-role-.html)
