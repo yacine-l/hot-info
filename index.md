@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Joan Miró’s Still Life with Old Shoe: Surrealism, War, and the Pavement of History](https://yacine-l.github.io/hot-info/2025/12/27/joan-mirs-still-life-with-old-shoe-surrealism-war-and-the-pa.html)
+
+
 - [** Salvia palifolia: The Decumbent Andean Sage of High-Altitude Colombia and Venezuela
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/salvia-palifolia-the-decumbent-andean-sage-of-high-altitude-.html)
