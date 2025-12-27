@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Elp, Drenthe: Your Guide to Exploring the Tranquil Heart of Midden-Drenthe](https://yacine-l.github.io/hot-info/2025/12/27/elp-drenthe-your-guide-to-exploring-the-tranquil-heart-of-mi.html)
+
+
 - [** Zhou Xuexi: The Industrial Giant Who Funded China’s Tumultuous Republic
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/zhou-xuexi-the-industrial-giant-who-funded-chinas-tumultuous.html)
