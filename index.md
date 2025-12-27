@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Unlocking the Divine Blueprint: The Mathematics and Magic of the Golden Spiral
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/unlocking-the-divine-blueprint-the-mathematics-and-magic-of-.html)
+
+
 - [Exploring Łask County: History, Nature, and Why This Central Polish Gem Deserves Your Visit](https://yacine-l.github.io/hot-info/2025/12/27/exploring-ask-county-history-nature-and-why-this-central-pol.html)
 
 
