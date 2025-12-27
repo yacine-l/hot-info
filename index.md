@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [R. K. Laxman: The Man Who Drew India’s Conscience and Created ‘The Common Man’](https://yacine-l.github.io/hot-info/2025/12/27/r-k-laxman-the-man-who-drew-indias-conscience-and-created-th.html)
+
+
 - [Ramón Fonst and the Forgotten Triumph: Cuba’s Stellar Debut at the 1904 St. Louis Olympics](https://yacine-l.github.io/hot-info/2025/12/27/ramn-fonst-and-the-forgotten-triumph-cubas-stellar-debut-at-.html)
 
 
