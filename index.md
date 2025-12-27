@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Resilient Return: Ohel Yitzchak Synagogue and the Untold History of Jerusalem's Ungarin Shul
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-resilient-return-ohel-yitzchak-synagogue-and-the-untold-.html)
+
+
 - [** Welcome to Ghost Mansion Manga: Unpacking Nebukuro's Chilling Horror Hit on Kurage Bunch
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/welcome-to-ghost-mansion-manga-unpacking-nebukuros-chilling-.html)
