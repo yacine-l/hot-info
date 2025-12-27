@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [St Chad's Church Harpswell: A Journey Through Norman and Medieval Lincolnshire History](https://yacine-l.github.io/hot-info/2025/12/27/st-chads-church-harpswell-a-journey-through-norman-and-medie.html)
+
+
 - [Hansberry College Prep: Excellence, Legacy, and the IB Education in Auburn Gresham](https://yacine-l.github.io/hot-info/2025/12/27/hansberry-college-prep-excellence-legacy-and-the-ib-educatio.html)
 
 
