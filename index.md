@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [St. Gerard Majella: The Miraculous Lay Brother and Patron Saint of Expectant Mothers](https://yacine-l.github.io/hot-info/2025/12/27/st-gerard-majella-the-miraculous-lay-brother-and-patron-sain.html)
+
+
 - [Meredith Whitney: The ‘Oracle of Wall Street’ Who Successfully Predicted the 2008 Financial Crisis](https://yacine-l.github.io/hot-info/2025/12/27/meredith-whitney-the-oracle-of-wall-street-who-successfully-.html)
 
 
