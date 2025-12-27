@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Pink Majesty of the Amazon: Everything You Need to Know About the Amazon River Dolphin (Boto)](https://yacine-l.github.io/hot-info/2025/12/27/the-pink-majesty-of-the-amazon-everything-you-need-to-know-a.html)
+
+
 - [USS Mack (DE-358): The History and Legacy of a John C. Butler-Class Destroyer Escort](https://yacine-l.github.io/hot-info/2025/12/27/uss-mack-de-358-the-history-and-legacy-of-a-john-c-butler-cl.html)
 
 
