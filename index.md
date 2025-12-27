@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Shinichi Katoh](https://yacine-l.github.io/hot-info/2025/12/27/shinichi-katoh.html)
+
+
 - [** Anisopodus: A Deep Dive into the Diverse Genus of Neotropical Longhorn Beetles
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/anisopodus-a-deep-dive-into-the-diverse-genus-of-neotropical.html)
