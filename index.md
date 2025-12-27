@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Palmar intercarpal ligaments](https://yacine-l.github.io/hot-info/2025/12/27/palmar-intercarpal-ligaments.html)
+
+
 - [Chennai Port Trust Centenary Building: Guardian of the Coast and Administrative Hub](https://yacine-l.github.io/hot-info/2025/12/27/chennai-port-trust-centenary-building-guardian-of-the-coast-.html)
 
 
