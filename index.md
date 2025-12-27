@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enduring Legacy of the Mission School: Education, Conversion, and Colonialism](https://yacine-l.github.io/hot-info/2025/12/27/the-enduring-legacy-of-the-mission-school-education-conversi.html)
+
+
 - [Discovering Mendrelgang Gewog: The Vibrant Heart of Tsirang District, Bhutan](https://yacine-l.github.io/hot-info/2025/12/27/discovering-mendrelgang-gewog-the-vibrant-heart-of-tsirang-d.html)
 
 
