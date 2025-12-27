@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Stróża, Łódź East County: Discovering Tranquility on the Edge of Poland’s Textile Metropolis](https://yacine-l.github.io/hot-info/2025/12/27/stra-d-east-county-discovering-tranquility-on-the-edge-of-po.html)
+
+
 - [Ecuador–Mexico relations](https://yacine-l.github.io/hot-info/2025/12/27/ecuadormexico-relations.html)
 
 
