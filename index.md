@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enigmatic Whitley’s Boxfish: Pacific Jewel and Master of Defense](https://yacine-l.github.io/hot-info/2025/12/27/the-enigmatic-whitleys-boxfish-pacific-jewel-and-master-of-d.html)
+
+
 - [Alexander Klaws: Die Reifung eines Künstlers – Eine Retrospektive auf „Für alle Zeiten“](https://yacine-l.github.io/hot-info/2025/12/27/alexander-klaws-die-reifung-eines-knstlers-eine-retrospektiv.html)
 
 
