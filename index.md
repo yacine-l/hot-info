@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Pioneers of the Superfortress: History of the 769th Bombardment Squadron](https://yacine-l.github.io/hot-info/2025/12/27/the-pioneers-of-the-superfortress-history-of-the-769th-bomba.html)
+
+
 - [France Culture Radio: A Deep Dive into the Intellectual Heart of French Public Broadcasting](https://yacine-l.github.io/hot-info/2025/12/27/france-culture-radio-a-deep-dive-into-the-intellectual-heart.html)
 
 
