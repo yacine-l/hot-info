@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Essential Guide to Wood Joinery Techniques: Choosing the Right Joint for Every Project](https://yacine-l.github.io/hot-info/2025/12/27/the-essential-guide-to-wood-joinery-techniques-choosing-the-.html)
+
+
 - [Unlocking Glasgow’s Past: The Enduring Legacy of the Port Dundas Bascule Bridge](https://yacine-l.github.io/hot-info/2025/12/27/unlocking-glasgows-past-the-enduring-legacy-of-the-port-dund.html)
 
 
