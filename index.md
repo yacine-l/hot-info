@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Artaxata: Exploring the Lost Capital of Ancient Armenia, Where History Met Legend](https://yacine-l.github.io/hot-info/2025/12/27/artaxata-exploring-the-lost-capital-of-ancient-armenia-where.html)
+
+
 - [** East Bengal Club: History, The Kolkata Derby, and Navigating the Indian Super League Era
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/east-bengal-club-history-the-kolkata-derby-and-navigating-th.html)
