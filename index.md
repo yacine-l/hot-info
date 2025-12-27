@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Ann Jillian: The Enduring Legacy of Cassie Cranston and Her Life of Advocacy](https://yacine-l.github.io/hot-info/2025/12/27/ann-jillian-the-enduring-legacy-of-cassie-cranston-and-her-l.html)
+
+
 - [Jennifer Rush's "You're My One and Only": The Untold Story of the *Passion* Album's Lead Single](https://yacine-l.github.io/hot-info/2025/12/27/jennifer-rushs-youre-my-one-and-only-the-untold-story-of-the.html)
 
 
