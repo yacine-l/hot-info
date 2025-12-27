@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Gottmik](https://yacine-l.github.io/hot-info/2025/12/27/gottmik.html)
+
+
 - [Rana Gorgani](https://yacine-l.github.io/hot-info/2025/12/27/rana-gorgani.html)
 
 
