@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Frøken Norge 2008: A Deep Dive into the Beauty Pageant That Defined a Generation of Norwegian Queens](https://yacine-l.github.io/hot-info/2025/12/27/frken-norge-2008-a-deep-dive-into-the-beauty-pageant-that-de.html)
+
+
 - [Biała Wielka: Discovering the Quiet Charm of Poland’s Silesian Countryside near Lelów](https://yacine-l.github.io/hot-info/2025/12/27/biaa-wielka-discovering-the-quiet-charm-of-polands-silesian-.html)
 
 
