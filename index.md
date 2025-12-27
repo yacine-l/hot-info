@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Federalist Fire: Revolts Against the Centralist Republic of Mexico (1835–1846)
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-federalist-fire-revolts-against-the-centralist-republic-.html)
+
+
 - [Digging Deep: To Understand – The Essential Early Recordings of Matthew Sweet](https://yacine-l.github.io/hot-info/2025/12/27/digging-deep-to-understand-the-essential-early-recordings-of.html)
 
 
