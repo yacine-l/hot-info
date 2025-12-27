@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Chinese Rice Grasshopper: Ecology, Damage, and Management of Oxya chinensis](https://yacine-l.github.io/hot-info/2025/12/27/the-chinese-rice-grasshopper-ecology-damage-and-management-o.html)
+
+
 - [The Enduring Legacy of the Mission School: Education, Conversion, and Colonialism](https://yacine-l.github.io/hot-info/2025/12/27/the-enduring-legacy-of-the-mission-school-education-conversi.html)
 
 
