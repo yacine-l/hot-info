@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Tjasker: Discovering the Ingenuity of the Smallest and Simplest Dutch Windmill](https://yacine-l.github.io/hot-info/2025/12/27/the-tjasker-discovering-the-ingenuity-of-the-smallest-and-si.html)
+
+
 - [The Chinese Rice Grasshopper: Ecology, Damage, and Management of Oxya chinensis](https://yacine-l.github.io/hot-info/2025/12/27/the-chinese-rice-grasshopper-ecology-damage-and-management-o.html)
 
 
