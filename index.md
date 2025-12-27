@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Discover Yamaguchi City Japan: History, Hot Springs, and the "Kyoto of the West"](https://yacine-l.github.io/hot-info/2025/12/27/discover-yamaguchi-city-japan-history-hot-springs-and-the-ky.html)
+
+
 - [Meyzieu: A Deep Dive into Lyon's Dynamic Eastern Gateway and its Isère Roots](https://yacine-l.github.io/hot-info/2025/12/27/meyzieu-a-deep-dive-into-lyons-dynamic-eastern-gateway-and-i.html)
 
 
