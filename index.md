@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Inharrime District: Unveiling the Coastal Heart of Southern Inhambane, Mozambique](https://yacine-l.github.io/hot-info/2025/12/27/inharrime-district-unveiling-the-coastal-heart-of-southern-i.html)
+
+
 - [The Estonian Kroon: History, Rebirth, and the Path to the Euro](https://yacine-l.github.io/hot-info/2025/12/27/the-estonian-kroon-history-rebirth-and-the-path-to-the-euro.html)
 
 
