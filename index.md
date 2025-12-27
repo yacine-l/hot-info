@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Harriet Newell: The Story of the First American Missionary to Die in Foreign Service](https://yacine-l.github.io/hot-info/2025/12/27/harriet-newell-the-story-of-the-first-american-missionary-to.html)
+
+
 - [The Evolution of Daniel Sousa: From SSR Agent to S.H.I.E.L.D. Legend in the MCU](https://yacine-l.github.io/hot-info/2025/12/27/the-evolution-of-daniel-sousa-from-ssr-agent-to-shield-legen.html)
 
 
