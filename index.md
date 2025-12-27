@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Discover Kersoe: The Peaceful Hamlet Nestled at the Foot of Worcestershire’s Bredon Hill
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/discover-kersoe-the-peaceful-hamlet-nestled-at-the-foot-of-w.html)
+
+
 - [** Children of the Sea: Jozef Israëls' Masterpiece of 19th-Century Dutch Realism and the Hague School
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/children-of-the-sea-jozef-israls-masterpiece-of-19th-century.html)
