@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Káťa Kabanová: The Opera of Forbidden Love, Fire, and Water – Janáček’s Masterpiece
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/ka-kabanov-the-opera-of-forbidden-love-fire-and-water-janeks.html)
+
+
 - [** Chenghai, Shantou: Unveiling the History, Culture, and Global Role of China's Toy Capital
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/chenghai-shantou-unveiling-the-history-culture-and-global-ro.html)
