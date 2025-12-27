@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Defending the Land of Enchantment: A Comprehensive Look at the New Mexico Air National Guard](https://yacine-l.github.io/hot-info/2025/12/27/defending-the-land-of-enchantment-a-comprehensive-look-at-th.html)
+
+
 - [Clavigralla: Understanding the Coreid Genus, Taxonomy, and Agricultural Threat](https://yacine-l.github.io/hot-info/2025/12/27/clavigralla-understanding-the-coreid-genus-taxonomy-and-agri.html)
 
 
