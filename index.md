@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Harry Stuhldreher: Quarterback of the Legendary Four Horsemen and Coaching Pioneer](https://yacine-l.github.io/hot-info/2025/12/27/harry-stuhldreher-quarterback-of-the-legendary-four-horsemen.html)
+
+
 - [Sir John Bayley, 2nd Baronet: Navigating Nobility and the Golden Age of Amateur Cricket](https://yacine-l.github.io/hot-info/2025/12/27/sir-john-bayley-2nd-baronet-navigating-nobility-and-the-gold.html)
 
 
