@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Emma Beckett Footballer: Unpacking the Career of Ireland’s Midfield Engine at Watford](https://yacine-l.github.io/hot-info/2025/12/27/emma-beckett-footballer-unpacking-the-career-of-irelands-mid.html)
+
+
 - [Fisherton Street Salisbury: The Commercial Heart and Western Gateway to the City Centre](https://yacine-l.github.io/hot-info/2025/12/27/fisherton-street-salisbury-the-commercial-heart-and-western-.html)
 
 
