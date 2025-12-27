@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Political Journey of Graham Evans: From Weaver Vale MP to Baron Evans of Rainow](https://yacine-l.github.io/hot-info/2025/12/27/the-political-journey-of-graham-evans-from-weaver-vale-mp-to.html)
+
+
 - [** Hydrothermal Vents: The Deep-Sea Oases Powered by Earth's Fire
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/hydrothermal-vents-the-deep-sea-oases-powered-by-earths-fire.html)
