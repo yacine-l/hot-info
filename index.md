@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Hubertus, Wisconsin: Exploring Holy Hill, Kettle Moraine, and the Heart of Washington County](https://yacine-l.github.io/hot-info/2025/12/27/hubertus-wisconsin-exploring-holy-hill-kettle-moraine-and-th.html)
+
+
 - [** The Utah Education Network (UEN): The Digital Backbone of Education in the Beehive State
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-utah-education-network-uen-the-digital-backbone-of-educa.html)
