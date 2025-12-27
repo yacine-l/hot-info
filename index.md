@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Legacy of Willy Kükenthal: Pioneer of Octocorallia and Editor of Modern Zoology
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-legacy-of-willy-kkenthal-pioneer-of-octocorallia-and-edi.html)
+
+
 - [The Urgent Threat: Understanding the Impact of Climate Change in Maryland](https://yacine-l.github.io/hot-info/2025/12/27/the-urgent-threat-understanding-the-impact-of-climate-change.html)
 
 
