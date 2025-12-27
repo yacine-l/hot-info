@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Brigadier General Alfred C. Markley: Commander of the Buffalo Soldiers at San Juan Hill](https://yacine-l.github.io/hot-info/2025/12/27/brigadier-general-alfred-c-markley-commander-of-the-buffalo-.html)
+
+
 - [The Enigmatic Whitley’s Boxfish: Pacific Jewel and Master of Defense](https://yacine-l.github.io/hot-info/2025/12/27/the-enigmatic-whitleys-boxfish-pacific-jewel-and-master-of-d.html)
 
 
