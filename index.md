@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Essential Guide to Musical Range: Understanding Instruments, Voices, and Compositional Limits
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-essential-guide-to-musical-range-understanding-instrumen.html)
+
+
 - [Abertrinant: Discovering the Tiny Welsh Settlement Northeast of Tywyn](https://yacine-l.github.io/hot-info/2025/12/27/abertrinant-discovering-the-tiny-welsh-settlement-northeast-.html)
 
 
