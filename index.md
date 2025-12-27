@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Saint Mary’s Chapel, Carle Place: A Timeless Look at Nassau County’s Historic Episcopal Landmark
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/saint-marys-chapel-carle-place-a-timeless-look-at-nassau-cou.html)
+
+
 - [Morchard Bishop: Exploring the Historic Heart of Mid Devon – Home of Ernest Bevin](https://yacine-l.github.io/hot-info/2025/12/27/morchard-bishop-exploring-the-historic-heart-of-mid-devon-ho.html)
 
 
