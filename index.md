@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Junior’s Grill Georgia Tech: Remembering the Legendary Diner, French Toast, and Campus History
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/juniors-grill-georgia-tech-remembering-the-legendary-diner-f.html)
+
+
 - [** Kostiantyn Symonenko: The Ukrainian Lawyer Who Conquered the World’s Map
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/kostiantyn-symonenko-the-ukrainian-lawyer-who-conquered-the-.html)
