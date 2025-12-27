@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Julian Simon: The Ultimate Resource Economist Who Won the World’s Most Famous Wager
+**](https://yacine-l.github.io/hot-info/2025/12/27/julian-simon-the-ultimate-resource-economist-who-won-the-wor.html)
+
+
 - [** The Indomitable Defender: Sir William Oliphant and the Epic Siege of Stirling Castle
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-indomitable-defender-sir-william-oliphant-and-the-epic-s.html)
