@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Eve Jobs: From Champion Equestrian to High Fashion Model—Carving Her Own Legacy
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/eve-jobs-from-champion-equestrian-to-high-fashion-modelcarvi.html)
+
+
 - [John Robichaux](https://yacine-l.github.io/hot-info/2025/12/27/john-robichaux.html)
 
 
