@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Alexandra Stan’s *Saxobeats*: How a Debut Album Defined the 2011 Global Dance Phenomenon
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/alexandra-stans-saxobeats-how-a-debut-album-defined-the-2011.html)
+
+
 - [Galina Petrova](https://yacine-l.github.io/hot-info/2025/12/27/galina-petrova.html)
 
 
