@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Chilean Dwarf Tegu: A Comprehensive Guide to Callopistes maculatus](https://yacine-l.github.io/hot-info/2025/12/27/the-chilean-dwarf-tegu-a-comprehensive-guide-to-callopistes-.html)
+
+
 - [Euphorbia bwambensis: A Deep Dive into the Rare African Succulent from Congo and Uganda](https://yacine-l.github.io/hot-info/2025/12/27/euphorbia-bwambensis-a-deep-dive-into-the-rare-african-succu.html)
 
 
