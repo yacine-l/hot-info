@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Bethany, Bartholomew County, Indiana: Exploring the Quiet Corners of Harrison Township](https://yacine-l.github.io/hot-info/2025/12/27/bethany-bartholomew-county-indiana-exploring-the-quiet-corne.html)
+
+
 - [** The Enduring Legacy of the Kelly-Springfield Tire Company: A History of American Rubber
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-enduring-legacy-of-the-kelly-springfield-tire-company-a-.html)
