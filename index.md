@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Dr. Ganeshan Venkataraman: Physics, Popularization, and the Padma Shri Legacy](https://yacine-l.github.io/hot-info/2025/12/27/dr-ganeshan-venkataraman-physics-popularization-and-the-padm.html)
+
+
 - [The Tears of the Oracle: Analyzing MC Solaar's Iconic Global Lament, "Solaar pleure"](https://yacine-l.github.io/hot-info/2025/12/27/the-tears-of-the-oracle-analyzing-mc-solaars-iconic-global-l.html)
 
 
