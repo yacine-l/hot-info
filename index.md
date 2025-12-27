@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Inna’s Electropop Masterpiece: Deconstructing the Global Appeal of "Wow" from *I Am the Club Rocker*
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/innas-electropop-masterpiece-deconstructing-the-global-appea.html)
+
+
 - [The Red Tide of '78: Analyzing the Pivotal Cambridge City Council Election](https://yacine-l.github.io/hot-info/2025/12/27/the-red-tide-of-78-analyzing-the-pivotal-cambridge-city-coun.html)
 
 
