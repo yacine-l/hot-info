@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Zhang Yi and the Art of Deception: How the Master Diplomat of the Warring States Period Unified China](https://yacine-l.github.io/hot-info/2025/12/27/zhang-yi-and-the-art-of-deception-how-the-master-diplomat-of.html)
+
+
 - [UNSC Resolution 505: The Desperate Diplomatic Plea to Halt the Falklands War](https://yacine-l.github.io/hot-info/2025/12/27/unsc-resolution-505-the-desperate-diplomatic-plea-to-halt-th.html)
 
 
