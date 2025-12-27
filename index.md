@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The International Youth Congress (IJK): The Ultimate Guide to the Largest Annual Esperanto Gathering](https://yacine-l.github.io/hot-info/2025/12/27/the-international-youth-congress-ijk-the-ultimate-guide-to-t.html)
+
+
 - [** Collings Guitars: The Austin Luthier Defining Premium Acoustic and Electric Instruments
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/collings-guitars-the-austin-luthier-defining-premium-acousti.html)
