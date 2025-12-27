@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enduring Legacy of Murshidabad: Abbas Ali Meerza and the Revival of the Nawab Bahadur Title](https://yacine-l.github.io/hot-info/2025/12/27/the-enduring-legacy-of-murshidabad-abbas-ali-meerza-and-the-.html)
+
+
 - [The Unyielding Journey of Mark Hutchings: From WAFL Star to West Coast Eagle Utility](https://yacine-l.github.io/hot-info/2025/12/27/the-unyielding-journey-of-mark-hutchings-from-wafl-star-to-w.html)
 
 
