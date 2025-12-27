@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Australian Minister for Finance: Understanding the Critical Role in Government Expenditure and Fiscal Management](https://yacine-l.github.io/hot-info/2025/12/27/the-australian-minister-for-finance-understanding-the-critic.html)
+
+
 - [** Towaoc, Colorado: The Cultural Heart of the Ute Mountain Ute Tribe
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/towaoc-colorado-the-cultural-heart-of-the-ute-mountain-ute-t.html)
