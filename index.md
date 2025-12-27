@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Canas Province Peru: Discovering the Authentic Heart of the Southern Cusco Highlands](https://yacine-l.github.io/hot-info/2025/12/27/canas-province-peru-discovering-the-authentic-heart-of-the-s.html)
+
+
 - [Moniack Mhor: Your Ultimate Creative Writing Retreat in the Scottish Highlands](https://yacine-l.github.io/hot-info/2025/12/27/moniack-mhor-your-ultimate-creative-writing-retreat-in-the-s.html)
 
 
