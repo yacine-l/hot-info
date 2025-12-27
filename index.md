@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Joseph Toole: The Democratic Pioneer Who Served as Montana’s First and Fourth Governor](https://yacine-l.github.io/hot-info/2025/12/27/joseph-toole-the-democratic-pioneer-who-served-as-montanas-f.html)
+
+
 - [Strachy Na Lachy: The Essential Guide to Poland's Poetic Rock Band and Their Enduring Legacy](https://yacine-l.github.io/hot-info/2025/12/27/strachy-na-lachy-the-essential-guide-to-polands-poetic-rock-.html)
 
 
