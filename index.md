@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Third Lyons Ministry (1934–1937): Forging the Coalition and Securing Australia’s Economic Recovery
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-third-lyons-ministry-19341937-forging-the-coalition-and-.html)
+
+
 - [John Williams Farm](https://yacine-l.github.io/hot-info/2025/12/27/john-williams-farm.html)
 
 
