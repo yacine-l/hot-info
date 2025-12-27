@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Edmond Rostand: The Master of Neo-Romanticism and the Enduring Legacy of Cyrano de Bergerac](https://yacine-l.github.io/hot-info/2025/12/27/edmond-rostand-the-master-of-neo-romanticism-and-the-endurin.html)
+
+
 - [** Lawrence Hill Bristol: Unearthing the Medieval History and Modern Dynamics of a Key City Ward
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/lawrence-hill-bristol-unearthing-the-medieval-history-and-mo.html)
