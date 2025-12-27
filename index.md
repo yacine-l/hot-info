@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Legacy of Sébastien Wolfe: A Deep Dive into the Canadian Pair Skater’s Career](https://yacine-l.github.io/hot-info/2025/12/27/the-legacy-of-sbastien-wolfe-a-deep-dive-into-the-canadian-p.html)
+
+
 - [** Cotahuasi Canyon: Exploring the World’s Deepest Gorge in the Peruvian Andes
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/cotahuasi-canyon-exploring-the-worlds-deepest-gorge-in-the-p.html)
