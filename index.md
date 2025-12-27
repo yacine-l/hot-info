@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Petr Hladík: Shaping Czech Environmental Policy and the KDU-ČSL Legacy](https://yacine-l.github.io/hot-info/2025/12/27/petr-hladk-shaping-czech-environmental-policy-and-the-kdu-sl.html)
+
+
 - [Santi Celso e Giuliano](https://yacine-l.github.io/hot-info/2025/12/27/santi-celso-e-giuliano.html)
 
 
