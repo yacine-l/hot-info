@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [End of the World: The Psychedelic Debut That Launched Aphrodite's Child and Vangelis](https://yacine-l.github.io/hot-info/2025/12/27/end-of-the-world-the-psychedelic-debut-that-launched-aphrodi.html)
+
+
 - [** Unearthing History: Lot 53 Prince Edward Island and the Proprietors of 1767
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/unearthing-history-lot-53-prince-edward-island-and-the-propr.html)
