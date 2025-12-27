@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Ventricular Fibrillation: Understanding the Deadliest Heart Rhythm and the Response to Sudden Cardiac Arrest](https://yacine-l.github.io/hot-info/2025/12/27/ventricular-fibrillation-understanding-the-deadliest-heart-r.html)
+
+
 - [Alber Saber Ayad: The Egyptian Blogger Arrested for Atheism and Sharing the Innocence of Muslims Trailer](https://yacine-l.github.io/hot-info/2025/12/27/alber-saber-ayad-the-egyptian-blogger-arrested-for-atheism-a.html)
 
 
