@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Lost Legacy: Kibworth Railway Station and the History of the Midland Main Line](https://yacine-l.github.io/hot-info/2025/12/27/the-lost-legacy-kibworth-railway-station-and-the-history-of-.html)
+
+
 - [Robert Menzies: Architect of Modern Australia and the Longest-Serving Prime Minister](https://yacine-l.github.io/hot-info/2025/12/27/robert-menzies-architect-of-modern-australia-and-the-longest.html)
 
 
