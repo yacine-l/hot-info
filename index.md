@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Royal Captive Who Became a Priest: The Dramatic Life of Baldassare Diego Loyola](https://yacine-l.github.io/hot-info/2025/12/27/the-royal-captive-who-became-a-priest-the-dramatic-life-of-b.html)
+
+
 - [The National Resistance Movement: 38 Years Shaping Uganda's Destiny Since 1986](https://yacine-l.github.io/hot-info/2025/12/27/the-national-resistance-movement-38-years-shaping-ugandas-de.html)
 
 
