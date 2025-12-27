@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Presbyterian Ladies' College (PLC) Perth: An In-Depth Look at Peppermint Grove's Premier Girls School](https://yacine-l.github.io/hot-info/2025/12/27/presbyterian-ladies-college-plc-perth-an-in-depth-look-at-pe.html)
+
+
 - [Ani Nath Shahdeo: Unearthing the Legacy of the 17th Century Nagvanshi King](https://yacine-l.github.io/hot-info/2025/12/27/ani-nath-shahdeo-unearthing-the-legacy-of-the-17th-century-n.html)
 
 
