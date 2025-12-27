@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Secret Jewel of Rensselaer County: Exploring the History and Geography of Spring Lake
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-secret-jewel-of-rensselaer-county-exploring-the-history-.html)
+
+
 - [Sheridan Circle DC: History, Diplomacy, and the Heart of Embassy Row](https://yacine-l.github.io/hot-info/2025/12/27/sheridan-circle-dc-history-diplomacy-and-the-heart-of-embass.html)
 
 
