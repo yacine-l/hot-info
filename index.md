@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Inside a Dream (EP)](https://yacine-l.github.io/hot-info/2025/12/27/inside-a-dream-ep.html)
+
+
 - [The Vicar of Bray Song Meaning: A Masterpiece of English Political and Ecclesiastical Satire](https://yacine-l.github.io/hot-info/2025/12/27/the-vicar-of-bray-song-meaning-a-masterpiece-of-english-poli.html)
 
 
