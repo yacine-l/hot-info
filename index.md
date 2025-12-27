@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Jan van Speijk: The Tragic Naval Hero Who Chose Death Over the Belgian Revolution**
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/jan-van-speijk-the-tragic-naval-hero-who-chose-death-over-th.html)
+
+
 - [The Rise of the Panthers: Everything You Need to Know About Penrith RUFC](https://yacine-l.github.io/hot-info/2025/12/27/the-rise-of-the-panthers-everything-you-need-to-know-about-p.html)
 
 
