@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Yanni Dare to Dream Album: The 1992 Masterpiece That Defined New Age Music](https://yacine-l.github.io/hot-info/2025/12/27/yanni-dare-to-dream-album-the-1992-masterpiece-that-defined-.html)
+
+
 - [** Jean Lavoué: The Enduring Legacy of the Classical French Poet and Essayist
 **](https://yacine-l.github.io/hot-info/2025/12/27/jean-lavou-the-enduring-legacy-of-the-classical-french-poet-.html)
 
