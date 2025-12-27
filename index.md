@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** COCONUTS-2b: The Exoplanet Juggernaut Orbiting 7,500 AU Away
+**](https://yacine-l.github.io/hot-info/2025/12/27/coconuts-2b-the-exoplanet-juggernaut-orbiting-7500-au-away.html)
+
+
 - [** San Nicolò Montecastrilli: A Journey Through History in Umbria's Hidden Church
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/san-nicol-montecastrilli-a-journey-through-history-in-umbria.html)
