@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Chintaman Ganesh Kolhatkar: The Architect of Modern Marathi Theatre and Stage Acting](https://yacine-l.github.io/hot-info/2025/12/27/chintaman-ganesh-kolhatkar-the-architect-of-modern-marathi-t.html)
+
+
 - [The Diplomat of Satire: Unpacking the Wit and Legacy of Światopełk Karpiński](https://yacine-l.github.io/hot-info/2025/12/27/the-diplomat-of-satire-unpacking-the-wit-and-legacy-of-wiato.html)
 
 
