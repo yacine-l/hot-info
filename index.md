@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Enigmatic World of Campodesmidae: A Deep Dive into the Flat-Backed Millipede Family
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-enigmatic-world-of-campodesmidae-a-deep-dive-into-the-fl.html)
+
+
 - [Heaven 17's "This Is Mine": Unpacking the Sophisticated Synth-Pop Masterpiece of 1984](https://yacine-l.github.io/hot-info/2025/12/27/heaven-17s-this-is-mine-unpacking-the-sophisticated-synth-po.html)
 
 
