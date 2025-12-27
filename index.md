@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Asylum’s Deep Dive: Reviewing the 2008 Mockbuster, Journey to the Center of the Earth](https://yacine-l.github.io/hot-info/2025/12/27/the-asylums-deep-dive-reviewing-the-2008-mockbuster-journey-.html)
+
+
 - [The Tjasker: Discovering the Ingenuity of the Smallest and Simplest Dutch Windmill](https://yacine-l.github.io/hot-info/2025/12/27/the-tjasker-discovering-the-ingenuity-of-the-smallest-and-si.html)
 
 
