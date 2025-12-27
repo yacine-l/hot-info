@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Estonian Kroon: History, Rebirth, and the Path to the Euro](https://yacine-l.github.io/hot-info/2025/12/27/the-estonian-kroon-history-rebirth-and-the-path-to-the-euro.html)
+
+
 - [The Tragic Case of Nicola Furlong: Remembering the Irish Exchange Student Murdered in Shinjuku](https://yacine-l.github.io/hot-info/2025/12/27/the-tragic-case-of-nicola-furlong-remembering-the-irish-exch.html)
 
 
