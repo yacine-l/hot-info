@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Nick Kelly: From Fat Lady Sings Frontman to Acclaimed Filmmaker and Solo Artist
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/nick-kelly-from-fat-lady-sings-frontman-to-acclaimed-filmmak.html)
+
+
 - [Oriol-en-Royans: Gateway to the Vercors and the Hidden Gems of the Drôme](https://yacine-l.github.io/hot-info/2025/12/27/oriol-en-royans-gateway-to-the-vercors-and-the-hidden-gems-o.html)
 
 
