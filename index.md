@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The First Restoration: How Louis XVIII Reclaimed the Throne of France (1814-1815)](https://yacine-l.github.io/hot-info/2025/12/27/the-first-restoration-how-louis-xviii-reclaimed-the-throne-o.html)
+
+
 - [The Silent Vocation: A Deep Dive into the History and Life of the Trappist Monks (OCSO)](https://yacine-l.github.io/hot-info/2025/12/27/the-silent-vocation-a-deep-dive-into-the-history-and-life-of.html)
 
 
