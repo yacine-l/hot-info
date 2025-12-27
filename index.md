@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Jedediah Smith Redwoods State Park: Your Ultimate Guide to Northern California’s Old-Growth Giants](https://yacine-l.github.io/hot-info/2025/12/27/jedediah-smith-redwoods-state-park-your-ultimate-guide-to-no.html)
+
+
 - [** Discover the History of James Russell Lowell School Philadelphia: An Olney Architectural Landmark
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/discover-the-history-of-james-russell-lowell-school-philadel.html)
