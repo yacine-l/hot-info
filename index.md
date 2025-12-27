@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Guafo Island: Unlocking the Secrets of Chile’s Newly Preserved Biodiversity Hotspot in the Southern Pacific
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/guafo-island-unlocking-the-secrets-of-chiles-newly-preserved.html)
+
+
 - [Anandrao Vithoba Adsul: The Veteran Shiv Sena MP Who Mastered Maharashtra’s Lok Sabha Seats](https://yacine-l.github.io/hot-info/2025/12/27/anandrao-vithoba-adsul-the-veteran-shiv-sena-mp-who-mastered.html)
 
 
