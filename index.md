@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Charles Chvala: The Rise and Fall of Wisconsin's Powerful Democratic Senate Leader
+
+### **](https://yacine-l.github.io/hot-info/2025/12/27/charles-chvala-the-rise-and-fall-of-wisconsins-powerful-demo.html)
+
+
 - [The Science of Sound: How Acoustic Levitation Is Revolutionizing Contactless Manipulation](https://yacine-l.github.io/hot-info/2025/12/27/the-science-of-sound-how-acoustic-levitation-is-revolutioniz.html)
 
 
