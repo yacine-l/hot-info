@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Broseley, Shropshire: The Unsung Cornerstone of the Industrial Revolution](https://yacine-l.github.io/hot-info/2025/12/27/broseley-shropshire-the-unsung-cornerstone-of-the-industrial.html)
+
+
 - [Erica cabernetea: The Rare Wine-Hued Heather of the Western Cape Fynbos](https://yacine-l.github.io/hot-info/2025/12/27/erica-cabernetea-the-rare-wine-hued-heather-of-the-western-c.html)
 
 
