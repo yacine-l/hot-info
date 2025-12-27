@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Mythology of DCI Gene Hunt: Why The Governor is British TV's Greatest Anti-Hero](https://yacine-l.github.io/hot-info/2025/12/27/the-mythology-of-dci-gene-hunt-why-the-governor-is-british-t.html)
+
+
 - [St Chad's Church Harpswell: A Journey Through Norman and Medieval Lincolnshire History](https://yacine-l.github.io/hot-info/2025/12/27/st-chads-church-harpswell-a-journey-through-norman-and-medie.html)
 
 
