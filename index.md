@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Eric Byrnes: Tracing the Career of MLB's Most Intense Hustler and Analyst
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/eric-byrnes-tracing-the-career-of-mlbs-most-intense-hustler-.html)
+
+
 - [Inside a Dream (EP)](https://yacine-l.github.io/hot-info/2025/12/27/inside-a-dream-ep.html)
 
 
