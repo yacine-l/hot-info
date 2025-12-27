@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Discovering Tangyan, Myanmar: Gateway to the Eastern Shan Hills](https://yacine-l.github.io/hot-info/2025/12/27/discovering-tangyan-myanmar-gateway-to-the-eastern-shan-hill.html)
+
+
 - [Dan Roundfield: The Unsung Rebounding and Defensive Legend of the Atlanta Hawks](https://yacine-l.github.io/hot-info/2025/12/27/dan-roundfield-the-unsung-rebounding-and-defensive-legend-of.html)
 
 
