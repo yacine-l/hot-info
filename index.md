@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Talara Refinery Modernization: Petroperú’s Strategic Fuel Hub in Peru
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/talara-refinery-modernization-petropers-strategic-fuel-hub-i.html)
+
+
 - [Harilal Upadhyay: Unveiling the Legacy of Gujarati Literature’s Most Prolific Novelist](https://yacine-l.github.io/hot-info/2025/12/27/harilal-upadhyay-unveiling-the-legacy-of-gujarati-literature.html)
 
 
