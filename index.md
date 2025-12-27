@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Hard-Hitting Heart of Tohoku: A Deep Dive into Sendai Girls' Pro Wrestling (Senjo)
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-hard-hitting-heart-of-tohoku-a-deep-dive-into-sendai-gir.html)
+
+
 - [Tell Laura I Love Her: The Tragic Story Behind the 1960 Hit That Shocked a Generation](https://yacine-l.github.io/hot-info/2025/12/27/tell-laura-i-love-her-the-tragic-story-behind-the-1960-hit-t.html)
 
 
