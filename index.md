@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Mind Palace: Decoding the Genius of Sherlock Holmes, the World's First Consulting Detective](https://yacine-l.github.io/hot-info/2025/12/27/the-mind-palace-decoding-the-genius-of-sherlock-holmes-the-w.html)
+
+
 - [Jan van Speijk: The Tragic Naval Hero Who Chose Death Over the Belgian Revolution**
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/jan-van-speijk-the-tragic-naval-hero-who-chose-death-over-th.html)
