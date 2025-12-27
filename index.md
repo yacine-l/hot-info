@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Barbados Returns to the World Stage: A Look Back at the 1984 Los Angeles Summer Olympics](https://yacine-l.github.io/hot-info/2025/12/27/barbados-returns-to-the-world-stage-a-look-back-at-the-1984-.html)
+
+
 - [Dr. Ila Fiete: Mapping the Mind Using Physics and Computational Neuroscience at MIT](https://yacine-l.github.io/hot-info/2025/12/27/dr-ila-fiete-mapping-the-mind-using-physics-and-computationa.html)
 
 
