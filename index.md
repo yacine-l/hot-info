@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Freedom Square Tbilisi: History, Symbolism, and the Unfolding Heart of Georgia
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/freedom-square-tbilisi-history-symbolism-and-the-unfolding-h.html)
+
+
 - [Enzo Plazzotta: The Italian Maestro of Movement in British Bronze Sculpture](https://yacine-l.github.io/hot-info/2025/12/27/enzo-plazzotta-the-italian-maestro-of-movement-in-british-br.html)
 
 
