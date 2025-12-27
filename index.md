@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Valiyakulangara Devi Temple: A Guide to Mahadevikadu’s Ancient Shrine and the Grand Kumbha Bharani Festival](https://yacine-l.github.io/hot-info/2025/12/27/valiyakulangara-devi-temple-a-guide-to-mahadevikadus-ancient.html)
+
+
 - [Neriene digna: Exploring the Intricate World of the North American Sheetweb Spider](https://yacine-l.github.io/hot-info/2025/12/27/neriene-digna-exploring-the-intricate-world-of-the-north-ame.html)
 
 
