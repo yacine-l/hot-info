@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Exploring Athmallik Sub-division: History, Geography, and Administration in Angul District](https://yacine-l.github.io/hot-info/2025/12/27/exploring-athmallik-sub-division-history-geography-and-admin.html)
+
+
 - [** The Sandakan District Mosque: A Historical and Architectural Jewel in Sabah, Malaysia
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-sandakan-district-mosque-a-historical-and-architectural-.html)
 
