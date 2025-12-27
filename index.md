@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Messigny-et-Vantoux: Exploring the History and Charm of Côte-d'Or's Dual Commune
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/messigny-et-vantoux-exploring-the-history-and-charm-of-cte-d.html)
+
+
 - [** Amputechture: Dissecting The Mars Volta's 2006 Progressive Rock Behemoth
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/amputechture-dissecting-the-mars-voltas-2006-progressive-roc.html)
