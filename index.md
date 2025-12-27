@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Park Jin-seong](https://yacine-l.github.io/hot-info/2025/12/27/park-jin-seong.html)
+
+
 - [Mandu Assembly Constituency: A Deep Dive into Jharkhand's Key Electoral Battleground](https://yacine-l.github.io/hot-info/2025/12/27/mandu-assembly-constituency-a-deep-dive-into-jharkhands-key-.html)
 
 
