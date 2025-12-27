@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Olga Terho: A Pioneer of Post-War Finnish Politics and the Rise of the SKDL (1945-1948)
+**](https://yacine-l.github.io/hot-info/2025/12/27/olga-terho-a-pioneer-of-post-war-finnish-politics-and-the-ri.html)
+
+
 - [Maxi Yacht: Defining the Giants of High-Performance Ocean Racing](https://yacine-l.github.io/hot-info/2025/12/27/maxi-yacht-defining-the-giants-of-high-performance-ocean-rac.html)
 
 
