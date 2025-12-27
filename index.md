@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Rise of the Panthers: Everything You Need to Know About Penrith RUFC](https://yacine-l.github.io/hot-info/2025/12/27/the-rise-of-the-panthers-everything-you-need-to-know-about-p.html)
+
+
 - [District 3 Malta: A Deep Dive into the South-Eastern Electoral Region](https://yacine-l.github.io/hot-info/2025/12/27/district-3-malta-a-deep-dive-into-the-south-eastern-electora.html)
 
 
