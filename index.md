@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Almirante Juan de Borbón (F-102): Spain's Aegis-Powered Air Defence Guardian](https://yacine-l.github.io/hot-info/2025/12/27/the-almirante-juan-de-borbn-f-102-spains-aegis-powered-air-d.html)
+
+
 - [The Ultimate Guide to Longboards: History, Types, and How to Choose Your Perfect Ride](https://yacine-l.github.io/hot-info/2025/12/27/the-ultimate-guide-to-longboards-history-types-and-how-to-ch.html)
 
 
