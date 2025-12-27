@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Legacy of Monika Radulovic: From Psychology Student to Miss Universe Top 5](https://yacine-l.github.io/hot-info/2025/12/27/the-legacy-of-monika-radulovic-from-psychology-student-to-mi.html)
+
+
 - [Friedrich Theodor Vischer and the Malice of Things: Unpacking Die Tücke des Objekts
 
 ##](https://yacine-l.github.io/hot-info/2025/12/27/friedrich-theodor-vischer-and-the-malice-of-things-unpacking.html)
