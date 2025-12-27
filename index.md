@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Edulis Restaurant Toronto: Why This Michelin-Starred Gem Defines Canadian Fine Dining](https://yacine-l.github.io/hot-info/2025/12/27/edulis-restaurant-toronto-why-this-michelin-starred-gem-defi.html)
+
+
 - [** The Pitz: Exploring the History and Legacy of Brown University’s Pizzitola Sports Center
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-pitz-exploring-the-history-and-legacy-of-brown-universit.html)
