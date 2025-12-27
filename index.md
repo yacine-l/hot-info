@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Chloramine-T: The Multifunctional Reagent Driving Modern Heterocyclic Synthesis](https://yacine-l.github.io/hot-info/2025/12/27/chloramine-t-the-multifunctional-reagent-driving-modern-hete.html)
+
+
 - [Sandall Park Doncaster: The Comprehensive Guide to Doncaster's Premier 69-Acre Leisure Hub](https://yacine-l.github.io/hot-info/2025/12/27/sandall-park-doncaster-the-comprehensive-guide-to-doncasters.html)
 
 
