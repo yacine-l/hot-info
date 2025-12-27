@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Olof Ljungström: The Swedish Engineer Who Shaped Aircraft Design at Stanford and Caltech
+**](https://yacine-l.github.io/hot-info/2025/12/27/olof-ljungstrm-the-swedish-engineer-who-shaped-aircraft-desi.html)
+
+
 - [The Green Man, Potters Bar](https://yacine-l.github.io/hot-info/2025/12/27/the-green-man-potters-bar.html)
 
 
