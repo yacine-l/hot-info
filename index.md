@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Reuben T. Wood: Missouri’s New Deal Congressman and the Great Depression**
+**](https://yacine-l.github.io/hot-info/2025/12/27/reuben-t-wood-missouris-new-deal-congressman-and-the-great-d.html)
+
+
 - [** John Medeski’s *A Different Time*: Unlocking the Soul of the 1924 Gaveau Piano
 
 ## **](https://yacine-l.github.io/hot-info/2025/12/27/john-medeskis-a-different-time-unlocking-the-soul-of-the-192.html)
