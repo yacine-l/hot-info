@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Walter Krüger: The Life and Command of an SS General on the Eastern Front](https://yacine-l.github.io/hot-info/2025/12/27/walter-krger-the-life-and-command-of-an-ss-general-on-the-ea.html)
+
+
 - [Bishwanath Ghosh: Profile of the Unyielding Defender for Bashundhara Kings and Bangladesh](https://yacine-l.github.io/hot-info/2025/12/27/bishwanath-ghosh-profile-of-the-unyielding-defender-for-bash.html)
 
 
