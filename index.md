@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Delta Force Task Force Dagger: Revisiting the 2002 Tactical FPS Standalone Expansion](https://yacine-l.github.io/hot-info/2025/12/27/delta-force-task-force-dagger-revisiting-the-2002-tactical-f.html)
+
+
 - [Victoria II: Why This 2010 Grand Strategy Game Remains Paradox's Most Complex Simulation](https://yacine-l.github.io/hot-info/2025/12/27/victoria-ii-why-this-2010-grand-strategy-game-remains-parado.html)
 
 
