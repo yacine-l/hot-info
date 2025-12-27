@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Rebirth of the Joe: Analyzing the 2017 Alabama Crimson Tide Baseball Season and the Sewell–Thomas Renovation](https://yacine-l.github.io/hot-info/2025/12/27/the-rebirth-of-the-joe-analyzing-the-2017-alabama-crimson-ti.html)
+
+
 - [** Gu Family Book: Why This Lee Seung-gi & Bae Suzy Fantasy Sageuk is a Must-Watch K-Drama Classic
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/gu-family-book-why-this-lee-seung-gi-bae-suzy-fantasy-sageuk.html)
