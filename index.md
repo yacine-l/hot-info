@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Ilhéu Laje Branca: Discovering the Tiny, Protected Sanctuary of Maio Island, Cape Verde](https://yacine-l.github.io/hot-info/2025/12/27/ilhu-laje-branca-discovering-the-tiny-protected-sanctuary-of.html)
+
+
 - [Sheila Jackson: The Pioneering English Woman Grandmaster Who Defined a Chess Era](https://yacine-l.github.io/hot-info/2025/12/27/sheila-jackson-the-pioneering-english-woman-grandmaster-who-.html)
 
 
