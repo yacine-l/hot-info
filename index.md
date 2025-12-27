@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Clash of Continents: Sevilla FC Triumphs in the Inaugural UEFA–CONMEBOL Club Challenge 2023 (Antonio Puerta XII)
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-clash-of-continents-sevilla-fc-triumphs-in-the-inaugural.html)
+
+
 - [Tommy Milone: The Remarkable MLB Career of Baseball’s Ultimate Journeyman Lefty](https://yacine-l.github.io/hot-info/2025/12/27/tommy-milone-the-remarkable-mlb-career-of-baseballs-ultimate.html)
 
 
