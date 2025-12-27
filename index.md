@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Teddy Bear Bee: An In-Depth Guide to *Amegilla bombiformis*, Australia's Fuzziest Native Pollinator](https://yacine-l.github.io/hot-info/2025/12/27/the-teddy-bear-bee-an-in-depth-guide-to-amegilla-bombiformis.html)
+
+
 - [** The Basket-Handle Arch: Depressed Geometry, Construction, and Architectural Legacy
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-basket-handle-arch-depressed-geometry-construction-and-a.html)
