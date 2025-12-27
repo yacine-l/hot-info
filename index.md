@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Forgotten Line: A History of Mundesley-on-Sea Railway Station and the Norfolk Coast Rail Boom](https://yacine-l.github.io/hot-info/2025/12/27/the-forgotten-line-a-history-of-mundesley-on-sea-railway-sta.html)
+
+
 - [The Guardian (1990 film)](https://yacine-l.github.io/hot-info/2025/12/27/the-guardian-1990-film.html)
 
 
