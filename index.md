@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Euprosthenops Australis: The Comprehensive Guide to the African Nursery-Web Spider](https://yacine-l.github.io/hot-info/2025/12/27/euprosthenops-australis-the-comprehensive-guide-to-the-afric.html)
+
+
 - [List of Sahitya Akademi Award winners for Kashmiri](https://yacine-l.github.io/hot-info/2025/12/27/list-of-sahitya-akademi-award-winners-for-kashmiri.html)
 
 
