@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Fred David: The Austrian Jew Who Designed Australia's WWII Airpower and Worked for Both Sides](https://yacine-l.github.io/hot-info/2025/12/27/fred-david-the-austrian-jew-who-designed-australias-wwii-air.html)
+
+
 - [Teeing Off on an Island Oasis: A Guide to the Jockey Club Kau Sai Chau Public Golf Course
 
 ##](https://yacine-l.github.io/hot-info/2025/12/27/teeing-off-on-an-island-oasis-a-guide-to-the-jockey-club-kau.html)
