@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Lucy Payton: The Forgotten Movie Queen of the Silent Film Era
+**](https://yacine-l.github.io/hot-info/2025/12/27/lucy-payton-the-forgotten-movie-queen-of-the-silent-film-era.html)
+
+
 - [Mons André: A Hidden Peak in the Lunar Geography of King Crater](https://yacine-l.github.io/hot-info/2025/12/27/mons-andr-a-hidden-peak-in-the-lunar-geography-of-king-crate.html)
 
 
