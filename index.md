@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Pride of Baton Rouge: A Deep Dive into Southern Jaguars Football History and SWAC Dominance](https://yacine-l.github.io/hot-info/2025/12/27/the-pride-of-baton-rouge-a-deep-dive-into-southern-jaguars-f.html)
+
+
 - [The Quartered Shield: Decoding the Coat of Arms of Saarland](https://yacine-l.github.io/hot-info/2025/12/27/the-quartered-shield-decoding-the-coat-of-arms-of-saarland.html)
 
 
