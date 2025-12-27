@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Legacy of Enrique Molina: Remembering the Icon of Cuban Film and Telenovelas](https://yacine-l.github.io/hot-info/2025/12/27/the-legacy-of-enrique-molina-remembering-the-icon-of-cuban-f.html)
+
+
 - [** Krewella’s "Live for the Night": Revisiting the Defining Anthem of the 2013 EDM Boom
 **](https://yacine-l.github.io/hot-info/2025/12/27/krewellas-live-for-the-night-revisiting-the-defining-anthem-.html)
 
