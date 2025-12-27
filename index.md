@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Unveiling Murichorda Jacobsoni: The Fascinating World of Deep-Sea Murex Snails](https://yacine-l.github.io/hot-info/2025/12/27/unveiling-murichorda-jacobsoni-the-fascinating-world-of-deep.html)
+
+
 - [The Aztec Calendar Explained: Unraveling the Secrets of the Tōnalpōhualli and Xiuhpōhualli](https://yacine-l.github.io/hot-info/2025/12/27/the-aztec-calendar-explained-unraveling-the-secrets-of-the-t.html)
 
 
