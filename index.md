@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Iqbal Quadir: The Visionary Who Connected the Bottom of the Pyramid with Grameenphone and MIT](https://yacine-l.github.io/hot-info/2025/12/27/iqbal-quadir-the-visionary-who-connected-the-bottom-of-the-p.html)
+
+
 - [Aster bellidiastrum: The Definitive Guide to the False Daisy Aster](https://yacine-l.github.io/hot-info/2025/12/27/aster-bellidiastrum-the-definitive-guide-to-the-false-daisy-.html)
 
 
