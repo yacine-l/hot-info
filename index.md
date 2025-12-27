@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Yoshio Station: The Ultimate Guide to Kumamoto’s Scenic, Unmanned Gem on the Hisatsu Line](https://yacine-l.github.io/hot-info/2025/12/27/yoshio-station-the-ultimate-guide-to-kumamotos-scenic-unmann.html)
+
+
 - [Vredesbyrd Decoded: Why Dimmu Borgir’s Second Single From Death Cult Armageddon Defined a Genre](https://yacine-l.github.io/hot-info/2025/12/27/vredesbyrd-decoded-why-dimmu-borgirs-second-single-from-deat.html)
 
 
