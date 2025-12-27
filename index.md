@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Wickmere Norfolk: Discovering the Charm and History of a Hidden North Norfolk Village
+**](https://yacine-l.github.io/hot-info/2025/12/27/wickmere-norfolk-discovering-the-charm-and-history-of-a-hidd.html)
+
+
 - [Allodium Township, Graham County, KS: Exploring the History and Heritage of Kansas’s Quiet Corners](https://yacine-l.github.io/hot-info/2025/12/27/allodium-township-graham-county-ks-exploring-the-history-and.html)
 
 
