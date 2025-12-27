@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Amalda lineata: Unraveling the Mystery of the Lined Deep-Sea Snail](https://yacine-l.github.io/hot-info/2025/12/27/amalda-lineata-unraveling-the-mystery-of-the-lined-deep-sea-.html)
+
+
 - [Crush, Kill, Destroy](https://yacine-l.github.io/hot-info/2025/12/27/crush-kill-destroy.html)
 
 
