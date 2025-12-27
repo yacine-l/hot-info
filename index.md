@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Maestro of the Midfield: Analyzing the Dynamic Career of Mohsen Mosalman](https://yacine-l.github.io/hot-info/2025/12/27/the-maestro-of-the-midfield-analyzing-the-dynamic-career-of-.html)
+
+
 - [Crowded House’s ‘I Like to Watch’: The Essential 1992 Video Collection and Why It’s Still a Collector’s Gem](https://yacine-l.github.io/hot-info/2025/12/27/crowded-houses-i-like-to-watch-the-essential-1992-video-coll.html)
 
 
