@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Nathan Drake Artist: Rediscovering the 18th-Century English Painter](https://yacine-l.github.io/hot-info/2025/12/27/nathan-drake-artist-rediscovering-the-18th-century-english-p.html)
+
+
 - [Yuji Kimura: The Experienced Midfield Engine Driving Kagoshima United FC in the J3 League](https://yacine-l.github.io/hot-info/2025/12/27/yuji-kimura-the-experienced-midfield-engine-driving-kagoshim.html)
 
 
