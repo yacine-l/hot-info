@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Farshid Esmaeili: Analyzing the Midfield Maestro’s Journey in Iranian Football
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/farshid-esmaeili-analyzing-the-midfield-maestros-journey-in-.html)
+
+
 - [** The Endurance Test: Remembering the Thrilling 1977 World 600 at Charlotte Motor Speedway
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-endurance-test-remembering-the-thrilling-1977-world-600-.html)
 
