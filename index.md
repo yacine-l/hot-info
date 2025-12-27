@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Oriol-en-Royans: Gateway to the Vercors and the Hidden Gems of the Drôme](https://yacine-l.github.io/hot-info/2025/12/27/oriol-en-royans-gateway-to-the-vercors-and-the-hidden-gems-o.html)
+
+
 - [Ralph Freed: The Lyricist Who Revolutionized Early Television](https://yacine-l.github.io/hot-info/2025/12/27/ralph-freed-the-lyricist-who-revolutionized-early-television.html)
 
 
