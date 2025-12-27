@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [2021 BWF World Championships: Loh Kean Yew’s Historic Upset in Huelva, Spain](https://yacine-l.github.io/hot-info/2025/12/27/2021-bwf-world-championships-loh-kean-yews-historic-upset-in.html)
+
+
 - [Prithipal Singh: The King of Penalty Corners and India’s Olympic Hockey Legend](https://yacine-l.github.io/hot-info/2025/12/27/prithipal-singh-the-king-of-penalty-corners-and-indias-olymp.html)
 
 
