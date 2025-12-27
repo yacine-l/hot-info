@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mermiria intertexta: A Deep Dive into the Eastern Mermiria Slant-Faced Grasshopper](https://yacine-l.github.io/hot-info/2025/12/27/mermiria-intertexta-a-deep-dive-into-the-eastern-mermiria-sl.html)
+
+
 - [** The Unsettling Magic of Moondial: Revisiting the Classic 1988 BBC Time-Slip Serial
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-unsettling-magic-of-moondial-revisiting-the-classic-1988.html)
