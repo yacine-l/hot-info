@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Power of Place: A Deep Dive into Blackburn with Darwen Borough Council](https://yacine-l.github.io/hot-info/2025/12/27/the-power-of-place-a-deep-dive-into-blackburn-with-darwen-bo.html)
+
+
 - [Kaitlyn Bristowe: From Bachelorette Controversy to Dancing with the Stars Champion – An Unstoppable Career Evolution](https://yacine-l.github.io/hot-info/2025/12/27/kaitlyn-bristowe-from-bachelorette-controversy-to-dancing-wi.html)
 
 
