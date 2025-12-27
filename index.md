@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Sheikh Ahmed Shathir: The Maldivian Scholar, Statesman, and Speaker of the People's Majlis
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/sheikh-ahmed-shathir-the-maldivian-scholar-statesman-and-spe.html)
+
+
 - [The Industrial Heart of Empire: Exploring the Historic Royal Navy Dockyards](https://yacine-l.github.io/hot-info/2025/12/27/the-industrial-heart-of-empire-exploring-the-historic-royal-.html)
 
 
