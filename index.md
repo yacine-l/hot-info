@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Arthur Wontner: The Quintessential Sherlock Holmes You Need to Rediscover](https://yacine-l.github.io/hot-info/2025/12/27/arthur-wontner-the-quintessential-sherlock-holmes-you-need-t.html)
+
+
 - [The Mejlis of the Crimean Tatar People: Guardians of Indigenous Self-Governance and European Memory](https://yacine-l.github.io/hot-info/2025/12/27/the-mejlis-of-the-crimean-tatar-people-guardians-of-indigeno.html)
 
 
