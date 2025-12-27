@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The December Dynasty: Revisiting the 1996 NCAA Men's Water Polo Championship](https://yacine-l.github.io/hot-info/2025/12/27/the-december-dynasty-revisiting-the-1996-ncaa-mens-water-pol.html)
+
+
 - [** Lynda Benglis: The Sculptor Who Poured, Twisted, and Challenged the Art World
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/lynda-benglis-the-sculptor-who-poured-twisted-and-challenged.html)
