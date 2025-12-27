@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Aviastroitelnaya Station: The Northern Gateway of the Kazan Metro and Its Vital Role](https://yacine-l.github.io/hot-info/2025/12/27/aviastroitelnaya-station-the-northern-gateway-of-the-kazan-m.html)
+
+
 - [Petr Hladík: Shaping Czech Environmental Policy and the KDU-ČSL Legacy](https://yacine-l.github.io/hot-info/2025/12/27/petr-hladk-shaping-czech-environmental-policy-and-the-kdu-sl.html)
 
 
