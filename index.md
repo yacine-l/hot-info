@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The End of Time: Exploring Julian Barbour’s Radical Proof That Time is an Illusion](https://yacine-l.github.io/hot-info/2025/12/27/the-end-of-time-exploring-julian-barbours-radical-proof-that.html)
+
+
 - [Jacob Marcaria and the Tridentine Press: A Chapter in 16th Century Jewish Printing History](https://yacine-l.github.io/hot-info/2025/12/27/jacob-marcaria-and-the-tridentine-press-a-chapter-in-16th-ce.html)
 
 
