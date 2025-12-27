@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enduring Spirit of the Anakie Roos: History, Community, and the Geelong & District Football League](https://yacine-l.github.io/hot-info/2025/12/27/the-enduring-spirit-of-the-anakie-roos-history-community-and.html)
+
+
 - [Take Another Picture](https://yacine-l.github.io/hot-info/2025/12/27/take-another-picture.html)
 
 
