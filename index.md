@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Johann von Salis-Seewis: The Rise of a Croatian General in the Austro-Hungarian Empire
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/johann-von-salis-seewis-the-rise-of-a-croatian-general-in-th.html)
+
+
 - [Constantin Levaditi: The Pioneer Who Decoded Syphilis and Polio Virology](https://yacine-l.github.io/hot-info/2025/12/27/constantin-levaditi-the-pioneer-who-decoded-syphilis-and-pol.html)
 
 
