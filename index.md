@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Redman’s Explosive Debut: How "Blow Your Mind" Defined the Funk-Laced Sound of 90s Hip Hop
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/redmans-explosive-debut-how-blow-your-mind-defined-the-funk-.html)
+
+
 - [** The Province of Enna: Exploring the Landlocked Heart and History of Sicily
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-province-of-enna-exploring-the-landlocked-heart-and-hist.html)
 
