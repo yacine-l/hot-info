@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Alma Mater Society of Queen's University: Canada's Oldest Student Government Since 1858](https://yacine-l.github.io/hot-info/2025/12/27/the-alma-mater-society-of-queens-university-canadas-oldest-s.html)
+
+
 - [Francis Wrangham: Archdeacon, Abolitionist, and the Forgotten Literary Colossus of the Regency Era](https://yacine-l.github.io/hot-info/2025/12/27/francis-wrangham-archdeacon-abolitionist-and-the-forgotten-l.html)
 
 
