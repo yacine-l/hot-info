@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Friedrich Theodor Vischer and the Malice of Things: Unpacking Die Tücke des Objekts
+
+##](https://yacine-l.github.io/hot-info/2025/12/27/friedrich-theodor-vischer-and-the-malice-of-things-unpacking.html)
+
+
 - [M-153 Ford Road: A Deep Dive into the Historic Heart of Metro Detroit's Commuter Corridor](https://yacine-l.github.io/hot-info/2025/12/27/m-153-ford-road-a-deep-dive-into-the-historic-heart-of-metro.html)
 
 
