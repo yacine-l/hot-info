@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Tommy Milone: The Remarkable MLB Career of Baseball’s Ultimate Journeyman Lefty](https://yacine-l.github.io/hot-info/2025/12/27/tommy-milone-the-remarkable-mlb-career-of-baseballs-ultimate.html)
+
+
 - [WDG-6G Angad Locomotive: Unlocking 6,000 HP on Indian Railways Freight Corridors](https://yacine-l.github.io/hot-info/2025/12/27/wdg-6g-angad-locomotive-unlocking-6000-hp-on-indian-railways.html)
 
 
