@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Katarovank Monastery: Unearthing the 17th-Century Gem of Nagorno-Karabakh's Ancient Faith
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/katarovank-monastery-unearthing-the-17th-century-gem-of-nago.html)
+
+
 - [** Mary Booze: The Unsung Pioneer Who Broke the RNC Barrier and Shaped American Politics
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/mary-booze-the-unsung-pioneer-who-broke-the-rnc-barrier-and-.html)
