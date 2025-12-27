@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Carl Hiaasen’s *Flush*: An In-Depth Look at the YA Novel Tackling Environmental Crime in Florida](https://yacine-l.github.io/hot-info/2025/12/27/carl-hiaasens-flush-an-in-depth-look-at-the-ya-novel-tacklin.html)
+
+
 - [Chlaenius tricolor: The Striking Metallic Ground Beetle Spanning North and Central America](https://yacine-l.github.io/hot-info/2025/12/27/chlaenius-tricolor-the-striking-metallic-ground-beetle-spann.html)
 
 
