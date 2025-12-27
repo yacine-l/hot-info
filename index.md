@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Discovering Place, New Hampshire: A Deep Dive into Farmington's Unincorporated Gem on NH Route 11](https://yacine-l.github.io/hot-info/2025/12/27/discovering-place-new-hampshire-a-deep-dive-into-farmingtons.html)
+
+
 - [** The Mysterious Strawberry Bug: A Deep Dive into *Euander lacertosus* of Australia
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-mysterious-strawberry-bug-a-deep-dive-into-euander-lacer.html)
 
