@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Silent Guardians of the Neva: A Deep Dive into the Quay with Sphinxes, Saint Petersburg](https://yacine-l.github.io/hot-info/2025/12/27/the-silent-guardians-of-the-neva-a-deep-dive-into-the-quay-w.html)
+
+
 - [Kothala Village, Kerala: Discovering Kottayam’s Hidden Gem on NH 220](https://yacine-l.github.io/hot-info/2025/12/27/kothala-village-kerala-discovering-kottayams-hidden-gem-on-n.html)
 
 
