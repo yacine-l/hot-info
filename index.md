@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Franchinus Gaffurius: The Master Theorist Who Defined Renaissance Music](https://yacine-l.github.io/hot-info/2025/12/27/franchinus-gaffurius-the-master-theorist-who-defined-renaiss.html)
+
+
 - [** Discovering Landimore Gower: Where Ancient History Meets the Wild Welsh Marsh
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/discovering-landimore-gower-where-ancient-history-meets-the-.html)
