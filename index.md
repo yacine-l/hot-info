@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Discover Kanal ob Soči: The Emerald Jewel of Slovenia’s Littoral Region](https://yacine-l.github.io/hot-info/2025/12/27/discover-kanal-ob-soi-the-emerald-jewel-of-slovenias-littora.html)
+
+
 - [Pia Beckmann: A Profile in Versatility – From Philologist to CSU Politician and Entrepreneur](https://yacine-l.github.io/hot-info/2025/12/27/pia-beckmann-a-profile-in-versatility-from-philologist-to-cs.html)
 
 
