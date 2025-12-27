@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Where the Telephone Began: A Deep Dive into the Bell Homestead National Historic Site](https://yacine-l.github.io/hot-info/2025/12/27/where-the-telephone-began-a-deep-dive-into-the-bell-homestea.html)
+
+
 - [Aktion kritischer Schüler:innen (AKS): Driving Social Justice and Reform in Austrian Education](https://yacine-l.github.io/hot-info/2025/12/27/aktion-kritischer-schlerinnen-aks-driving-social-justice-and.html)
 
 
