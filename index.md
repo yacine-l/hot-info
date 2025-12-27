@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Álvaro Damião: From Sports Journalist to the Mayoralty of Belo Horizonte – A Sudden Succession in Brazilian Politics
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/lvaro-damio-from-sports-journalist-to-the-mayoralty-of-belo-.html)
+
+
 - [The Curtain Falls Forever: Unpacking the Shocking History of Performers Who Died Onstage](https://yacine-l.github.io/hot-info/2025/12/27/the-curtain-falls-forever-unpacking-the-shocking-history-of-.html)
 
 
