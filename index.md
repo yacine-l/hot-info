@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Popești, Iași: Discovering the Enduring Heart of Western Moldavia](https://yacine-l.github.io/hot-info/2025/12/27/popeti-iai-discovering-the-enduring-heart-of-western-moldavi.html)
+
+
 - [Talkin' Loud: How Gilles Peterson’s Legendary Label Defined the Sound of 90s UK Music](https://yacine-l.github.io/hot-info/2025/12/27/talkin-loud-how-gilles-petersons-legendary-label-defined-the.html)
 
 
