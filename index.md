@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Masoud Shojaei: The Versatile Legend Who Defined Iranian Football](https://yacine-l.github.io/hot-info/2025/12/27/masoud-shojaei-the-versatile-legend-who-defined-iranian-foot.html)
+
+
 - [Zhang Yi and the Art of Deception: How the Master Diplomat of the Warring States Period Unified China](https://yacine-l.github.io/hot-info/2025/12/27/zhang-yi-and-the-art-of-deception-how-the-master-diplomat-of.html)
 
 
