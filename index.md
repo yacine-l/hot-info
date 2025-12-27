@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Júlia Usón: Celebrating the Career of Spain’s Rhythmic Gymnastics Icon
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/jlia-usn-celebrating-the-career-of-spains-rhythmic-gymnastic.html)
+
+
 - [Maggie Porter Cole: The Unforgettable Soprano Who Saved Fisk University and Pioneered American Music](https://yacine-l.github.io/hot-info/2025/12/27/maggie-porter-cole-the-unforgettable-soprano-who-saved-fisk-.html)
 
 
