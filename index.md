@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mandu Assembly Constituency: A Deep Dive into Jharkhand's Key Electoral Battleground](https://yacine-l.github.io/hot-info/2025/12/27/mandu-assembly-constituency-a-deep-dive-into-jharkhands-key-.html)
+
+
 - [The Complete Guide to Milford Station CT: Metro-North, Shore Line East, and Coastal Connectivity](https://yacine-l.github.io/hot-info/2025/12/27/the-complete-guide-to-milford-station-ct-metro-north-shore-l.html)
 
 
