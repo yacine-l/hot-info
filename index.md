@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** John Medeski’s *A Different Time*: Unlocking the Soul of the 1924 Gaveau Piano
+
+## **](https://yacine-l.github.io/hot-info/2025/12/27/john-medeskis-a-different-time-unlocking-the-soul-of-the-192.html)
+
+
 - [** Renée Geyer's *Renéessance*: Revisiting the Soulful Classics of an Australian Legend
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/rene-geyers-renessance-revisiting-the-soulful-classics-of-an.html)
