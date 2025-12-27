@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Siege of Sidney Street 1911: How Winston Churchill Sent the Army to Fight Anarchists in London
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-siege-of-sidney-street-1911-how-winston-churchill-sent-t.html)
+
+
 - [William Wordsworth: The Father of English Romanticism and the Legacy of Lyrical Ballads](https://yacine-l.github.io/hot-info/2025/12/27/william-wordsworth-the-father-of-english-romanticism-and-the.html)
 
 
