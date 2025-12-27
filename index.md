@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Dominating the Diamond: The Nova Southeastern Sharks Softball Legacy in the Sunshine State Conference](https://yacine-l.github.io/hot-info/2025/12/27/dominating-the-diamond-the-nova-southeastern-sharks-softball.html)
+
+
 - [Discover the Mordecai House: Raleigh's Oldest Residence and Historic Park Guide](https://yacine-l.github.io/hot-info/2025/12/27/discover-the-mordecai-house-raleighs-oldest-residence-and-hi.html)
 
 
