@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Fabritio Caroso: The Renaissance Dance Master Who Wrote the Book on Courtly Grace
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/fabritio-caroso-the-renaissance-dance-master-who-wrote-the-b.html)
+
+
 - [** Andrejs Žagars: The Visionary Director Who Transformed the Latvian National Opera
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/andrejs-agars-the-visionary-director-who-transformed-the-lat.html)
