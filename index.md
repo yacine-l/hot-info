@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Story Behind "We'll Burn That Bridge": Brooks & Dunn's Iconic #2 Hit and the Reign of 90s Country
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-story-behind-well-burn-that-bridge-brooks-dunns-iconic-2.html)
+
+
 - [Lafoensia: Exploring the Majestic, Often-Overlooked Trees of the Lythraceae Family](https://yacine-l.github.io/hot-info/2025/12/27/lafoensia-exploring-the-majestic-often-overlooked-trees-of-t.html)
 
 
