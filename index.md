@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Tragic Fate of Hesya Helfman: Jewish Revolutionary and the Assassination of Tsar Alexander II](https://yacine-l.github.io/hot-info/2025/12/27/the-tragic-fate-of-hesya-helfman-jewish-revolutionary-and-th.html)
+
+
 - [Apache NuttX RTOS: Why This Scalable, POSIX-Compliant OS is Leading the Embedded Revolution](https://yacine-l.github.io/hot-info/2025/12/27/apache-nuttx-rtos-why-this-scalable-posix-compliant-os-is-le.html)
 
 
