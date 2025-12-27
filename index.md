@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Uncovering the History of the Woodland Hotel: An Owen, Wisconsin Treasure on the National Register](https://yacine-l.github.io/hot-info/2025/12/27/uncovering-the-history-of-the-woodland-hotel-an-owen-wiscons.html)
+
+
 - [The Complete Danko Jones Discography: 12 Studio Albums of Hard Rock Fury](https://yacine-l.github.io/hot-info/2025/12/27/the-complete-danko-jones-discography-12-studio-albums-of-har.html)
 
 
