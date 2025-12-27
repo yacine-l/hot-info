@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Hovrätt: Understanding the Courts of Appeal in Sweden and Finland](https://yacine-l.github.io/hot-info/2025/12/27/hovrtt-understanding-the-courts-of-appeal-in-sweden-and-finl.html)
+
+
 - [18th Division (United States)](https://yacine-l.github.io/hot-info/2025/12/27/18th-division-united-states.html)
 
 
