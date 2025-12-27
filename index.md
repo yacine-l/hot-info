@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Alexander Lake Alaska: A Comprehensive Guide to Southcentral Alaska’s Remote Wilderness Jewel
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/alexander-lake-alaska-a-comprehensive-guide-to-southcentral-.html)
+
+
 - [Sanada Masayuki: The Fox of Shinano and Master Strategist of the Sengoku Era](https://yacine-l.github.io/hot-info/2025/12/27/sanada-masayuki-the-fox-of-shinano-and-master-strategist-of-.html)
 
 
