@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mabrouka Mbarek: The Academic Who Shaped Tunisia’s Post-Revolutionary Constitution](https://yacine-l.github.io/hot-info/2025/12/27/mabrouka-mbarek-the-academic-who-shaped-tunisias-post-revolu.html)
+
+
 - [** Graphium choredon: Unveiling the Enigma of the African Blue-Spotted Swallowtail
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/graphium-choredon-unveiling-the-enigma-of-the-african-blue-s.html)
