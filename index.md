@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Adam Loewen](https://yacine-l.github.io/hot-info/2025/12/27/adam-loewen.html)
+
+
 - [Jan Jones Georgia: The Political Legacy of the Speaker Pro Tempore and District 47 Representative](https://yacine-l.github.io/hot-info/2025/12/27/jan-jones-georgia-the-political-legacy-of-the-speaker-pro-te.html)
 
 
