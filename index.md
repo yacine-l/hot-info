@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Renaissance Polymath You Should Know: Claude Duret, Judge, Botanist, and Master of History](https://yacine-l.github.io/hot-info/2025/12/27/the-renaissance-polymath-you-should-know-claude-duret-judge-.html)
+
+
 - [The Australian Minister for Finance: Understanding the Critical Role in Government Expenditure and Fiscal Management](https://yacine-l.github.io/hot-info/2025/12/27/the-australian-minister-for-finance-understanding-the-critic.html)
 
 
