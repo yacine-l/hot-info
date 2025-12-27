@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Eisengarn: The Secret History of the Waxed Fabric That Defined Bauhaus Furniture](https://yacine-l.github.io/hot-info/2025/12/27/eisengarn-the-secret-history-of-the-waxed-fabric-that-define.html)
+
+
 - [Frederick County, Virginia](https://yacine-l.github.io/hot-info/2025/12/27/frederick-county-virginia.html)
 
 
