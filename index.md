@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Set Your Goals' *Mutiny!* (2006): The Hardcore Debut That Rewrote the Melodic Rulebook](https://yacine-l.github.io/hot-info/2025/12/27/set-your-goals-mutiny-2006-the-hardcore-debut-that-rewrote-t.html)
+
+
 - [The Enduring Legacy of Doob: Why Arnob's Third Album is a Masterpiece of Bangladeshi Indie Music](https://yacine-l.github.io/hot-info/2025/12/27/the-enduring-legacy-of-doob-why-arnobs-third-album-is-a-mast.html)
 
 
