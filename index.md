@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [La Puta y el Diablo: How Hamlet’s Ninth Album Forged the Sound of Modern Spanish Groove Metal](https://yacine-l.github.io/hot-info/2025/12/27/la-puta-y-el-diablo-how-hamlets-ninth-album-forged-the-sound.html)
+
+
 - [Travis Leslie: The High-Flying Journey of a UGA Star and Global Basketball Professional](https://yacine-l.github.io/hot-info/2025/12/27/travis-leslie-the-high-flying-journey-of-a-uga-star-and-glob.html)
 
 
