@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Bodolz: Discovering the Idyllic Gateway to Lake Constance and the Bavarian Alps](https://yacine-l.github.io/hot-info/2025/12/27/bodolz-discovering-the-idyllic-gateway-to-lake-constance-and.html)
+
+
 - [Elp, Drenthe: Your Guide to Exploring the Tranquil Heart of Midden-Drenthe](https://yacine-l.github.io/hot-info/2025/12/27/elp-drenthe-your-guide-to-exploring-the-tranquil-heart-of-mi.html)
 
 
