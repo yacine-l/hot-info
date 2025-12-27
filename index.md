@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Unraveling the Gudastviri: The Soulful, Droneless Double-Chanter Bagpipe of Georgia
+**](https://yacine-l.github.io/hot-info/2025/12/27/unraveling-the-gudastviri-the-soulful-droneless-double-chant.html)
+
+
 - [Unearthing History: The Magnificent Klimova Treasure and the Perm Silver Hoards](https://yacine-l.github.io/hot-info/2025/12/27/unearthing-history-the-magnificent-klimova-treasure-and-the-.html)
 
 
