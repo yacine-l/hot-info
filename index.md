@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [7-Deoxyloganic Acid: Unveiling the Pivotal Intermediate in Iridoid Monoterpene Biosynthesis](https://yacine-l.github.io/hot-info/2025/12/27/7-deoxyloganic-acid-unveiling-the-pivotal-intermediate-in-ir.html)
+
+
 - [Unpacking the Beat: Ismael Sankara, Gabonese Hip-Hop, and the Revolutionary Film "The Rhythm of My Life"](https://yacine-l.github.io/hot-info/2025/12/27/unpacking-the-beat-ismael-sankara-gabonese-hip-hop-and-the-r.html)
 
 
