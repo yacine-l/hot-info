@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Discover the Newkirk House: Jersey City’s Oldest Surviving Landmark, Built 1690](https://yacine-l.github.io/hot-info/2025/12/27/discover-the-newkirk-house-jersey-citys-oldest-surviving-lan.html)
+
+
 - [** Katarovank Monastery: Unearthing the 17th-Century Gem of Nagorno-Karabakh's Ancient Faith
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/katarovank-monastery-unearthing-the-17th-century-gem-of-nago.html)
