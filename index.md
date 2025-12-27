@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Architect of Modern Sacramento Law: The Enduring Legacy of Judge Elijah Carson Hart (E.C. Hart)](https://yacine-l.github.io/hot-info/2025/12/27/the-architect-of-modern-sacramento-law-the-enduring-legacy-o.html)
+
+
 - [China Southern Power Grid (CSG): Powering China’s Five Southern Provinces](https://yacine-l.github.io/hot-info/2025/12/27/china-southern-power-grid-csg-powering-chinas-five-southern-.html)
 
 
