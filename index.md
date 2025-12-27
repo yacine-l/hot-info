@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Bernard Park (Nakjoon): Analyzing the Soulful Journey of the K-pop Star 3 Winner](https://yacine-l.github.io/hot-info/2025/12/27/bernard-park-nakjoon-analyzing-the-soulful-journey-of-the-k-.html)
+
+
 - [Knut Abraham MdB: From Diplomat to Foreign Policy Voice in the German Bundestag](https://yacine-l.github.io/hot-info/2025/12/27/knut-abraham-mdb-from-diplomat-to-foreign-policy-voice-in-th.html)
 
 
