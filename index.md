@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Book of Travels: Why This 'Tiny Multiplayer RPG' is the Cozy Anti-MMO We Needed
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/book-of-travels-why-this-tiny-multiplayer-rpg-is-the-cozy-an.html)
+
+
 - [So Saal Baad (1966): Revisiting Feroz Khan’s Pivotal Early Film](https://yacine-l.github.io/hot-info/2025/12/27/so-saal-baad-1966-revisiting-feroz-khans-pivotal-early-film.html)
 
 
