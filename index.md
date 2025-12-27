@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mastering the Joint Probability Distribution: The Key to Multivariate Analysis](https://yacine-l.github.io/hot-info/2025/12/27/mastering-the-joint-probability-distribution-the-key-to-mult.html)
+
+
 - [Jack Elrod: The Dedicated Cartoonist Who Defined Mark Trail for a Generation](https://yacine-l.github.io/hot-info/2025/12/27/jack-elrod-the-dedicated-cartoonist-who-defined-mark-trail-f.html)
 
 
