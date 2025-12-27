@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Grand Metropole Hotel Blackpool: A History of the Shoreline’s Oldest Landmark](https://yacine-l.github.io/hot-info/2025/12/27/the-grand-metropole-hotel-blackpool-a-history-of-the-shoreli.html)
+
+
 - [Brooklyn Decker](https://yacine-l.github.io/hot-info/2025/12/27/brooklyn-decker.html)
 
 
