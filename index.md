@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Kinkeliba Tea: Exploring *Combretum micranthum*, West Africa's Sacred Detox Brew
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/kinkeliba-tea-exploring-combretum-micranthum-west-africas-sa.html)
+
+
 - [The First Restoration: How Louis XVIII Reclaimed the Throne of France (1814-1815)](https://yacine-l.github.io/hot-info/2025/12/27/the-first-restoration-how-louis-xviii-reclaimed-the-throne-o.html)
 
 
