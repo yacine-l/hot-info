@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Íñigo Vélez de Guevara: The Double-Edged Sword of Spanish Diplomacy and the Fall of the Golden Age
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/igo-vlez-de-guevara-the-double-edged-sword-of-spanish-diplom.html)
+
+
 - [Mustafa Atici: The Journey from Turkish Immigrant to Executive Council Member of Basel-Stadt](https://yacine-l.github.io/hot-info/2025/12/27/mustafa-atici-the-journey-from-turkish-immigrant-to-executiv.html)
 
 
