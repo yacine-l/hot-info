@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Unsung Workhorse: Detailing the Brief but Vital Service of the USS Alexander H. Erickson (SP-2298)](https://yacine-l.github.io/hot-info/2025/12/27/the-unsung-workhorse-detailing-the-brief-but-vital-service-o.html)
+
+
 - [** Glycin Photographic Developer: Understanding N-(4-Hydroxyphenyl)glycine in Classic Black-and-White Chemistry
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/glycin-photographic-developer-understanding-n-4-hydroxypheny.html)
