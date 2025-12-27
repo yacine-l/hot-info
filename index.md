@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enduring Legacy of Doob: Why Arnob's Third Album is a Masterpiece of Bangladeshi Indie Music](https://yacine-l.github.io/hot-info/2025/12/27/the-enduring-legacy-of-doob-why-arnobs-third-album-is-a-mast.html)
+
+
 - [Akkur, Tirumakudal Narsipur: A Deep Dive into Rural Karnataka's Hidden Gem](https://yacine-l.github.io/hot-info/2025/12/27/akkur-tirumakudal-narsipur-a-deep-dive-into-rural-karnatakas.html)
 
 
