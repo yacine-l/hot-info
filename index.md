@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The State Museum of Zoology Dresden: Unlocking 6 Million Specimens of Natural History
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-state-museum-of-zoology-dresden-unlocking-6-million-spec.html)
+
+
 - [** Unearthing the Lost Porta Cornelia: The History of Rome's Forgotten Gate Near the Vatican
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/unearthing-the-lost-porta-cornelia-the-history-of-romes-forg.html)
