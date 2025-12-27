@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Unforgettable Run: Breaking Down the 2017 Akron Zips Football Team’s MAC East Championship Season](https://yacine-l.github.io/hot-info/2025/12/27/the-unforgettable-run-breaking-down-the-2017-akron-zips-foot.html)
+
+
 - [Duris, Lebanon: Unearthing Roman Tombs and a 13th-Century Shrine Near Baalbek](https://yacine-l.github.io/hot-info/2025/12/27/duris-lebanon-unearthing-roman-tombs-and-a-13th-century-shri.html)
 
 
