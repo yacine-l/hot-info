@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Flakstadøya: Exploring the Heart of Lofoten Where the Fjord Meets the Open Sea
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/flakstadya-exploring-the-heart-of-lofoten-where-the-fjord-me.html)
+
+
 - [** Júlia Usón: Celebrating the Career of Spain’s Rhythmic Gymnastics Icon
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/jlia-usn-celebrating-the-career-of-spains-rhythmic-gymnastic.html)
