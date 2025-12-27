@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Need for Speed: Remembering Record Breakers – Hasbro’s Lost World of Mini 4WD Racing](https://yacine-l.github.io/hot-info/2025/12/27/the-need-for-speed-remembering-record-breakers-hasbros-lost-.html)
+
+
 - [Abraham J. Multer](https://yacine-l.github.io/hot-info/2025/12/27/abraham-j-multer.html)
 
 
