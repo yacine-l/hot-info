@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Ross Finnie: A Deep Dive into the Founding Minister for Environment and Rural Development in the Scottish Parliament
+**](https://yacine-l.github.io/hot-info/2025/12/27/ross-finnie-a-deep-dive-into-the-founding-minister-for-envir.html)
+
+
 - [** Messigny-et-Vantoux: Exploring the History and Charm of Côte-d'Or's Dual Commune
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/messigny-et-vantoux-exploring-the-history-and-charm-of-cte-d.html)
