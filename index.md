@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Bernard Dowiyogo: The Seven-Time President Who Defined Nauruan Politics](https://yacine-l.github.io/hot-info/2025/12/27/bernard-dowiyogo-the-seven-time-president-who-defined-naurua.html)
+
+
 - [Park Jin-seong](https://yacine-l.github.io/hot-info/2025/12/27/park-jin-seong.html)
 
 
