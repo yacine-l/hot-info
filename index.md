@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Knut Abraham MdB: From Diplomat to Foreign Policy Voice in the German Bundestag](https://yacine-l.github.io/hot-info/2025/12/27/knut-abraham-mdb-from-diplomat-to-foreign-policy-voice-in-th.html)
+
+
 - [The Unfinished Story: Analyzing the Momentum of the 2019–20 FIU Panthers Men’s Basketball Season](https://yacine-l.github.io/hot-info/2025/12/27/the-unfinished-story-analyzing-the-momentum-of-the-201920-fi.html)
 
 
