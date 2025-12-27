@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Ultimate Guide to Fort Carson: PCSing, History, and Life in Colorado Springs](https://yacine-l.github.io/hot-info/2025/12/27/the-ultimate-guide-to-fort-carson-pcsing-history-and-life-in.html)
+
+
 - [** John Bardeen: The Only Person to Win the Nobel Prize in Physics Twice – A Legacy of Modern Technology
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/john-bardeen-the-only-person-to-win-the-nobel-prize-in-physi.html)
