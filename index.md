@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Vijay Merchant: The Domestic Titan Whose 71.64 Average Rivals Don Bradman](https://yacine-l.github.io/hot-info/2025/12/27/vijay-merchant-the-domestic-titan-whose-7164-average-rivals-.html)
+
+
 - [The Myograph Explained: How We Measure the Force and Velocity of Muscular Contraction](https://yacine-l.github.io/hot-info/2025/12/27/the-myograph-explained-how-we-measure-the-force-and-velocity.html)
 
 
