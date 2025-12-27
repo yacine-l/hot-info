@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Blue Diamond Affair: How a $20 Million Jewel Heist Froze Saudi-Thai Relations for 30 Years](https://yacine-l.github.io/hot-info/2025/12/27/the-blue-diamond-affair-how-a-20-million-jewel-heist-froze-s.html)
+
+
 - [CITIC Capital: The Powerhouse Driving Chinese Alternative Investment and Global Private Equity](https://yacine-l.github.io/hot-info/2025/12/27/citic-capital-the-powerhouse-driving-chinese-alternative-inv.html)
 
 
