@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Silent Sentinel: A 37-Year Retrospective on the USS Chicago (SSN-721)](https://yacine-l.github.io/hot-info/2025/12/27/the-silent-sentinel-a-37-year-retrospective-on-the-uss-chica.html)
+
+
 - [Scarborough Beach Bus Station: Your Comprehensive Guide to Transperth Routes and Coastal Travel](https://yacine-l.github.io/hot-info/2025/12/27/scarborough-beach-bus-station-your-comprehensive-guide-to-tr.html)
 
 
