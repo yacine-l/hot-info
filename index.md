@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Horatio Gates: The Quiet Architect of Canadian Finance and the Third President of the Bank of Montreal
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/horatio-gates-the-quiet-architect-of-canadian-finance-and-th.html)
+
+
 - [Julian Cope’s Act of Defiance: Unpacking The Jehovahcoat Demos (1993-2011)](https://yacine-l.github.io/hot-info/2025/12/27/julian-copes-act-of-defiance-unpacking-the-jehovahcoat-demos.html)
 
 
