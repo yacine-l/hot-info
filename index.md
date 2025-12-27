@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Karl Alexander, 5th Prince of Thurn and Taxis: The Postmaster Who Saved an Empire's Legacy (1805–1827)](https://yacine-l.github.io/hot-info/2025/12/27/karl-alexander-5th-prince-of-thurn-and-taxis-the-postmaster-.html)
+
+
 - [Vysoká in Bruntál District: Exploring the Quiet Heart of the Moravian-Silesian Region](https://yacine-l.github.io/hot-info/2025/12/27/vysok-in-bruntl-district-exploring-the-quiet-heart-of-the-mo.html)
 
 
