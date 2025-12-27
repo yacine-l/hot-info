@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Exploring McPhillips: History, Boundaries, and Political Landscape of the Manitoba Electoral District
+**](https://yacine-l.github.io/hot-info/2025/12/27/exploring-mcphillips-history-boundaries-and-political-landsc.html)
+
+
 - [Where the Telephone Began: A Deep Dive into the Bell Homestead National Historic Site](https://yacine-l.github.io/hot-info/2025/12/27/where-the-telephone-began-a-deep-dive-into-the-bell-homestea.html)
 
 
