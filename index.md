@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Southern Federal University (SFedU): Exploring the Academic Powerhouse of Southern Russia](https://yacine-l.github.io/hot-info/2025/12/27/southern-federal-university-sfedu-exploring-the-academic-pow.html)
+
+
 - [Renqiu, Hebei: Gateway to the North China Oil Field and Historical Crossroads](https://yacine-l.github.io/hot-info/2025/12/27/renqiu-hebei-gateway-to-the-north-china-oil-field-and-histor.html)
 
 
