@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Ethel McGhee Davis: Pioneering Educator and Dean of Women at Spelman College](https://yacine-l.github.io/hot-info/2025/12/27/ethel-mcghee-davis-pioneering-educator-and-dean-of-women-at-.html)
+
+
 - [** Bargersville, Indiana: A Comprehensive Guide to Living in Johnson County's Fastest-Growing Town
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/bargersville-indiana-a-comprehensive-guide-to-living-in-john.html)
