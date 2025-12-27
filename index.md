@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Politics of Goodness: Deconstructing Adam Thirlwell’s 2003 Novel](https://yacine-l.github.io/hot-info/2025/12/27/the-politics-of-goodness-deconstructing-adam-thirlwells-2003.html)
+
+
 - [Yanni Dare to Dream Album: The 1992 Masterpiece That Defined New Age Music](https://yacine-l.github.io/hot-info/2025/12/27/yanni-dare-to-dream-album-the-1992-masterpiece-that-defined-.html)
 
 
