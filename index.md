@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Milton Viera: Unearthing the Legacy of the Uruguayan Midfielder Selected for the 1975 World XI
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/milton-viera-unearthing-the-legacy-of-the-uruguayan-midfield.html)
+
+
 - [Eitan Kramer](https://yacine-l.github.io/hot-info/2025/12/27/eitan-kramer.html)
 
 
