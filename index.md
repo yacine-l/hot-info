@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Acteon scrobiculatus: Unearthing the Secrets of an Extinct Eocene Sea Snail](https://yacine-l.github.io/hot-info/2025/12/27/acteon-scrobiculatus-unearthing-the-secrets-of-an-extinct-eo.html)
+
+
 - [The History of the Rainbow Motorcycle Club: Bikes, Brotherhood, and the Birth of the Bear Subculture](https://yacine-l.github.io/hot-info/2025/12/27/the-history-of-the-rainbow-motorcycle-club-bikes-brotherhood.html)
 
 
