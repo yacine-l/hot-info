@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Crowded House’s ‘I Like to Watch’: The Essential 1992 Video Collection and Why It’s Still a Collector’s Gem](https://yacine-l.github.io/hot-info/2025/12/27/crowded-houses-i-like-to-watch-the-essential-1992-video-coll.html)
+
+
 - [Fremont University: Career-Focused Education for Working Adults in Cerritos, CA](https://yacine-l.github.io/hot-info/2025/12/27/fremont-university-career-focused-education-for-working-adul.html)
 
 
