@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Jung Joon-won: An In-Depth Look at the Rising Star of Korean Drama and Resident Playbook](https://yacine-l.github.io/hot-info/2025/12/27/jung-joon-won-an-in-depth-look-at-the-rising-star-of-korean-.html)
+
+
 - [Liberia at the 1980 Summer Olympics](https://yacine-l.github.io/hot-info/2025/12/27/liberia-at-the-1980-summer-olympics.html)
 
 
