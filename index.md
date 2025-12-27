@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Major General Kenneth P. Ekman: Architect of US Strategy in Africa and DoD Coordination Lead](https://yacine-l.github.io/hot-info/2025/12/27/major-general-kenneth-p-ekman-architect-of-us-strategy-in-af.html)
+
+
 - [The AN/APG-81: Unlocking the F-35’s Dominance with Advanced AESA Radar Technology](https://yacine-l.github.io/hot-info/2025/12/27/the-anapg-81-unlocking-the-f-35s-dominance-with-advanced-aes.html)
 
 
