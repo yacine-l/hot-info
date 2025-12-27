@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Nine-Year Experiment: The Rise and Fall of Lakeland County, Alberta (1998-2007)](https://yacine-l.github.io/hot-info/2025/12/27/the-nine-year-experiment-the-rise-and-fall-of-lakeland-count.html)
+
+
 - [Discovering St. George's Church Caransebeș: A Pillar of Orthodox Faith and Banat History](https://yacine-l.github.io/hot-info/2025/12/27/discovering-st-georges-church-caransebe-a-pillar-of-orthodox.html)
 
 
