@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Evolution of Daniel Sousa: From SSR Agent to S.H.I.E.L.D. Legend in the MCU](https://yacine-l.github.io/hot-info/2025/12/27/the-evolution-of-daniel-sousa-from-ssr-agent-to-shield-legen.html)
+
+
 - [** Saint Mary’s Chapel, Carle Place: A Timeless Look at Nassau County’s Historic Episcopal Landmark
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/saint-marys-chapel-carle-place-a-timeless-look-at-nassau-cou.html)
