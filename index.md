@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Next Generation of Tank Warfare: Why ‘War in the Gulf’ is the Ultimate Modern Wargame](https://yacine-l.github.io/hot-info/2025/12/27/the-next-generation-of-tank-warfare-why-war-in-the-gulf-is-t.html)
+
+
 - [Walter Krüger: The Life and Command of an SS General on the Eastern Front](https://yacine-l.github.io/hot-info/2025/12/27/walter-krger-the-life-and-command-of-an-ss-general-on-the-ea.html)
 
 
