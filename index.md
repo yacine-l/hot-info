@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Susan Aglukark: The Inuit Singer Who Blended Folk and Pop to Become a Canadian Music Legend
+
+###](https://yacine-l.github.io/hot-info/2025/12/27/susan-aglukark-the-inuit-singer-who-blended-folk-and-pop-to-.html)
+
+
 - [Jewel of the Plains: Exploring the History and Architecture of the Cheyenne County Courthouse, Colorado](https://yacine-l.github.io/hot-info/2025/12/27/jewel-of-the-plains-exploring-the-history-and-architecture-o.html)
 
 
