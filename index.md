@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [CITIC Capital: The Powerhouse Driving Chinese Alternative Investment and Global Private Equity](https://yacine-l.github.io/hot-info/2025/12/27/citic-capital-the-powerhouse-driving-chinese-alternative-inv.html)
+
+
 - [The Under Secretary of Defense for Policy (USDP): Architect of America's Global Strategy](https://yacine-l.github.io/hot-info/2025/12/27/the-under-secretary-of-defense-for-policy-usdp-architect-of-.html)
 
 
