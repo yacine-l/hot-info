@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Pia Beckmann: A Profile in Versatility – From Philologist to CSU Politician and Entrepreneur](https://yacine-l.github.io/hot-info/2025/12/27/pia-beckmann-a-profile-in-versatility-from-philologist-to-cs.html)
+
+
 - [Super Furry Animals’ "Play It Cool": Analyzing the Essential Third Single from the *Radiator* Album](https://yacine-l.github.io/hot-info/2025/12/27/super-furry-animals-play-it-cool-analyzing-the-essential-thi.html)
 
 
