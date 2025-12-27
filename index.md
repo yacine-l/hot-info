@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Ultimate Guide to Longboards: History, Types, and How to Choose Your Perfect Ride](https://yacine-l.github.io/hot-info/2025/12/27/the-ultimate-guide-to-longboards-history-types-and-how-to-ch.html)
+
+
 - [Thomas Clifford, 1st Baron Clifford of Chudleigh](https://yacine-l.github.io/hot-info/2025/12/27/thomas-clifford-1st-baron-clifford-of-chudleigh.html)
 
 
