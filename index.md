@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Sinking of USS Housatonic: How the H.L. Hunley Launched Submarine Warfare History
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-sinking-of-uss-housatonic-how-the-hl-hunley-launched-sub.html)
+
+
 - [** The Secret Jewel of Rensselaer County: Exploring the History and Geography of Spring Lake
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-secret-jewel-of-rensselaer-county-exploring-the-history-.html)
