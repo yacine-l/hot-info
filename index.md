@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Saint Amator of Auxerre: The Fourth-Century Bishop and His Legacy on May 1st](https://yacine-l.github.io/hot-info/2025/12/27/saint-amator-of-auxerre-the-fourth-century-bishop-and-his-le.html)
+
+
 - [Hyles robertsi: Unraveling the Mystery of the Central Asian Spurge Hawkmoth](https://yacine-l.github.io/hot-info/2025/12/27/hyles-robertsi-unraveling-the-mystery-of-the-central-asian-s.html)
 
 
