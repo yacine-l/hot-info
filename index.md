@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Ancient Order of Consecrated Virgins: What is the *Ordo Virginum*?
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-ancient-order-of-consecrated-virgins-what-is-the-ordo-vi.html)
+
+
 - [Harriet Newell: The Story of the First American Missionary to Die in Foreign Service](https://yacine-l.github.io/hot-info/2025/12/27/harriet-newell-the-story-of-the-first-american-missionary-to.html)
 
 
