@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Savage Garden’s “Hold Me”: Analyzing the Emotional Core of the Affirmation Era](https://yacine-l.github.io/hot-info/2025/12/27/savage-gardens-hold-me-analyzing-the-emotional-core-of-the-a.html)
+
+
 - [John Wright's 'Nice 'n' Tasty': The 1960 Prestige Jazz Masterpiece](https://yacine-l.github.io/hot-info/2025/12/27/john-wrights-nice-n-tasty-the-1960-prestige-jazz-masterpiece.html)
 
 
