@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Bulbophyllum evasum: A Deep Dive into the Creeping Brittle Orchid of North Queensland
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/bulbophyllum-evasum-a-deep-dive-into-the-creeping-brittle-or.html)
+
+
 - [Heather Podesta: Architect of Invariant, Power Broker, and Visionary Art Collector](https://yacine-l.github.io/hot-info/2025/12/27/heather-podesta-architect-of-invariant-power-broker-and-visi.html)
 
 
