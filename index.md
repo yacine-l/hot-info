@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Quindocqua United Methodist Church: A Deep Dive into Somerset County’s 1913 Architectural Gem
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/quindocqua-united-methodist-church-a-deep-dive-into-somerset.html)
+
+
 - [Ulrich Stranz](https://yacine-l.github.io/hot-info/2025/12/27/ulrich-stranz.html)
 
 
