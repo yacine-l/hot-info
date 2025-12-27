@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Machine Girl: Why Noboru Iguchi’s Splatterpunk Revenge Epic is a Cult Classic
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-machine-girl-why-noboru-iguchis-splatterpunk-revenge-epi.html)
+
+
 - [** Mastering Network Efficiency: A Deep Dive into the Graph Center and Graph Radius
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/mastering-network-efficiency-a-deep-dive-into-the-graph-cent.html)
