@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [John Wright's 'Nice 'n' Tasty': The 1960 Prestige Jazz Masterpiece](https://yacine-l.github.io/hot-info/2025/12/27/john-wrights-nice-n-tasty-the-1960-prestige-jazz-masterpiece.html)
+
+
 - [Mongolia's Breakthrough in Tehran: A Deep Dive into the 1974 Asian Games Success](https://yacine-l.github.io/hot-info/2025/12/27/mongolias-breakthrough-in-tehran-a-deep-dive-into-the-1974-a.html)
 
 
