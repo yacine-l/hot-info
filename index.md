@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Getafe Central Madrid Metro: The Essential Guide to Line 12, MetroSur, and Seamless Cercanías Connectivity](https://yacine-l.github.io/hot-info/2025/12/27/getafe-central-madrid-metro-the-essential-guide-to-line-12-m.html)
+
+
 - [Memerambi Queensland: Unearthing the Quiet Charm of the South Burnett Heartland](https://yacine-l.github.io/hot-info/2025/12/27/memerambi-queensland-unearthing-the-quiet-charm-of-the-south.html)
 
 
