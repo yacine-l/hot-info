@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Robert Menzies: Architect of Modern Australia and the Longest-Serving Prime Minister](https://yacine-l.github.io/hot-info/2025/12/27/robert-menzies-architect-of-modern-australia-and-the-longest.html)
+
+
 - [** The Federalist Fire: Revolts Against the Centralist Republic of Mexico (1835–1846)
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-federalist-fire-revolts-against-the-centralist-republic-.html)
