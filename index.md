@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Quartered Shield: Decoding the Coat of Arms of Saarland](https://yacine-l.github.io/hot-info/2025/12/27/the-quartered-shield-decoding-the-coat-of-arms-of-saarland.html)
+
+
 - [** The Meyer Era Begins: Revisiting the 2005 Florida Gators Football Season and the Birth of a Dynasty
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-meyer-era-begins-revisiting-the-2005-florida-gators-foot.html)
 
