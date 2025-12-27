@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Jacob A. Cantor](https://yacine-l.github.io/hot-info/2025/12/27/jacob-a-cantor.html)
+
+
 - [The Ultimate Guide to Centara Grand & Bangkok Convention Centre: Luxury, Location, and Legacy](https://yacine-l.github.io/hot-info/2025/12/27/the-ultimate-guide-to-centara-grand-bangkok-convention-centr.html)
 
 
