@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Chlaenius tricolor: The Striking Metallic Ground Beetle Spanning North and Central America](https://yacine-l.github.io/hot-info/2025/12/27/chlaenius-tricolor-the-striking-metallic-ground-beetle-spann.html)
+
+
 - [The Tropical Oasis in the City: Exploring the Botanical Garden of the University of Zurich](https://yacine-l.github.io/hot-info/2025/12/27/the-tropical-oasis-in-the-city-exploring-the-botanical-garde.html)
 
 
