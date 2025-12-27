@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Lizzie Grubman: Public Relations Powerhouse, Hamptons Tragedy, and the Price of Privilege](https://yacine-l.github.io/hot-info/2025/12/27/lizzie-grubman-public-relations-powerhouse-hamptons-tragedy-.html)
+
+
 - [** Your Comprehensive Guide to La Pocatière Station: Gateway to the Bas-Saint-Laurent Via the Via Rail Ocean
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/your-comprehensive-guide-to-la-pocatire-station-gateway-to-t.html)
