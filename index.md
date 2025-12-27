@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Stephen Harris Taft House: Limestone Legacy of Humboldt, Iowa’s Founding Father](https://yacine-l.github.io/hot-info/2025/12/27/the-stephen-harris-taft-house-limestone-legacy-of-humboldt-i.html)
+
+
 - [Ambohimalaza Miray](https://yacine-l.github.io/hot-info/2025/12/27/ambohimalaza-miray.html)
 
 
