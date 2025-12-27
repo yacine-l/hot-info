@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [St Mary's Church, Chirk](https://yacine-l.github.io/hot-info/2025/12/27/st-marys-church-chirk.html)
+
+
 - [SMK Sacred Heart Sibu: The Enduring Legacy of Sarawak's Premier Missionary School](https://yacine-l.github.io/hot-info/2025/12/27/smk-sacred-heart-sibu-the-enduring-legacy-of-sarawaks-premie.html)
 
 
