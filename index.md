@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Blueprint of Transition: Analyzing the 2018–19 Western Illinois Leathernecks Women's Basketball Season](https://yacine-l.github.io/hot-info/2025/12/27/the-blueprint-of-transition-analyzing-the-201819-western-ill.html)
+
+
 - [** The Complete Guide to Lithops schwantesii: Care, Cultivation, and Why This Living Stone Won an Award
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-complete-guide-to-lithops-schwantesii-care-cultivation-a.html)
