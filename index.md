@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Sanada Masayuki: The Fox of Shinano and Master Strategist of the Sengoku Era](https://yacine-l.github.io/hot-info/2025/12/27/sanada-masayuki-the-fox-of-shinano-and-master-strategist-of-.html)
+
+
 - [** Germán Zea Hernández: The Quintessential Colombian Statesman of the Liberal Era
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/germn-zea-hernndez-the-quintessential-colombian-statesman-of.html)
