@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Masterpiece of Soviet Modernity: Analyzing Alexander Semionov’s Malaya Sadovaya Street (1979)](https://yacine-l.github.io/hot-info/2025/12/27/masterpiece-of-soviet-modernity-analyzing-alexander-semionov.html)
+
+
 - [** Wesley Willis: Analyzing *Rock 'n' Roll Will Never Die* – The Album That Defined Outsider Music
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/wesley-willis-analyzing-rock-n-roll-will-never-die-the-album.html)
