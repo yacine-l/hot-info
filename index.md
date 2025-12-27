@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Gu Family Book: Why This Lee Seung-gi & Bae Suzy Fantasy Sageuk is a Must-Watch K-Drama Classic
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/gu-family-book-why-this-lee-seung-gi-bae-suzy-fantasy-sageuk.html)
+
+
 - [Guilty as Charged: An In-Depth Analysis of the Gym Class Heroes’ Confessional Single from The Quilt](https://yacine-l.github.io/hot-info/2025/12/27/guilty-as-charged-an-in-depth-analysis-of-the-gym-class-hero.html)
 
 
