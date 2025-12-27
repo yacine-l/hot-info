@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Francis Wrangham: Archdeacon, Abolitionist, and the Forgotten Literary Colossus of the Regency Era](https://yacine-l.github.io/hot-info/2025/12/27/francis-wrangham-archdeacon-abolitionist-and-the-forgotten-l.html)
+
+
 - [** Henri Bellivier: Examining the French Cyclist at the 1920 Antwerp Summer Olympics
 **](https://yacine-l.github.io/hot-info/2025/12/27/henri-bellivier-examining-the-french-cyclist-at-the-1920-ant.html)
 
