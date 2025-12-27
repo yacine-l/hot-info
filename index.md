@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Maggie Porter Cole: The Unforgettable Soprano Who Saved Fisk University and Pioneered American Music](https://yacine-l.github.io/hot-info/2025/12/27/maggie-porter-cole-the-unforgettable-soprano-who-saved-fisk-.html)
+
+
 - [The Intertidal Fortress: A Deep Dive into the Ecology and Morphology of Nerita patula](https://yacine-l.github.io/hot-info/2025/12/27/the-intertidal-fortress-a-deep-dive-into-the-ecology-and-mor.html)
 
 
