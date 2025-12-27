@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Minister of State for Manicaland: Charting the Course of Devolution in Zimbabwe](https://yacine-l.github.io/hot-info/2025/12/27/the-minister-of-state-for-manicaland-charting-the-course-of-.html)
+
+
 - [Stagleap Provincial Park: Exploring the Remote Wilderness West of Creston, BC](https://yacine-l.github.io/hot-info/2025/12/27/stagleap-provincial-park-exploring-the-remote-wilderness-wes.html)
 
 
