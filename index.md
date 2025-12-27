@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [USS Bebas (DE-10): The Forgotten Evarts-Class Destroyer Escort of WWII](https://yacine-l.github.io/hot-info/2025/12/27/uss-bebas-de-10-the-forgotten-evarts-class-destroyer-escort-.html)
+
+
 - [Fellow Traveller Games: Charting the Evolution of Narrative Indie Publishing](https://yacine-l.github.io/hot-info/2025/12/27/fellow-traveller-games-charting-the-evolution-of-narrative-i.html)
 
 
