@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Hansberry College Prep: Excellence, Legacy, and the IB Education in Auburn Gresham](https://yacine-l.github.io/hot-info/2025/12/27/hansberry-college-prep-excellence-legacy-and-the-ib-educatio.html)
+
+
 - [Ken Loach's Explosive Thriller: Unpacking the Truth Behind *Hidden Agenda* (1990)](https://yacine-l.github.io/hot-info/2025/12/27/ken-loachs-explosive-thriller-unpacking-the-truth-behind-hid.html)
 
 
