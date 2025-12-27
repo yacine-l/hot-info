@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Rare Delight of You](https://yacine-l.github.io/hot-info/2025/12/27/the-rare-delight-of-you.html)
+
+
 - [The Lost Residence: Exploring the History of the Archbishop's Palace York in Dean's Park](https://yacine-l.github.io/hot-info/2025/12/27/the-lost-residence-exploring-the-history-of-the-archbishops-.html)
 
 
