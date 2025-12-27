@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Dragon Ball Z: The Return of Cooler – Why the Big Gete Star Saga Remains a Classic DBZ Film
+**](https://yacine-l.github.io/hot-info/2025/12/27/dragon-ball-z-the-return-of-cooler-why-the-big-gete-star-sag.html)
+
+
 - [** Logic's "Perfect": Breaking Down the High-Energy Core of the *No Pressure* Album
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/logics-perfect-breaking-down-the-high-energy-core-of-the-no-.html)
