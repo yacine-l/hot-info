@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Aurélien Pradié: The Rise of a Conservative Force in French Politics](https://yacine-l.github.io/hot-info/2025/12/27/aurlien-pradi-the-rise-of-a-conservative-force-in-french-pol.html)
+
+
 - [Nathan Drake Artist: Rediscovering the 18th-Century English Painter](https://yacine-l.github.io/hot-info/2025/12/27/nathan-drake-artist-rediscovering-the-18th-century-english-p.html)
 
 
