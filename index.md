@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Lynda Benglis: The Sculptor Who Poured, Twisted, and Challenged the Art World
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/lynda-benglis-the-sculptor-who-poured-twisted-and-challenged.html)
+
+
 - [** We Are Smug: Unmasking Darren Hayes’ Most Mysterious and Experimental Album
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/we-are-smug-unmasking-darren-hayes-most-mysterious-and-exper.html)
