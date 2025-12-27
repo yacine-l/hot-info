@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Enrique Metinides: The Man Who Saw Too Much and the Art of Catastrophe](https://yacine-l.github.io/hot-info/2025/12/27/enrique-metinides-the-man-who-saw-too-much-and-the-art-of-ca.html)
+
+
 - [The Unstoppable Red Wave: Recapping the 2007–08 Super League Greece Season](https://yacine-l.github.io/hot-info/2025/12/27/the-unstoppable-red-wave-recapping-the-200708-super-league-g.html)
 
 
