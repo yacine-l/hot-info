@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Edward Pococke: Pioneer of Arabic Studies and Oxford's First Laudian Professor](https://yacine-l.github.io/hot-info/2025/12/27/edward-pococke-pioneer-of-arabic-studies-and-oxfords-first-l.html)
+
+
 - [Discover Kanal ob Soči: The Emerald Jewel of Slovenia’s Littoral Region](https://yacine-l.github.io/hot-info/2025/12/27/discover-kanal-ob-soi-the-emerald-jewel-of-slovenias-littora.html)
 
 
