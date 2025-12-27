@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Frogs for Snakes: Unpacking Amos Poe’s Underappreciated 1998 Neo-Noir Gem](https://yacine-l.github.io/hot-info/2025/12/27/frogs-for-snakes-unpacking-amos-poes-underappreciated-1998-n.html)
+
+
 - [** Alexandra Stan’s *Saxobeats*: How a Debut Album Defined the 2011 Global Dance Phenomenon
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/alexandra-stans-saxobeats-how-a-debut-album-defined-the-2011.html)
