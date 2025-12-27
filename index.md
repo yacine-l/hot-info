@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [B. P. Pal: The Visionary Architect of Indian Agricultural Research and the Master of Wheat and Roses](https://yacine-l.github.io/hot-info/2025/12/27/b-p-pal-the-visionary-architect-of-indian-agricultural-resea.html)
+
+
 - [Bernard Dowiyogo: The Seven-Time President Who Defined Nauruan Politics](https://yacine-l.github.io/hot-info/2025/12/27/bernard-dowiyogo-the-seven-time-president-who-defined-naurua.html)
 
 
