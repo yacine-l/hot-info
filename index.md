@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Blackburn Firebrand: The Troubled History of the Royal Navy’s Last Piston-Engine Strike Fighter
+
+###](https://yacine-l.github.io/hot-info/2025/12/27/blackburn-firebrand-the-troubled-history-of-the-royal-navys-.html)
+
+
 - [Edward Baber (1532–1578): The Elizabethan Barrister, Judge, and MP Who Mastered Somerset](https://yacine-l.github.io/hot-info/2025/12/27/edward-baber-15321578-the-elizabethan-barrister-judge-and-mp.html)
 
 
