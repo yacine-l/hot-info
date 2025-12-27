@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Racer X's Superheroes: The Definitive Guide to Paul Gilbert’s Speed Metal Masterpiece](https://yacine-l.github.io/hot-info/2025/12/27/racer-xs-superheroes-the-definitive-guide-to-paul-gilberts-s.html)
+
+
 - [Conservative Victory](https://yacine-l.github.io/hot-info/2025/12/27/conservative-victory.html)
 
 
