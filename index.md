@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Il castello di Kenilworth: Donizetti's Forgotten Tragedy and the Legacy of Scott
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/il-castello-di-kenilworth-donizettis-forgotten-tragedy-and-t.html)
+
+
 - [Sphaerolobium medium: The Striking, Leafless Pea Shrub of Western Australia](https://yacine-l.github.io/hot-info/2025/12/27/sphaerolobium-medium-the-striking-leafless-pea-shrub-of-west.html)
 
 
