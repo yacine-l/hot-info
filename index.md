@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Elusive Rufous-rumped Antwren: A Deep Dive into the Neotropical Gem](https://yacine-l.github.io/hot-info/2025/12/27/the-elusive-rufous-rumped-antwren-a-deep-dive-into-the-neotr.html)
+
+
 - [Ethel McGhee Davis: Pioneering Educator and Dean of Women at Spelman College](https://yacine-l.github.io/hot-info/2025/12/27/ethel-mcghee-davis-pioneering-educator-and-dean-of-women-at-.html)
 
 
