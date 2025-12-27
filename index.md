@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Roar of the Steel City: Tracing the Legacy of Sheffield Tigers Speedway, 2023 British Champions
+
+##](https://yacine-l.github.io/hot-info/2025/12/27/the-roar-of-the-steel-city-tracing-the-legacy-of-sheffield-t.html)
+
+
 - [Avgust Demšar: The Intellectual Architect of Slovenian Detective Fiction](https://yacine-l.github.io/hot-info/2025/12/27/avgust-demar-the-intellectual-architect-of-slovenian-detecti.html)
 
 
