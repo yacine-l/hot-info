@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Lodomer, Archbishop of Esztergom: The Cleric Who Defied a King and Shaped 13th Century Hungary](https://yacine-l.github.io/hot-info/2025/12/27/lodomer-archbishop-of-esztergom-the-cleric-who-defied-a-king.html)
+
+
 - [** Kinkeliba Tea: Exploring *Combretum micranthum*, West Africa's Sacred Detox Brew
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/kinkeliba-tea-exploring-combretum-micranthum-west-africas-sa.html)
