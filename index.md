@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Constantin Levaditi: The Pioneer Who Decoded Syphilis and Polio Virology](https://yacine-l.github.io/hot-info/2025/12/27/constantin-levaditi-the-pioneer-who-decoded-syphilis-and-pol.html)
+
+
 - [The Datu Cabaylo-Class: BFAR’s Next Generation Multi-Mission Offshore Vessels Protecting Philippine Seas.](https://yacine-l.github.io/hot-info/2025/12/27/the-datu-cabaylo-class-bfars-next-generation-multi-mission-o.html)
 
 
