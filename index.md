@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Centreport Aqueduct: A Monument to the Improved Erie Canal in Weedsport, NY
+
+###](https://yacine-l.github.io/hot-info/2025/12/27/centreport-aqueduct-a-monument-to-the-improved-erie-canal-in.html)
+
+
 - [** Red Dead Online: A Complete Guide to Rockstar’s Untamed 1898 Frontier
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/red-dead-online-a-complete-guide-to-rockstars-untamed-1898-f.html)
