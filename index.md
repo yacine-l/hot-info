@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Morchard Bishop: Exploring the Historic Heart of Mid Devon – Home of Ernest Bevin](https://yacine-l.github.io/hot-info/2025/12/27/morchard-bishop-exploring-the-historic-heart-of-mid-devon-ho.html)
+
+
 - [The Mind Palace: Decoding the Genius of Sherlock Holmes, the World's First Consulting Detective](https://yacine-l.github.io/hot-info/2025/12/27/the-mind-palace-decoding-the-genius-of-sherlock-holmes-the-w.html)
 
 
