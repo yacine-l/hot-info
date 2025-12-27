@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Emilio Bisi: The Forgotten Master of Late 19th-Century Italian Sculpture](https://yacine-l.github.io/hot-info/2025/12/27/emilio-bisi-the-forgotten-master-of-late-19th-century-italia.html)
+
+
 - [The Dynasty of Brčko: Exploring the Success of OK Mladost Brčko, Bosnia's Volleyball Powerhouse](https://yacine-l.github.io/hot-info/2025/12/27/the-dynasty-of-brko-exploring-the-success-of-ok-mladost-brko.html)
 
 
