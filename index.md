@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Ani Nath Shahdeo: Unearthing the Legacy of the 17th Century Nagvanshi King](https://yacine-l.github.io/hot-info/2025/12/27/ani-nath-shahdeo-unearthing-the-legacy-of-the-17th-century-n.html)
+
+
 - [The Blueprint of Transition: Analyzing the 2018–19 Western Illinois Leathernecks Women's Basketball Season](https://yacine-l.github.io/hot-info/2025/12/27/the-blueprint-of-transition-analyzing-the-201819-western-ill.html)
 
 
