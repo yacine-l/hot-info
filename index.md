@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Ébaty Commune: Unveiling the Quiet Charm of France’s Côte-d'Or Department](https://yacine-l.github.io/hot-info/2025/12/27/baty-commune-unveiling-the-quiet-charm-of-frances-cte-dor-de.html)
+
+
 - [Discover Wisconsin Highway 116: History, Scenery, and the Heart of Winnebago County](https://yacine-l.github.io/hot-info/2025/12/27/discover-wisconsin-highway-116-history-scenery-and-the-heart.html)
 
 
