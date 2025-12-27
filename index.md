@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Bareveld: The Unique Dutch Village Divided by Provinces (Groningen & Drenthe)](https://yacine-l.github.io/hot-info/2025/12/27/bareveld-the-unique-dutch-village-divided-by-provinces-groni.html)
+
+
 - [Trees Dallas: The Definitive History of Deep Ellum’s Legendary Live Music Venue](https://yacine-l.github.io/hot-info/2025/12/27/trees-dallas-the-definitive-history-of-deep-ellums-legendary.html)
 
 
