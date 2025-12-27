@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Samantha Scott: The Director Who Shaped Modern New Zealand Theatre and Education](https://yacine-l.github.io/hot-info/2025/12/27/samantha-scott-the-director-who-shaped-modern-new-zealand-th.html)
+
+
 - [The Silent Menace: Understanding *Phacidiopycnis washingtonensis* and the Destructive Threat of Apple Speck Rot](https://yacine-l.github.io/hot-info/2025/12/27/the-silent-menace-understanding-phacidiopycnis-washingtonens.html)
 
 
