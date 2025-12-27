@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Shinawatra Family: Thailand’s Enduring Political Dynasty and the Populist Revolution](https://yacine-l.github.io/hot-info/2025/12/27/the-shinawatra-family-thailands-enduring-political-dynasty-a.html)
+
+
 - [The Timeless History of Buffalo Presbyterian Church and Cemetery in Greensboro, NC](https://yacine-l.github.io/hot-info/2025/12/27/the-timeless-history-of-buffalo-presbyterian-church-and-ceme.html)
 
 
