@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Triplemanía XII: The Defining Mask vs. Mask War Between La Parka and Cibernético](https://yacine-l.github.io/hot-info/2025/12/27/triplemana-xii-the-defining-mask-vs-mask-war-between-la-park.html)
+
+
 - [The Next Generation of Tank Warfare: Why ‘War in the Gulf’ is the Ultimate Modern Wargame](https://yacine-l.github.io/hot-info/2025/12/27/the-next-generation-of-tank-warfare-why-war-in-the-gulf-is-t.html)
 
 
