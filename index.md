@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Future Behind the Plate: Analyzing Iván Herrera’s Rise with the St. Louis Cardinals
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-future-behind-the-plate-analyzing-ivn-herreras-rise-with.html)
+
+
 - [Defending the Land of Enchantment: A Comprehensive Look at the New Mexico Air National Guard](https://yacine-l.github.io/hot-info/2025/12/27/defending-the-land-of-enchantment-a-comprehensive-look-at-th.html)
 
 
