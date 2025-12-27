@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Bizarre Brilliance of *Pound* (1970): Robert Downey Sr.'s Cult Classic and Robert Downey Jr.'s Acting Debut
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-bizarre-brilliance-of-pound-1970-robert-downey-srs-cult-.html)
+
+
 - [Simon's Sircus: The Royal Navy's Brief, Brilliant Era of Sea Vixen Aerobatics](https://yacine-l.github.io/hot-info/2025/12/27/simons-sircus-the-royal-navys-brief-brilliant-era-of-sea-vix.html)
 
 
