@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Take Care of Us, Captain: Why This 2012 Aviation K-Drama Still Soars High
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/take-care-of-us-captain-why-this-2012-aviation-k-drama-still.html)
+
+
 - [Duraykish District: Unveiling the Agricultural Heart of Syria’s Tartus Governorate](https://yacine-l.github.io/hot-info/2025/12/27/duraykish-district-unveiling-the-agricultural-heart-of-syria.html)
 
 
