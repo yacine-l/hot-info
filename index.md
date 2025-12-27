@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** NY 199: The Ultimate Guide to New York State Route 199 and the Kingston–Rhinecliff Bridge
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/ny-199-the-ultimate-guide-to-new-york-state-route-199-and-th.html)
+
+
 - [Mel Cummin: The Forgotten Renaissance Man of Early American Comics and Exploration](https://yacine-l.github.io/hot-info/2025/12/27/mel-cummin-the-forgotten-renaissance-man-of-early-american-c.html)
 
 
