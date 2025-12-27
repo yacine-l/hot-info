@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Goczałków: Unveiling the Hidden Charms of a Lower Silesian Village](https://yacine-l.github.io/hot-info/2025/12/27/goczakw-unveiling-the-hidden-charms-of-a-lower-silesian-vill.html)
+
+
 - [** La Bollène-Vésubie: Guide to the Hidden Gem of the Mercantour National Park
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/la-bollne-vsubie-guide-to-the-hidden-gem-of-the-mercantour-n.html)
