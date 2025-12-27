@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [R. Stan Baker: Chief Judge of the US District Court for the Southern District of Georgia](https://yacine-l.github.io/hot-info/2025/12/27/r-stan-baker-chief-judge-of-the-us-district-court-for-the-so.html)
+
+
 - [The Liberal Citadel: Analyzing the 1873 Manchester City Council Election and Victorian Urban Governance](https://yacine-l.github.io/hot-info/2025/12/27/the-liberal-citadel-analyzing-the-1873-manchester-city-counc.html)
 
 
