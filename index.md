@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Province of Enna: Exploring the Landlocked Heart and History of Sicily
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-province-of-enna-exploring-the-landlocked-heart-and-hist.html)
+
+
 - [The Majestic Frontal Cordillera: Argentina's High Andes Gateway](https://yacine-l.github.io/hot-info/2025/12/27/the-majestic-frontal-cordillera-argentinas-high-andes-gatewa.html)
 
 
