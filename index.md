@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Edna Best: The British Stage Legend Who Defined 20th-Century Acting, from the West End to Hitchcock](https://yacine-l.github.io/hot-info/2025/12/27/edna-best-the-british-stage-legend-who-defined-20th-century-.html)
+
+
 - [Start the Year Right: Everything You Need to Know About First Day Hikes](https://yacine-l.github.io/hot-info/2025/12/27/start-the-year-right-everything-you-need-to-know-about-first.html)
 
 
