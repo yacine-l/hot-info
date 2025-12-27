@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Emperor Shijō: The Child Ruler Who Navigated the Kamakura Shogunate and Secured the Imperial Lineage
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/emperor-shij-the-child-ruler-who-navigated-the-kamakura-shog.html)
+
+
 - [The Lost Legacy: Tracing the History of the Earl of Dunraven and Mount-Earl](https://yacine-l.github.io/hot-info/2025/12/27/the-lost-legacy-tracing-the-history-of-the-earl-of-dunraven-.html)
 
 
