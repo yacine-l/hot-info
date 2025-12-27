@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Silent Menace: Understanding *Phacidiopycnis washingtonensis* and the Destructive Threat of Apple Speck Rot](https://yacine-l.github.io/hot-info/2025/12/27/the-silent-menace-understanding-phacidiopycnis-washingtonens.html)
+
+
 - [** Sheikh Ahmed Shathir: The Maldivian Scholar, Statesman, and Speaker of the People's Majlis
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/sheikh-ahmed-shathir-the-maldivian-scholar-statesman-and-spe.html)
