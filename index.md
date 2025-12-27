@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Silent Vocation: A Deep Dive into the History and Life of the Trappist Monks (OCSO)](https://yacine-l.github.io/hot-info/2025/12/27/the-silent-vocation-a-deep-dive-into-the-history-and-life-of.html)
+
+
 - [The Enduring History of St. Nicholas Church Vršovice: A Prague Hidden Gem](https://yacine-l.github.io/hot-info/2025/12/27/the-enduring-history-of-st-nicholas-church-vrovice-a-prague-.html)
 
 
