@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Unsettling Magic of Moondial: Revisiting the Classic 1988 BBC Time-Slip Serial
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-unsettling-magic-of-moondial-revisiting-the-classic-1988.html)
+
+
 - [Oakwood, Pennsylvania](https://yacine-l.github.io/hot-info/2025/12/27/oakwood-pennsylvania.html)
 
 
