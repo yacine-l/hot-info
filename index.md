@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Ken Loach's Explosive Thriller: Unpacking the Truth Behind *Hidden Agenda* (1990)](https://yacine-l.github.io/hot-info/2025/12/27/ken-loachs-explosive-thriller-unpacking-the-truth-behind-hid.html)
+
+
 - [The Gateway to Glass: A Deep Dive into Iittala Railway Station and Finnish Rail History](https://yacine-l.github.io/hot-info/2025/12/27/the-gateway-to-glass-a-deep-dive-into-iittala-railway-statio.html)
 
 
