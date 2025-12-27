@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Core Relocations El Salvador: Unpacking the History of the Cerrón Grande Displacement
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-core-relocations-el-salvador-unpacking-the-history-of-th.html)
+
+
 - [St. John's Cathedral Chiayi: A Comprehensive Guide to Chiayi's Catholic Landmark](https://yacine-l.github.io/hot-info/2025/12/27/st-johns-cathedral-chiayi-a-comprehensive-guide-to-chiayis-c.html)
 
 
