@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Alfonso Tort: The Compelling Artistry of Uruguay’s Leading Man
+**](https://yacine-l.github.io/hot-info/2025/12/27/alfonso-tort-the-compelling-artistry-of-uruguays-leading-man.html)
+
+
 - [Taichung City Hall Metro Station: The Essential Hub Where Taichung’s Green and Blue MRT Lines Intersect**
 **](https://yacine-l.github.io/hot-info/2025/12/27/taichung-city-hall-metro-station-the-essential-hub-where-tai.html)
 
