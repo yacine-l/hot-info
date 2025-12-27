@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The End of an Era: Kazanka Raion and the Major Administrative Reform of Mykolaiv Oblast
+
+###](https://yacine-l.github.io/hot-info/2025/12/27/the-end-of-an-era-kazanka-raion-and-the-major-administrative.html)
+
+
 - [Southern Federal University (SFedU): Exploring the Academic Powerhouse of Southern Russia](https://yacine-l.github.io/hot-info/2025/12/27/southern-federal-university-sfedu-exploring-the-academic-pow.html)
 
 
