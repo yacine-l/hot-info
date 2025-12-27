@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Richard Beeching: The Man, The Axe, and the Controversial Legacy That Reshaped British Railways](https://yacine-l.github.io/hot-info/2025/12/27/richard-beeching-the-man-the-axe-and-the-controversial-legac.html)
+
+
 - [WILL-TV: The Essential Guide to Central Illinois' PBS Station and Illinois Public Media](https://yacine-l.github.io/hot-info/2025/12/27/will-tv-the-essential-guide-to-central-illinois-pbs-station-.html)
 
 
