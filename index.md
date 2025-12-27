@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Aktion kritischer Schüler:innen (AKS): Driving Social Justice and Reform in Austrian Education](https://yacine-l.github.io/hot-info/2025/12/27/aktion-kritischer-schlerinnen-aks-driving-social-justice-and.html)
+
+
 - [Helsinki Thunder: The Explosive Three-Year Run of Finland’s Most Daring Street Circuit](https://yacine-l.github.io/hot-info/2025/12/27/helsinki-thunder-the-explosive-three-year-run-of-finlands-mo.html)
 
 
