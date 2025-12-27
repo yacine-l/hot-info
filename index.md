@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Giichi Tsunoda: A Chronicle of Japanese Opposition Politics from the JSP to the DPJ
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/giichi-tsunoda-a-chronicle-of-japanese-opposition-politics-f.html)
+
+
 - [** The Best of Guided By Voices: Unpacking 'Human Amusements at Hourly Rates'
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-best-of-guided-by-voices-unpacking-human-amusements-at-h.html)
