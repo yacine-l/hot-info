@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Lost Lineage: Investigating the Short-Lived Oldfield Baronetcy of Spalding](https://yacine-l.github.io/hot-info/2025/12/27/the-lost-lineage-investigating-the-short-lived-oldfield-baro.html)
+
+
 - [Junichi Masuda: The Architect of Pokémon’s Sound and Success](https://yacine-l.github.io/hot-info/2025/12/27/junichi-masuda-the-architect-of-pokmons-sound-and-success.html)
 
 
