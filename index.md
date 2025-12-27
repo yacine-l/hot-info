@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Passion (2012 film)](https://yacine-l.github.io/hot-info/2025/12/27/passion-2012-film.html)
+
+
 - [** Discovering Roussy-le-Village: History, Tranquility, and the Authentic Heart of Moselle
 **](https://yacine-l.github.io/hot-info/2025/12/27/discovering-roussy-le-village-history-tranquility-and-the-au.html)
 
