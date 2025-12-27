@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Lindsey Stirling & Elle King: Decoding "The Upside"—The Ultimate Anthem of Resilience and Collaboration
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/lindsey-stirling-elle-king-decoding-the-upsidethe-ultimate-a.html)
+
+
 - [Orešje, Šmarješke Toplice: Exploring a Historic Settlement in Slovenia’s Lower Carniola](https://yacine-l.github.io/hot-info/2025/12/27/oreje-marjeke-toplice-exploring-a-historic-settlement-in-slo.html)
 
 
