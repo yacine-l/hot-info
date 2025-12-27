@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Liberal Citadel: Analyzing the 1873 Manchester City Council Election and Victorian Urban Governance](https://yacine-l.github.io/hot-info/2025/12/27/the-liberal-citadel-analyzing-the-1873-manchester-city-counc.html)
+
+
 - [Ilford, Manitoba: Unveiling the Remote Heart of the War Lake First Nation](https://yacine-l.github.io/hot-info/2025/12/27/ilford-manitoba-unveiling-the-remote-heart-of-the-war-lake-f.html)
 
 
