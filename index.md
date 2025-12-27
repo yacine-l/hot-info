@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Enzo Plazzotta: The Italian Maestro of Movement in British Bronze Sculpture](https://yacine-l.github.io/hot-info/2025/12/27/enzo-plazzotta-the-italian-maestro-of-movement-in-british-br.html)
+
+
 - [Heks Castle Belgium: A Hidden 18th-Century Gem and Horticultural Masterpiece in Limburg](https://yacine-l.github.io/hot-info/2025/12/27/heks-castle-belgium-a-hidden-18th-century-gem-and-horticultu.html)
 
 
