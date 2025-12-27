@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Bob Heaton: The Dual Legacy of an Indiana House Representative and Basketball Legend
+**](https://yacine-l.github.io/hot-info/2025/12/27/bob-heaton-the-dual-legacy-of-an-indiana-house-representativ.html)
+
+
 - [Saon](https://yacine-l.github.io/hot-info/2025/12/27/saon.html)
 
 
