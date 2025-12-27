@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Guard of the National Conscience: Romania's Anti-Communist Strikebreaking Force of 1919](https://yacine-l.github.io/hot-info/2025/12/27/the-guard-of-the-national-conscience-romanias-anti-communist.html)
+
+
 - [Racer X's Superheroes: The Definitive Guide to Paul Gilbert’s Speed Metal Masterpiece](https://yacine-l.github.io/hot-info/2025/12/27/racer-xs-superheroes-the-definitive-guide-to-paul-gilberts-s.html)
 
 
