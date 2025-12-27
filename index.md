@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Freiwirtschaft Explained: The Revolutionary Economic Model of Silvio Gesell and Stamped Money
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/freiwirtschaft-explained-the-revolutionary-economic-model-of.html)
+
+
 - [Farrukh Zokirov](https://yacine-l.github.io/hot-info/2025/12/27/farrukh-zokirov.html)
 
 
