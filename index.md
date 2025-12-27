@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Noël Coward's Apprenticeship: Unpacking 'The Young Idea' (1923 Savoy Theatre Run)](https://yacine-l.github.io/hot-info/2025/12/27/nol-cowards-apprenticeship-unpacking-the-young-idea-1923-sav.html)
+
+
 - [** The Lockman Hole: Why Astronomers Use This Cosmic Window for Deepest Space Observations
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-lockman-hole-why-astronomers-use-this-cosmic-window-for-.html)
