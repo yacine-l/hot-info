@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Jacques Babinet: The Unsung Master of Optics, Diffraction Theory, and the Sky's Mysteries](https://yacine-l.github.io/hot-info/2025/12/27/jacques-babinet-the-unsung-master-of-optics-diffraction-theo.html)
+
+
 - [Mermiria intertexta: A Deep Dive into the Eastern Mermiria Slant-Faced Grasshopper](https://yacine-l.github.io/hot-info/2025/12/27/mermiria-intertexta-a-deep-dive-into-the-eastern-mermiria-sl.html)
 
 
