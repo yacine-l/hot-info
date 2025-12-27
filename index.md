@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Killer Bitch](https://yacine-l.github.io/hot-info/2025/12/27/killer-bitch.html)
+
+
 - [** Clive Ballard: A World Leader in Dementia Research and the Future of Age-Related Care
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/clive-ballard-a-world-leader-in-dementia-research-and-the-fu.html)
