@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Galina Petrova](https://yacine-l.github.io/hot-info/2025/12/27/galina-petrova.html)
+
+
 - [Ben Travers and the Aldwych Farces: The Master Architect of 1920s English Comedy](https://yacine-l.github.io/hot-info/2025/12/27/ben-travers-and-the-aldwych-farces-the-master-architect-of-1.html)
 
 
