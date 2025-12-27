@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Panda Cup: Chengdu's Premier International Youth Football Tournament and the Future of Global Soccer
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-panda-cup-chengdus-premier-international-youth-football-.html)
+
+
 - [** Nick Kelly: From Fat Lady Sings Frontman to Acclaimed Filmmaker and Solo Artist
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/nick-kelly-from-fat-lady-sings-frontman-to-acclaimed-filmmak.html)
