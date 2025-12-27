@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Mastering Network Efficiency: A Deep Dive into the Graph Center and Graph Radius
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/mastering-network-efficiency-a-deep-dive-into-the-graph-cent.html)
+
+
 - [** Talara Refinery Modernization: Petroperú’s Strategic Fuel Hub in Peru
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/talara-refinery-modernization-petropers-strategic-fuel-hub-i.html)
