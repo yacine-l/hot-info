@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Inter-American Magnet School: Unlocking Bilingual Excellence in Chicago’s Oldest Dual-Language Program](https://yacine-l.github.io/hot-info/2025/12/27/inter-american-magnet-school-unlocking-bilingual-excellence-.html)
+
+
 - [** Leander C. Cole: The Canton Lawyer Who Shaped the Ohio House of Representatives (1884–1888)
 **](https://yacine-l.github.io/hot-info/2025/12/27/leander-c-cole-the-canton-lawyer-who-shaped-the-ohio-house-o.html)
 
