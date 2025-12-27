@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Prithipal Singh: The King of Penalty Corners and India’s Olympic Hockey Legend](https://yacine-l.github.io/hot-info/2025/12/27/prithipal-singh-the-king-of-penalty-corners-and-indias-olymp.html)
+
+
 - [The Ceasars Duo: Italian Music Producers Paolo Catoni and Marco Pistella Defining the Cinematic Sound](https://yacine-l.github.io/hot-info/2025/12/27/the-ceasars-duo-italian-music-producers-paolo-catoni-and-mar.html)
 
 
