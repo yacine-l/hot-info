@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Norske Talenter: The Definitive History of Norway’s Premier Got Talent Showcase](https://yacine-l.github.io/hot-info/2025/12/27/norske-talenter-the-definitive-history-of-norways-premier-go.html)
+
+
 - [The Short, Impactful Career of Marv Staehle: White Sox, Expos, and Braves History](https://yacine-l.github.io/hot-info/2025/12/27/the-short-impactful-career-of-marv-staehle-white-sox-expos-a.html)
 
 
