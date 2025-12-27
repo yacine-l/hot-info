@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Florida Bar: Regulation, Discipline, and Governance of Florida’s Legal Profession
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-florida-bar-regulation-discipline-and-governance-of-flor.html)
+
+
 - [The End of an Era: Kazanka Raion and the Major Administrative Reform of Mykolaiv Oblast
 
 ###](https://yacine-l.github.io/hot-info/2025/12/27/the-end-of-an-era-kazanka-raion-and-the-major-administrative.html)
