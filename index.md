@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Barbara Mandrell’s ‘Get to the Heart’: Rebirth, Resilience, and the Defining Sound of 1985 Country Music
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/barbara-mandrells-get-to-the-heart-rebirth-resilience-and-th.html)
+
+
 - [** The Future Behind the Plate: Analyzing Iván Herrera’s Rise with the St. Louis Cardinals
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-future-behind-the-plate-analyzing-ivn-herreras-rise-with.html)
 
