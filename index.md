@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Glinica Ljubljana: Unearthing the History of a Forgotten Settlement in the Dravlje District
+**](https://yacine-l.github.io/hot-info/2025/12/27/glinica-ljubljana-unearthing-the-history-of-a-forgotten-sett.html)
+
+
 - [Andrew Hill's Lost Masterpiece: The Epic Story of the Album Change and Its Decades-Long Delay](https://yacine-l.github.io/hot-info/2025/12/27/andrew-hills-lost-masterpiece-the-epic-story-of-the-album-ch.html)
 
 
