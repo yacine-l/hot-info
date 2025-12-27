@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** No\Name Manga: How the Cyberpunk: Edgerunners Creator Made the Leap to Shōnen Jump+
+**](https://yacine-l.github.io/hot-info/2025/12/27/noname-manga-how-the-cyberpunk-edgerunners-creator-made-the-.html)
+
+
 - [Discovering Reynalton: Your Quiet Base for Exploring Pembrokeshire, Wales](https://yacine-l.github.io/hot-info/2025/12/27/discovering-reynalton-your-quiet-base-for-exploring-pembroke.html)
 
 
