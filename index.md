@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Jarnac, France: Exploring the Hidden Heart of the Cognac Region and Presidential History
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/jarnac-france-exploring-the-hidden-heart-of-the-cognac-regio.html)
+
+
 - [Slammiversary XII: TNA's 12th Anniversary Celebration and the Rise of the New Guard in 2014](https://yacine-l.github.io/hot-info/2025/12/27/slammiversary-xii-tnas-12th-anniversary-celebration-and-the-.html)
 
 
