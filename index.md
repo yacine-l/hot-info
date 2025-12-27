@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Káptalanfa: Discovering a Tranquil Village in Veszprém County, Hungary](https://yacine-l.github.io/hot-info/2025/12/27/kptalanfa-discovering-a-tranquil-village-in-veszprm-county-h.html)
+
+
 - [Hemchandra Goswami: The Architect of Modern Assamese Literature and Linguistic Revival](https://yacine-l.github.io/hot-info/2025/12/27/hemchandra-goswami-the-architect-of-modern-assamese-literatu.html)
 
 
