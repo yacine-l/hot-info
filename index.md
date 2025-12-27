@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Amita Pathak Sachar: The Dynamic Journey of a Bollywood Actress, Producer, and Model](https://yacine-l.github.io/hot-info/2025/12/27/amita-pathak-sachar-the-dynamic-journey-of-a-bollywood-actre.html)
+
+
 - [** Johann Heinrich Friedrich Link: The Forgotten Master of Botanical Taxonomy and the Essential Author Abbreviation 'Link'
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/johann-heinrich-friedrich-link-the-forgotten-master-of-botan.html)
