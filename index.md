@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Forgotten Frontier: Why Cleveland and Yorkshire North Defined the Pre-1999 European Election System](https://yacine-l.github.io/hot-info/2025/12/27/the-forgotten-frontier-why-cleveland-and-yorkshire-north-def.html)
+
+
 - [Saint Everilda of Everingham: Unearthing the Mystery of Yorkshire’s 7th-Century Foundress](https://yacine-l.github.io/hot-info/2025/12/27/saint-everilda-of-everingham-unearthing-the-mystery-of-yorks.html)
 
 
