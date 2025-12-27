@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Diane Birch’s Speak a Little Louder: How Grief Transformed Her Fleetwood Mac-Inspired Masterpiece](https://yacine-l.github.io/hot-info/2025/12/27/diane-birchs-speak-a-little-louder-how-grief-transformed-her.html)
+
+
 - [** Horatio Gates: The Quiet Architect of Canadian Finance and the Third President of the Bank of Montreal
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/horatio-gates-the-quiet-architect-of-canadian-finance-and-th.html)
