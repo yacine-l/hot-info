@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Antonietta Janthina: The Purple Jewel of the Sea Slug World – A Complete Guide
+**](https://yacine-l.github.io/hot-info/2025/12/27/antonietta-janthina-the-purple-jewel-of-the-sea-slug-world-a.html)
+
+
 - [** Lindsey Stirling & Elle King: Decoding "The Upside"—The Ultimate Anthem of Resilience and Collaboration
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/lindsey-stirling-elle-king-decoding-the-upsidethe-ultimate-a.html)
