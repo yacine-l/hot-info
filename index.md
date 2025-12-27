@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Sir Ian Chapman FRS: From Fusion Power Leader at UKAEA to CEO of UK Research and Innovation (UKRI)
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/sir-ian-chapman-frs-from-fusion-power-leader-at-ukaea-to-ceo.html)
+
+
 - [** The Bizarre Brilliance of *Pound* (1970): Robert Downey Sr.'s Cult Classic and Robert Downey Jr.'s Acting Debut
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-bizarre-brilliance-of-pound-1970-robert-downey-srs-cult-.html)
