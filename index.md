@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Jean Lavoué: The Enduring Legacy of the Classical French Poet and Essayist
+**](https://yacine-l.github.io/hot-info/2025/12/27/jean-lavou-the-enduring-legacy-of-the-classical-french-poet-.html)
+
+
 - [** Rafael Escalona: The Troubadour Who Wrote the Soundtrack of Colombia – A 1,200 Word Tribute
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/rafael-escalona-the-troubadour-who-wrote-the-soundtrack-of-c.html)
