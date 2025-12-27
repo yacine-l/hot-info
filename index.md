@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Serrapetrona: Exploring the Medieval Wine Village of Macerata | Vernaccia Nera DOCG Guide
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/serrapetrona-exploring-the-medieval-wine-village-of-macerata.html)
+
+
 - [** Fabritio Caroso: The Renaissance Dance Master Who Wrote the Book on Courtly Grace
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/fabritio-caroso-the-renaissance-dance-master-who-wrote-the-b.html)
