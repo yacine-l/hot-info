@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Unveiling the Enigma of Aseptis fumeola: The Smoky Moth of the Western Chaparral](https://yacine-l.github.io/hot-info/2025/12/27/unveiling-the-enigma-of-aseptis-fumeola-the-smoky-moth-of-th.html)
+
+
 - [The Pacific West Conference: NCAA Division II's Premier Coastal Athletic League](https://yacine-l.github.io/hot-info/2025/12/27/the-pacific-west-conference-ncaa-division-iis-premier-coasta.html)
 
 
