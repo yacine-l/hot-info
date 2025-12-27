@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Enduring Elegance of the Marilú Doll: An Icon of Argentine Toy History and Fashion (1932–1960)
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-enduring-elegance-of-the-maril-doll-an-icon-of-argentine.html)
+
+
 - [Simhasanam (2012): Analyzing the Shaji Kailas Action Drama Starring Prithviraj Sukumaran](https://yacine-l.github.io/hot-info/2025/12/27/simhasanam-2012-analyzing-the-shaji-kailas-action-drama-star.html)
 
 
