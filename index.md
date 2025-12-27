@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Andre Norton's Star Born: Exploring the Generational Divide in Golden Age Science Fiction](https://yacine-l.github.io/hot-info/2025/12/27/andre-nortons-star-born-exploring-the-generational-divide-in.html)
+
+
 - [Aviastroitelnaya Station: The Northern Gateway of the Kazan Metro and Its Vital Role](https://yacine-l.github.io/hot-info/2025/12/27/aviastroitelnaya-station-the-northern-gateway-of-the-kazan-m.html)
 
 
