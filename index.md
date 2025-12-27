@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Sisters of the Gion: Why Kenji Mizoguchi’s 1936 Geisha Drama Remains a Masterpiece of Pre-War Japanese Cinema
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/sisters-of-the-gion-why-kenji-mizoguchis-1936-geisha-drama-r.html)
+
+
 - [Oleksandr Pasichnyi](https://yacine-l.github.io/hot-info/2025/12/27/oleksandr-pasichnyi.html)
 
 
