@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Enduring Legacy of Aurora Punk Band: 40 Years of Hungarian Counter-Culture](https://yacine-l.github.io/hot-info/2025/12/27/the-enduring-legacy-of-aurora-punk-band-40-years-of-hungaria.html)
+
+
 - [** Unveiling *Carinapex mooreorum*: The Deep-Sea Snail Hidden in Hawaiian Waters
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/unveiling-carinapex-mooreorum-the-deep-sea-snail-hidden-in-h.html)
