@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Poco Rides Again: The Triumphant Reunion Behind the *Running Horse* Album](https://yacine-l.github.io/hot-info/2025/12/27/poco-rides-again-the-triumphant-reunion-behind-the-running-h.html)
+
+
 - [The Journey of Frank Fahrenhorst: From Bundesliga Stalwart to Stuttgart’s Developmental Maestro](https://yacine-l.github.io/hot-info/2025/12/27/the-journey-of-frank-fahrenhorst-from-bundesliga-stalwart-to.html)
 
 
