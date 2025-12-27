@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Justin Cronin's The Passage: A Deep Dive into the Post-Apocalyptic Trilogy and Its Epic Legacy](https://yacine-l.github.io/hot-info/2025/12/27/justin-cronins-the-passage-a-deep-dive-into-the-post-apocaly.html)
+
+
 - [Catholicos of All Armenians](https://yacine-l.github.io/hot-info/2025/12/27/catholicos-of-all-armenians.html)
 
 
