@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Discovering Mozet, Belgium: A Hidden Gem in the Gesves Municipality](https://yacine-l.github.io/hot-info/2025/12/27/discovering-mozet-belgium-a-hidden-gem-in-the-gesves-municip.html)
+
+
 - [** Ross Finnie: A Deep Dive into the Founding Minister for Environment and Rural Development in the Scottish Parliament
 **](https://yacine-l.github.io/hot-info/2025/12/27/ross-finnie-a-deep-dive-into-the-founding-minister-for-envir.html)
 
