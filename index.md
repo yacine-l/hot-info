@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Yuji Kimura: The Experienced Midfield Engine Driving Kagoshima United FC in the J3 League](https://yacine-l.github.io/hot-info/2025/12/27/yuji-kimura-the-experienced-midfield-engine-driving-kagoshim.html)
+
+
 - [Dr. Ganeshan Venkataraman: Physics, Popularization, and the Padma Shri Legacy](https://yacine-l.github.io/hot-info/2025/12/27/dr-ganeshan-venkataraman-physics-popularization-and-the-padm.html)
 
 
