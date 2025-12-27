@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Leander C. Cole: The Canton Lawyer Who Shaped the Ohio House of Representatives (1884–1888)
+**](https://yacine-l.github.io/hot-info/2025/12/27/leander-c-cole-the-canton-lawyer-who-shaped-the-ohio-house-o.html)
+
+
 - [** The Global Influence of the Pacific Asia Travel Association (PATA): Driving Responsible Tourism in the Asia Pacific
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-global-influence-of-the-pacific-asia-travel-association-.html)
