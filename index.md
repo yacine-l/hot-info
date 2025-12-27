@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Robert M. La Follette Jr.: The Last Progressive Senator, His Legacy, and the 1946 Showdown with Joseph McCarthy
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/robert-m-la-follette-jr-the-last-progressive-senator-his-leg.html)
+
+
 - [The Camino del Cid: A 1,400 km Journey Following Spain’s Greatest Medieval Hero](https://yacine-l.github.io/hot-info/2025/12/27/the-camino-del-cid-a-1400-km-journey-following-spains-greate.html)
 
 
