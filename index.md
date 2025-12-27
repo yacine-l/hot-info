@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mapping the Quake: A Deep Dive into the Isoseismal Map and Seismic Intensity](https://yacine-l.github.io/hot-info/2025/12/27/mapping-the-quake-a-deep-dive-into-the-isoseismal-map-and-se.html)
+
+
 - [The Pink Majesty of the Amazon: Everything You Need to Know About the Amazon River Dolphin (Boto)](https://yacine-l.github.io/hot-info/2025/12/27/the-pink-majesty-of-the-amazon-everything-you-need-to-know-a.html)
 
 
