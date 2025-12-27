@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Edward R. Hanford: The Daring Private Who Captured a Confederate Flag and Earned the Medal of Honor at Tom's Brook](https://yacine-l.github.io/hot-info/2025/12/27/edward-r-hanford-the-daring-private-who-captured-a-confedera.html)
+
+
 - [The Mosses That Use Insects: Discovering the Bizarre and Unique World of Splachnaceae](https://yacine-l.github.io/hot-info/2025/12/27/the-mosses-that-use-insects-discovering-the-bizarre-and-uniq.html)
 
 
