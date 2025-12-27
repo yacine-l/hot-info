@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Kothala Village, Kerala: Discovering Kottayam’s Hidden Gem on NH 220](https://yacine-l.github.io/hot-info/2025/12/27/kothala-village-kerala-discovering-kottayams-hidden-gem-on-n.html)
+
+
 - [Ann Jillian: The Enduring Legacy of Cassie Cranston and Her Life of Advocacy](https://yacine-l.github.io/hot-info/2025/12/27/ann-jillian-the-enduring-legacy-of-cassie-cranston-and-her-l.html)
 
 
