@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Dhanya Rajendran: The Trailblazing Editor-in-Chief Who Built The News Minute](https://yacine-l.github.io/hot-info/2025/12/27/dhanya-rajendran-the-trailblazing-editor-in-chief-who-built-.html)
+
+
 - [Vijay Merchant: The Domestic Titan Whose 71.64 Average Rivals Don Bradman](https://yacine-l.github.io/hot-info/2025/12/27/vijay-merchant-the-domestic-titan-whose-7164-average-rivals-.html)
 
 
