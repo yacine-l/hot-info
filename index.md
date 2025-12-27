@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Gloaming 2: Exploring the Mastery of the Contemporary Irish Supergroup's Second Album](https://yacine-l.github.io/hot-info/2025/12/27/the-gloaming-2-exploring-the-mastery-of-the-contemporary-iri.html)
+
+
 - [** TJ Hassan: The Master of Nuance – A Deep Dive into the Career of Britain's Most Versatile Actor
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/tj-hassan-the-master-of-nuance-a-deep-dive-into-the-career-o.html)
