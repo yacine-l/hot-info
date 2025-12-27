@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Count Nikolay Ignatyev: The Architect of Russian Expansionism from Beijing to the Balkans
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/count-nikolay-ignatyev-the-architect-of-russian-expansionism.html)
+
+
 - [Lichkov: Your Ultimate Guide to Czechia’s Hidden Mountain Gem on the Polish Border](https://yacine-l.github.io/hot-info/2025/12/27/lichkov-your-ultimate-guide-to-czechias-hidden-mountain-gem-.html)
 
 
