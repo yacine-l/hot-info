@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [San Bartolomé CF: The Pulse of Football in Lanzarote’s Tercera Federación](https://yacine-l.github.io/hot-info/2025/12/27/san-bartolom-cf-the-pulse-of-football-in-lanzarotes-tercera-.html)
+
+
 - [Mount Toondina Crater: Unearthing the Complex Impact Structure Near Oodnadatta, South Australia](https://yacine-l.github.io/hot-info/2025/12/27/mount-toondina-crater-unearthing-the-complex-impact-structur.html)
 
 
