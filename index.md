@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Unmasking the Horror: The Obsessed Fan Phenomenon of Truth or Dare (2013 Film)](https://yacine-l.github.io/hot-info/2025/12/27/unmasking-the-horror-the-obsessed-fan-phenomenon-of-truth-or.html)
+
+
 - [St Mary's Church, Chirk](https://yacine-l.github.io/hot-info/2025/12/27/st-marys-church-chirk.html)
 
 
