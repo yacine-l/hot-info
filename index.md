@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Intertidal Fortress: A Deep Dive into the Ecology and Morphology of Nerita patula](https://yacine-l.github.io/hot-info/2025/12/27/the-intertidal-fortress-a-deep-dive-into-the-ecology-and-mor.html)
+
+
 - [** Discovering Golfito Canton: Costa Rica's Southern Gem of Biodiversity, History, and Duty-Free Shopping
 **](https://yacine-l.github.io/hot-info/2025/12/27/discovering-golfito-canton-costa-ricas-southern-gem-of-biodi.html)
 
