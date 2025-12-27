@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Kao Su-po: The Legal Scholar Who Navigated Taiwan's Political Shifts](https://yacine-l.github.io/hot-info/2025/12/27/kao-su-po-the-legal-scholar-who-navigated-taiwans-political-.html)
+
+
 - [Florence Kawa: Rediscovering the Modernist American Artist of the WPA Era](https://yacine-l.github.io/hot-info/2025/12/27/florence-kawa-rediscovering-the-modernist-american-artist-of.html)
 
 
