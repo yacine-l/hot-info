@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Juana Galán: The 20-Year-Old Taverner Who Led the Resistance in the Peninsular War
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/juana-galn-the-20-year-old-taverner-who-led-the-resistance-i.html)
+
+
 - [** Olof Ljungström: The Swedish Engineer Who Shaped Aircraft Design at Stanford and Caltech
 **](https://yacine-l.github.io/hot-info/2025/12/27/olof-ljungstrm-the-swedish-engineer-who-shaped-aircraft-desi.html)
 
