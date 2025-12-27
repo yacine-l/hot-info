@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Krewella’s "Live for the Night": Revisiting the Defining Anthem of the 2013 EDM Boom
+**](https://yacine-l.github.io/hot-info/2025/12/27/krewellas-live-for-the-night-revisiting-the-defining-anthem-.html)
+
+
 - [Emilio Bisi: The Forgotten Master of Late 19th-Century Italian Sculpture](https://yacine-l.github.io/hot-info/2025/12/27/emilio-bisi-the-forgotten-master-of-late-19th-century-italia.html)
 
 
