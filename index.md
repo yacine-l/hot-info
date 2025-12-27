@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Danae-Class Cruiser: Workhorses of Two World Wars and the Royal Navy's Interwar Fleet](https://yacine-l.github.io/hot-info/2025/12/27/the-danae-class-cruiser-workhorses-of-two-world-wars-and-the.html)
+
+
 - [Reliving the Magic: Why 'Stories of the Sylvanian Families' Stop Motion Series Remains a Timeless Classic](https://yacine-l.github.io/hot-info/2025/12/27/reliving-the-magic-why-stories-of-the-sylvanian-families-sto.html)
 
 
