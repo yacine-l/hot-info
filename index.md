@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Andrew Majda: The Mathematical Visionary Who Defined Modern Applied Mathematics](https://yacine-l.github.io/hot-info/2025/12/27/andrew-majda-the-mathematical-visionary-who-defined-modern-a.html)
+
+
 - [Bifrenaria leucorhoda: A Comprehensive Guide to the Stunning Brazilian Orchid](https://yacine-l.github.io/hot-info/2025/12/27/bifrenaria-leucorhoda-a-comprehensive-guide-to-the-stunning-.html)
 
 
