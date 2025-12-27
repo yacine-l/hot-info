@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Dr. Ila Fiete: Mapping the Mind Using Physics and Computational Neuroscience at MIT](https://yacine-l.github.io/hot-info/2025/12/27/dr-ila-fiete-mapping-the-mind-using-physics-and-computationa.html)
+
+
 - [The Enduring Legacy of Aurora Punk Band: 40 Years of Hungarian Counter-Culture](https://yacine-l.github.io/hot-info/2025/12/27/the-enduring-legacy-of-aurora-punk-band-40-years-of-hungaria.html)
 
 
