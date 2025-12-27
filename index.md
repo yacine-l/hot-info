@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Discovering the Hôtel de Ville Nanterre: History, Architecture, and the Heart of Hauts-de-Seine
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/discovering-the-htel-de-ville-nanterre-history-architecture-.html)
+
+
 - [The Last Stand: Analyzing the 1992 Angus District Council Election and the End of an Era](https://yacine-l.github.io/hot-info/2025/12/27/the-last-stand-analyzing-the-1992-angus-district-council-ele.html)
 
 
