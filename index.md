@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Keisai Eisen: Master of Bijin-ga and the Decadent Aesthetic of the Bunsei Era](https://yacine-l.github.io/hot-info/2025/12/27/keisai-eisen-master-of-bijin-ga-and-the-decadent-aesthetic-o.html)
+
+
 - [Broach (nautical)](https://yacine-l.github.io/hot-info/2025/12/27/broach-nautical.html)
 
 
