@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Bloody Siege of Iwamura Castle: How Takeda Shingen Outmaneuvered Oda Nobunaga in 1572](https://yacine-l.github.io/hot-info/2025/12/27/the-bloody-siege-of-iwamura-castle-how-takeda-shingen-outman.html)
+
+
 - [The A214 Road: An In-Depth Guide to London's Crucial Southbound Artery from Wandsworth to West Wickham](https://yacine-l.github.io/hot-info/2025/12/27/the-a214-road-an-in-depth-guide-to-londons-crucial-southboun.html)
 
 
