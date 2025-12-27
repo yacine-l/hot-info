@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Erica cabernetea: The Rare Wine-Hued Heather of the Western Cape Fynbos](https://yacine-l.github.io/hot-info/2025/12/27/erica-cabernetea-the-rare-wine-hued-heather-of-the-western-c.html)
+
+
 - [** Bahrom Vafoev Stadium: Home of Mash'al Mubarek and the Heart of Uzbek Football
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/bahrom-vafoev-stadium-home-of-mashal-mubarek-and-the-heart-o.html)
