@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [HC-2 Fleet Angels: Pioneering US Navy Helicopter Combat Support from 1948 to 1977
+
+###](https://yacine-l.github.io/hot-info/2025/12/27/hc-2-fleet-angels-pioneering-us-navy-helicopter-combat-suppo.html)
+
+
 - [The Chilean Dwarf Tegu: A Comprehensive Guide to Callopistes maculatus](https://yacine-l.github.io/hot-info/2025/12/27/the-chilean-dwarf-tegu-a-comprehensive-guide-to-callopistes-.html)
 
 
