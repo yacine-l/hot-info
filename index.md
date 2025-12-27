@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [J. Mark Scearce: The American Composer Who Mastered the Musical Setting of Poetry](https://yacine-l.github.io/hot-info/2025/12/27/j-mark-scearce-the-american-composer-who-mastered-the-musica.html)
+
+
 - [** Cytinus Sanguineus: Unveiling the Crimson Mystery of Southern Africa's Obligate Parasite
 **](https://yacine-l.github.io/hot-info/2025/12/27/cytinus-sanguineus-unveiling-the-crimson-mystery-of-southern.html)
 
