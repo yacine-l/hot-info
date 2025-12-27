@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** We Are Smug: Unmasking Darren Hayes’ Most Mysterious and Experimental Album
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/we-are-smug-unmasking-darren-hayes-most-mysterious-and-exper.html)
+
+
 - [The Legacy of Enrique Molina: Remembering the Icon of Cuban Film and Telenovelas](https://yacine-l.github.io/hot-info/2025/12/27/the-legacy-of-enrique-molina-remembering-the-icon-of-cuban-f.html)
 
 
