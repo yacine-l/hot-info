@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Bruce Laird: The Hard-Hitting Safety and Special Teams Dynamo of the Baltimore Colts](https://yacine-l.github.io/hot-info/2025/12/27/bruce-laird-the-hard-hitting-safety-and-special-teams-dynamo.html)
+
+
 - [Euprosthenops Australis: The Comprehensive Guide to the African Nursery-Web Spider](https://yacine-l.github.io/hot-info/2025/12/27/euprosthenops-australis-the-comprehensive-guide-to-the-afric.html)
 
 
