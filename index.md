@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Duraykish District: Unveiling the Agricultural Heart of Syria’s Tartus Governorate](https://yacine-l.github.io/hot-info/2025/12/27/duraykish-district-unveiling-the-agricultural-heart-of-syria.html)
+
+
 - [** Giri's Geckoella: Unveiling the Enigmatic Bent-Toed Gecko Endemic to India
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/giris-geckoella-unveiling-the-enigmatic-bent-toed-gecko-ende.html)
