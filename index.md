@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [HMS Revenge Battleship (06): The WWI Workhorse That Fought at Jutland](https://yacine-l.github.io/hot-info/2025/12/27/hms-revenge-battleship-06-the-wwi-workhorse-that-fought-at-j.html)
+
+
 - [Ben É Samba Bom: Revisiting Jorge Ben's Pivotal 1964 Masterpiece (A.K.A. Big Ben Strikes Again)](https://yacine-l.github.io/hot-info/2025/12/27/ben-samba-bom-revisiting-jorge-bens-pivotal-1964-masterpiece.html)
 
 
