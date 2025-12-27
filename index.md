@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Ancient Bridge: Exploring the Frontenac Arch Biosphere Reserve, Canada’s UNESCO Treasure](https://yacine-l.github.io/hot-info/2025/12/27/the-ancient-bridge-exploring-the-frontenac-arch-biosphere-re.html)
+
+
 - [Caroline Jones](https://yacine-l.github.io/hot-info/2025/12/27/caroline-jones.html)
 
 
