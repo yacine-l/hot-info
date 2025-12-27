@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** B. Joseph White: Architect of Higher Education and Authority on Corporate Governance
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/b-joseph-white-architect-of-higher-education-and-authority-o.html)
+
+
 - [The Enigmatic World of Solariella obscura: Unveiling the Deep-Sea Obscure Solarelle](https://yacine-l.github.io/hot-info/2025/12/27/the-enigmatic-world-of-solariella-obscura-unveiling-the-deep.html)
 
 
