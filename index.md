@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Discovering Landimore Gower: Where Ancient History Meets the Wild Welsh Marsh
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/discovering-landimore-gower-where-ancient-history-meets-the-.html)
+
+
 - [The Blue Diamond Affair: How a $20 Million Jewel Heist Froze Saudi-Thai Relations for 30 Years](https://yacine-l.github.io/hot-info/2025/12/27/the-blue-diamond-affair-how-a-20-million-jewel-heist-froze-s.html)
 
 
