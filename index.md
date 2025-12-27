@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Dengkil: The Strategic Gateway to Modern Sepang, Selangor
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/dengkil-the-strategic-gateway-to-modern-sepang-selangor.html)
+
+
 - [** No\Name Manga: How the Cyberpunk: Edgerunners Creator Made the Leap to Shōnen Jump+
 **](https://yacine-l.github.io/hot-info/2025/12/27/noname-manga-how-the-cyberpunk-edgerunners-creator-made-the-.html)
 
