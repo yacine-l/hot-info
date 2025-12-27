@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Sibelius's Swan Song: Exploring The Tempest Incidental Music, Op. 109](https://yacine-l.github.io/hot-info/2025/12/27/sibeliuss-swan-song-exploring-the-tempest-incidental-music-o.html)
+
+
 - [** Port Union Toronto: Discovering Scarborough’s Hidden Waterfront Gem and Centennial Community
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/port-union-toronto-discovering-scarboroughs-hidden-waterfron.html)
