@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Professor Francisca Nneka Okeke: Pioneering Paths for Women in Nigerian Physics](https://yacine-l.github.io/hot-info/2025/12/27/professor-francisca-nneka-okeke-pioneering-paths-for-women-i.html)
+
+
 - [The Workshops Rail Museum Ipswich: A Deep Dive into Queensland’s 150 Years of Railway History](https://yacine-l.github.io/hot-info/2025/12/27/the-workshops-rail-museum-ipswich-a-deep-dive-into-queenslan.html)
 
 
