@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Duris, Lebanon: Unearthing Roman Tombs and a 13th-Century Shrine Near Baalbek](https://yacine-l.github.io/hot-info/2025/12/27/duris-lebanon-unearthing-roman-tombs-and-a-13th-century-shri.html)
+
+
 - [Ted Musgrave: The Hard-Nosed Legend Who Mastered the NASCAR Craftsman Truck Series](https://yacine-l.github.io/hot-info/2025/12/27/ted-musgrave-the-hard-nosed-legend-who-mastered-the-nascar-c.html)
 
 
