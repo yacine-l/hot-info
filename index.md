@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Rediscovering Lifeblood: Why the Manic Street Preachers' 2004 Album Deserves a Critical Reappraisal
+**](https://yacine-l.github.io/hot-info/2025/12/27/rediscovering-lifeblood-why-the-manic-street-preachers-2004-.html)
+
+
 - [Andre Norton's Star Born: Exploring the Generational Divide in Golden Age Science Fiction](https://yacine-l.github.io/hot-info/2025/12/27/andre-nortons-star-born-exploring-the-generational-divide-in.html)
 
 
