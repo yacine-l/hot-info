@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Ceasars Duo: Italian Music Producers Paolo Catoni and Marco Pistella Defining the Cinematic Sound](https://yacine-l.github.io/hot-info/2025/12/27/the-ceasars-duo-italian-music-producers-paolo-catoni-and-mar.html)
+
+
 - [Enrique Metinides: The Man Who Saw Too Much and the Art of Catastrophe](https://yacine-l.github.io/hot-info/2025/12/27/enrique-metinides-the-man-who-saw-too-much-and-the-art-of-ca.html)
 
 
