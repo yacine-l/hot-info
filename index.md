@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Start the Year Right: Everything You Need to Know About First Day Hikes](https://yacine-l.github.io/hot-info/2025/12/27/start-the-year-right-everything-you-need-to-know-about-first.html)
+
+
 - [Deansboro Railroad Station: A Cornerstone of Late 19th-Century New York Rail History](https://yacine-l.github.io/hot-info/2025/12/27/deansboro-railroad-station-a-cornerstone-of-late-19th-centur.html)
 
 
