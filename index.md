@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Zalabiye: Unearthing the Forgotten Roman Fortress on the Euphrates Frontier
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/zalabiye-unearthing-the-forgotten-roman-fortress-on-the-euph.html)
+
+
 - [2009 Tri Nations Series: How the Springboks Conquered the Southern Hemisphere and Secured a Historic Crown](https://yacine-l.github.io/hot-info/2025/12/27/2009-tri-nations-series-how-the-springboks-conquered-the-sou.html)
 
 
