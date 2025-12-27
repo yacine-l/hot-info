@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Enduring Legacy of the Maihar Gharana: Exploring the Senia Lineage of Instrumental Maestros
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/the-enduring-legacy-of-the-maihar-gharana-exploring-the-seni.html)
+
+
 - [The Silent Guardians of the Neva: A Deep Dive into the Quay with Sphinxes, Saint Petersburg](https://yacine-l.github.io/hot-info/2025/12/27/the-silent-guardians-of-the-neva-a-deep-dive-into-the-quay-w.html)
 
 
