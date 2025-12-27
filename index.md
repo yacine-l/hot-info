@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Definitive Guide to the Snowskate: Freedom, Flip Tricks, and the Bindingless Revolution](https://yacine-l.github.io/hot-info/2025/12/27/the-definitive-guide-to-the-snowskate-freedom-flip-tricks-an.html)
+
+
 - [Ilhéu Laje Branca: Discovering the Tiny, Protected Sanctuary of Maio Island, Cape Verde](https://yacine-l.github.io/hot-info/2025/12/27/ilhu-laje-branca-discovering-the-tiny-protected-sanctuary-of.html)
 
 
