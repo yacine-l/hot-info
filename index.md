@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Sheila Jackson: The Pioneering English Woman Grandmaster Who Defined a Chess Era](https://yacine-l.github.io/hot-info/2025/12/27/sheila-jackson-the-pioneering-english-woman-grandmaster-who-.html)
+
+
 - [The Teddy Bear Bee: An In-Depth Guide to *Amegilla bombiformis*, Australia's Fuzziest Native Pollinator](https://yacine-l.github.io/hot-info/2025/12/27/the-teddy-bear-bee-an-in-depth-guide-to-amegilla-bombiformis.html)
 
 
