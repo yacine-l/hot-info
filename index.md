@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Short, Impactful Career of Marv Staehle: White Sox, Expos, and Braves History](https://yacine-l.github.io/hot-info/2025/12/27/the-short-impactful-career-of-marv-staehle-white-sox-expos-a.html)
+
+
 - [** The Quiet Power of Silence: Revisiting *The Heart Is a Lonely Hunter* (1968 Film)
 
 **](https://yacine-l.github.io/hot-info/2025/12/27/the-quiet-power-of-silence-revisiting-the-heart-is-a-lonely-.html)
