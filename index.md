@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Catholic Memorial High School Waukesha: IB Excellence, Faith-Based Learning, and College Readiness
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/catholic-memorial-high-school-waukesha-ib-excellence-faith-b.html)
+
+
 - [Yoshio Station: The Ultimate Guide to Kumamoto’s Scenic, Unmanned Gem on the Hisatsu Line](https://yacine-l.github.io/hot-info/2025/12/27/yoshio-station-the-ultimate-guide-to-kumamotos-scenic-unmann.html)
 
 
