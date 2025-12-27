@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Oleksandr Pasichnyi](https://yacine-l.github.io/hot-info/2025/12/27/oleksandr-pasichnyi.html)
+
+
 - [** NGC 2242: The Mysterious Planetary Nebula in Auriga Mistaken for a Galaxy for a Century
 **](https://yacine-l.github.io/hot-info/2025/12/27/ngc-2242-the-mysterious-planetary-nebula-in-auriga-mistaken-.html)
 
