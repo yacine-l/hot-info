@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Harilal Upadhyay: Unveiling the Legacy of Gujarati Literature’s Most Prolific Novelist](https://yacine-l.github.io/hot-info/2025/12/27/harilal-upadhyay-unveiling-the-legacy-of-gujarati-literature.html)
+
+
 - [Lindsley Hall: Unraveling the History of Nashville's Most Transformed Antebellum Landmark
 
 ##](https://yacine-l.github.io/hot-info/2025/12/27/lindsley-hall-unraveling-the-history-of-nashvilles-most-tran.html)
