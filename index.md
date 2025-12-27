@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Leilani Dowding: From Beauty Queen to Conservative Voice – A Comprehensive Career Retrospective
+
+###](https://yacine-l.github.io/hot-info/2025/12/27/leilani-dowding-from-beauty-queen-to-conservative-voice-a-co.html)
+
+
 - [Jacques Babinet: The Unsung Master of Optics, Diffraction Theory, and the Sky's Mysteries](https://yacine-l.github.io/hot-info/2025/12/27/jacques-babinet-the-unsung-master-of-optics-diffraction-theo.html)
 
 
