@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Étant donnés](https://yacine-l.github.io/hot-info/2025/12/27/tant-donns.html)
+
+
 - [Yeh Chahatein Yeh Shiddatein: Rediscovering the Intense 2016 Pakistani Drama Serial](https://yacine-l.github.io/hot-info/2025/12/27/yeh-chahatein-yeh-shiddatein-rediscovering-the-intense-2016-.html)
 
 
