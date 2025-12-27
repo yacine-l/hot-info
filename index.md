@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Tan Si Lie: The Singaporean Archer Who Took Aim at the 2015 SEA Games and Inspired a Nation
+**](https://yacine-l.github.io/hot-info/2025/12/27/tan-si-lie-the-singaporean-archer-who-took-aim-at-the-2015-s.html)
+
+
 - [Brigadier General Alfred C. Markley: Commander of the Buffalo Soldiers at San Juan Hill](https://yacine-l.github.io/hot-info/2025/12/27/brigadier-general-alfred-c-markley-commander-of-the-buffalo-.html)
 
 
