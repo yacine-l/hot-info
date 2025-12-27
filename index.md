@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** GRL-0617: Targeting the PLpro Achilles’ Heel in SARS-CoV-2 and the Future of Antiviral Development
+
+**](https://yacine-l.github.io/hot-info/2025/12/27/grl-0617-targeting-the-plpro-achilles-heel-in-sars-cov-2-and.html)
+
+
 - [The Guard of the National Conscience: Romania's Anti-Communist Strikebreaking Force of 1919](https://yacine-l.github.io/hot-info/2025/12/27/the-guard-of-the-national-conscience-romanias-anti-communist.html)
 
 
