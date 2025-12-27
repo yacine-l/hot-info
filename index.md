@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Pardinella: Unveiling the Quiet Charm of Huesca’s Hidden Hamlet in Beranuy](https://yacine-l.github.io/hot-info/2025/12/27/pardinella-unveiling-the-quiet-charm-of-huescas-hidden-hamle.html)
+
+
 - [B. P. Pal: The Visionary Architect of Indian Agricultural Research and the Master of Wheat and Roses](https://yacine-l.github.io/hot-info/2025/12/27/b-p-pal-the-visionary-architect-of-indian-agricultural-resea.html)
 
 
