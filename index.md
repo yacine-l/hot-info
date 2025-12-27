@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Linka Miniseries: Inside the Tense World of the Czech Emergency Dispatch Center Drama](https://yacine-l.github.io/hot-info/2025/12/27/linka-miniseries-inside-the-tense-world-of-the-czech-emergen.html)
+
+
 - [USS Carina AK-74: The Crater-Class Cargo Ship That Fueled the Pacific War](https://yacine-l.github.io/hot-info/2025/12/27/uss-carina-ak-74-the-crater-class-cargo-ship-that-fueled-the.html)
 
 
