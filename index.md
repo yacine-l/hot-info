@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Dharam Sankat Mein: The Identity Crisis Comedy That Defined Paresh Rawal's Social Satire](https://yacine-l.github.io/hot-info/2025/12/28/dharam-sankat-mein-the-identity-crisis-comedy-that-defined-p.html)
+
+
 - [WUBS Radio South Bend: The Voice of Faith and Community in Michiana](https://yacine-l.github.io/hot-info/2025/12/28/wubs-radio-south-bend-the-voice-of-faith-and-community-in-mi.html)
 
 
