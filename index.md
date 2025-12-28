@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Alcator C-Mod: How MIT’s High-Field Tokamak Set the World Record for Plasma Pressure](https://yacine-l.github.io/hot-info/2025/12/28/alcator-c-mod-how-mits-high-field-tokamak-set-the-world-reco.html)
+
+
 - [Discovering Hidaka District, Wakayama: Japan's Coastline of Hidden History and Plum Orchards](https://yacine-l.github.io/hot-info/2025/12/28/discovering-hidaka-district-wakayama-japans-coastline-of-hid.html)
 
 
