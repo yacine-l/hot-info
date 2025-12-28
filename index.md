@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Untamed North: Paddling the Kopka River Wilderness of Ontario](https://yacine-l.github.io/hot-info/2025/12/28/the-untamed-north-paddling-the-kopka-river-wilderness-of-ont.html)
+
+
 - [Michel Tereshchenko: From Parisian Heritage to Mayor of Hlukhiv (2015–2020)](https://yacine-l.github.io/hot-info/2025/12/28/michel-tereshchenko-from-parisian-heritage-to-mayor-of-hlukh.html)
 
 
