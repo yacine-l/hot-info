@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Disgrace of Gijón: How the 1982 World Cup Match Changed Football Forever](https://yacine-l.github.io/hot-info/2025/12/28/the-disgrace-of-gijn-how-the-1982-world-cup-match-changed-fo.html)
+
+
 - [** Khnumhotep I: Great Chief of the Oryx Nome and Architect of the 12th Dynasty
 
 **](https://yacine-l.github.io/hot-info/2025/12/28/khnumhotep-i-great-chief-of-the-oryx-nome-and-architect-of-t.html)
