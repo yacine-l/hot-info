@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Discovering Hidaka District, Wakayama: Japan's Coastline of Hidden History and Plum Orchards](https://yacine-l.github.io/hot-info/2025/12/28/discovering-hidaka-district-wakayama-japans-coastline-of-hid.html)
+
+
 - [Jack Taylor: Unpacking the Life of Britain's Heaviest Man](https://yacine-l.github.io/hot-info/2025/12/28/jack-taylor-unpacking-the-life-of-britains-heaviest-man.html)
 
 
