@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Khnumhotep I: Great Chief of the Oryx Nome and Architect of the 12th Dynasty
+
+**](https://yacine-l.github.io/hot-info/2025/12/28/khnumhotep-i-great-chief-of-the-oryx-nome-and-architect-of-t.html)
+
+
 - [MV Agios Georgios: From the English Channel Storm to the Greek Islands – The History of the MV Hengist](https://yacine-l.github.io/hot-info/2025/12/28/mv-agios-georgios-from-the-english-channel-storm-to-the-gree.html)
 
 
