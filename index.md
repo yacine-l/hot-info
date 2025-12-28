@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Michel Tereshchenko: From Parisian Heritage to Mayor of Hlukhiv (2015–2020)](https://yacine-l.github.io/hot-info/2025/12/28/michel-tereshchenko-from-parisian-heritage-to-mayor-of-hlukh.html)
+
+
 - [Lovers Lane (1999 film)](https://yacine-l.github.io/hot-info/2025/12/28/lovers-lane-1999-film.html)
 
 
