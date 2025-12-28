@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Komi Nje: The Story of the Forgotten Letter from the Molodtsov Alphabet](https://yacine-l.github.io/hot-info/2025/12/28/komi-nje-the-story-of-the-forgotten-letter-from-the-molodtso.html)
+
+
 - [The Untamed North: Paddling the Kopka River Wilderness of Ontario](https://yacine-l.github.io/hot-info/2025/12/28/the-untamed-north-paddling-the-kopka-river-wilderness-of-ont.html)
 
 
