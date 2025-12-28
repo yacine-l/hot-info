@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** 1B-LSD: Understanding the Chemistry, History, and Status of the Lysergamide Derivative
+
+**](https://yacine-l.github.io/hot-info/2025/12/28/1b-lsd-understanding-the-chemistry-history-and-status-of-the.html)
+
+
 - [Dharam Sankat Mein: The Identity Crisis Comedy That Defined Paresh Rawal's Social Satire](https://yacine-l.github.io/hot-info/2025/12/28/dharam-sankat-mein-the-identity-crisis-comedy-that-defined-p.html)
 
 
