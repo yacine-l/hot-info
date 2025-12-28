@@ -4,6 +4,10 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Literaturwurst: Dieter Roth's Edible Books and the Sausage of Conceptual Art
+**](https://yacine-l.github.io/hot-info/2025/12/28/literaturwurst-dieter-roths-edible-books-and-the-sausage-of-.html)
+
+
 - [The Keyed Trumpet: The Revolutionary Brass Instrument That Paved the Way for Haydn and Hummel](https://yacine-l.github.io/hot-info/2025/12/28/the-keyed-trumpet-the-revolutionary-brass-instrument-that-pa.html)
 
 
