@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Enduring Majesty of the Calvary Cross Monument: History, Architecture, and Meaning
+
+**](https://yacine-l.github.io/hot-info/2025/12/28/the-enduring-majesty-of-the-calvary-cross-monument-history-a.html)
+
+
 - [Anemonoides quinquefolia: The Quintessential North American Wood Anemone](https://yacine-l.github.io/hot-info/2025/12/28/anemonoides-quinquefolia-the-quintessential-north-american-w.html)
 
 
