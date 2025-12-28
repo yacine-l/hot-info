@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Keyed Trumpet: The Revolutionary Brass Instrument That Paved the Way for Haydn and Hummel](https://yacine-l.github.io/hot-info/2025/12/28/the-keyed-trumpet-the-revolutionary-brass-instrument-that-pa.html)
+
+
 - [The Enchanting Secrets of Xitang Water Town: A Guide to Zhejiang's Historic Gem](https://yacine-l.github.io/hot-info/2025/12/28/the-enchanting-secrets-of-xitang-water-town-a-guide-to-zheji.html)
 
 
