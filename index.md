@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Hermann Schievelbein](https://yacine-l.github.io/hot-info/2025/12/28/hermann-schievelbein.html)
+
+
 - [Dominion Enterprises Building Norfolk VA: Granby Street’s 20-Story Commercial Anchor and Its Role in Downtown Revitalization
 
 ###](https://yacine-l.github.io/hot-info/2025/12/27/dominion-enterprises-building-norfolk-va-granby-streets-20-s.html)
