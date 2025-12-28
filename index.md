@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Uncovering Nowa Sobótka: A Jewel of Rural Life in Łęczyca County, Central Poland
+
+**](https://yacine-l.github.io/hot-info/2025/12/28/uncovering-nowa-sobtka-a-jewel-of-rural-life-in-czyca-county.html)
+
+
 - [Reginald Rose](https://yacine-l.github.io/hot-info/2025/12/28/reginald-rose.html)
 
 
