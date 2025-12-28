@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Jack Taylor: Unpacking the Life of Britain's Heaviest Man](https://yacine-l.github.io/hot-info/2025/12/28/jack-taylor-unpacking-the-life-of-britains-heaviest-man.html)
+
+
 - [The Disgrace of Gijón: How the 1982 World Cup Match Changed Football Forever](https://yacine-l.github.io/hot-info/2025/12/28/the-disgrace-of-gijn-how-the-1982-world-cup-match-changed-fo.html)
 
 
