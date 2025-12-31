@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Jean Rolin: The Modern Flâneur, Prix Médicis Winner, and Master of the Urban Landscape
+
+**](https://yacine-l.github.io/hot-info/2025/12/31/jean-rolin-the-modern-flneur-prix-mdicis-winner-and-master-o.html)
+
+
 - [Walter Kingsmill](https://yacine-l.github.io/hot-info/2025/12/31/walter-kingsmill.html)
 
 
