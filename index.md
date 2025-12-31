@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Battle of Visby (1361): Unearthing the Tragedy of Gotland's Medieval Defeat](https://yacine-l.github.io/hot-info/2025/12/31/the-battle-of-visby-1361-unearthing-the-tragedy-of-gotlands-.html)
+
+
 - [The Marvel of Modern Bangkok: Exploring the Rama VIII Bridge Design, History, and Engineering](https://yacine-l.github.io/hot-info/2025/12/31/the-marvel-of-modern-bangkok-exploring-the-rama-viii-bridge-.html)
 
 
