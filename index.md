@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Segisaurus Unveiled: Why This Early Jurassic Dinosaur is the Most Unique Find in Arizona
+
+**](https://yacine-l.github.io/hot-info/2025/12/31/segisaurus-unveiled-why-this-early-jurassic-dinosaur-is-the-.html)
+
+
 - [Tapuae-o-Uenuku: Conquering the Footprint of the Rainbow in New Zealand](https://yacine-l.github.io/hot-info/2025/12/31/tapuae-o-uenuku-conquering-the-footprint-of-the-rainbow-in-n.html)
 
 
