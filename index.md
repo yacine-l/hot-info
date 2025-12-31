@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Walter Kingsmill](https://yacine-l.github.io/hot-info/2025/12/31/walter-kingsmill.html)
+
+
 - [Discover the Warren Waterfront Historic District: A Legacy of Whaling, Industry, and 19th-Century Charm](https://yacine-l.github.io/hot-info/2025/12/31/discover-the-warren-waterfront-historic-district-a-legacy-of.html)
 
 
