@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Lauinger Library](https://yacine-l.github.io/hot-info/2025/12/31/lauinger-library.html)
+
+
 - [Unlocking the Neuron's Intrinsic Power: A Deep Dive into Nonsynaptic Plasticity](https://yacine-l.github.io/hot-info/2025/12/31/unlocking-the-neurons-intrinsic-power-a-deep-dive-into-nonsy.html)
 
 
