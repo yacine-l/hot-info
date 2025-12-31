@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Tapuae-o-Uenuku: Conquering the Footprint of the Rainbow in New Zealand](https://yacine-l.github.io/hot-info/2025/12/31/tapuae-o-uenuku-conquering-the-footprint-of-the-rainbow-in-n.html)
+
+
 - [Zora Silvestris: Identifying the Prowling Sac Spider of Europe and Central Asia](https://yacine-l.github.io/hot-info/2025/12/31/zora-silvestris-identifying-the-prowling-sac-spider-of-europ.html)
 
 
