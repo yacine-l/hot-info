@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Unlocking the Neuron's Intrinsic Power: A Deep Dive into Nonsynaptic Plasticity](https://yacine-l.github.io/hot-info/2025/12/31/unlocking-the-neurons-intrinsic-power-a-deep-dive-into-nonsy.html)
+
+
 - [** Uncovering Nowa Sobótka: A Jewel of Rural Life in Łęczyca County, Central Poland
 
 **](https://yacine-l.github.io/hot-info/2025/12/28/uncovering-nowa-sobtka-a-jewel-of-rural-life-in-czyca-county.html)
