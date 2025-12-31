@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Jan Baptist van Helmont: The Flemish Chemist Who Invented the Word "Gas"](https://yacine-l.github.io/hot-info/2025/12/31/jan-baptist-van-helmont-the-flemish-chemist-who-invented-the.html)
+
+
 - [Huon, Victoria: Discovering the Tranquil Beauty of Lake Hume and the Indigo Shire](https://yacine-l.github.io/hot-info/2025/12/31/huon-victoria-discovering-the-tranquil-beauty-of-lake-hume-a.html)
 
 
