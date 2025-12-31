@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Discover the Warren Waterfront Historic District: A Legacy of Whaling, Industry, and 19th-Century Charm](https://yacine-l.github.io/hot-info/2025/12/31/discover-the-warren-waterfront-historic-district-a-legacy-of.html)
+
+
 - [Jan Baptist van Helmont: The Flemish Chemist Who Invented the Word "Gas"](https://yacine-l.github.io/hot-info/2025/12/31/jan-baptist-van-helmont-the-flemish-chemist-who-invented-the.html)
 
 
