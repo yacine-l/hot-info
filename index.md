@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Acido-1 RNA Motif: Unlocking the Genomic Secrets of Acidobacteriota
+
+**](https://yacine-l.github.io/hot-info/2026/01/01/the-acido-1-rna-motif-unlocking-the-genomic-secrets-of-acido.html)
+
+
 - [** Alja Rachmanowa: Witness to the Russian Revolution and Voice of the Viennese Exile
 
 **](https://yacine-l.github.io/hot-info/2026/01/01/alja-rachmanowa-witness-to-the-russian-revolution-and-voice-.html)
