@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Bis(trimethylsilyl)sulfide: The Essential Aprotic Reagent for Sulfur Transfer in Organic Synthesis
+
+**](https://yacine-l.github.io/hot-info/2026/01/01/bistrimethylsilylsulfide-the-essential-aprotic-reagent-for-s.html)
+
+
 - [** The Zij: Decoding the Ancient Islamic Astronomical Tables That Revolutionized Global Science
 
 **](https://yacine-l.github.io/hot-info/2026/01/01/the-zij-decoding-the-ancient-islamic-astronomical-tables-tha.html)
