@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Morteza Mehrzad: The 2.46m Giant of Sitting Volleyball and Triple Paralympic Gold Medalist](https://yacine-l.github.io/hot-info/2026/01/01/morteza-mehrzad-the-246m-giant-of-sitting-volleyball-and-tri.html)
+
+
 - [Plectroglyphidodon aureus: Exploring the Golden Gregory Damselfish of the Tropical Pacific](https://yacine-l.github.io/hot-info/2026/01/01/plectroglyphidodon-aureus-exploring-the-golden-gregory-damse.html)
 
 
