@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Rufus C. Dawes: The Forgotten Architect of Global Financial Stability (The Dawes and Young Plans)](https://yacine-l.github.io/hot-info/2026/01/01/rufus-c-dawes-the-forgotten-architect-of-global-financial-st.html)
+
+
 - [Billlie’s ‘The Collective Soul and Unconscious: Chapter One’: A Deep Dive into K-pop’s Most Conceptual EP](https://yacine-l.github.io/hot-info/2026/01/01/billlies-the-collective-soul-and-unconscious-chapter-one-a-d.html)
 
 
