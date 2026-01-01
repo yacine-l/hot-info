@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Future’s I Never Liked You: A Deep Dive Into The Toxic Brilliance of King Pluto's Ninth Studio Album](https://yacine-l.github.io/hot-info/2026/01/01/futures-i-never-liked-you-a-deep-dive-into-the-toxic-brillia.html)
+
+
 - [The Master's Bedroom Is Worth Spending a Night In](https://yacine-l.github.io/hot-info/2026/01/01/the-masters-bedroom-is-worth-spending-a-night-in.html)
 
 
