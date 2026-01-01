@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Zij: Decoding the Ancient Islamic Astronomical Tables That Revolutionized Global Science
+
+**](https://yacine-l.github.io/hot-info/2026/01/01/the-zij-decoding-the-ancient-islamic-astronomical-tables-tha.html)
+
+
 - [Mark M. Phillips](https://yacine-l.github.io/hot-info/2026/01/01/mark-m-phillips.html)
 
 
