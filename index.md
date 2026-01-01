@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Saint Theodorus I of Milan: Shepherd of the Church in the Age of Barbarian Kings (475-490 AD)](https://yacine-l.github.io/hot-info/2026/01/01/saint-theodorus-i-of-milan-shepherd-of-the-church-in-the-age.html)
+
+
 - [The 2015 Melton Borough Council Election: A Deep Dive into Local Democracy and Political Shifts](https://yacine-l.github.io/hot-info/2026/01/01/the-2015-melton-borough-council-election-a-deep-dive-into-lo.html)
 
 
