@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Timothy Findley's Famous Last Words: Decoding Hugh Selwyn Mauberley’s WWII Confession](https://yacine-l.github.io/hot-info/2026/01/01/timothy-findleys-famous-last-words-decoding-hugh-selwyn-maub.html)
+
+
 - [** Discover Peter Helzer's Charming 'A Parade of Animals': An Iconic Sculpture Series in Salem, Oregon
 
 **](https://yacine-l.github.io/hot-info/2026/01/01/discover-peter-helzers-charming-a-parade-of-animals-an-iconi.html)
