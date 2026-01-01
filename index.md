@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Plectroglyphidodon aureus: Exploring the Golden Gregory Damselfish of the Tropical Pacific](https://yacine-l.github.io/hot-info/2026/01/01/plectroglyphidodon-aureus-exploring-the-golden-gregory-damse.html)
+
+
 - [Roman Leybyuk: The Endurance and Legacy of Ukraine's Olympic Cross-Country Skier](https://yacine-l.github.io/hot-info/2026/01/01/roman-leybyuk-the-endurance-and-legacy-of-ukraines-olympic-c.html)
 
 
