@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Peter Boyers: A Profile of the Former Solomon Islands Minister of Finance and Vona Vona MP](https://yacine-l.github.io/hot-info/2026/01/01/peter-boyers-a-profile-of-the-former-solomon-islands-ministe.html)
+
+
 - [MGAT4B: Decoding the Master Regulator of N-Glycan Branching and Cellular Destiny](https://yacine-l.github.io/hot-info/2026/01/01/mgat4b-decoding-the-master-regulator-of-n-glycan-branching-a.html)
 
 
