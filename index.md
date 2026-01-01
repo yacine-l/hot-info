@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Franklin D. Roosevelt Station: The Ultimate Hub Where Lines 1 and 9 Meet the Champs-Élysées
+
+**](https://yacine-l.github.io/hot-info/2026/01/01/franklin-d-roosevelt-station-the-ultimate-hub-where-lines-1-.html)
+
+
 - [Saint Theodorus I of Milan: Shepherd of the Church in the Age of Barbarian Kings (475-490 AD)](https://yacine-l.github.io/hot-info/2026/01/01/saint-theodorus-i-of-milan-shepherd-of-the-church-in-the-age.html)
 
 
