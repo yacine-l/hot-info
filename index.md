@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Unmasking Lilienfeld Radiation: The Hidden History and Physics of Electron-Impact X-Rays](https://yacine-l.github.io/hot-info/2026/01/01/unmasking-lilienfeld-radiation-the-hidden-history-and-physic.html)
+
+
 - [Michael Huskey: The Union Navy Sailor Whose Heroism Earned the Medal of Honor at Vicksburg](https://yacine-l.github.io/hot-info/2026/01/01/michael-huskey-the-union-navy-sailor-whose-heroism-earned-th.html)
 
 
