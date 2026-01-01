@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Discover Peter Helzer's Charming 'A Parade of Animals': An Iconic Sculpture Series in Salem, Oregon
+
+**](https://yacine-l.github.io/hot-info/2026/01/01/discover-peter-helzers-charming-a-parade-of-animals-an-iconi.html)
+
+
 - [Unmasking Lilienfeld Radiation: The Hidden History and Physics of Electron-Impact X-Rays](https://yacine-l.github.io/hot-info/2026/01/01/unmasking-lilienfeld-radiation-the-hidden-history-and-physic.html)
 
 
