@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Indispensable Role of the Chemist: Understanding Matter, Molecules, and Modern Science](https://yacine-l.github.io/hot-info/2026/01/01/the-indispensable-role-of-the-chemist-understanding-matter-m.html)
+
+
 - [The Tragic Brilliance of Maila Nurmi: Unmasking the Legend Behind Vampira](https://yacine-l.github.io/hot-info/2025/12/31/the-tragic-brilliance-of-maila-nurmi-unmasking-the-legend-be.html)
 
 
