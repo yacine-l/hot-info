@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Davey Richards](https://yacine-l.github.io/hot-info/2026/01/01/davey-richards.html)
+
+
 - [Pernille Blume: The Danish Dynamo Who Conquered the 50m Freestyle Sprint](https://yacine-l.github.io/hot-info/2026/01/01/pernille-blume-the-danish-dynamo-who-conquered-the-50m-frees.html)
 
 
