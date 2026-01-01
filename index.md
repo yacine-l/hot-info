@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [John de Courcy Ireland: Seaman, Scholar, and the Revolutionary Who Charted Irish Maritime History](https://yacine-l.github.io/hot-info/2026/01/01/john-de-courcy-ireland-seaman-scholar-and-the-revolutionary-.html)
+
+
 - [** Bis(trimethylsilyl)sulfide: The Essential Aprotic Reagent for Sulfur Transfer in Organic Synthesis
 
 **](https://yacine-l.github.io/hot-info/2026/01/01/bistrimethylsilylsulfide-the-essential-aprotic-reagent-for-s.html)
