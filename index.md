@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Unearthing Maya, Western Australia: A Deep Dive into the Mid West’s Quiet History](https://yacine-l.github.io/hot-info/2026/01/01/unearthing-maya-western-australia-a-deep-dive-into-the-mid-w.html)
+
+
 - [St. Anne Catholic School Houston: A Tradition of Excellence on Westheimer Road](https://yacine-l.github.io/hot-info/2026/01/01/st-anne-catholic-school-houston-a-tradition-of-excellence-on.html)
 
 
