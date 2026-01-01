@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [MGAT4B: Decoding the Master Regulator of N-Glycan Branching and Cellular Destiny](https://yacine-l.github.io/hot-info/2026/01/01/mgat4b-decoding-the-master-regulator-of-n-glycan-branching-a.html)
+
+
 - [** The Acido-1 RNA Motif: Unlocking the Genomic Secrets of Acidobacteriota
 
 **](https://yacine-l.github.io/hot-info/2026/01/01/the-acido-1-rna-motif-unlocking-the-genomic-secrets-of-acido.html)
