@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Pernille Blume: The Danish Dynamo Who Conquered the 50m Freestyle Sprint](https://yacine-l.github.io/hot-info/2026/01/01/pernille-blume-the-danish-dynamo-who-conquered-the-50m-frees.html)
+
+
 - [Decoding the Cosmos: A Deep Dive into the Mysterious Han Dynasty TLV Mirror](https://yacine-l.github.io/hot-info/2026/01/01/decoding-the-cosmos-a-deep-dive-into-the-mysterious-han-dyna.html)
 
 
