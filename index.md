@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Matthew Milia’s ‘Keego Harbor’: A Deep Dive into Analog Recording and Michigan Memory](https://yacine-l.github.io/hot-info/2026/01/01/matthew-milias-keego-harbor-a-deep-dive-into-analog-recordin.html)
+
+
 - [** Franklin D. Roosevelt Station: The Ultimate Hub Where Lines 1 and 9 Meet the Champs-Élysées
 
 **](https://yacine-l.github.io/hot-info/2026/01/01/franklin-d-roosevelt-station-the-ultimate-hub-where-lines-1-.html)
