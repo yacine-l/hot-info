@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Arno van Wyk: From Free State Firepower to Montpellier’s Top 14 Front Row Specialist
+
+**](https://yacine-l.github.io/hot-info/2026/01/01/arno-van-wyk-from-free-state-firepower-to-montpelliers-top-1.html)
+
+
 - [** Maverick City Music’s ‘Jubilee’: A Deep Dive into the Landmark Live Worship Album
 
 **](https://yacine-l.github.io/hot-info/2026/01/01/maverick-city-musics-jubilee-a-deep-dive-into-the-landmark-l.html)
