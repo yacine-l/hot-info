@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Michael Huskey: The Union Navy Sailor Whose Heroism Earned the Medal of Honor at Vicksburg](https://yacine-l.github.io/hot-info/2026/01/01/michael-huskey-the-union-navy-sailor-whose-heroism-earned-th.html)
+
+
 - [908 Buda: Exploring the Uncommon L-Type Asteroid of the Inner Belt](https://yacine-l.github.io/hot-info/2026/01/01/908-buda-exploring-the-uncommon-l-type-asteroid-of-the-inner.html)
 
 
