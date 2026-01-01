@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [The Rise of Gokuldham: A Vertical City Defining Modern Goregaon East](https://yacine-l.github.io/hot-info/2026/01/01/the-rise-of-gokuldham-a-vertical-city-defining-modern-gorega.html)
+
+
 - [Peter Boyers: A Profile of the Former Solomon Islands Minister of Finance and Vona Vona MP](https://yacine-l.github.io/hot-info/2026/01/01/peter-boyers-a-profile-of-the-former-solomon-islands-ministe.html)
 
 
