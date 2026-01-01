@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [908 Buda: Exploring the Uncommon L-Type Asteroid of the Inner Belt](https://yacine-l.github.io/hot-info/2026/01/01/908-buda-exploring-the-uncommon-l-type-asteroid-of-the-inner.html)
+
+
 - [** The Otoe County Courthouse: Exploring the Oldest Public Building in Nebraska
 
 **](https://yacine-l.github.io/hot-info/2026/01/01/the-otoe-county-courthouse-exploring-the-oldest-public-build.html)
