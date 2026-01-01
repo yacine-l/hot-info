@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Calgary Callies](https://yacine-l.github.io/hot-info/2026/01/01/calgary-callies.html)
+
+
 - [The Rise of Gokuldham: A Vertical City Defining Modern Goregaon East](https://yacine-l.github.io/hot-info/2026/01/01/the-rise-of-gokuldham-a-vertical-city-defining-modern-gorega.html)
 
 
