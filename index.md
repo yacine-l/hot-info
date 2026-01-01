@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Enrico Maggioni: Tracing the Career of the 1976 Tour de France Rider](https://yacine-l.github.io/hot-info/2026/01/01/enrico-maggioni-tracing-the-career-of-the-1976-tour-de-franc.html)
+
+
 - [** The Year 606: Navigating Political Turmoil and Papal Vacancy in the Early Medieval World
 
 **](https://yacine-l.github.io/hot-info/2026/01/01/the-year-606-navigating-political-turmoil-and-papal-vacancy-.html)
