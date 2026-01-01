@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Zuiderwoude: Discovering Waterland's Hidden Gem 20 Minutes from Amsterdam](https://yacine-l.github.io/hot-info/2026/01/01/zuiderwoude-discovering-waterlands-hidden-gem-20-minutes-fro.html)
+
+
 - [** Dietwiller: Exploring the Alsatian Gem of the Haut-Rhin and the Mulhouse Agglomération
 
 **](https://yacine-l.github.io/hot-info/2026/01/01/dietwiller-exploring-the-alsatian-gem-of-the-haut-rhin-and-t.html)
