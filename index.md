@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Maverick City Music’s ‘Jubilee’: A Deep Dive into the Landmark Live Worship Album
+
+**](https://yacine-l.github.io/hot-info/2026/01/01/maverick-city-musics-jubilee-a-deep-dive-into-the-landmark-l.html)
+
+
 - [Calgary Callies](https://yacine-l.github.io/hot-info/2026/01/01/calgary-callies.html)
 
 
