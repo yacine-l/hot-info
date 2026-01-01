@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Italy’s Triumph in Munich: A Deep Dive into the 1972 Summer Olympics](https://yacine-l.github.io/hot-info/2026/01/01/italys-triumph-in-munich-a-deep-dive-into-the-1972-summer-ol.html)
+
+
 - [Unearthing Maya, Western Australia: A Deep Dive into the Mid West’s Quiet History](https://yacine-l.github.io/hot-info/2026/01/01/unearthing-maya-western-australia-a-deep-dive-into-the-mid-w.html)
 
 
