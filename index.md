@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** Nida Karasakal: Tracking the Journey of Turkey’s Bronze Medal Weightlifting Sensation
+
+**](https://yacine-l.github.io/hot-info/2026/01/01/nida-karasakal-tracking-the-journey-of-turkeys-bronze-medal-.html)
+
+
 - [Italy’s Triumph in Munich: A Deep Dive into the 1972 Summer Olympics](https://yacine-l.github.io/hot-info/2026/01/01/italys-triumph-in-munich-a-deep-dive-into-the-1972-summer-ol.html)
 
 
