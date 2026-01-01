@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Year 606: Navigating Political Turmoil and Papal Vacancy in the Early Medieval World
+
+**](https://yacine-l.github.io/hot-info/2026/01/01/the-year-606-navigating-political-turmoil-and-papal-vacancy-.html)
+
+
 - [Tha Crossroads: How Bone Thugs-n-Harmony’s Eazy-E Tribute Became a Record-Breaking Hip-Hop Anthem](https://yacine-l.github.io/hot-info/2026/01/01/tha-crossroads-how-bone-thugs-n-harmonys-eazy-e-tribute-beca.html)
 
 
