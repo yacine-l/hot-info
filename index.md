@@ -4,6 +4,9 @@ title: Home
 ---
 # Knowledge Stream
 
+- [Mark M. Phillips](https://yacine-l.github.io/hot-info/2026/01/01/mark-m-phillips.html)
+
+
 - [James Clancy: The Conservative Figure Who Bridged Provincial and Federal Politics in 19th-Century Canada](https://yacine-l.github.io/hot-info/2026/01/01/james-clancy-the-conservative-figure-who-bridged-provincial-.html)
 
 
