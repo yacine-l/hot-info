@@ -4,6 +4,11 @@ title: Home
 ---
 # Knowledge Stream
 
+- [** The Complete Guide to Guru Nanak Dev University (GNDU): History, Research, and Academic Excellence in Amritsar
+
+**](https://yacine-l.github.io/hot-info/2026/01/01/the-complete-guide-to-guru-nanak-dev-university-gndu-history.html)
+
+
 - [Future’s I Never Liked You: A Deep Dive Into The Toxic Brilliance of King Pluto's Ninth Studio Album](https://yacine-l.github.io/hot-info/2026/01/01/futures-i-never-liked-you-a-deep-dive-into-the-toxic-brillia.html)
 
 
